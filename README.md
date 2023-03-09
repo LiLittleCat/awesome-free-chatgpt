@@ -22,18 +22,24 @@
 >
 > [ 🌎 ] 需要科学上网
 
-- [ 👍 ] [https://chat.tgbot.co/](https://chat.tgbot.co/) 来自 https://github.com/zu1k
+- [ 👍 ] [https://chat.tgbot.co](https://chat.tgbot.co/) 来自 https://github.com/zu1k
 
-- [ 👍 ] [https://www.chat2ai.cn/](https://www.chat2ai.cn/)
+- [ 👍 ] [https://www.chat2ai.cn](https://www.chat2ai.cn/)
 
 - [ 👍 ] [https://94gpt.com](https://94gpt.com)
 
-- [ 👍 ] [https://fastgpt.app/](https://fastgpt.app/)
+- [ 👍 ] [https://fastgpt.app](https://fastgpt.app/)
 
-- [ 👍 ] [https://chat.yqcloud.top/](https://chat.yqcloud.top/) 来自 https://github.com/binjie09
+- [ 👍 ] [https://chat.yqcloud.top](https://chat.yqcloud.top/) 来自 https://github.com/binjie09
+
+- [ 👍 ] [https://freechatgpt.chat/](https://freechatgpt.chat/) 来自 https://github.com/ztjhz/ChatGPTFreeApp
 
 - [ 🌎 ] [https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) 来自 https://github.com/ddiu8081/chatgpt-demo
 
 - [ 🔐 ] [https://freegpt.cc](https://freegpt.cc)
 
 - [https://ai117.com](https://ai117.com)
+
+- [ 👍 ] [AI 帮个忙](https://ai-toolbox.codefuture.top/)
+
+- [https://xc.com](https://xc.com/)
