@@ -1,32 +1,29 @@
 # Awesome Free ChatGPT
 
-[English](README_en.md)
+[中文](README.md)
 
-🚀 收集的免费 ChatGPT (<https://chat.openai.com/>) 替代镜像网站。
+🚀 Collected free ChatGPT (<https://chat.openai.com/>) alternative mirror websites.
 
-此处列出的网站均来源于互联网，此列表仅用于收藏目的。
+The websites listed here are from the internet, and this list is for collection purposes only.
 
-🚫 请注意不要在这些网站上输入任何个人敏感信息。
+🚫 Please do not enter any personal sensitive information on these websites.
 
-当然，我们非常感谢他们出色的工作，如果您觉得它有用，可以考虑捐赠或打赏他们。
+Of course, we greatly appreciate their excellent work. If you find it useful, you can consider donating or tipping them.
 
-## 🌈 欢迎贡献
+🌈 Welcome Contributions
+Feel free to submit issues and PRs to add new websites or report website failures. If you find this project useful, don't forget to star ⭐.
 
-欢迎随时提交 [issue](https://github.com/LiLittleCat/awesome-free-chatgpt/issues) 和 [PR](https://github.com/LiLittleCat/awesome-free-chatgpt/pulls) 新增网站或报告网站失效，如果您发现此项目有用，不要忘记 star ⭐。
+## 📖 List
 
-## 📖 列表
-
-> 注
+> Note:
 >
-> - [ 👍 ] 推荐
+> - [ 👍 ] Recommended
 >
-> - [ 🔐 ] 需要输入 API key
+> - [ 🔐 ] API key required
 >
-> - [ 🚫 ] 已失效
+> - [ 🚫 ] Invalid
 >
-> - [ 🌎 ] 需要科学上网
->
-> - 利用横线将不同风格的网页分开
+> - Use a horizontal line to separate web pages of different styles
 
 - [ 👍 ] [https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>
 
@@ -38,7 +35,7 @@
 
 - [ 🔐 ] [https://freegpt.cc](https://freegpt.cc)
 
-- [ 🌎 ] [https://freegpt.one](https://freegpt.one)
+- [https://freegpt.one](https://freegpt.one)
 
 ---
 
@@ -50,9 +47,9 @@
 
 - [https://chatforai.com](https://chatforai.com/)
 
-- [ 🌎 ] [https://desk.im](https://desk.im/)
+- [https://desk.im](https://desk.im/)
 
-- [ 🌎 ] [https://ai.ls](https://ai.ls/) & [https://ai.ci](https://ai.ci/)
+- [https://ai.ls](https://ai.ls/) & [https://ai.ci](https://ai.ci/)
 
 - [https://talk.xiu.ee](https://talk.xiu.ee/)
 
@@ -88,4 +85,4 @@
 
 ---
 
-## 🤟 玩得开心
+🤟 Have Fun!
