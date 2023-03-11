@@ -41,7 +41,7 @@
 
 ---
 
-- [ 👍🆓🌎 ] [https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) 来自 <https://github.com/ddiu8081/chatgpt-demo>
+- [ 🚫 ] ~~[https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) 来自 <https://github.com/ddiu8081/chatgpt-demo>~~
 
 - [ 👍🆓 ] [https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) 来自 <https://github.com/ninvfeng/chatgpt>
 
