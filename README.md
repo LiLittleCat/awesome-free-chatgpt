@@ -18,8 +18,6 @@
 >
 > [ 👍 ] 推荐
 >
-> [ 🆓 ] 免费
->
 > [ 🔐 ] 需要输入 API key
 >
 > [ 🚫 ] 已失效
@@ -28,61 +26,64 @@
 >
 > 利用横线将不同风格的网页分开
 
-- [ 👍🆓 ] [https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>
+- [ 👍 ] [https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>
 
-- [ 👍🆓 ] [https://fastgpt.app](https://fastgpt.app/) 来自 <https://github.com/yuezk/chatgpt-mirror>
+- [ 👍 ] [https://chat.theb.ai](https://chat.theb.ai) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
 
-- [ 👍🆓 ] [https://freechatgpt.chat](https://freechatgpt.chat/) 来自
-<https://github.com/ztjhz/ChatGPTFreeApp>
+- [ 👍 ] [https://freechatgpt.chat](https://freechatgpt.chat/) 来自 <https://github.com/ztjhz/ChatGPTFreeApp>
+
+- [https://fastgpt.app](https://fastgpt.app/) 来自 <https://github.com/yuezk/chatgpt-mirror>
 
 - [ 🔐 ] [https://freegpt.cc](https://freegpt.cc)
 
-- [ 👍🆓🌎 ] [https://freegpt.one](https://freegpt.one)
+- [ 🌎 ] [https://freegpt.one](https://freegpt.one)
 
 ---
 
 - [ 🚫 ] ~~[https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) 来自 <https://github.com/ddiu8081/chatgpt-demo>~~
 
-- [ 👍🆓 ] [https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) 来自 <https://github.com/ninvfeng/chatgpt>
+- [https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) 来自 <https://github.com/ninvfeng/chatgpt>
 
-- [ 👍🆓 ] [https://chatforai.com](https://chatforai.com/)
+- [https://www.aitoolgpt.com](https://www.aitoolgpt.com/) & [https://www.chatsverse.xyz](https://www.chatsverse.xyz/) 来自 <https://github.com/ourongxing/chatgpt-vercel>
 
-- [ 👍🆓🌎 ] [https://desk.im](https://desk.im/)
+- [https://chatforai.com](https://chatforai.com/)
 
-- [ 🔐🌎 ] [https://ai.ls](https://ai.ls/)
+- [ 🌎 ] [https://desk.im](https://desk.im/)
 
-- [ 🔐🌎 ] [https://ai.ci](https://ai.ci/)
+- [ 🌎 ] [https://ai.ls](https://ai.ls/) & [https://ai.ci](https://ai.ci/)
 
-- [ 👍🆓 ] [https://talk.xiu.ee](https://talk.xiu.ee/)
+- [https://talk.xiu.ee](https://talk.xiu.ee/)
 
-- [ 👍🆓 ] [https://www.scyu.app](https://www.scyu.app/)
-
----
-
-- [ 👍🆓 ] [https://www.chat2ai.cn](https://www.chat2ai.cn/)
-
-- [ 👍🆓 ] [https://aigcfun.com](https://aigcfun.com/)
-
-- [ 👍🆓 ] [https://chat.forchange.cn](https://chat.forchange.cn/)
+- [https://www.scyu.app](https://www.scyu.app/)
 
 ---
 
-- [ 👍🆓 ] [https://94gpt.com](https://94gpt.com)
+- [https://www.chat2ai.cn](https://www.chat2ai.cn/)
 
-- [ 👍🆓 ] [https://chat.yqcloud.top](https://chat.yqcloud.top/) 来自 <https://github.com/binjie09>
+- [https://aigcfun.com](https://aigcfun.com/)
+
+- [https://chat.forchange.cn](https://chat.forchange.cn/)
 
 ---
 
-- [ 🆓 ] [https://ai117.com](https://ai117.com)
+- [https://94gpt.com](https://94gpt.com)
 
-- [ 🆓 ] [https://chat.zecoba.cn](https://chat.zecoba.cn/)
+- [https://chat.yqcloud.top](https://chat.yqcloud.top/) 来自 <https://github.com/binjie09>
+
+---
+
+- [https://ai117.com](https://ai117.com)
+
+- [https://chat.zecoba.cn](https://chat.zecoba.cn/)
 
 - [ 🔐 ] [https://ai.yiios.com](https://ai.yiios.com/)
 
-- [ 🆓 ] [https://xc.com](https://xc.com/)
+- [https://xc.com](https://xc.com/)
 
-- [ 🆓 ] [https://chat.paoying.net](https://chat.paoying.net/)
+- [https://chat.paoying.net](https://chat.paoying.net/)
 
-- [ 🆓 ] [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
+- [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
+
+---
 
 ## 🤟 玩得开心
