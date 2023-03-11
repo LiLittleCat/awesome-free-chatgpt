@@ -30,7 +30,7 @@
 
 - [ 👍🆓 ] [https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>
 
-- [ 👍🆓 ] [https://fastgpt.app](https://fastgpt.app/)
+- [ 👍🆓 ] [https://fastgpt.app](https://fastgpt.app/) 来自 <https://github.com/yuezk/chatgpt-mirror>
 
 - [ 👍🆓 ] [https://freechatgpt.chat](https://freechatgpt.chat/) 来自
 <https://github.com/ztjhz/ChatGPTFreeApp>
