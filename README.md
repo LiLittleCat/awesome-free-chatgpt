@@ -86,6 +86,8 @@
 
 - [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
 
+- [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
+
 ---
 
 ## 🤟 玩得开心
