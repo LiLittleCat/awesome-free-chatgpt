@@ -28,7 +28,7 @@
 >
 > - 利用横线将不同风格的网页分开
 
-- [ 👍 ] [https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>
+- [ 🚫 ] ~~[https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>~~
 
 - [ 👍 ] [https://chat.theb.ai](https://chat.theb.ai) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
 
@@ -85,6 +85,8 @@
 - [https://chat.paoying.net](https://chat.paoying.net/)
 
 - [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
+
+- [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
 
 ---
 

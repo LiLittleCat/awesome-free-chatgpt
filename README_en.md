@@ -83,6 +83,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
 
+- [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
+
 ---
 
 🤟 Have Fun!
