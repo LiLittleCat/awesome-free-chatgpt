@@ -22,13 +22,9 @@
 >
 > - [ 🔐 ] 需要输入 API key
 >
-> - [ 🚫 ] 已失效
->
 > - [ 🌎 ] 需要科学上网
 >
 > - 利用横线将不同风格的网页分开
-
-- [ 🚫 ] ~~[https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>~~
 
 - [ 👍 ] [https://chat.theb.ai](https://chat.theb.ai) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
 
@@ -41,8 +37,6 @@
 - [ 🌎 ] [https://freegpt.one](https://freegpt.one)
 
 ---
-
-- [ 🚫 ] ~~[https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) 来自 <https://github.com/ddiu8081/chatgpt-demo>~~
 
 - [https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) 来自 <https://github.com/ninvfeng/chatgpt>
 
@@ -89,5 +83,11 @@
 - [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
 
 ---
+
+### 🚫 已失效
+
+- ~~[https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>~~
+
+- ~~[https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) 来自 <https://github.com/ddiu8081/chatgpt-demo>~~
 
 ## 🤟 玩得开心

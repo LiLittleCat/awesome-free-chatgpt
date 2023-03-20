@@ -21,11 +21,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 >
 > - [ 🔐 ] API key required
 >
-> - [ 🚫 ] Invalid
->
 > - Use a horizontal line to separate web pages of different styles
-
-- [ 👍 ] [https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>
 
 - [ 👍 ] [https://chat.theb.ai](https://chat.theb.ai) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
 
@@ -38,8 +34,6 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [https://freegpt.one](https://freegpt.one)
 
 ---
-
-- [ 🚫 ] ~~[https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) 来自 <https://github.com/ddiu8081/chatgpt-demo>~~
 
 - [https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) 来自 <https://github.com/ninvfeng/chatgpt>
 
@@ -67,7 +61,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [https://94gpt.com](https://94gpt.com)
 
-- [https://chat.yqcloud.top](https://chat.yqcloud.top/) 来自 <https://github.com/binjie09>
+- [https://chat.yqcloud.top](https://chat.yqcloud.top/) from <https://github.com/binjie09>
 
 ---
 
@@ -86,5 +80,11 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
 
 ---
+
+### 🚫 Invalid
+
+- ~~[https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>~~
+
+- ~~[https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) from <https://github.com/ddiu8081/chatgpt-demo>~~
 
 🤟 Have Fun!
