@@ -24,4 +24,15 @@ jobs:
         # Add any other dependencies your script requires here
 
     - name: Run Python script
-      run: python main.py
+      run: python convert.py
+
+    - name: Configure Git
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@users.noreply.github.com"
+
+    - name: Commit and push JSON file
+      run: |
+        git add urls.json
+        git commit -m "Update urls.json"
+        git push
