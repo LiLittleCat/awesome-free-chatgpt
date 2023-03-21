@@ -26,7 +26,7 @@
 >
 > - 利用横线将不同风格的网页分开
 
-- [ 👍 ] [https://chat.theb.ai](https://chat.theb.ai) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
+- [ 👍🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
 
 - [ 👍 ] [https://freechatgpt.chat](https://freechatgpt.chat/) 来自 <https://github.com/ztjhz/ChatGPTFreeApp>
 
