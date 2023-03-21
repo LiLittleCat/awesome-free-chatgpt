@@ -11,6 +11,7 @@ The websites listed here are from the internet, and this list is for collection 
 Of course, we greatly appreciate their excellent work. If you find it useful, you can consider donating or tipping them.
 
 🌈 Welcome Contributions
+
 Feel free to submit issues and PRs to add new websites or report website failures. If you find this project useful, don't forget to star ⭐.
 
 ## 📖 List
@@ -23,7 +24,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 >
 > - Use a horizontal line to separate web pages of different styles
 
-- [ 👍 ] [https://chat.theb.ai](https://chat.theb.ai) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
+- [ 👍 ] [https://chatbot.theb.ai](https://chatbot.theb.ai) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
 
 - [ 👍 ] [https://freechatgpt.chat](https://freechatgpt.chat/) 来自 <https://github.com/ztjhz/ChatGPTFreeApp>
 
