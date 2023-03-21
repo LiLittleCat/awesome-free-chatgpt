@@ -2,85 +2,123 @@
 
 [English](README_en.md)
 
-🚀 收集的免费 ChatGPT (<https://chat.openai.com/>) 替代镜像网站。
+🚀 免费的 ChatGPT (<https://chat.openai.com/>) 镜像网站列表，持续更新。
 
-此处列出的网站均来源于互联网，此列表仅用于收藏目的。
+此处列出的网站均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
 
-🚫 请注意不要在这些网站上输入任何个人敏感信息。
-
-当然，我们非常感谢他们出色的工作，如果您觉得它有用，可以考虑捐赠或打赏他们。
+当然，非常感谢他们出色的工作，如果您觉得它有用，可以考虑捐赠或打赏他们。
 
 ## 🌈 欢迎贡献
 
-欢迎随时提交 [issue](https://github.com/LiLittleCat/awesome-free-chatgpt/issues) 和 [PR](https://github.com/LiLittleCat/awesome-free-chatgpt/pulls) 新增网站或报告网站失效，如果您发现此项目有用，不要忘记 star ⭐。
+欢迎随时提交 [issue](https://github.com/LiLittleCat/awesome-free-chatgpt/issues) 和 [PR](https://github.com/LiLittleCat/awesome-free-chatgpt/pulls) 新增网站或报告网站失效，如果您发现此项目有用，不要忘记 star ⭐，您的支持是我前进的动力。
 
 ## 📖 列表
 
 > 注
 >
-> - [ 👍 ] 推荐
+> - 排名不分先后
 >
-> - [ 🔐 ] 需要输入 API key
+> - [ 🆓 ] 使用没有限制
+>
+> - [ 🔐 ] 有限使用，需要输入 API key 或登录
 >
 > - [ 🌎 ] 需要科学上网
->
-> - 利用横线将不同风格的网页分开
 
-- [ 👍🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
+### 类似官网风格
 
-- [ 👍 ] [https://freechatgpt.chat](https://freechatgpt.chat/) 来自 <https://github.com/ztjhz/ChatGPTFreeApp>
+- [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
 
-- [https://fastgpt.app](https://fastgpt.app/) 来自 <https://github.com/yuezk/chatgpt-mirror>
+- [ 🔐🌎 ] [https://fastgpt.app](https://fastgpt.app/) 来自 <https://github.com/yuezk/chatgpt-mirror>
 
-- [ 🔐 ] [https://freegpt.cc](https://freegpt.cc)
+- [ 🔐🌎 ] [https://freegpt.cc](https://freegpt.cc)
 
-- [ 🌎 ] [https://freegpt.one](https://freegpt.one)
+- [ 🆓🌎 ] [https://freegpt.one](https://freegpt.one)
 
----
+- [ 🆓🌎 ] [https://freechatgpt.chat](https://freechatgpt.chat/) 来自 <https://github.com/ztjhz/ChatGPTFreeApp>
 
-- [https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) 来自 <https://github.com/ninvfeng/chatgpt>
+- [ 🆓 ] [https://dev.yqcloud.top](https://dev.yqcloud.top)
 
-- [https://www.aitoolgpt.com](https://www.aitoolgpt.com/) & [https://www.chatsverse.xyz](https://www.chatsverse.xyz/) 来自 <https://github.com/ourongxing/chatgpt-vercel>
+- [ 🆓 ] [https://ai.bo-e.com](https://ai.bo-e.com/)
 
-- [https://chatforai.com](https://chatforai.com/)
+- [ 🔐🌎 ] [https://94gpt.com](https://94gpt.com)
 
-- [ 🌎 ] [https://desk.im](https://desk.im/)
+- [ 🔐 ] [https://chat.forchange.cn](https://chat.forchange.cn/)
 
-- [ 🌎 ] [https://ai.ls](https://ai.ls/) & [https://ai.ci](https://ai.ci/)
+- [ 🆓 ] [http://gitopenchina.gitee.io/gpt](http://gitopenchina.gitee.io/gpt)
 
-- [https://talk.xiu.ee](https://talk.xiu.ee/)
+- [ 🆓 ] [http://gitopenchina.gitee.io/chatgpt](http://gitopenchina.gitee.io/chatgpt)
 
-- [https://www.scyu.app](https://www.scyu.app/)
+- [ 🆓 ] [http://gitopenchina.gitee.io/freechatgpt](http://gitopenchina.gitee.io/freechatgpt)
 
----
+- [ 🆓🌎 ] [https://ai117.com](https://ai117.com)
 
-- [https://www.chat2ai.cn](https://www.chat2ai.cn/)
-
-- [https://aigcfun.com](https://aigcfun.com/)
-
-- [https://chat.forchange.cn](https://chat.forchange.cn/)
-
----
-
-- [https://94gpt.com](https://94gpt.com)
-
-- [https://chat.yqcloud.top](https://chat.yqcloud.top/) 来自 <https://github.com/binjie09>
-
----
-
-- [https://ai117.com](https://ai117.com)
-
-- [https://chat.zecoba.cn](https://chat.zecoba.cn/)
+- [ 🔐🌎 ] [https://www.typingmind.com](https://www.typingmind.com/)
 
 - [ 🔐 ] [https://ai.yiios.com](https://ai.yiios.com/)
 
-- [https://xc.com](https://xc.com/)
+- [ 🔐 ] [https://www.chat2ai.cn](https://www.chat2ai.cn/)
 
-- [https://chat.paoying.net](https://chat.paoying.net/)
+- [ 🔐 ] [https://aigcfun.com](https://aigcfun.com/)
 
-- [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
+---
 
-- [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
+### 机器人风格
+
+- [ 🆓🌎 ] [https://qachat.vercel.app](https://qachat.vercel.app) 来自 <https://github.com/yesmore/QA>
+
+- [ 🔐🌎 ] [https://chatforai.com](https://chatforai.com/)
+
+- [ 🆓🌎 ] [https://desk.im](https://desk.im/)
+
+- [ 🆓🌎 ] [https://ai.ls](https://ai.ls/)
+
+- [ 🆓🌎 ] [https://ai.ci](https://ai.ci/)
+
+- [ 🆓🌎 ] [https://talk.xiu.ee](https://talk.xiu.ee/)
+
+- [ 🌎 ] [https://chat2.xeasy.me](https://chat2.xeasy.me/)
+
+- [ 🆓🌎 ] [https://chatcat.pages.dev](https://chatcat.pages.dev)
+
+- [ 🆓🌎 ] [https://gpt.xeasy.me](https://gpt.xeasy.me/)
+
+---
+
+### 其他风格
+
+- [ 🔐🌎 ] [https://poe.com](https://poe.com)
+
+- [ 🆓 ] [https://askbot.club/chatgpt](https://askbot.club/chatgpt/)
+
+- [ 🆓🌎 ] [https://gpt.getshare.net](https://gpt.getshare.net)
+
+- [ 🆓🌎 ] [http://chatai.fyi](https://gpt.getshare.net)
+
+- [ 🆓🌎 ] [https://chat.51buygpt.com](https://chat.51buygpt.com)
+
+- [ 🆓🌎 ] [https://trychatgp.com](https://trychatgp.com)
+
+- [ 🔐 ] [https://chat.livepo.top](https://chat.livepo.top)
+
+- [ 🔐 ] [https://chat.alpaca-bi.com](https://chat.alpaca-bi.com)
+
+- [ 🔐 ] [https://www.bz1y.cn](https://www.bz1y.cn)
+
+- [ 🔐 ] [https://chat.paoying.net](https://chat.paoying.net/)
+
+- [ 🔐 ] [https://account.eaten.fun](https://account.eaten.fun/)
+
+- [ 🔐 ] [https://chats.wxredcover.cn](https://chats.wxredcover.cn/)
+
+- [ 🔐 ] [https://askgptai.com](https://askgptai.com/)
+
+- [ 🔐 ] [https://chat.zecoba.cn](https://chat.zecoba.cn/)
+
+- [ 🔐 ] [https://www.tdchat.com](https://www.tdchat.com/)
+
+- [ 🆓 ] [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
+
+- [ 🆓🌎 ] [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
 
 ---
 
@@ -89,5 +127,19 @@
 - ~~[https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>~~
 
 - ~~[https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) 来自 <https://github.com/ddiu8081/chatgpt-demo>~~
+
+- ~~[https://xc.com](https://xc.com/)~~
+
+- ~~[https://chat.yqcloud.top](https://chat.yqcloud.top/) 来自 <https://github.com/binjie09>~~
+
+- ~~[https://www.scyu.app](https://www.scyu.app/)~~
+
+- ~~[https://chatgpt-flutter.h7ml.cn](https://chatgpt-flutter.h7ml.cn)~~
+
+- ~~[https://www.aitoolgpt.com](https://www.aitoolgpt.com/) & [https://www.chatsverse.xyz](https://www.chatsverse.xyz/) 来自 <https://github.com/ourongxing/chatgpt-vercel>~~
+
+- ~~[https://chatapi.qload.cn](https://chatapi.qload.cn)~~
+
+- ~~[https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) 来自 <https://github.com/ninvfeng/chatgpt>~~
 
 ## 🤟 玩得开心
