@@ -21,6 +21,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 > - [ 🆓 ] use without restriction
 >
 > - [ 🔐 ] limited use, need to enter API key or login
+>
+> - [ 🚧 ] Under construction
 
 ### Similar to the official website style
 
@@ -84,6 +86,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### Other styles
 
+- [ 🆓 ] [https://chat2.geekr.dev](https://chat2.geekr.dev/) from <https://github.com/geekr-dev/geekchat>
+
 - [ 🔐 ] [https://poe.com](https://poe.com)
 
 - [ 🆓 ] [https://askbot.club/chatgpt](https://askbot.club/chatgpt/)
@@ -117,6 +121,24 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🆓 ] [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
 
 - [ 🆓 ] [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
+
+### Alternatives
+
+- [ 🔐🌎 ] [https://poe.com](https://poe.com)
+
+- [ 🔐🌎 ] [Bing Chat](https://www.bing.com/new)
+
+- [ 🚧 ] [Google Bard](https://bard.google.com)
+
+- [ 🚧 ] [Anthropic Claude](https://www.anthropic.com/product)
+
+- [ 🚧 ] [Baidu ERNIE Bot](https://yiyan.baidu.com/welcome)
+
+- [ 🚧 ] [Open Assistant](https://open-assistant.io/)
+
+### Softwares
+
+- [ 🆓 ] [Cursor](https://www.cursor.so/)
 
 ---
 

@@ -23,6 +23,8 @@
 > - [ 🔐 ] 有限使用，需要输入 API key 或登录
 >
 > - [ 🌎 ] 需要科学上网
+>
+> - [ 🚧 ] 建设中
 
 ### 类似官网风格
 
@@ -86,7 +88,7 @@
 
 ### 其他风格
 
-- [ 🔐🌎 ] [https://poe.com](https://poe.com)
+- [ 🆓 ] [https://chat2.geekr.dev](https://chat2.geekr.dev/) 来自 <https://github.com/geekr-dev/geekchat>
 
 - [ 🆓 ] [https://askbot.club/chatgpt](https://askbot.club/chatgpt/)
 
@@ -119,6 +121,24 @@
 - [ 🆓 ] [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
 
 - [ 🆓🌎 ] [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
+
+### 替代方案
+
+- [ 🔐🌎 ] [https://poe.com](https://poe.com)
+
+- [ 🔐🌎 ] [Bing Chat](https://www.bing.com/new)
+
+- [ 🚧 ] [Google Bard](https://bard.google.com)
+
+- [ 🚧 ] [Anthropic Claude](https://www.anthropic.com/product)
+
+- [ 🚧 ] [百度 文心一言](https://yiyan.baidu.com/welcome)
+
+- [ 🚧 ] [Open Assistant](https://open-assistant.io/)
+
+### 软件
+
+- [ 🆓 ] [Cursor](https://www.cursor.so/)
 
 ---
 
