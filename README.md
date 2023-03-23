@@ -124,6 +124,8 @@
 
 - [ 🆓🌎 ] [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
 
+---
+
 ### 替代方案
 
 - [ 🔐🌎 ] [https://poe.com](https://poe.com)
@@ -137,6 +139,8 @@
 - [ 🚧 ] [百度 文心一言](https://yiyan.baidu.com/welcome)
 
 - [ 🚧 ] [Open Assistant](https://open-assistant.io/)
+
+---
 
 ### 软件
 
