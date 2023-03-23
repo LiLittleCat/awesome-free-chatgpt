@@ -90,8 +90,6 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://chat2.geekr.dev](https://chat2.geekr.dev/) from <https://github.com/geekr-dev/geekchat>
 
-- [ 🔐 ] [https://poe.com](https://poe.com)
-
 - [ 🆓 ] [https://askbot.club/chatgpt](https://askbot.club/chatgpt/)
 
 - [ 🆓 ] [https://gpt.getshare.net](https://gpt.getshare.net)
