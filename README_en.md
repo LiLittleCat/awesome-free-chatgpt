@@ -62,9 +62,11 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ---
 
-### Robot style
+### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
 
 - [ 🆓 ] [https://qachat.vercel.app](https://qachat.vercel.app) from <https://github.com/yesmore/QA>
+
+- [ 🆓 ] [https://qachat.cn](https://qachat.cn/) 来自 <https://github.com/yesmore/QA>
 
 - [ 🔐 ] [https://chatforai.com](https://chatforai.com/)
 
