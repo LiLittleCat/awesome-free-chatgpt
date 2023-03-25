@@ -26,7 +26,7 @@
 >
 > - [ 📚 ] 除了ChatGPT以外还有别的AI bot
 >
-> - [ 🆕 ] GPT4 (默认3.5)
+> - [ 🔔 ] GPT4 (默认3.5)
 >
 > - [ 🚧 ] 建设中
 
@@ -34,13 +34,13 @@
 
 - [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
 
-- [ 🔐🌎🆕 ] [https://fastgpt.app](https://fastgpt.app/) 来自 <https://github.com/yuezk/chatgpt-mirror>
+- [ 🔐🌎🔔 ] [https://fastgpt.app](https://fastgpt.app/) 来自 <https://github.com/yuezk/chatgpt-mirror>
 
 - [ 🔐🌎 ] [https://freegpt.cc](https://freegpt.cc)
 
 - [ 🆓🌎 ] [https://freegpt.one](https://freegpt.one)
 
-- [ 🆓🌎🆕 ] [https://freechatgpt.chat](https://freechatgpt.chat/) 来自 <https://github.com/ztjhz/ChatGPTFreeApp>
+- [ 🆓🌎🔔 ] [https://freechatgpt.chat](https://freechatgpt.chat/) 来自 <https://github.com/ztjhz/ChatGPTFreeApp>
 
 - [ 🆓 ] [https://dev.yqcloud.top](https://dev.yqcloud.top)
 
@@ -56,9 +56,9 @@
 
 - [ 🆓 ] [http://gitopenchina.gitee.io/freechatgpt](http://gitopenchina.gitee.io/freechatgpt)
 
-- [ 🆓🌎🆕 ] [https://ai117.com](https://ai117.com)
+- [ 🆓🌎🔔 ] [https://ai117.com](https://ai117.com)
 
-- [ 🔐🌎🆕 ] [https://www.typingmind.com](https://www.typingmind.com/)
+- [ 🔐🌎🔔 ] [https://www.typingmind.com](https://www.typingmind.com/)
 
 - [ 🔐 ] [https://ai.yiios.com](https://ai.yiios.com/)
 
@@ -132,9 +132,9 @@
 
 ### 替代方案
 
-- [ 🔐🌎🆕📚 ] [https://poe.com](https://poe.com)
+- [ 🔐🌎🔔📚 ] [https://poe.com](https://poe.com)
 
-- [ 🔐🌎🆕 ] [Bing Chat](https://www.bing.com/new)
+- [ 🔐🌎🔔 ] [Bing Chat](https://www.bing.com/new)
 
 - [ 🚧📚 ] [Google Bard](https://bard.google.com)
 
@@ -148,7 +148,7 @@
 
 ### 软件
 
-- [ 🆓🆕 ] [Cursor](https://www.cursor.so/)
+- [ 🆓🔔 ] [Cursor](https://www.cursor.so/)
 
 ---
 
