@@ -130,23 +130,23 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### Alternatives
 
-- [ 🔐🌎📚🆕 ] [https://poe.com](https://poe.com)
+- [ 🔐🌎🆕📚 ] [https://poe.com](https://poe.com)
 
 - [ 🔐🌎🆕 ] [Bing Chat](https://www.bing.com/new)
 
-- [ 🚧 ] [Google Bard](https://bard.google.com)
+- [ 🚧📚 ] [Google Bard](https://bard.google.com)
 
-- [ 🚧 ] [Anthropic Claude](https://www.anthropic.com/product)
+- [ 🚧📚 ] [Anthropic Claude](https://www.anthropic.com/product)
 
-- [ 🚧 ] [Baidu ERNIE Bot](https://yiyan.baidu.com/welcome)
+- [ 🚧📚 ] [Baidu ERNIE Bot](https://yiyan.baidu.com/welcome)
 
-- [ 🚧 ] [Open Assistant](https://open-assistant.io/)
+- [ 🚧📚 ] [Open Assistant](https://open-assistant.io/)
 
 ---
 
 ### Softwares
 
-- [ 🆓 ] [Cursor](https://www.cursor.so/)
+- [ 🆓🆕 ] [Cursor](https://www.cursor.so/)
 
 ---
 

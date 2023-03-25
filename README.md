@@ -136,19 +136,19 @@
 
 - [ 🔐🌎🆕 ] [Bing Chat](https://www.bing.com/new)
 
-- [ 🚧 ] [Google Bard](https://bard.google.com)
+- [ 🚧📚 ] [Google Bard](https://bard.google.com)
 
-- [ 🚧 ] [Anthropic Claude](https://www.anthropic.com/product)
+- [ 🚧📚 ] [Anthropic Claude](https://www.anthropic.com/product)
 
-- [ 🚧 ] [百度 文心一言](https://yiyan.baidu.com/welcome)
+- [ 🚧📚 ] [百度 文心一言](https://yiyan.baidu.com/welcome)
 
-- [ 🚧 ] [Open Assistant](https://open-assistant.io/)
+- [ 🚧📚 ] [Open Assistant](https://open-assistant.io/)
 
 ---
 
 ### 软件
 
-- [ 🆓 ] [Cursor](https://www.cursor.so/)
+- [ 🆓🆕 ] [Cursor](https://www.cursor.so/)
 
 ---
 
