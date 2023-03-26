@@ -24,7 +24,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 >
 > - [ 🔔 ] GPT4 available
 >
-> - [ 📚 ] more then ChatGPT
+> - [ 📚 ] more than ChatGPT
 >
 > - [ 🚧 ] Under construction
 
