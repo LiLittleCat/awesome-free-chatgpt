@@ -22,19 +22,23 @@ Feel free to submit issues and PRs to add new websites or report website failure
 >
 > - [ 🔐 ] limited use, need to enter API key or login
 >
+> - [ 🔔 ] GPT4 available
+>
+> - [ 📚 ] more then ChatGPT
+>
 > - [ 🚧 ] Under construction
 
 ### Similar to the official website style
 
 - [ 🆓 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) from <https://github.com/Chanzhaoyu/chatgpt-web>
 
-- [ 🔐 ] [https://fastgpt.app](https://fastgpt.app/) from <https://github.com/yuezk/chatgpt-mirror>
+- [ 🔐🔔 ] [https://fastgpt.app](https://fastgpt.app/) from <https://github.com/yuezk/chatgpt-mirror>
 
 - [ 🔐 ] [https://freegpt.cc](https://freegpt.cc)
 
 - [ 🆓 ] [https://freegpt.one](https://freegpt.one)
 
-- [ 🆓 ] [https://freechatgpt.chat](https://freechatgpt.chat/) from <https://github.com/ztjhz/ChatGPTFreeApp>
+- [ 🆓🔔 ] [https://freechatgpt.chat](https://freechatgpt.chat/) from <https://github.com/ztjhz/ChatGPTFreeApp>
 
 - [ 🆓 ] [https://dev.yqcloud.top](https://dev.yqcloud.top)
 
@@ -50,9 +54,9 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [http://gitopenchina.gitee.io/freechatgpt](http://gitopenchina.gitee.io/freechatgpt)
 
-- [ 🆓 ] [https://ai117.com](https://ai117.com)
+- [ 🆓🔔 ] [https://ai117.com](https://ai117.com)
 
-- [ 🔐 ] [https://www.typingmind.com](https://www.typingmind.com/)
+- [ 🔐🔔 ] [https://www.typingmind.com](https://www.typingmind.com/)
 
 - [ 🔐 ] [https://ai.yiios.com](https://ai.yiios.com/)
 
@@ -126,23 +130,23 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### Alternatives
 
-- [ 🔐🌎 ] [https://poe.com](https://poe.com)
+- [ 🔐🌎🔔📚 ] [https://poe.com](https://poe.com)
 
-- [ 🔐🌎 ] [Bing Chat](https://www.bing.com/new)
+- [ 🔐🌎🔔 ] [Bing Chat](https://www.bing.com/new)
 
-- [ 🚧 ] [Google Bard](https://bard.google.com)
+- [ 🚧📚 ] [Google Bard](https://bard.google.com)
 
-- [ 🚧 ] [Anthropic Claude](https://www.anthropic.com/product)
+- [ 🚧📚 ] [Anthropic Claude](https://www.anthropic.com/product)
 
-- [ 🚧 ] [Baidu ERNIE Bot](https://yiyan.baidu.com/welcome)
+- [ 🚧📚 ] [Baidu ERNIE Bot](https://yiyan.baidu.com/welcome)
 
-- [ 🚧 ] [Open Assistant](https://open-assistant.io/)
+- [ 🚧📚 ] [Open Assistant](https://open-assistant.io/)
 
 ---
 
 ### Softwares
 
-- [ 🆓 ] [Cursor](https://www.cursor.so/)
+- [ 🆓🔔 ] [Cursor](https://www.cursor.so/)
 
 ---
 
