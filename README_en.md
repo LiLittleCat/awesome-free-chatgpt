@@ -92,6 +92,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### Other styles
 
+- [ 🆓🔔 ] [https://nat.dev](https://nat.dev/)
+
 - [ 🆓 ] [https://chat2.geekr.dev](https://chat2.geekr.dev/) from <https://github.com/geekr-dev/geekchat>
 
 - [ 🆓 ] [https://askbot.club/chatgpt](https://askbot.club/chatgpt/)

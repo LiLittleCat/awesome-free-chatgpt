@@ -94,6 +94,8 @@
 
 ### 其他风格
 
+- [ 🆓🔔 ] [https://nat.dev](https://nat.dev/)
+
 - [ 🆓 ] [https://chat2.geekr.dev](https://chat2.geekr.dev/) 来自 <https://github.com/geekr-dev/geekchat>
 
 - [ 🆓 ] [https://askbot.club/chatgpt](https://askbot.club/chatgpt/)
