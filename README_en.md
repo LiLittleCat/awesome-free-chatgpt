@@ -64,6 +64,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://aigcfun.com](https://aigcfun.com/)
 
+- [ 🔐 ] [https://chatmindai.com](https://chatmindai.com/#/chat)
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
