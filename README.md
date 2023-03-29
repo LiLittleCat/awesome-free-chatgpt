@@ -67,10 +67,6 @@
 - [ 🔐 ] [https://aigcfun.com](https://aigcfun.com/)
 
 - [ 🔐 ] [https://chatmindai.com](https://chatmindai.com/#/chat)
-
--  [ 🔐 ] [https://chatgpt.hoposoft.com](https://chatgpt.hoposoft.com/#/)
-
--  [ 🔐 ] [https://open-gpt.app/](https://open-gpt.app/)
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
@@ -135,6 +131,9 @@
 
 - [ 🆓🌎 ] [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
 
+-  [ 🔐 ] [https://chatgpt.hoposoft.com](https://chatgpt.hoposoft.com/#/)
+
+-  [ 🔐 ] [https://open-gpt.app/](https://open-gpt.app/)
 ---
 
 ### 替代方案
