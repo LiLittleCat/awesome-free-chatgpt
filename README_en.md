@@ -130,6 +130,9 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
 
+-  [ 🔐 ] [https://chatgpt.hoposoft.com](https://chatgpt.hoposoft.com/#/)
+
+-  [ 🔐 ] [https://open-gpt.app/](https://open-gpt.app/)
 ---
 
 ### Alternatives
