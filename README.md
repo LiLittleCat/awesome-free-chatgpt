@@ -67,6 +67,8 @@
 - [ 🔐 ] [https://aigcfun.com](https://aigcfun.com/)
 
 - [ 🔐 ] [https://chatmindai.com](https://chatmindai.com/#/chat)
+
+- [ 🔐 ] [https://chat.bumo.to/](https://chat.bumo.to/)
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
