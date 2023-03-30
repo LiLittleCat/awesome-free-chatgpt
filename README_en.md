@@ -66,7 +66,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://chatmindai.com](https://chatmindai.com/#/chat)
 
-- [ 🔐 ] [https://chat.bumo.to/](https://chat.bumo.to/)
+- [ 🔐 ] [https://chat.bumo.to](https://chat.bumo.to/)
 
 ---
 
@@ -134,7 +134,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 -  [ 🔐 ] [https://chatgpt.hoposoft.com](https://chatgpt.hoposoft.com/#/)
 
--  [ 🔐 ] [https://open-gpt.app/](https://open-gpt.app/)
+-  [ 🔐 ] [https://open-gpt.app](https://open-gpt.app/)
 ---
 
 ### Alternatives
@@ -180,3 +180,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - ~~[https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) from <https://github.com/ninvfeng/chatgpt>~~
 
 🤟 Have Fun!
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
+

@@ -68,7 +68,7 @@
 
 - [ 🔐 ] [https://chatmindai.com](https://chatmindai.com/#/chat)
 
-- [ 🔐 ] [https://chat.bumo.to/](https://chat.bumo.to/)
+- [ 🔐 ] [https://chat.bumo.to](https://chat.bumo.to/)
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
@@ -135,7 +135,7 @@
 
 -  [ 🔐 ] [https://chatgpt.hoposoft.com](https://chatgpt.hoposoft.com/#/)
 
--  [ 🔐 ] [https://open-gpt.app/](https://open-gpt.app/)
+-  [ 🔐 ] [https://open-gpt.app](https://open-gpt.app/)
 ---
 
 ### 替代方案
@@ -181,3 +181,7 @@
 - ~~[https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) 来自 <https://github.com/ninvfeng/chatgpt>~~
 
 ## 🤟 玩得开心
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
