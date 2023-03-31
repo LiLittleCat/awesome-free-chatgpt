@@ -139,6 +139,10 @@ Feel free to submit issues and PRs to add new websites or report website failure
 -  [ 🔐 ] [https://chat8.io](https://chat8.io/)
 
 -  [ 🔐 ] [https://ai.cheapy.top](https://ai.cheapy.top)
+
+-  [ 🔐 ] [https://www.chatbotui.com](https://www.chatbotui.com/) from <https://github.com/mckaywrigley/chatbot-ui>
+
+-  [ 🆓 ] [https://www.askme.mom](https://www.askme.mom/)
 ---
 
 ### Alternatives
