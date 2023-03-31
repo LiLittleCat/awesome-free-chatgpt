@@ -135,6 +135,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 -  [ 🔐 ] [https://chatgpt.hoposoft.com](https://chatgpt.hoposoft.com/#/)
 
 -  [ 🔐 ] [https://open-gpt.app](https://open-gpt.app/)
+
+-  [ 🔐 ] [https://chat8.io](https://chat8.io/)
 ---
 
 ### Alternatives
