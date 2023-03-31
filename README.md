@@ -138,6 +138,8 @@
 -  [ 🔐 ] [https://open-gpt.app](https://open-gpt.app/)
 
 -  [ 🔐 ] [https://chat8.io](https://chat8.io/)
+
+-  [ 🔐 ] [https://ai.cheapy.top](https://ai.cheapy.top)
 ---
 
 ### 替代方案
