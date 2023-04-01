@@ -30,6 +30,9 @@
 >
 > - [ 🚧 ] 建设中
 
+
+http://aakkaa.com/
+
 ### 类似官网风格
 
 - [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
@@ -69,6 +72,8 @@
 - [ 🔐 ] [https://chatmindai.com](https://chatmindai.com/#/chat)
 
 - [ 🔐 ] [https://chat.bumo.to](https://chat.bumo.to/)
+
+- [ 🆓 ] [https://ai.zyun.vip](https://ai.zyun.vip/)
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
@@ -142,8 +147,6 @@
 -  [ 🔐 ] [https://ai.cheapy.top](https://ai.cheapy.top)
 
 -  [ 🔐 ] [https://www.chatbotui.com](https://www.chatbotui.com/) 来自 <https://github.com/mckaywrigley/chatbot-ui>
-
--  [ 🆓 ] [https://www.askme.mom](https://www.askme.mom/)
 ---
 
 ### 替代方案
@@ -170,6 +173,12 @@
 
 ### 🚫 已失效
 
+<details>
+
+<summary>点击展开</summary>
+
+- ~~[https://www.askme.mom](https://www.askme.mom/)~~
+
 - ~~[https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>~~
 
 - ~~[https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) 来自 <https://github.com/ddiu8081/chatgpt-demo>~~
@@ -188,8 +197,14 @@
 
 - ~~[https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) 来自 <https://github.com/ninvfeng/chatgpt>~~
 
+</details>
+
 ## 🤟 玩得开心
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
