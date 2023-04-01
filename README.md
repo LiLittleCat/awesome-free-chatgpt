@@ -30,9 +30,6 @@
 >
 > - [ 🚧 ] 建设中
 
-
-http://aakkaa.com/
-
 ### 类似官网风格
 
 - [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
@@ -101,6 +98,8 @@ http://aakkaa.com/
 ---
 
 ### 其他风格
+
+- [ 🆓📚 ] [https://greengpt.app](https://greengpt.app/)
 
 - [ 🆓🔔 ] [https://nat.dev](https://nat.dev/)
 
