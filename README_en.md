@@ -68,6 +68,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://chat.bumo.to](https://chat.bumo.to/)
 
+- [ 🆓 ] [https://ai.zyun.vip](https://ai.zyun.vip/)
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
@@ -141,8 +143,6 @@ Feel free to submit issues and PRs to add new websites or report website failure
 -  [ 🔐 ] [https://ai.cheapy.top](https://ai.cheapy.top)
 
 -  [ 🔐 ] [https://www.chatbotui.com](https://www.chatbotui.com/) from <https://github.com/mckaywrigley/chatbot-ui>
-
--  [ 🆓 ] [https://www.askme.mom](https://www.askme.mom/)
 ---
 
 ### Alternatives
@@ -169,6 +169,12 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### 🚫 Invalid
 
+<details>
+
+<summary>Click to expand</summary>
+
+-  ~~[https://www.askme.mom](https://www.askme.mom/)~~
+
 - ~~[https://chat.tgbot.co](https://chat.tgbot.co/) from <https://github.com/zu1k>~~
 
 - ~~[https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) from <https://github.com/ddiu8081/chatgpt-demo>~~
@@ -187,9 +193,15 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - ~~[https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) from <https://github.com/ninvfeng/chatgpt>~~
 
+</details>
+
 🤟 Have Fun!
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
 
