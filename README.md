@@ -68,7 +68,7 @@
 
 - [ 🔐 ] [https://chatmindai.com](https://chatmindai.com/#/chat)
 
-- [ 🔐 ] [https://chat.bumo.to](https://chat.bumo.to/)
+- [ 🔐 ] [https://ai.bumo.to](https://ai.bumo.to/)
 
 - [ 🆓 ] [https://ai.zyun.vip](https://ai.zyun.vip/)
 ---
