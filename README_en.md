@@ -66,7 +66,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://chatmindai.com](https://chatmindai.com/#/chat)
 
-- [ 🔐 ] [https://chat.bumo.to](https://chat.bumo.to/)
+- [ 🔐 ] [https://ai.bumo.to](https://ai.bumo.to/)
 
 - [ 🆓 ] [https://ai.zyun.vip](https://ai.zyun.vip/)
 
