@@ -99,6 +99,8 @@
 
 ### 其他风格
 
+- [ 🆓 ] [https://ailink.icu](https://ailink.icu/)
+
 - [ 🆓📚 ] [https://greengpt.app](https://greengpt.app/)
 
 - [ 🆓🔔 ] [https://nat.dev](https://nat.dev/)

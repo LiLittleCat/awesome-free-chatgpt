@@ -98,6 +98,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### Other styles
 
+- [ 🆓 ] [https://ailink.icu](https://ailink.icu/)
+
 - [ 🆓📚 ] [https://greengpt.app](https://greengpt.app/)
 
 - [ 🆓🔔 ] [https://nat.dev](https://nat.dev/)
