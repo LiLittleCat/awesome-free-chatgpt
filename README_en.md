@@ -70,6 +70,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://ai.zyun.vip](https://ai.zyun.vip/)
 
+- [ 🆓 ] [https://chat.gpt.bz](https://chat.gpt.bz/)
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
