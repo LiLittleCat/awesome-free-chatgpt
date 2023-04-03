@@ -76,10 +76,6 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
 
-- [ 🆓 ] [https://qachat.vercel.app](https://qachat.vercel.app) from <https://github.com/yesmore/QA>
-
-- [ 🆓 ] [https://qachat.cn](https://qachat.cn/) 来自 <https://github.com/yesmore/QA>
-
 - [ 🔐 ] [https://chatforai.com](https://chatforai.com/)
 
 - [ 🆓 ] [https://desk.im](https://desk.im/)
@@ -179,7 +175,11 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 <summary>Click to expand</summary>
 
--  ~~[https://www.askme.mom](https://www.askme.mom/)~~
+- ~~[https://qachat.vercel.app](https://qachat.vercel.app) 来自 <https://github.com/yesmore/QA>~~
+
+- ~~[https://qachat.cn](https://qachat.cn/) 来自 <https://github.com/yesmore/QA>~~
+
+- ~~[https://www.askme.mom](https://www.askme.mom/)~~
 
 - ~~[https://chat.tgbot.co](https://chat.tgbot.co/) from <https://github.com/zu1k>~~
 
