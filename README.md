@@ -71,6 +71,8 @@
 - [ 🔐 ] [https://ai.bumo.to](https://ai.bumo.to/)
 
 - [ 🆓 ] [https://ai.zyun.vip](https://ai.zyun.vip/)
+
+- [ 🆓 ] [https://chat.gpt.bz](https://chat.gpt.bz/)
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
