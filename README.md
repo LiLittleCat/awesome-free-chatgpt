@@ -93,6 +93,8 @@
 
 - [ 🆓🌎 ] [https://gpt.xeasy.me](https://gpt.xeasy.me/)
 
+- [ 🔐 ] [https://chatgpt3.fun](https://chatgpt3.fun/)
+
 ---
 
 ### 其他风格
@@ -137,15 +139,15 @@
 
 - [ 🆓🌎 ] [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
 
--  [ 🔐 ] [https://chatgpt.hoposoft.com](https://chatgpt.hoposoft.com/#/)
+- [ 🔐 ] [https://chatgpt.hoposoft.com](https://chatgpt.hoposoft.com/#/)
 
--  [ 🔐 ] [https://open-gpt.app](https://open-gpt.app/)
+- [ 🔐 ] [https://open-gpt.app](https://open-gpt.app/)
 
--  [ 🔐 ] [https://chat8.io](https://chat8.io/)
+- [ 🔐 ] [https://chat8.io](https://chat8.io/)
 
--  [ 🔐 ] [https://ai.cheapy.top](https://ai.cheapy.top)
+- [ 🔐 ] [https://ai.cheapy.top](https://ai.cheapy.top)
 
--  [ 🔐 ] [https://www.chatbotui.com](https://www.chatbotui.com/) from <https://github.com/mckaywrigley/chatbot-ui>
+- [ 🔐 ] [https://www.chatbotui.com](https://www.chatbotui.com/) from <https://github.com/mckaywrigley/chatbot-ui>
 ---
 
 ### 替代方案
