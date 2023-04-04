@@ -149,6 +149,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### Alternatives
 
+- [ 🆓📚 ] [https://chat.lmsys.org](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat>
+
 - [ 🔐🌎🔔📚 ] [https://poe.com](https://poe.com)
 
 - [ 🔐🌎🔔 ] [Bing Chat](https://www.bing.com/new)
