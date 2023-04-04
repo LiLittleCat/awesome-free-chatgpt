@@ -32,15 +32,15 @@
 
 ### 类似官网风格
 
-- [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) 来自 <https://github.com/Chanzhaoyu/chatgpt-web>
+- [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) from <https://github.com/Chanzhaoyu/chatgpt-web>
 
-- [ 🔐🌎🔔 ] [https://fastgpt.app](https://fastgpt.app/) 来自 <https://github.com/yuezk/chatgpt-mirror>
+- [ 🔐🌎🔔 ] [https://fastgpt.app](https://fastgpt.app/) from <https://github.com/yuezk/chatgpt-mirror>
 
 - [ 🔐🌎 ] [https://freegpt.cc](https://freegpt.cc)
 
 - [ 🆓🌎 ] [https://freegpt.one](https://freegpt.one)
 
-- [ 🆓🌎🔔 ] [https://freechatgpt.chat](https://freechatgpt.chat/) 来自 <https://github.com/ztjhz/ChatGPTFreeApp>
+- [ 🆓🌎🔔 ] [https://freechatgpt.chat](https://freechatgpt.chat/) from <https://github.com/ztjhz/ChatGPTFreeApp>
 
 - [ 🆓 ] [https://dev.yqcloud.top](https://dev.yqcloud.top)
 
@@ -103,7 +103,7 @@
 
 - [ 🆓🔔 ] [https://nat.dev](https://nat.dev/)
 
-- [ 🆓 ] [https://chat2.geekr.dev](https://chat2.geekr.dev/) 来自 <https://github.com/geekr-dev/geekchat>
+- [ 🆓 ] [https://chat2.geekr.dev](https://chat2.geekr.dev/) from <https://github.com/geekr-dev/geekchat>
 
 - [ 🆓 ] [https://askbot.club/chatgpt](https://askbot.club/chatgpt/)
 
@@ -145,10 +145,12 @@
 
 -  [ 🔐 ] [https://ai.cheapy.top](https://ai.cheapy.top)
 
--  [ 🔐 ] [https://www.chatbotui.com](https://www.chatbotui.com/) 来自 <https://github.com/mckaywrigley/chatbot-ui>
+-  [ 🔐 ] [https://www.chatbotui.com](https://www.chatbotui.com/) from <https://github.com/mckaywrigley/chatbot-ui>
 ---
 
 ### 替代方案
+
+- [ 🆓📚 ] [https://chat.lmsys.org](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat>
 
 - [ 🔐🌎🔔📚 ] [https://poe.com](https://poe.com)
 
@@ -176,29 +178,29 @@
 
 <summary>点击展开</summary>
 
-- ~~[https://qachat.vercel.app](https://qachat.vercel.app) 来自 <https://github.com/yesmore/QA>~~
+- ~~[https://qachat.vercel.app](https://qachat.vercel.app) from <https://github.com/yesmore/QA>~~
 
-- ~~[https://qachat.cn](https://qachat.cn/) 来自 <https://github.com/yesmore/QA>~~
+- ~~[https://qachat.cn](https://qachat.cn/) from <https://github.com/yesmore/QA>~~
 
 - ~~[https://www.askme.mom](https://www.askme.mom/)~~
 
-- ~~[https://chat.tgbot.co](https://chat.tgbot.co/) 来自 <https://github.com/zu1k>~~
+- ~~[https://chat.tgbot.co](https://chat.tgbot.co/) from <https://github.com/zu1k>~~
 
-- ~~[https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) 来自 <https://github.com/ddiu8081/chatgpt-demo>~~
+- ~~[https://chatgpt.ddiu.me](https://chatgpt.ddiu.me) from <https://github.com/ddiu8081/chatgpt-demo>~~
 
 - ~~[https://xc.com](https://xc.com/)~~
 
-- ~~[https://chat.yqcloud.top](https://chat.yqcloud.top/) 来自 <https://github.com/binjie09>~~
+- ~~[https://chat.yqcloud.top](https://chat.yqcloud.top/) from <https://github.com/binjie09>~~
 
 - ~~[https://www.scyu.app](https://www.scyu.app/)~~
 
 - ~~[https://chatgpt-flutter.h7ml.cn](https://chatgpt-flutter.h7ml.cn)~~
 
-- ~~[https://www.aitoolgpt.com](https://www.aitoolgpt.com/) & [https://www.chatsverse.xyz](https://www.chatsverse.xyz/) 来自 <https://github.com/ourongxing/chatgpt-vercel>~~
+- ~~[https://www.aitoolgpt.com](https://www.aitoolgpt.com/) & [https://www.chatsverse.xyz](https://www.chatsverse.xyz/) from <https://github.com/ourongxing/chatgpt-vercel>~~
 
 - ~~[https://chatapi.qload.cn](https://chatapi.qload.cn)~~
 
-- ~~[https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) 来自 <https://github.com/ninvfeng/chatgpt>~~
+- ~~[https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) from <https://github.com/ninvfeng/chatgpt>~~
 
 </details>
 
