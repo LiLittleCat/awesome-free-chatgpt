@@ -76,6 +76,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
 
+- [ 🆓 ] [https://chat.muspimerol.site](https://chat.muspimerol.site/)
+
 - [ 🔐 ] [https://chatforai.com](https://chatforai.com/)
 
 - [ 🆓 ] [https://desk.im](https://desk.im/)

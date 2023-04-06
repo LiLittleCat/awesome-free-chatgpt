@@ -77,6 +77,8 @@
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
 
+- [ 🆓 ] [https://chat.muspimerol.site](https://chat.muspimerol.site/)
+
 - [ 🔐🌎 ] [https://chatforai.com](https://chatforai.com/)
 
 - [ 🆓🌎 ] [https://desk.im](https://desk.im/)
