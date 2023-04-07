@@ -105,7 +105,7 @@
 
 - [ 🆓📚 ] [https://greengpt.app](https://greengpt.app/)
 
-- [ 🆓🔔 ] [https://nat.dev](https://nat.dev/)
+- [ 🔐🔔 ] [https://nat.dev](https://nat.dev/)
 
 - [ 🆓 ] [https://chat2.geekr.dev](https://chat2.geekr.dev/) from <https://github.com/geekr-dev/geekchat>
 
