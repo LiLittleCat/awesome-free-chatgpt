@@ -95,7 +95,9 @@
 
 - [ 🆓🌎 ] [https://gpt.xeasy.me](https://gpt.xeasy.me/)
 
-- [ 🔐 ] [https://chatgpt3.fun](https://chatgpt3.fun/)
+- [ 🔐🌎 ] [https://chatgpt3.fun](https://chatgpt3.fun/)
+
+- [ 🔐 ] [https://gpt6.fun/](https://gpt6.fun/)
 
 ---
 

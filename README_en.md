@@ -72,6 +72,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://chat.gpt.bz](https://chat.gpt.bz/)
 
+- [ 🔐 ] [https://gpt6.fun/](https://gpt6.fun/)
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
