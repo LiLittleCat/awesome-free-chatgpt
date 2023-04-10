@@ -36,8 +36,6 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://freegpt.cc](https://freegpt.cc)
 
-- [ 🆓 ] [https://freegpt.one](https://freegpt.one)
-
 - [ 🆓🔔 ] [https://freechatgpt.chat](https://freechatgpt.chat/) from <https://github.com/ztjhz/ChatGPTFreeApp>
 
 - [ 🆓 ] [https://dev.yqcloud.top](https://dev.yqcloud.top)
@@ -47,12 +45,6 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🔐 ] [https://94gpt.com](https://94gpt.com)
 
 - [ 🔐 ] [https://chat.forchange.cn](https://chat.forchange.cn/)
-
-- [ 🆓 ] [http://gitopenchina.gitee.io/gpt](http://gitopenchina.gitee.io/gpt)
-
-- [ 🆓 ] [http://gitopenchina.gitee.io/chatgpt](http://gitopenchina.gitee.io/chatgpt)
-
-- [ 🆓 ] [http://gitopenchina.gitee.io/freechatgpt](http://gitopenchina.gitee.io/freechatgpt)
 
 - [ 🆓🔔 ] [https://ai117.com](https://ai117.com)
 
@@ -73,6 +65,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🆓 ] [https://chat.gpt.bz](https://chat.gpt.bz/)
 
 - [ 🔐 ] [https://gpt6.fun/](https://gpt6.fun/)
+
+- [ 🆓 ] [https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch](https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch) from <https://github.com/heimoshuiyu/chatgpt-api-web>
 
 ---
 
@@ -182,6 +176,14 @@ Feel free to submit issues and PRs to add new websites or report website failure
 <details>
 
 <summary>Click to expand</summary>
+
+- ~~[https://freegpt.one](https://freegpt.one)~~
+
+- ~~[http://gitopenchina.gitee.io/gpt](http://gitopenchina.gitee.io/gpt)~~
+
+- ~~[http://gitopenchina.gitee.io/chatgpt](http://gitopenchina.gitee.io/chatgpt)~~
+
+- ~~[http://gitopenchina.gitee.io/freechatgpt](http://gitopenchina.gitee.io/freechatgpt)~~
 
 - ~~[https://qachat.vercel.app](https://qachat.vercel.app) 来自 <https://github.com/yesmore/QA>~~
 
