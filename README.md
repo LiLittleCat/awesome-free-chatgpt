@@ -38,23 +38,15 @@
 
 - [ 🔐🌎 ] [https://freegpt.cc](https://freegpt.cc)
 
-- [ 🆓🌎 ] [https://freegpt.one](https://freegpt.one)
-
 - [ 🆓🌎🔔 ] [https://freechatgpt.chat](https://freechatgpt.chat/) from <https://github.com/ztjhz/ChatGPTFreeApp>
 
 - [ 🆓 ] [https://dev.yqcloud.top](https://dev.yqcloud.top)
 
-- [ 🆓 ] [https://ai.bo-e.com](https://ai.bo-e.com/)
+- [ 🆓🌎 ] [https://ai.bo-e.com](https://ai.bo-e.com/)
 
 - [ 🔐🌎 ] [https://94gpt.com](https://94gpt.com)
 
 - [ 🔐 ] [https://chat.forchange.cn](https://chat.forchange.cn/)
-
-- [ 🆓 ] [http://gitopenchina.gitee.io/gpt](http://gitopenchina.gitee.io/gpt)
-
-- [ 🆓 ] [http://gitopenchina.gitee.io/chatgpt](http://gitopenchina.gitee.io/chatgpt)
-
-- [ 🆓 ] [http://gitopenchina.gitee.io/freechatgpt](http://gitopenchina.gitee.io/freechatgpt)
 
 - [ 🆓🌎🔔 ] [https://ai117.com](https://ai117.com)
 
@@ -73,6 +65,8 @@
 - [ 🆓 ] [https://ai.zyun.vip](https://ai.zyun.vip/)
 
 - [ 🆓 ] [https://chat.gpt.bz](https://chat.gpt.bz/)
+
+- [ 🆓 ] [https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch](https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch) from <https://github.com/heimoshuiyu/chatgpt-api-web>
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
@@ -156,7 +150,7 @@
 
 ### 替代方案
 
-- [ 🆓📚 ] [https://chat.lmsys.org](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat>
+- [ 🆓📚🌎 ] [https://chat.lmsys.org](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat>
 
 - [ 🔐🌎🔔📚 ] [https://poe.com](https://poe.com)
 
@@ -183,6 +177,14 @@
 <details>
 
 <summary>点击展开</summary>
+
+- ~~[https://freegpt.one](https://freegpt.one)~~
+
+- ~~[http://gitopenchina.gitee.io/gpt](http://gitopenchina.gitee.io/gpt)~~
+
+- ~~[http://gitopenchina.gitee.io/chatgpt](http://gitopenchina.gitee.io/chatgpt)~~
+
+- ~~[http://gitopenchina.gitee.io/freechatgpt](http://gitopenchina.gitee.io/freechatgpt)~~
 
 - ~~[https://qachat.vercel.app](https://qachat.vercel.app) from <https://github.com/yesmore/QA>~~
 
