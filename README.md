@@ -66,6 +66,8 @@
 
 - [ 🆓 ] [https://chat.gpt.bz](https://chat.gpt.bz/)
 
+- [ 🔐 ] [https://gpt6.fun/](https://gpt6.fun/)
+
 - [ 🆓 ] [https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch](https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch) from <https://github.com/heimoshuiyu/chatgpt-api-web>
 ---
 
@@ -85,11 +87,13 @@
 
 - [ 🆓🌎 ] [https://chat2.xeasy.me](https://chat2.xeasy.me/)
 
-- [ 🆓🌎 ] [https://chatcat.pages.dev](https://chatcat.pages.dev)
-
 - [ 🆓🌎 ] [https://gpt.xeasy.me](https://gpt.xeasy.me/)
 
-- [ 🔐 ] [https://gpt6.fun/](https://gpt6.fun/)
+- [ 🆓 ] [https://chat12.xeasy.me](https://chat12.xeasy.me/)
+
+- [ 🆓 ] [https://chat13.xeasy.me](https://chat13.xeasy.me/)
+
+- [ 🆓🌎 ] [https://chatcat.pages.dev](https://chatcat.pages.dev)
 
 - [ 🆓 ] [https://www.chatgptunli.com/chatgpt/](https://www.chatgptunli.com/chatgpt/)
 

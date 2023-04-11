@@ -86,11 +86,13 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://chat2.xeasy.me](https://chat2.xeasy.me/)
 
-- [ 🆓 ] [https://chatcat.pages.dev](https://chatcat.pages.dev)
-
 - [ 🆓 ] [https://gpt.xeasy.me](https://gpt.xeasy.me/)
 
-- [ 🔐 ] [https://gpt6.fun/](https://gpt6.fun/)
+- [ 🆓 ] [https://chat12.xeasy.me](https://chat12.xeasy.me/)
+
+- [ 🆓 ] [https://chat13.xeasy.me](https://chat13.xeasy.me/)
+
+- [ 🆓 ] [https://chatcat.pages.dev](https://chatcat.pages.dev)
 
 - [ 🆓 ] [https://www.chatgptunli.com/chatgpt/](https://www.chatgptunli.com/chatgpt/)
 
