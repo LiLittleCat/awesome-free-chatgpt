@@ -83,15 +83,15 @@
 
 - [ 🆓🌎 ] [https://talk.xiu.ee](https://talk.xiu.ee/)
 
-- [ 🌎 ] [https://chat2.xeasy.me](https://chat2.xeasy.me/)
+- [ 🆓🌎 ] [https://chat2.xeasy.me](https://chat2.xeasy.me/)
 
 - [ 🆓🌎 ] [https://chatcat.pages.dev](https://chatcat.pages.dev)
 
 - [ 🆓🌎 ] [https://gpt.xeasy.me](https://gpt.xeasy.me/)
 
-- [ 🔐🌎 ] [https://chatgpt3.fun](https://chatgpt3.fun/)
-
 - [ 🔐 ] [https://gpt6.fun/](https://gpt6.fun/)
+
+- [ 🆓 ] [https://www.chatgptunli.com/chatgpt/](https://www.chatgptunli.com/chatgpt/)
 
 ---
 
@@ -177,6 +177,8 @@
 <details>
 
 <summary>点击展开</summary>
+
+- ~~[https://chatgpt3.fun](https://chatgpt3.fun/)~~
 
 - ~~[https://freegpt.one](https://freegpt.one)~~
 

@@ -84,13 +84,13 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://talk.xiu.ee](https://talk.xiu.ee/)
 
-- [  ] [https://chat2.xeasy.me](https://chat2.xeasy.me/)
+- [ 🆓 ] [https://chat2.xeasy.me](https://chat2.xeasy.me/)
 
 - [ 🆓 ] [https://chatcat.pages.dev](https://chatcat.pages.dev)
 
 - [ 🆓 ] [https://gpt.xeasy.me](https://gpt.xeasy.me/)
 
-- [ 🔐 ] [https://chatgpt3.fun](https://chatgpt3.fun/)
+- [ 🔐 ] [https://gpt6.fun/](https://gpt6.fun/)
 
 - [ 🆓 ] [https://www.chatgptunli.com/chatgpt/](https://www.chatgptunli.com/chatgpt/)
 
@@ -178,6 +178,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 <details>
 
 <summary>Click to expand</summary>
+
+- ~~[https://chatgpt3.fun](https://chatgpt3.fun/)~~
 
 - ~~[https://freegpt.one](https://freegpt.one)~~
 
