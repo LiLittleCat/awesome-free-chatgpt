@@ -92,6 +92,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://chatgpt3.fun](https://chatgpt3.fun/)
 
+- [ 🆓 ] [https://www.chatgptunli.com/chatgpt/](https://www.chatgptunli.com/chatgpt/)
+
 ---
 
 ### Other styles
