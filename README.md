@@ -34,6 +34,8 @@
 
 - [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) from <https://github.com/Chanzhaoyu/chatgpt-web>
 
+- [ 🆓 ] [https://www.aitianhu.com](https://www.aitianhu.com/)
+
 - [ 🔐🌎🔔 ] [https://fastgpt.app](https://fastgpt.app/) from <https://github.com/yuezk/chatgpt-mirror>
 
 - [ 🔐🌎 ] [https://freegpt.cc](https://freegpt.cc)
