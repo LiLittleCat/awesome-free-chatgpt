@@ -172,6 +172,8 @@
 
 - [ 🚧📚 ] [Open Assistant](https://open-assistant.io/)
 
+- [ 🚧📚 ] [阿里 通义千问](https://tongyi.aliyun.com/)
+
 ---
 
 ### 软件

@@ -170,6 +170,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🚧📚 ] [Open Assistant](https://open-assistant.io/)
 
+- [ 🚧📚 ] [阿里 通义千问](https://tongyi.aliyun.com/)
+
 ---
 
 ### Softwares
