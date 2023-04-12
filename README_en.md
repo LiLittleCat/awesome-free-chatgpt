@@ -70,6 +70,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch](https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch) from <https://github.com/heimoshuiyu/chatgpt-api-web>
 
+- [ 🆓 ] [https://chat.ohtoai.com](https://chat.ohtoai.com/)
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
