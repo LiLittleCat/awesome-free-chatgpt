@@ -137,7 +137,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://chat.zecoba.cn](https://chat.zecoba.cn/)
 
-- [ 🔐 ] [https://www.tdchat.com](https://www.tdchat.com/)
+- [ 🆓🔔 ] [http://www.tdchat.vip](http://www.tdchat.vip/)
 
 - [ 🆓 ] [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
 
@@ -185,6 +185,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 <details>
 
 <summary>Click to expand</summary>
+
+- ~~[https://www.tdchat.com](https://www.tdchat.com/)~~
 
 - ~~[https://chatgpt3.fun](https://chatgpt3.fun/)~~
 

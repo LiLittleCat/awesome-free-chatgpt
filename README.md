@@ -139,7 +139,7 @@
 
 - [ 🔐 ] [https://chat.zecoba.cn](https://chat.zecoba.cn/)
 
-- [ 🔐 ] [https://www.tdchat.com](https://www.tdchat.com/)
+- [ 🆓🔔 ] [http://www.tdchat.vip](http://www.tdchat.vip/)
 
 - [ 🆓 ] [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
 
@@ -187,6 +187,8 @@
 <details>
 
 <summary>点击展开</summary>
+
+- ~~[https://www.tdchat.com](https://www.tdchat.com/)~~
 
 - ~~[https://chatgpt3.fun](https://chatgpt3.fun/)~~
 
