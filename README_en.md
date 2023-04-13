@@ -152,7 +152,10 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🔐 ] [https://ai.cheapy.top](https://ai.cheapy.top)
 
 - [ 🔐 ] [https://www.chatbotui.com](https://www.chatbotui.com/) from <https://github.com/mckaywrigley/chatbot-ui>
-- [ 🔐 ] [https://chat.aicn.me](https://chat.aicn.me)
+
+- [ 🆓🔐 ] [https://chat.aicn.me](https://chat.aicn.me)
+
+- [ 🔐 ] [https://a.aizh.app](https://a.aizh.app/)
 ---
 
 ### Alternatives
