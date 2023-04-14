@@ -168,7 +168,7 @@
 
 - [ 🔐🌎🔔 ] [Bing Chat](https://www.bing.com/new)
 
-- [ 🚧📚 ] [Google Bard](https://bard.google.com)
+- [ 📚 ] [Google Bard](https://bard.google.com)
 
 - [ 🚧📚 ] [Anthropic Claude](https://www.anthropic.com/product)
 
