@@ -156,6 +156,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🆓🔐 ] [https://chat.aicn.me](https://chat.aicn.me)
 
 - [ 🔐 ] [https://a.aizh.app](https://a.aizh.app/)
+
+- [ 🆓 ] [https://gpt.xcbl.cc](https://gpt.xcbl.cc)
 ---
 
 ### Alternatives
@@ -166,7 +168,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐🌎🔔 ] [Bing Chat](https://www.bing.com/new)
 
-- [ 🚧📚 ] [Google Bard](https://bard.google.com)
+- [ 📚 ] [Google Bard](https://bard.google.com)
 
 - [ 🚧📚 ] [Anthropic Claude](https://www.anthropic.com/product)
 
