@@ -158,6 +158,8 @@
 - [ 🆓🔐 ] [https://chat.aicn.me](https://chat.aicn.me)
 
 - [ 🔐 ] [https://a.aizh.app](https://a.aizh.app/)
+
+- [ 🆓 ] [https://gpt.xcbl.cc](https://gpt.xcbl.cc)
 ---
 
 ### 替代方案

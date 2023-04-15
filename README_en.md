@@ -156,6 +156,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🆓🔐 ] [https://chat.aicn.me](https://chat.aicn.me)
 
 - [ 🔐 ] [https://a.aizh.app](https://a.aizh.app/)
+
+- [ 🆓 ] [https://gpt.xcbl.cc](https://gpt.xcbl.cc)
 ---
 
 ### Alternatives
