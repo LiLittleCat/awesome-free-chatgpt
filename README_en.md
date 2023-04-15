@@ -99,6 +99,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://www.chatgptunli.com/chatgpt/](https://www.chatgptunli.com/chatgpt/)
 
+- [ 🆓 ] [https://chat.zhuleixx.top](https://chat.zhuleixx.top/)
+
 ---
 
 ### Other styles

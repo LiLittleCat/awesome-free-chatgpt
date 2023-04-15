@@ -101,6 +101,8 @@
 
 - [ 🆓 ] [https://www.chatgptunli.com/chatgpt/](https://www.chatgptunli.com/chatgpt/)
 
+- [ 🆓 ] [https://chat.zhuleixx.top](https://chat.zhuleixx.top/)
+
 ---
 
 ### 其他风格
