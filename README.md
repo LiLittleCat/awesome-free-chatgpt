@@ -101,7 +101,7 @@
 
 - [ 🆓 ] [https://www.chatgptunli.com/chatgpt/](https://www.chatgptunli.com/chatgpt/)
 
-- [ 🆓 ] [https://chat.zhuleixx.top](https://chat.zhuleixx.top/)
+- [ 🆓 ] [https://chat2.zhuleixx.top](https://chat2.zhuleixx.top/)
 
 ---
 
@@ -195,6 +195,8 @@
 <details>
 
 <summary>点击展开</summary>
+
+- ~~[https://chat.zhuleixx.top](https://chat.zhuleixx.top/)~~
 
 - ~~[https://www.tdchat.com](https://www.tdchat.com/)~~
 
