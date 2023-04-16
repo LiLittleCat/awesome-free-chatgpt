@@ -99,7 +99,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://www.chatgptunli.com/chatgpt/](https://www.chatgptunli.com/chatgpt/)
 
-- [ 🆓 ] [https://chat.zhuleixx.top](https://chat.zhuleixx.top/)
+- [ 🆓 ] [https://chat2.zhuleixx.top](https://chat2.zhuleixx.top/)
 
 ---
 
@@ -193,6 +193,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 <details>
 
 <summary>Click to expand</summary>
+
+- ~~[https://chat.zhuleixx.top](https://chat.zhuleixx.top/)~~
 
 - ~~[https://www.tdchat.com](https://www.tdchat.com/)~~
 
