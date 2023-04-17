@@ -162,6 +162,8 @@
 - [ 🔐 ] [https://a.aizh.app](https://a.aizh.app/)
 
 - [ 🆓 ] [https://gpt.xcbl.cc](https://gpt.xcbl.cc)
+
+- [ 🆓🌎 ] [https://chatgptproxy.info](https://chatgptproxy.info)
 ---
 
 ### 替代方案
