@@ -170,6 +170,7 @@
 
 - [ 🔐 ] [https://openmao.panchuang.net](https://openmao.panchuang.net/)
 
+- [ 🔐 ] [https://www.weijiwangluo.com/talk](https://www.weijiwangluo.com/talk)
 ---
 
 ### 替代方案

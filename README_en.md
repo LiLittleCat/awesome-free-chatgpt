@@ -168,6 +168,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://openmao.panchuang.net](https://openmao.panchuang.net/)
 
+- [ 🔐 ] [https://www.weijiwangluo.com/talk](https://www.weijiwangluo.com/talk)
 ---
 
 ### Alternatives
