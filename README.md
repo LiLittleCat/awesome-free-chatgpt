@@ -76,6 +76,8 @@
 
 - [ 🆓 ] [http://www.msai.fun](http://www.msai.fun/)
 
+- [ 🆓 ] [https://chat.gptplus.one](https://chat.gptplus.one)
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格

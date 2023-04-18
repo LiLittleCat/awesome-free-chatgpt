@@ -74,6 +74,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [http://www.msai.fun](http://www.msai.fun/)
 
+- [ 🆓 ] [https://chat.gptplus.one](https://chat.gptplus.one)
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
