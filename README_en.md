@@ -42,8 +42,6 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://dev.yqcloud.top](https://dev.yqcloud.top)
 
-- [ 🆓 ] [https://ai.bo-e.com](https://ai.bo-e.com/)
-
 - [ 🔐 ] [https://94gpt.com](https://94gpt.com)
 
 - [ 🔐 ] [https://chat.forchange.cn](https://chat.forchange.cn/)
@@ -71,6 +69,11 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🆓 ] [https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch](https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch) from <https://github.com/heimoshuiyu/chatgpt-api-web>
 
 - [ 🆓 ] [https://chat.ohtoai.com](https://chat.ohtoai.com/)
+
+- [ 🆓 ] [https://mirrorchat.extkj.cn](https://mirrorchat.extkj.cn/)
+
+- [ 🆓 ] [http://www.msai.fun](http://www.msai.fun/)
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
@@ -162,6 +165,9 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🆓 ] [https://gpt.xcbl.cc](https://gpt.xcbl.cc)
 
 - [ 🆓🌎 ] [https://chatgptproxy.info](https://chatgptproxy.info)
+
+- [ 🔐 ] [https://openmao.panchuang.net](https://openmao.panchuang.net/)
+
 ---
 
 ### Alternatives
@@ -195,6 +201,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 <details>
 
 <summary>Click to expand</summary>
+
+- ~~[https://ai.bo-e.com](https://ai.bo-e.com/)~~
 
 - ~~[https://chat.zhuleixx.top](https://chat.zhuleixx.top/)~~
 
