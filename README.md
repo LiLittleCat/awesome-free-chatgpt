@@ -75,6 +75,7 @@
 - [ 🆓 ] [https://mirrorchat.extkj.cn](https://mirrorchat.extkj.cn/)
 
 - [ 🆓 ] [http://www.msai.fun](http://www.msai.fun/)
+- [ 🆓 ] [https://freegpt.one/](https://freegpt.one/)
 
 ---
 
