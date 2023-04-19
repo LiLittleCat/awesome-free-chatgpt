@@ -78,6 +78,12 @@
 
 - [ 🆓 ] [https://chat.gptplus.one](https://chat.gptplus.one)
 
+- [ 🆓📚 ] [https://chat.waixingyun.cn](https://chat.waixingyun.cn)
+
+- [ 🆓 ] [https://chat.xiami.one](https://chat.xiami.one)
+
+- [ 🆓 ] [https://www.nav4ai.com/chatgpt](https://www.nav4ai.com/chatgpt)
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
