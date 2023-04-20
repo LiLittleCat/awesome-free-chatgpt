@@ -150,7 +150,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://chat.zecoba.cn](https://chat.zecoba.cn/)
 
-- [ 🆓🔔 ] [http://www.tdchat.vip](http://www.tdchat.vip/)
+- [ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)
 
 - [ 🆓 ] [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
 
@@ -210,6 +210,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 <details>
 
 <summary>Click to expand</summary>
+
+- ~~[http://www.tdchat.vip](http://www.tdchat.vip/)~~ - 2023-04-20
 
 - ~~[https://ai.bo-e.com](https://ai.bo-e.com/)~~
 
