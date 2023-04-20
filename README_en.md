@@ -30,7 +30,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### Similar to the official website style
 
-- [ 🆓 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) from <https://github.com/Chanzhaoyu/chatgpt-web>
+- [ 🆓 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/)
 
 - [ 🆓 ] [https://www.aitianhu.com](https://www.aitianhu.com/)
 
@@ -60,15 +60,11 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://ai.bumo.to](https://ai.bumo.to/)
 
-- [ 🆓 ] [https://ai.zyun.vip](https://ai.zyun.vip/)
-
 - [ 🆓 ] [https://chat.gpt.bz](https://chat.gpt.bz/)
 
 - [ 🔐 ] [https://gpt6.fun/](https://gpt6.fun/)
 
 - [ 🆓 ] [https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch](https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch) from <https://github.com/heimoshuiyu/chatgpt-api-web>
-
-- [ 🆓 ] [https://chat.ohtoai.com](https://chat.ohtoai.com/)
 
 - [ 🆓 ] [https://mirrorchat.extkj.cn](https://mirrorchat.extkj.cn/)
 
@@ -210,6 +206,10 @@ Feel free to submit issues and PRs to add new websites or report website failure
 <details>
 
 <summary>Click to expand</summary>
+
+- ~~[https://chat.ohtoai.com](https://chat.ohtoai.com/)~~ - 2023-04-20
+
+- ~~[https://ai.zyun.vip](https://ai.zyun.vip/)~~ - 2023-04-20
 
 - ~~[http://www.tdchat.vip](http://www.tdchat.vip/)~~ - 2023-04-20
 

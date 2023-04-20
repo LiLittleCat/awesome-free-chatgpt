@@ -32,9 +32,9 @@
 
 ### 类似官网风格
 
-- [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) from <https://github.com/Chanzhaoyu/chatgpt-web>
+- [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/)
 
-- [ 🆓 ] [https://www.aitianhu.com](https://www.aitianhu.com/)
+- [ 🆓🌎 ] [https://www.aitianhu.com](https://www.aitianhu.com/)
 
 - [ 🔐🌎🔔 ] [https://fastgpt.app](https://fastgpt.app/) from <https://github.com/yuezk/chatgpt-mirror>
 
@@ -62,15 +62,11 @@
 
 - [ 🔐 ] [https://ai.bumo.to](https://ai.bumo.to/)
 
-- [ 🆓 ] [https://ai.zyun.vip](https://ai.zyun.vip/)
-
 - [ 🆓 ] [https://chat.gpt.bz](https://chat.gpt.bz/)
 
 - [ 🔐 ] [https://gpt6.fun/](https://gpt6.fun/)
 
 - [ 🆓 ] [https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch](https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch) from <https://github.com/heimoshuiyu/chatgpt-api-web>
-
-- [ 🆓 ] [https://chat.ohtoai.com](https://chat.ohtoai.com/)
 
 - [ 🆓 ] [https://mirrorchat.extkj.cn](https://mirrorchat.extkj.cn/)
 
@@ -212,6 +208,10 @@
 <details>
 
 <summary>点击展开</summary>
+
+- ~~[https://chat.ohtoai.com](https://chat.ohtoai.com/)~~ - 2023-04-20
+
+- ~~[https://ai.zyun.vip](https://ai.zyun.vip/)~~ - 2023-04-20
 
 - ~~[http://www.tdchat.vip](http://www.tdchat.vip/)~~ - 2023-04-20
 
