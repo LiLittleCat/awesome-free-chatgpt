@@ -152,7 +152,7 @@
 
 - [ 🔐 ] [https://chat.zecoba.cn](https://chat.zecoba.cn/)
 
-- [ 🆓🔔 ] [http://www.tdchat.vip](http://www.tdchat.vip/)
+- [ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)
 
 - [ 🆓 ] [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
 
@@ -212,6 +212,8 @@
 <details>
 
 <summary>点击展开</summary>
+
+- ~~[http://www.tdchat.vip](http://www.tdchat.vip/)~~ - 2023-04-20
 
 - ~~[https://ai.bo-e.com](https://ai.bo-e.com/)~~
 
