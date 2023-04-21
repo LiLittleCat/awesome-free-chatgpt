@@ -108,7 +108,7 @@
 
 - [ 🆓 ] [https://www.chatgptunli.com/chatgpt/](https://www.chatgptunli.com/chatgpt/)
 
-- [ 🆓 ] [https://chat2.zhuleixx.top](https://chat2.zhuleixx.top/)
+- [ 🆓 ] [https://chat.zhulei.xyz](https://chat.zhulei.xyz)
 
 ---
 
@@ -212,6 +212,8 @@
 <details>
 
 <summary>点击展开</summary>
+
+- ~~[https://chat2.zhuleixx.top](https://chat2.zhuleixx.top/)~~ - 2023-04-21
 
 - ~~[https://chat.ohtoai.com](https://chat.ohtoai.com/)~~ - 2023-04-20
 
