@@ -175,6 +175,10 @@
 - [ 🔐 ] [https://openmao.panchuang.net](https://openmao.panchuang.net/)
 
 - [ 🔐 ] [https://www.weijiwangluo.com/talk](https://www.weijiwangluo.com/talk)
+
+- [ 🔐 ] [https://chat.iwoso.co](https://chat.iwoso.co/)
+
+- [ 🆓🔐 ] [https://chat.8kg.co](https://chat.8kg.co)
 ---
 
 ### 替代方案
