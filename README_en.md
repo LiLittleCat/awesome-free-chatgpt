@@ -106,7 +106,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://www.chatgptunli.com/chatgpt/](https://www.chatgptunli.com/chatgpt/)
 
-- [ 🆓 ] [https://chat2.zhuleixx.top](https://chat2.zhuleixx.top/)
+- [ 🆓 ] [https://chat.zhulei.xyz](https://chat.zhulei.xyz)
 
 ---
 
@@ -210,6 +210,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 <details>
 
 <summary>Click to expand</summary>
+
+- ~~[https://chat2.zhuleixx.top](https://chat2.zhuleixx.top/)~~ - 2023-04-21
 
 - ~~[https://chat.ohtoai.com](https://chat.ohtoai.com/)~~ - 2023-04-20
 
