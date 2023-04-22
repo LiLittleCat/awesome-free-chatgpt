@@ -80,6 +80,8 @@
 
 - [ 🆓 ] [https://www.nav4ai.com/chatgpt](https://www.nav4ai.com/chatgpt)
 
+- [ 🆓 ] [http://chat.cutim.top](http://chat.cutim.top) - 2023-04-22
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
@@ -179,6 +181,8 @@
 - [ 🔐 ] [https://chat.iwoso.co](https://chat.iwoso.co/)
 
 - [ 🆓🔐 ] [https://chat.8kg.co](https://chat.8kg.co)
+
+- [ 🆓🔐🔔 ] [https://www.vivi-chat.com/#/chat](https://www.vivi-chat.com/#/chat) - 2023-04-22
 ---
 
 ### 替代方案
