@@ -180,7 +180,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓🔐 ] [https://chat.8kg.co](https://chat.8kg.co)
 
-- [ 🆓🔐🔔 ] [https://www.vivi-chat.com/#/chat](https://www.vivi-chat.com/#/chat)
+- [ 🆓🔐🔔 ] [https://www.vivi-chat.com/#/chat](https://www.vivi-chat.com/#/chat) - 2023-04-22
 ---
 
 ### Alternatives

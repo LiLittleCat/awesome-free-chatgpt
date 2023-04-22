@@ -182,7 +182,7 @@
 
 - [ 🆓🔐 ] [https://chat.8kg.co](https://chat.8kg.co)
 
-- [ 🆓🔐🔔 ] [https://www.vivi-chat.com/#/chat](https://www.vivi-chat.com/#/chat)
+- [ 🆓🔐🔔 ] [https://www.vivi-chat.com/#/chat](https://www.vivi-chat.com/#/chat) - 2023-04-22
 ---
 
 ### 替代方案
