@@ -32,7 +32,7 @@
 
 ### 类似官网风格
 
-- [ 🔐 ] [https://chatpg-cn.co](https://chatpg-cn.co/)
+- [ 🔐 ] [https://chatgpt-cn.co](https://chatgpt-cn.co/)
 
 - [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/)
 
