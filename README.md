@@ -32,6 +32,8 @@
 
 ### 类似官网风格
 
+- [ 🔐 ] [https://chatpg-cn.co](https://chatpg-cn.co/)
+
 - [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/)
 
 - [ 🆓🌎 ] [https://www.aitianhu.com](https://www.aitianhu.com/)
