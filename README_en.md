@@ -82,6 +82,12 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓🌎 ][https://freegpt.one](https://freegpt.one) - 2023-04-23
 
+- [ 🆓 ][http://chat.cutim.one](http://chat.cutim.one/) - 2023-04-24
+
+- [ 🆓 ][https://chat.wobcw.com](https://chat.wobcw.com/) - 2023-04-24
+
+- [ 🆓 ][https://www.promptboom.com](https://www.promptboom.com/) - 2023-04-24
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
@@ -185,6 +191,10 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🆓🔐🔔 ] [https://www.vivi-chat.com/#/chat](https://www.vivi-chat.com/#/chat) - 2023-04-22
 
 - [ 🔐 ] [https://www.baoteyun.com/ai](https://www.baoteyun.com/ai) - 2023-04-23
+
+- [ 🆓 ][https://f1.nbai.live](https://f1.nbai.live/) - 2023-04-24
+
+- [ 🆓 ][https://f1.52chye.cn](https://f1.52chye.cn/) - 2023-04-24
 ---
 
 ### Alternatives
