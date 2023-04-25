@@ -197,6 +197,8 @@
 - [ 🆓 ][https://f1.nbai.live](https://f1.nbai.live/) - 2023-04-24
 
 - [ 🆓 ][https://f1.52chye.cn](https://f1.52chye.cn/) - 2023-04-24
+
+- [ 🔐 ][https://chat.hehanwang.com](https://chat.hehanwang.com/) - 2023-04-25
 ---
 
 ### 替代方案
