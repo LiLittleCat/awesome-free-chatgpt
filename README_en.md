@@ -104,7 +104,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://ai.ci](https://ai.ci/)
 
-- [ 🆓 ] [https://talk.xiu.ee](https://talk.xiu.ee/)
+- [ 🔐 ] [https://talk.xiu.ee](https://talk.xiu.ee/)
 
 - [ 🆓 ] [https://chat2.xeasy.me](https://chat2.xeasy.me/)
 

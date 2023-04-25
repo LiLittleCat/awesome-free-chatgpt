@@ -104,7 +104,7 @@
 
 - [ 🆓🌎 ] [https://ai.ci](https://ai.ci/)
 
-- [ 🆓🌎 ] [https://talk.xiu.ee](https://talk.xiu.ee/)
+- [ 🔐🌎 ] [https://talk.xiu.ee](https://talk.xiu.ee/)
 
 - [ 🆓🌎 ] [https://chat2.xeasy.me](https://chat2.xeasy.me/)
 
