@@ -88,6 +88,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ][https://www.promptboom.com](https://www.promptboom.com/) - 2023-04-24
 
+- [ 🔐 ][https://chat.hehanwang.com](https://chat.hehanwang.com/) - 2023-04-25
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
