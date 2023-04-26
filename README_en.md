@@ -201,6 +201,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### Alternatives
 
+- [ 🆓 ] [https://huggingface.co/chat](https://huggingface.co/chat) from https://huggingface.co - 2023-04-26
+
 - [ 🆓📚 ] [https://chat.lmsys.org](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat>
 
 - [ 🔐🌎🔔📚 ] [https://poe.com](https://poe.com)
