@@ -197,6 +197,9 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🆓 ][https://f1.nbai.live](https://f1.nbai.live/) - 2023-04-24
 
 - [ 🆓 ][https://f1.52chye.cn](https://f1.52chye.cn/) - 2023-04-24
+
+- [ 🔐🆓 ][https://pro.ai.ls/](https://pro.ai.ls/) - 2023-04-26
+
 ---
 
 ### Alternatives

@@ -201,6 +201,9 @@
 - [ 🆓 ][https://f1.52chye.cn](https://f1.52chye.cn/) - 2023-04-24
 
 - [ 🔐 ][https://chat.hehanwang.com](https://chat.hehanwang.com/) - 2023-04-25
+
+- [ 🔐🆓 ][https://pro.ai.ls/](https://pro.ai.ls/) - 2023-04-26
+
 ---
 
 ### 替代方案
