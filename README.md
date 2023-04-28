@@ -98,6 +98,8 @@
 
 - [ 🔐 ][https://chat.douresources.com](https://chat.douresources.com) - 2023-04-28
 
+- [ 🆓📚 ][https://ai-pig-fly.space](https://ai-pig-fly.space/) - 2023-04-28
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
