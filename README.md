@@ -92,6 +92,8 @@
 
 - [ 🆓 ][https://w.betai55.uk/](https://w.betai55.uk/) - 2023-04-26 - 密码 pub04-23Xs67AErn454
 
+- [ 🆓 ][https://gpt.gpt0.icu](https://gpt.gpt0.icu) - 2023-04-26
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
