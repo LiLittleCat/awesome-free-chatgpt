@@ -98,7 +98,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
 
-- [ 🆓 ] [https://chat.muspimerol.site](https://chat.muspimerol.site/)
+- [ 🆓 ] [https://index.chat.bnu120.space](https://index.chat.bnu120.space) - 2023-04-28
 
 - [ 🔐 ] [https://chatforai.com](https://chatforai.com/)
 
