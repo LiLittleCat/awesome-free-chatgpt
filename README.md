@@ -100,7 +100,7 @@
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
 
-- [ 🆓 ] [https://chat.muspimerol.site](https://chat.muspimerol.site/)
+- [ 🆓 ] [https://index.chat.bnu120.space](https://index.chat.bnu120.space) - 2023-04-28
 
 - [ 🔐🌎 ] [https://chatforai.com](https://chatforai.com/)
 
