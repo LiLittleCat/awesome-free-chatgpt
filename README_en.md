@@ -90,9 +90,9 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ][https://chat.hehanwang.com](https://chat.hehanwang.com/) - 2023-04-25
 
-- [ 🆓 ][https://gpt.gpt0.icu](https://gpt.gpt0.icu) - 2023-04-26
-
 - [ 🆓 ][https://x1.xjai.cc](https://x1.xjai.cc/) - 2023-04-27
+
+- [ 🆓 ][https://gpt.ai8.icu](https://gpt.ai8.icu) - 2023-04-28
 
 ---
 
@@ -239,6 +239,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 <details>
 
 <summary>Click to expand</summary>
+
+- ~~[https://gpt.gpt0.icu](https://gpt.gpt0.icu)~~ - 2023-04-28
 
 - ~~[https://chat2.zhuleixx.top](https://chat2.zhuleixx.top/)~~ - 2023-04-21
 

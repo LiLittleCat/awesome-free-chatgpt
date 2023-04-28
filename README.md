@@ -92,9 +92,9 @@
 
 - [ 🆓 ][https://w.betai55.uk/](https://w.betai55.uk/) - 2023-04-26 - 密码 pub04-23Xs67AErn454
 
-- [ 🆓 ][https://gpt.gpt0.icu](https://gpt.gpt0.icu) - 2023-04-26
-
 - [ 🆓 ][https://x1.xjai.cc](https://x1.xjai.cc/) - 2023-04-27
+
+- [ 🆓 ][https://gpt.ai8.icu](https://gpt.ai8.icu) - 2023-04-28
 
 ---
 
@@ -243,6 +243,8 @@
 <details>
 
 <summary>点击展开</summary>
+
+- ~~[https://gpt.gpt0.icu](https://gpt.gpt0.icu)~~ - 2023-04-28
 
 - ~~[https://chat2.zhuleixx.top](https://chat2.zhuleixx.top/)~~ - 2023-04-21
 
