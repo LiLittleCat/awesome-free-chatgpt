@@ -134,6 +134,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 ### Other styles
 
+- [ 🆓 ] [askwise https://ai.heptax.com](https://ai.heptax.com)
+
 - [ 🆓 ] [https://ailink.icu](https://ailink.icu/)
 
 - [ 🆓📚 ] [https://greengpt.app](https://greengpt.app/)
@@ -228,9 +230,11 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🚧📚 ] [Baidu ERNIE Bot](https://yiyan.baidu.com/welcome)
 
-- [ 🚧📚 ] [Open Assistant](https://open-assistant.io/)
+- [ 🆓🚧📚 ] [Open Assistant](https://open-assistant.io/)
 
 - [ 🚧📚 ] [阿里 通义千问](https://tongyi.aliyun.com/)
+
+- [ 🚧📚 ] [iFLYTEK Spark](https://xinghuo.xfyun.cn/)
 
 ---
 

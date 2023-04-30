@@ -136,6 +136,8 @@
 
 ### 其他风格
 
+- [ 🆓 ] [askwise https://ai.heptax.com](https://ai.heptax.com)
+
 - [ 🆓 ] [https://ailink.icu](https://ailink.icu/)
 
 - [ 🆓📚 ] [https://greengpt.app](https://greengpt.app/)
@@ -232,9 +234,11 @@
 
 - [ 🚧📚 ] [百度 文心一言](https://yiyan.baidu.com/welcome)
 
-- [ 🚧📚 ] [Open Assistant](https://open-assistant.io/)
+- [ 🆓🚧📚 ] [Open Assistant](https://open-assistant.io/)
 
 - [ 🚧📚 ] [阿里 通义千问](https://tongyi.aliyun.com/)
+
+- [ 🚧📚 ] [科大讯飞 星火](https://xinghuo.xfyun.cn/)
 
 ---
 
