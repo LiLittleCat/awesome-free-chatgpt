@@ -220,6 +220,12 @@
 
 - [ 🆓🔔 ] [http://www.tdchat.pro/](http://www.tdchat.pro/) - 2023-05-05
 
+- [ 🆓 ][https://qa.6bbs.cn/](https://qa.6bbs.cn/) - 2023-05-05
+
+- [ 🆓 ][https://jiehan.tech/](https://jiehan.tech/) - 2023-05-05
+
+- [ 🔐 ][https://ai.dw3.io/](https://ai.dw3.io/) - 2023-05-05
+
 ---
 
 ### 替代方案
