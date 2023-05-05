@@ -174,8 +174,6 @@
 
 - [ 🔐 ] [https://chat.zecoba.cn](https://chat.zecoba.cn/)
 
-- [ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)
-
 - [ 🆓 ] [https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top/)
 
 - [ 🆓🌎 ] [https://ai.okmiku.com/chat](https://ai.okmiku.com/chat)
@@ -220,6 +218,8 @@
 
 - [ 🔐 ][https://qxme.com](https://qxme.com) - 2023-05-04
 
+- [ 🆓🔔 ] [http://www.tdchat.pro/](http://www.tdchat.pro/) - 2023-05-05
+
 ---
 
 ### 替代方案
@@ -257,6 +257,8 @@
 <details>
 
 <summary>点击展开</summary>
+
+- ~~[ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)~~ - 2023-04-20 up 2023-05-05 down
 
 - ~~[https://gpt.gpt0.icu](https://gpt.gpt0.icu)~~ - 2023-04-28
 
