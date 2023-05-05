@@ -102,6 +102,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ][https://1chat.cc](https://1chat.cc) - 2023-05-04
 
+- [ 🆓🔔 ] [http://www.tdchat.pro/](http://www.tdchat.pro/) - 2023-05-05
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
@@ -253,6 +255,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 <details>
 
 <summary>Click to expand</summary>
+
+- ~~[ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)~~ - 2023-04-20 up 2023-05-05 down
 
 - ~~[https://gpt.gpt0.icu](https://gpt.gpt0.icu)~~ - 2023-04-28
 
