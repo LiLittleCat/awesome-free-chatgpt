@@ -60,7 +60,7 @@
 
 - [ 🔐 ] [https://chatmindai.com](https://chatmindai.com/#/chat)
 
-- [ 🔐 ] [https://ai.bumo.to](https://ai.bumo.to/)
+- [ 🔐🌎🔔 ] [https://chat.bumo.ai](https://chat.bumo.ai/)
 
 - [ 🆓 ] [https://chat.gpt.bz](https://chat.gpt.bz/)
 
