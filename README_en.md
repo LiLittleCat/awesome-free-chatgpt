@@ -102,6 +102,14 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ][https://1chat.cc](https://1chat.cc) - 2023-05-04
 
+- [ 🆓🌎🔐 ] [https://tubogpt.vercel.app](https://tubogpt.vercel.app) - 2023-05-06
+
+- [ 🆓 ] [http://207.148.94.37:7860/](http://207.148.94.37:7860/) - 2023-05-06
+-
+- [ 🆓🔐 ] [https://seven-star.org](https://seven-star.org/) - 2023-05-06
+
+- [ 🆓 ] [https://ai.hxkj.vip](https://ai.hxkj.vip) - 2023-05-06
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
