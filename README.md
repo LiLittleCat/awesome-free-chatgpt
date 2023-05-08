@@ -112,6 +112,8 @@
 
 - [ 🆓 ] [https://ai.hxkj.vip](https://ai.hxkj.vip) - 2023-05-06
 
+- [ 🔐 ] [https://gpt.opengpt88.com](https://gpt.opengpt88.com) - 2023-05-07
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格

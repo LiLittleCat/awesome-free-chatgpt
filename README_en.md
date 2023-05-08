@@ -110,6 +110,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://ai.hxkj.vip](https://ai.hxkj.vip) - 2023-05-06
 
+- [ 🔐 ] [https://gpt.opengpt88.com](https://gpt.opengpt88.com) - 2023-05-07
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
