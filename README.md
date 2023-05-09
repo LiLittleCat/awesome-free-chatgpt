@@ -114,6 +114,10 @@
 
 - [ 🔐 ] [https://gpt.opengpt88.com](https://gpt.opengpt88.com) - 2023-05-07
 
+- [ 🔐 ] [https://chat.aidutu.cn](https://chat.aidutu.cn) - 2023-05-09
+
+- [ 🔐 ] [https://chat.bk8787.com](https://chat.bk8787.com) - 2023-05-09
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
