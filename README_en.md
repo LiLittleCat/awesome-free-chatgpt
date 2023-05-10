@@ -116,6 +116,12 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://chat.bk8787.com](https://chat.bk8787.com) - 2023-05-09
 
+- [ 🆓 ] [https://chatgpt.dreamtrend.net](https://chatgpt.dreamtrend.net/) - 2023-05-10
+
+- [ 🆓 ] [http://1.15.134.164:999](http://1.15.134.164:999/) - 2023-05-10
+
+- [ 🔐 ] [chat.wenwen-ai.com](chat.wenwen-ai.com) - 2023-05-10
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
