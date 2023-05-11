@@ -124,6 +124,10 @@
 
 - [ 🔐 ] [https://chat.wenwen-ai.com](https://chat.wenwen-ai.com) - 2023-05-10
 
+- [ 🆓 ] [https://chat.ok2ai.com](https://chat.ok2ai.com/) - 2023-05-11
+
+- [ 🔐 ] [https://gpt.uziai.com](https://gpt.uziai.com/) - 2023-05-11
+
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 风格
