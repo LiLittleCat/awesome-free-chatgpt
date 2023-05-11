@@ -122,7 +122,7 @@
 
 - [ 🆓 ] [http://1.15.134.164:999](http://1.15.134.164:999/) - 2023-05-10
 
-- [ 🔐 ] [chat.wenwen-ai.com](chat.wenwen-ai.com) - 2023-05-10
+- [ 🔐 ] [https://chat.wenwen-ai.com](https://chat.wenwen-ai.com) - 2023-05-10
 
 ---
 
