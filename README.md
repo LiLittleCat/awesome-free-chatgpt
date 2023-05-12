@@ -250,6 +250,8 @@
 
 - [ 🔐 ][https://ai.dw3.io/](https://ai.dw3.io/) - 2023-05-05
 
+- [ 🔐 ][https://www.freechatsgpt.com/](https://www.freechatsgpt.com/) - 2023-05-12
+
 ---
 
 ### 替代方案
