@@ -250,7 +250,10 @@
 
 - [ 🔐 ][https://ai.dw3.io/](https://ai.dw3.io/) - 2023-05-05
 
-- [ 🔐 ][https://www.freechatsgpt.com/](https://www.freechatsgpt.com/) - 2023-05-12
+- [ 🔐 ][https://www.freechatsgpt.com](https://www.freechatsgpt.com/) - 2023-05-12
+
+- [ 🔐 ][http://bamboochat.kebakeba.com](http://bamboochat.kebakeba.com/) - 2023-05-12
+
 
 ---
 
