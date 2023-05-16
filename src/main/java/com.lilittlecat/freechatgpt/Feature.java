@@ -7,11 +7,11 @@ import lombok.Getter;
  * @since 2023/5/7
  */
 @Getter
-public enum Features {
+public enum Feature {
     FREE("free", "🎁", 2f),
     FREE_QUOTA("free_quota", "🔓", 1f),
     GPT4_SUPPORTED("gpt4_supported", "💪", 1f),
-    MORE_THAN_CHAT("more_than_chat", "🎶", 0.5f),
+    MORE_THAN_CHAT("more_than_chat", "🧰", 0.5f),
     LOGIN_REQUIRED("login_required", "🔒", -1f),
     VPN_REQUIRED("vpn_required", "🌎", -1f),
     API_KEY_REQUIRED("api_key_required", "🔑", -1f),
@@ -22,7 +22,7 @@ public enum Features {
     private final String label;
     private final Float score;
 
-    Features(String value, String label, Float score) {
+    Feature(String value, String label, Float score) {
         this.value = value;
         this.label = label;
         this.score = score;
