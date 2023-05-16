@@ -1,7 +1,7 @@
 {
   "free": 2,
   "free_quota": 1,
-  "gpt4_supported": 0.5,
+  "gpt4_supported": 1,
   "more_than_chat": 0.5,
   "login_required": -1,
   "vpn_required": -1,
