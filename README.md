@@ -2,12 +2,15 @@
 
 [English](README_en.md)
 
-🚀 免费的 ChatGPT (<https://chat.openai.com/>) 镜像网站列表，持续更新。
+🎁 免费的 ChatGPT (<https://chat.openai.com/>) 镜像网站列表，以及相关资源，持续更新。
 
 此处列出的网站均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
 
-当然，非常感谢他们出色的工作，如果您觉得它有用，可以考虑捐赠或打赏他们。
+🌈 欢迎贡献
 
+- [添加镜像站点](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?assignees=LiLittleCat&labels=&projects=&template=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9.md&title=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9)
+- [反馈站点失效](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?assignees=LiLittleCat&labels=&projects=&template=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88.md&title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88)
+- 更多
 ---
 
 |                                                                       🏆 赞助商 🏆                                                                       |
@@ -18,25 +21,25 @@
 
 ## 🌈 欢迎贡献
 
-欢迎随时提交 [issue](https://github.com/LiLittleCat/awesome-free-chatgpt/issues) 和 [PR](https://github.com/LiLittleCat/awesome-free-chatgpt/pulls) 新增网站或报告网站失效，如果您发现此项目有用，不要忘记 star ⭐，您的支持是我前进的动力。
+如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力。
 
-## 📖 列表
+## 💬 ChatGPT 镜像列表
 
-> 注
+
+> 注：
 >
-> - 排名不分先后
->
-> - [ 🆓 ] 使用没有限制
->
-> - [ 🔐 ] 有限使用，需要输入 API key 或登录
->
-> - [ 🌎 ] 需要科学上网
->
-> - [ 📚 ] 除了 ChatGPT 以外还有别的 AI bot
->
-> - [ 🔔 ] GPT4 (默认3.5)
->
-> - [ 🚧 ] 建设中
+> 1. 排序规则，见 [#80](https://github.com/LiLittleCat/awesome-free-chatgpt/discussions/80)
+> 2. 标签含义
+>    - 🆓完全免费，打开即用
+>    - 🔓有免费额度
+>    - 🔒需要登陆
+>    - 🔑需要输入 API Key
+>    - 💰需要充值
+>    - 👀需要关注公众号
+>    - 💪支持 GPT4
+>    - 🧰不仅仅是 Chat
+>    - 🌎需要国际网络
+
 
 ### 类似官网风格
 
@@ -293,43 +296,10 @@
 
 
 <!-- normal-end -->
----
-
-### 替代方案
-
-- [ 🆓 ] [https://huggingface.co/chat](https://huggingface.co/chat) from https://huggingface.co - 2023-04-26
-
-- [ 🆓📚🌎 ] [https://chat.lmsys.org](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat>
-
-- [ 🔐🌎🔔📚 ] [https://poe.com](https://poe.com)
-
-- [ 🔐🌎🔔 ] [Bing Chat](https://www.bing.com/new)
-
-- [ 📚 ] [Google Bard](https://bard.google.com)
-
-- [ 🚧📚 ] [Anthropic Claude](https://www.anthropic.com/product)
-
-- [ 🚧📚 ] [百度 文心一言](https://yiyan.baidu.com/welcome)
-
-- [ 🆓🚧📚 ] [Open Assistant](https://open-assistant.io/)
-
-- [ 🚧📚 ] [阿里 通义千问](https://tongyi.aliyun.com/)
-
-- [ 🚧📚 ] [科大讯飞 星火](https://xinghuo.xfyun.cn/)
-
----
-
-### 软件
-
-- [ 🆓🔔 ] [Cursor](https://www.cursor.so/)
-
----
-
-### 🚫 已失效
 
 <details>
 
-<summary>点击展开</summary>
+<summary>🚫 已失效</summary>
 
 <!-- abnormal-begin -->
 
@@ -391,6 +361,40 @@
 
 </details>
 
+---
+
+
+## 🗨️ ChatGPT 替代方案
+
+- [ 🆓 ] [https://huggingface.co/chat](https://huggingface.co/chat) from https://huggingface.co - 2023-04-26
+
+- [ 🆓📚🌎 ] [https://chat.lmsys.org](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat>
+
+- [ 🔐🌎🔔📚 ] [https://poe.com](https://poe.com)
+
+- [ 🔐🌎🔔 ] [Bing Chat](https://www.bing.com/new)
+
+- [ 📚 ] [Google Bard](https://bard.google.com)
+
+- [ 🚧📚 ] [Anthropic Claude](https://www.anthropic.com/product)
+
+- [ 🚧📚 ] [百度 文心一言](https://yiyan.baidu.com/welcome)
+
+- [ 🆓🚧📚 ] [Open Assistant](https://open-assistant.io/)
+
+- [ 🚧📚 ] [阿里 通义千问](https://tongyi.aliyun.com/)
+
+- [ 🚧📚 ] [科大讯飞 星火](https://xinghuo.xfyun.cn/)
+
+---
+
+### 软件
+
+- [ 🆓🔔 ] [Cursor](https://www.cursor.so/)
+
+---
+
+
 ## 🤟 玩得开心
 
 ## Star History
@@ -405,9 +409,11 @@
 
 ## ChatGPT Alternative
 
-## More
+## 📚 More...
 
-### Want to build your own ChatGPT mirror?
+### 💡 Prompt
+
+### 💿 Want to build your own ChatGPT mirror?
 
 - https://github.com/mckaywrigley/chatbot-ui
 - https://github.com/Yidadaa/ChatGPT-Next-Web
@@ -416,12 +422,18 @@
 - https://github.com/869413421/chatgpt-web
 - https://github.com/xqdoo00o/chatgpt-web
 
-### Prompt
-
-### Developer tools with Chat
+### 💻 Developer tools with Chat
 
 - cursor.so
 - codeium.com
+
+## 🤟 Have fun
+
+### 🌟 Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
+### 💞 Contributors
+[![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
+
 
 <table>
 
