@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "data": {
+    "title": "BAI Chat",
+    "description": "BAI Chat is a GPT-3.5 / ChatGPT API based chatbot that is free, convenient and responsive. Give it a try!",
+    "lang": "zh",
+    "author": null,
+    "publisher": "theb.ai",
+    "image": null,
+    "date": "2023-03-15T15:11:51.000Z",
+    "url": "https://chatbot.theb.ai/",
+    "logo": {
+      "url": "https://chatbot.theb.ai/assets/bai.png",
+      "type": "png",
+      "size": 1619,
+      "height": 100,
+      "width": 100,
+      "size_pretty": "1.62 kB"
+    },
+    "screenshot": {
+      "size_pretty": "197 kB",
+      "size": 196606,
+      "type": "png",
+      "url": "https://iad.microlink.io/wy4l15y8WDww-Umt_bIlEb0Q6C8htLZyh5kWKt_PJBFnroJJUvh8WceqAgCkaTjMuLws-96L-L4wXv8xbBcj5A.png",
+      "width": 2560,
+      "height": 1600
+    }
+  },
+  "statusCode": 200,
+  "headers": {
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "7c270ebf4c8d425f-EWR",
+    "content-encoding": "br",
+    "content-type": "text/html",
+    "date": "Fri, 05 May 2023 06:51:54 GMT",
+    "last-modified": "Wed, 15 Mar 2023 15:11:51 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qSyOtzkETpcunxW2UZ8VUJKM%2F7iJ07iLA3b5HFJDXHZ%2BbjeKl4snj%2FtPmYnqSBq8eJ%2BF%2BwN5uE%2B%2BFyVnoi49Xsel6Tw7CGS%2BAx%2BHz7JHE%2BD%2FcrJ8DiE7A7OEJK4kot2Upw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding"
+  }
+}

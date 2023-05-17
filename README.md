@@ -32,6 +32,8 @@
 
 ### 类似官网风格
 
+<!-- normal-begin -->
+
 - [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) - 2023-04-20
 
 - [ 🆓🌎 ] [https://www.aitianhu.com](https://www.aitianhu.com/) - 2023-04-20
@@ -255,6 +257,7 @@
 - [ 🔐 ][http://bamboochat.kebakeba.com](http://bamboochat.kebakeba.com/) - 2023-05-12
 
 
+<!-- normal-end -->
 ---
 
 ### 替代方案
@@ -293,6 +296,7 @@
 
 <summary>点击展开</summary>
 
+<!-- abnormal-begin -->
 - ~~[ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)~~ - 2023-04-20 up 2023-05-05 down
 
 - ~~[https://gpt.gpt0.icu](https://gpt.gpt0.icu)~~ - 2023-04-28
@@ -345,6 +349,8 @@
 
 - ~~[https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) from <https://github.com/ninvfeng/chatgpt>~~ - 2023-04-04
 
+<!-- abnormal-end -->
+
 </details>
 
 ## 🤟 玩得开心
@@ -356,3 +362,49 @@
 ## Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
+
+## ChatGPT
+
+## ChatGPT Alternative
+
+## More
+
+### Want to build your own ChatGPT mirror?
+
+- https://github.com/mckaywrigley/chatbot-ui
+- https://github.com/Yidadaa/ChatGPT-Next-Web
+- https://github.com/Chanzhaoyu/chatgpt-web
+- https://github.com/anse-app/chatgpt-demo
+- https://github.com/869413421/chatgpt-web
+- https://github.com/xqdoo00o/chatgpt-web
+
+### Prompt
+
+### Developer tools with Chat
+
+- cursor.so
+- codeium.com
+
+<table>
+
+<tr><th>序号</th><th>网站</th><th>预览</th><th>标签</th><th>添加时间</th><th>备注</th><th>操作</th></tr>
+
+<tr>
+<td>1</td>
+<td>BAI Chat <a href="https://chatbot.theb.ai/" target="_blank">https://chatbot.theb.ai/</a>  <br> BAI Chat is a GPT-3.5 / ChatGPT API based chatbot that is free, convenient and responsive. Give it a try!</td>
+<td style="text-align: center">
+
+<details>
+<summary>点击预览</summary>
+<img src="https://iad.microlink.io/wy4l15y8WDww-Umt_bIlEb0Q6C8htLZyh5kWKt_PJBFnroJJUvh8WceqAgCkaTjMuLws-96L-L4wXv8xbBcj5A.png" alt="preview">
+</details>
+
+</td>
+<td>🆓</td>
+<td>2018-08-01</td>
+<td>测试</td>
+<td>推荐</td>
+</tr>
+
+
+</table>
