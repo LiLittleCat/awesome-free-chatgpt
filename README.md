@@ -10,13 +10,9 @@
 
 ---
 
-**🏆 赞助商 🏆**
-
-👇👇
-
-[AiDoGe - 1919abc.com](https://1919abc.com) 免费，稳定，GPT4，Midjourney 绘图 AI![](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/images/other/recommend.png)
-
-👆👆
+|                                                                       🏆 赞助商 🏆                                                                       |
+  |:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
+|👉 [AiDoGe - 1919abc.com](https://1919abc.com) 免费，稳定，GPT4，Midjourney 绘图 AI ![recommend](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/images/other/recommend.png) |
 
 ---
 
