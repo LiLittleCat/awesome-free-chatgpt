@@ -10,9 +10,9 @@
 
 ---
 
-|                                                                             🏆 赞助商 🏆                                                                              |
-  |:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 👉 [AiDoGe - 1919abc.com](https://1919abc.com) 免费，稳定，GPT4，Midjourney 绘图 AI ![recommend](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/images/other/recommend.png) |
+|                                                                       🏆 赞助商 🏆                                                                       |
+  |:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
+|👉 [AiDoGe - 1919abc.com](https://1919abc.com) 免费，稳定，GPT4，Midjourney 绘图 AI ![recommend](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/images/other/recommend.png) |
 
 ---
 
@@ -39,6 +39,8 @@
 > - [ 🚧 ] 建设中
 
 ### 类似官网风格
+
+<!-- normal-begin -->
 
 - [ 🆓🔔 ] [https://gpt4.gravityengine.cc/](https://gpt4.gravityengine.cc/) - 2023-05-16
 
@@ -290,6 +292,7 @@
 - [ 🔐 ][https://chat.pinkfong.cn](https://chat.pinkfong.cn) - 2023-05-18
 
 
+<!-- normal-end -->
 ---
 
 ### 替代方案
@@ -327,6 +330,8 @@
 <details>
 
 <summary>点击展开</summary>
+
+<!-- abnormal-begin -->
 
 - ~~[ 🆓 ][https://1chat.cc](https://1chat.cc)~~ - 2023-05-04 - 2023-05-24
 
@@ -382,6 +387,8 @@
 
 - ~~[https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz/) from <https://github.com/ninvfeng/chatgpt>~~ - 2023-04-04
 
+<!-- abnormal-end -->
+
 </details>
 
 ## 🤟 玩得开心
@@ -393,3 +400,49 @@
 ## Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
+
+## ChatGPT
+
+## ChatGPT Alternative
+
+## More
+
+### Want to build your own ChatGPT mirror?
+
+- https://github.com/mckaywrigley/chatbot-ui
+- https://github.com/Yidadaa/ChatGPT-Next-Web
+- https://github.com/Chanzhaoyu/chatgpt-web
+- https://github.com/anse-app/chatgpt-demo
+- https://github.com/869413421/chatgpt-web
+- https://github.com/xqdoo00o/chatgpt-web
+
+### Prompt
+
+### Developer tools with Chat
+
+- cursor.so
+- codeium.com
+
+<table>
+
+<tr><th>序号</th><th>网站</th><th>预览</th><th>标签</th><th>添加时间</th><th>备注</th><th>操作</th></tr>
+
+<tr>
+<td>1</td>
+<td>BAI Chat <a href="https://chatbot.theb.ai/" target="_blank">https://chatbot.theb.ai/</a>  <br> BAI Chat is a GPT-3.5 / ChatGPT API based chatbot that is free, convenient and responsive. Give it a try!</td>
+<td style="text-align: center">
+
+<details>
+<summary>点击预览</summary>
+<img src="https://iad.microlink.io/wy4l15y8WDww-Umt_bIlEb0Q6C8htLZyh5kWKt_PJBFnroJJUvh8WceqAgCkaTjMuLws-96L-L4wXv8xbBcj5A.png" alt="preview">
+</details>
+
+</td>
+<td>🆓</td>
+<td>2018-08-01</td>
+<td>测试</td>
+<td>推荐</td>
+</tr>
+
+
+</table>
