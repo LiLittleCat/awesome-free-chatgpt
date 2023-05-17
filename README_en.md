@@ -128,7 +128,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ] [https://gpt.uziai.com](https://gpt.uziai.com/) - 2023-05-11
 
-- [ 🔐 ] [https://1919abc.com](https://1919abc.com) - 2023-05-15
+- [ 🆓 ] [http://chat1.manongzyg.one/](http://chat1.manongzyg.one/) - 2023-05-17 - add Access Code: 857857 in Setting
 
 ---
 
