@@ -118,7 +118,7 @@
 - [ 🆓🌎🔐 ] [https://tubogpt.vercel.app](https://tubogpt.vercel.app) - 2023-05-06
 
 - [ 🆓 ] [http://207.148.94.37:7860](http://207.148.94.37:7860/) - 2023-05-06
--
+
 - [ 🆓🔐 ] [https://seven-star.org](https://seven-star.org/) - 2023-05-06
 
 - [ 🆓 ] [https://ai.hxkj.vip](https://ai.hxkj.vip) - 2023-05-06
