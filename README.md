@@ -8,6 +8,15 @@
 
 当然，非常感谢他们出色的工作，如果您觉得它有用，可以考虑捐赠或打赏他们。
 
+---
+
+**赞助商**
+
+👉 [AiDoGe - 1919abc.com](https://1919abc.com) 免费，稳定，GPT4，Midjourney 绘图 AI
+![](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/images/other/recommend.png)
+
+---
+
 ## 🌈 欢迎贡献
 
 欢迎随时提交 [issue](https://github.com/LiLittleCat/awesome-free-chatgpt/issues) 和 [PR](https://github.com/LiLittleCat/awesome-free-chatgpt/pulls) 新增网站或报告网站失效，如果您发现此项目有用，不要忘记 star ⭐，您的支持是我前进的动力。
