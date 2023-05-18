@@ -130,6 +130,9 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [http://chat1.manongzyg.one/](http://chat1.manongzyg.one/) - 2023-05-17 - add Access Code: 857857 in Setting
 
+- [ 🆓🔔 ] [https://chataibase.com/](https://chataibase.com/) - 2023-05-18
+
+- [ 🆓 ] [https://srgfdfsf.xiaowenzi.xyz/](https://srgfdfsf.xiaowenzi.xyz/) - 2023-05-18 - add Access Code: oneperfect in Setting, you can find the entrance from：https://oneperfect.cn/?p=422
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style

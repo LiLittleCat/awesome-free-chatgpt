@@ -145,8 +145,12 @@
 - [ 🔐🔔 ] [https://chat.zhenbs.com/](https://chat.zhenbs.com/) - 2023-05-17 - GPT4 的兑换码：TRYGPT4
 
 - [ 🆓 ] [http://chat1.manongzyg.one/](http://chat1.manongzyg.one/) - 2023-05-17 - 设置中输入访问密码 857857
-- 
+
 - [ 🔐 ] [https://aiia.chat/](https://aiia.chat/) - 2023-05-17
+
+- [ 🆓🔔 ] [https://chataibase.com/](https://chataibase.com/) - 2023-05-18
+
+- [ 🆓 ] [https://srgfdfsf.xiaowenzi.xyz/](https://srgfdfsf.xiaowenzi.xyz/) - 2023-05-18 - 设置中输入访问密码 oneperfect，永久发布页：https://oneperfect.cn/?p=422
 
 ---
 
