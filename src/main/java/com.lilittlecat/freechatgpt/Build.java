@@ -25,6 +25,24 @@ public class Build {
     public static void main(String[] args) throws TemplateException, IOException {
         Build build = new Build();
         build.init();
+//        build.update();
+    }
+
+    public void update() {
+        String basePath = System.getProperty("user.dir");
+
+        File normalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "normal-websites.json");
+        String normalWebsitesJSONString = FileUtil.readString(normalWebsitesJSON, StandardCharsets.UTF_8);
+        List<Website> normalWebsitesJSONArray = JSON.parseArray(normalWebsitesJSONString, Website.class);
+
+        File abnormalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "abnormal-websites.json");
+        String abnormalWebsitesJSONString = FileUtil.readString(abnormalWebsitesJSON, StandardCharsets.UTF_8);
+        List<Website> abnormalWebsitesJSONArray = JSON.parseArray(abnormalWebsitesJSONString, Website.class);
+
+
+
+
+
     }
 
     public void init() throws IOException, TemplateException {
@@ -39,18 +57,27 @@ public class Build {
         List<Website> normalWebsites = new ArrayList<>();
         int normalId = 1;
         for (String normalSite : normalSites) {
+            String[] strings = normalSite.split(" - ");
+            if (strings.length < 2) {
+                continue;
+            }
             // Extract the link
-            String link = extractLink(normalSite);
+            String link = extractLink(strings[0]);
             // Extract the time
-            String time = extractTime(normalSite);
+            String time = extractTime(strings[1]);
             if (StrUtil.isNotBlank(link) && StrUtil.isNotBlank(time)) {
                 Website website = new Website();
                 website.setId(normalId++);
                 website.setUrl(link);
                 website.setAddedDate(time);
+                if (strings.length > 2) {
+                    website.setCustomDescription(strings[2]);
+                    System.out.println(website.getId() + "." + link + " " + time + " " + strings[2]);
+                } else {
+                    System.out.println(website.getId() + "." + link + " " + time);
+                }
                 normalWebsites.add(website);
             }
-            System.out.println(link + " " + time);
         }
 
         String normalWebsitesJSONString = JSON.toJSONString(normalWebsites, SerializerFeature.WriteMapNullValue, SerializerFeature.PrettyFormat, SerializerFeature.SortField);
@@ -71,9 +98,15 @@ public class Build {
                 website.setUrl(link);
                 website.setReportedInvalidDate(time);
                 abnormalWebsites.add(website);
+                System.out.println(link + " " + time);
             }
-            System.out.println(link + " " + time);
         }
+        // sorted by reportedInvalidDate desc
+        abnormalWebsites.sort((o1, o2) -> {
+            LocalDate date1 = LocalDate.parse(o1.getReportedInvalidDate());
+            LocalDate date2 = LocalDate.parse(o2.getReportedInvalidDate());
+            return date2.compareTo(date1);
+        });
 
         String abnormalWebsitesJSONString = JSON.toJSONString(abnormalWebsites, SerializerFeature.WriteMapNullValue, SerializerFeature.PrettyFormat, SerializerFeature.SortField);
         File abnormalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "abnormal-websites.json");
