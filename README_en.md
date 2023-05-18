@@ -256,6 +256,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🔐 ][http://bamboochat.kebakeba.com](http://bamboochat.kebakeba.com/) - 2023-05-12
 
+- [ 🔐 ][https://chat.pinkfong.cn](https://chat.pinkfong.cn) - 2023-05-18
+
 ---
 
 ### Alternatives
