@@ -31,4 +31,5 @@ public class Website {
      * 0: normal 1: abnormal
      */
     private Integer status;
+    private Object extraInfo;
 }
