@@ -46,8 +46,6 @@
 
 <!-- normal-begin -->
 
-- [ 🔐🔔 ] [https://1919abc.com](https://1919abc.com) - 2023-05-15
-
 - [ 🆓🔔 ] [https://gpt4.gravityengine.cc/](https://gpt4.gravityengine.cc/) - 2023-05-16
 
 - [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/) - 2023-04-20
@@ -145,6 +143,16 @@
 - [ 🆓 ] [https://chat.ok2ai.com](https://chat.ok2ai.com/) - 2023-05-11
 
 - [ 🔐 ] [https://gpt.uziai.com](https://gpt.uziai.com/) - 2023-05-11
+
+- [ 🔐🔔 ] [https://1919abc.com](https://1919abc.com) - 2023-05-15
+
+- [ 🔐 ] [https://aiget.cc/](https://aiget.cc/) - 2023-05-17
+
+- [ 🔐🔔 ] [https://chat.zhenbs.com/](https://chat.zhenbs.com/) - 2023-05-17 - GPT4 的兑换码：TRYGPT4
+
+- [ 🆓 ] [http://chat1.manongzyg.one/](http://chat1.manongzyg.one/) - 2023-05-17 - 设置中输入访问密码 857857
+- 
+- [ 🔐 ] [https://aiia.chat/](https://aiia.chat/) - 2023-05-17
 
 ---
 
