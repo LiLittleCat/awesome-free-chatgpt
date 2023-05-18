@@ -274,6 +274,8 @@
 
 - [ 🔐 ][http://bamboochat.kebakeba.com](http://bamboochat.kebakeba.com/) - 2023-05-12
 
+- [ 🔐 ][https://chat.pinkfong.cn](https://chat.pinkfong.cn) - 2023-05-18
+
 
 ---
 
