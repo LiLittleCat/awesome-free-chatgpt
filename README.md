@@ -1,6 +1,7 @@
 # Awesome Free ChatGPT
 
-[English](README_en.md)
+![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![English](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/english.svg)](README_en.md) ![website count](https://img.shields.io/badge/websites-107-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
+
 
 🎁 免费的 ChatGPT (<https://chat.openai.com/>) 镜像网站列表，以及相关资源，持续更新。
 
@@ -11,17 +12,17 @@
 - [添加镜像站点](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?assignees=LiLittleCat&labels=&projects=&template=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9.md&title=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9)
 - [反馈站点失效](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?assignees=LiLittleCat&labels=&projects=&template=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88.md&title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88)
 - 更多
----
-
-|                                                                       🏆 赞助商 🏆                                                                       |
-  |:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-|👉 [AiDoGe - 1919abc.com](https://1919abc.com) 免费，稳定，GPT4，Midjourney 绘图 AI ![recommend](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/images/other/recommend.png) |
-
----
-
-## 🌈 欢迎贡献
 
 如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力。
+
+---
+
+|                                                                             🏆 赞助商 🏆                                                                              |
+  |:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 👉 [AiDoGe - 1919abc.com](https://1919abc.com) 免费，稳定，GPT4，Midjourney 绘图 AI ![recommend](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/images/other/recommend.png) |
+
+---
+
 
 ## 💬 ChatGPT 镜像列表
 

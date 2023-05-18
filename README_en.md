@@ -1,6 +1,7 @@
 # Awesome Free ChatGPT
 
-[中文](README.md)
+![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![中文](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/chinese.svg)](README.md) ![website count](https://img.shields.io/badge/websites-107-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
+
 
 🚀 List of free ChatGPT(<https://chat.openai.com/>) mirror sites, continuously updated.
 
