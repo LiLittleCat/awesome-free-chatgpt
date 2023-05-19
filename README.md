@@ -156,7 +156,7 @@
 
 - [ 🆓🔔 ] [https://chataibase.com/](https://chataibase.com/) - 2023-05-18
 
-- [ 🆓 ] [https://srgfdfsf.xiaowenzi.xyz/](https://srgfdfsf.xiaowenzi.xyz/) - 2023-05-18 - 设置中输入访问密码 oneperfect，永久发布页：https://oneperfect.cn/?p=422
+- [ 🆓 ] [https://srgfdfsf.xiaowenzi.xyz/](https://srgfdfsf.xiaowenzi.xyz/) - 2023-05-18 - 永久发布页：https://gpt.lovebaby.today/
 
 ---
 

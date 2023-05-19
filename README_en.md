@@ -133,7 +133,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓🔔 ] [https://chataibase.com/](https://chataibase.com/) - 2023-05-18
 
-- [ 🆓 ] [https://srgfdfsf.xiaowenzi.xyz/](https://srgfdfsf.xiaowenzi.xyz/) - 2023-05-18 - add Access Code: oneperfect in Setting, you can find the entrance from：https://oneperfect.cn/?p=422
+- [ 🆓 ] [https://srgfdfsf.xiaowenzi.xyz/](https://srgfdfsf.xiaowenzi.xyz/) - 2023-05-18 - You can find the entrance from：https://gpt.lovebaby.today/
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
