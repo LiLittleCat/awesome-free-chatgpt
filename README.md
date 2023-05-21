@@ -151,6 +151,8 @@
 - [ 🆓🔔 ] [https://chataibase.com/](https://chataibase.com/) - 2023-05-18
 
 - [ 🆓 ] [https://srgfdfsf.xiaowenzi.xyz/](https://srgfdfsf.xiaowenzi.xyz/) - 2023-05-18 - 永久发布页：https://gpt.lovebaby.today/
+- [ 🆓 ] [https://1.nb8.ltd/](https://1.nb8.ltd/) - 2023-05-19
+- [ 🆓🔓🔔 ] [https://chat.v50.ltd](https://chat.v50.ltd) - 2023-05-19
 
 ---
 
