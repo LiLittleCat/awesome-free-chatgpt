@@ -133,6 +133,8 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🆓🔔 ] [https://chataibase.com/](https://chataibase.com/) - 2023-05-18
 
 - [ 🆓 ] [https://srgfdfsf.xiaowenzi.xyz/](https://srgfdfsf.xiaowenzi.xyz/) - 2023-05-18 - You can find the entrance from：https://gpt.lovebaby.today/
+- [ 🆓 ] [https://1.nb8.ltd/](https://1.nb8.ltd/) - 2023-05-19
+- [ 🆓🔓🔔 ] [https://chat.v50.ltd](https://chat.v50.ltd) - 2023-05-19
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
