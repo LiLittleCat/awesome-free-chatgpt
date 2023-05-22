@@ -1,0 +1,130 @@
+[
+    {
+        "status": "success",
+        "data": {
+            "title": "BAI Chat",
+            "description": "BAI Chat is a GPT-3.5 / ChatGPT API based chatbot that is free, convenient and responsive. Give it a try!",
+            "lang": "zh",
+            "author": null,
+            "publisher": "theb.ai",
+            "image": null,
+            "date": "2023-03-15T15:11:51.000Z",
+            "url": "https://chatbot.theb.ai/",
+            "logo": {
+                "url": "https://chatbot.theb.ai/assets/bai.png",
+                "type": "png",
+                "size": 1619,
+                "height": 100,
+                "width": 100,
+                "size_pretty": "1.62 kB"
+            },
+            "screenshot": {
+                "size_pretty": "197 kB",
+                "size": 196606,
+                "type": "png",
+                "url": "https://iad.microlink.io/wy4l15y8WDww-Umt_bIlEb0Q6C8htLZyh5kWKt_PJBFnroJJUvh8WceqAgCkaTjMuLws-96L-L4wXv8xbBcj5A.png",
+                "width": 2560,
+                "height": 1600
+            }
+        },
+        "statusCode": 200,
+        "headers": {
+            "cf-cache-status": "DYNAMIC",
+            "cf-ray": "7c270ebf4c8d425f-EWR",
+            "content-encoding": "br",
+            "content-type": "text/html",
+            "date": "Fri, 05 May 2023 06:51:54 GMT",
+            "last-modified": "Wed, 15 Mar 2023 15:11:51 GMT",
+            "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+            "report-to": "{\"endpoints\":[{\"url\":\"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qSyOtzkETpcunxW2UZ8VUJKM%2F7iJ07iLA3b5HFJDXHZ%2BbjeKl4snj%2FtPmYnqSBq8eJ%2BF%2BwN5uE%2B%2BFyVnoi49Xsel6Tw7CGS%2BAx%2BHz7JHE%2BD%2FcrJ8DiE7A7OEJK4kot2Upw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+            "server": "cloudflare",
+            "strict-transport-security": "max-age=31536000",
+            "vary": "Accept-Encoding"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "title": "ChatGPT Next Web",
+            "description": "Your personal ChatGPT Chat Bot.",
+            "lang": "en",
+            "author": null,
+            "publisher": "gravityengine.cc",
+            "image": null,
+            "date": "2023-05-22T11:26:13.000Z",
+            "url": "https://gpt4.gravityengine.cc/",
+            "logo": null,
+            "screenshot": {
+                "size_pretty": "92.7 kB",
+                "size": 92718,
+                "type": "png",
+                "url": "https://iad.microlink.io/4vOzV5drUUwBv5Bd7e3nPcFu1YKKrFs2JeT7w-5vvjlNW0WEK7N0N7xBmGYt9bLmaUTDVA3w41YSxU--kqrq8g.png",
+                "width": 2560,
+                "height": 1600
+            }
+        },
+        "statusCode": 200,
+        "headers": {
+            "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+            "cache-control": "no-store, must-revalidate",
+            "cf-cache-status": "DYNAMIC",
+            "cf-ray": "7cb4b3f20de80cc0-EWR",
+            "content-encoding": "gzip",
+            "content-type": "text/html; charset=utf-8",
+            "date": "Mon, 22 May 2023 11:26:13 GMT",
+            "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+            "report-to": "{\"endpoints\":[{\"url\":\"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JzhEHReC28sMjfZUnUzlVL49XNBmM8eMGeKq88FCCMt5eBjet34hlIJrnGPfiRjj2G9GPf3DauIf1SaAAzZWU5LZQqwfbiguMnYmMyNoP2Hmynv4T2wP%2BV7CtII91jG2%2FM1jTzrdNXc%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+            "server": "cloudflare",
+            "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+            "x-cache": "MISS",
+            "x-powered-by": "Next.js"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "title": "ChatGPT Web",
+            "description": "GPT-4免费使用权限将于下月重新开放，敬请期待！目前请使用GPT-3.5，免费无限制。个人网站：https://gravityengine.cc/如需购买OpenAI 2500刀账号可以与我联系，Telegram交流群：https://t.me/gpt4forfree如果你觉得我的分享有用，欢迎捐赠，USDT TRC20地址：TCgDn51uLKB9izo7n7hyCT3YxqJQhvpPH9开始和ChatGPT对话吧！",
+            "lang": "zh",
+            "author": null,
+            "publisher": "gravityengine.cc",
+            "image": {
+                "url": "https://raw.githubusercontent.com/admina1222/chatgpt-web/main/src/assets/avatar.png",
+                "type": "png",
+                "size": 27990,
+                "size_pretty": "28 kB"
+            },
+            "date": "2023-05-22T11:29:25.000Z",
+            "url": "https://gpt.gravityengine.cc/",
+            "logo": {
+                "url": "https://gpt.gravityengine.cc/favicon.svg",
+                "type": "svg",
+                "size": 1049,
+                "size_pretty": "1.05 kB"
+            },
+            "screenshot": {
+                "size_pretty": "31.7 kB",
+                "size": 31736,
+                "type": "png",
+                "url": "https://iad.microlink.io/yxtvXTUnFz9mvGcd_k5LfY_bySjwZYUcPf0buROnltz4wJWYuBEO86mYAXD2dqfkg29H5Nor62HbgEqwJfw0Lw.png",
+                "width": 2560,
+                "height": 1600
+            }
+        },
+        "statusCode": 200,
+        "headers": {
+            "access-control-allow-origin": "*",
+            "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+            "cache-control": "no-cache\nno-cache",
+            "cf-cache-status": "DYNAMIC",
+            "cf-ray": "7cb4b8a61b05443e-EWR",
+            "content-encoding": "gzip",
+            "content-type": "text/html",
+            "date": "Mon, 22 May 2023 11:29:25 GMT",
+            "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+            "report-to": "{\"endpoints\":[{\"url\":\"https:\/\/a.nel.cloudflare.com\/report\/v3?s=GWi0vjdPyu5qAuIQ715PYFs4Csxo%2B%2BhYsnAr%2BjDkrH0RPlEvU19jXp6vhuOBdTUqjcnkk8QDZ7Yss3kn4sYXDh%2BigzamaP1j025D7mWm%2F1FiQBrP%2FcTT%2Bi06COI0lmlNMrDowkeDgg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+            "server": "cloudflare",
+            "vary": "Accept-Encoding"
+        }
+    }
+]
