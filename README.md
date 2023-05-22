@@ -153,6 +153,9 @@
 - [ 🆓 ] [https://srgfdfsf.xiaowenzi.xyz/](https://srgfdfsf.xiaowenzi.xyz/) - 2023-05-18 - 永久发布页：https://gpt.lovebaby.today/
 - [ 🆓 ] [https://1.nb8.ltd/](https://1.nb8.ltd/) - 2023-05-19
 - [ 🆓🔓🔔 ] [https://chat.v50.ltd](https://chat.v50.ltd) - 2023-05-19
+- [ 🔐 ] [https://www.openaicloud.cloud/](https://www.openaicloud.cloud/) - 2023-05-22
+- [ 🔐 ] [https://aitxt.io/](https://aitxt.io/) - 2023-05-22
+- [ 🔐 ] [https://ai.icodebug.xyz/](https://ai.icodebug.xyz/) - 2023-05-22
 
 ---
 
