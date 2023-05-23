@@ -156,6 +156,8 @@
 - [ 🔐 ] [https://www.openaicloud.cloud/](https://www.openaicloud.cloud/) - 2023-05-22
 - [ 🔐 ] [https://aitxt.io/](https://aitxt.io/) - 2023-05-22
 - [ 🔐 ] [https://ai.icodebug.xyz/](https://ai.icodebug.xyz/) - 2023-05-22
+- [ 🔐 ] [https://gpts.dawu.world](https://gpts.dawu.world) - 2023-05-22
+- [ 🆓 ] [https://vvanglro.eu.org/](https://vvanglro.eu.org) - 2023-05-23
 
 ---
 

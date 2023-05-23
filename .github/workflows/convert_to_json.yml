@@ -30,7 +30,7 @@ jobs:
     - name: Configure Git
       run: |
         git config --local user.email "luoyukongchan@outlook.com"
-        git config --local user.name "LiLittleCat"
+        git config --local user.name "Yi Liu"
       env:
         GITHUB_TOKEN: ${{ secrets.GH_ACTIONS_TOKEN }}
 
