@@ -158,7 +158,7 @@
 - [ 🆓 ] [https://vvanglro.eu.org/](https://vvanglro.eu.org) - 2023-05-23
 - [ 🆓 ] [https://1chat.c3r.ink/](https://1chat.c3r.ink/) - 2023-05-24
 - [ 🔐 ] [https://www.sweetsai.com/](https://www.sweetsai.com/) - 2023-05-24
-- [ 🆓📚 ] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-05-24
+- [ 🆓📚 ] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-05-24 - 免费 GPT3.5 和绘画
 
 
 ---

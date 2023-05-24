@@ -140,7 +140,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🆓 ] [https://vvanglro.eu.org/](https://vvanglro.eu.org) - 2023-05-23
 - [ 🆓 ] [https://1chat.c3r.ink/](https://1chat.c3r.ink/) - 2023-05-24
 - [ 🔐 ] [https://www.sweetsai.com/](https://www.sweetsai.com/) - 2023-05-24
-- [ 🆓📚 ] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-05-24
+- [ 🆓📚 ] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-05-24 - Free GPT3.5 and AI Drawing
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
