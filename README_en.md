@@ -102,8 +102,6 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ][https://chatgpt.hz-it-dev.co](https://chatgpt.hz-it-dev.com/) - 2023-04-30
 
-- [ 🆓 ][https://1chat.cc](https://1chat.cc) - 2023-05-04
-
 - [ 🆓🌎🔐 ] [https://tubogpt.vercel.app](https://tubogpt.vercel.app) - 2023-05-06
 
 - [ 🆓 ] [http://207.148.94.37:7860/](http://207.148.94.37:7860/) - 2023-05-06
@@ -140,6 +138,9 @@ Feel free to submit issues and PRs to add new websites or report website failure
 - [ 🔐 ] [https://ai.icodebug.xyz/](https://ai.icodebug.xyz/) - 2023-05-22
 - [ 🔐 ] [https://gpts.dawu.world](https://gpts.dawu.world) - 2023-05-22
 - [ 🆓 ] [https://vvanglro.eu.org/](https://vvanglro.eu.org) - 2023-05-23
+- [ 🆓 ] [https://1chat.c3r.ink/](https://1chat.c3r.ink/) - 2023-05-24
+- [ 🔐 ] [https://www.sweetsai.com/](https://www.sweetsai.com/) - 2023-05-24
+- [ 🆓📚 ] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-05-24
 ---
 
 ### [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) style
@@ -306,7 +307,9 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 <summary>Click to expand</summary>
 
-- ~~[ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)~~ - 2023-04-20 up 2023-05-05 down
+- ~~[ 🆓 ][https://1chat.cc](https://1chat.cc)~~ - 2023-05-04 - 2023-05-24
+
+- ~~[ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)~~ - 2023-04-20 - 2023-05-05
 
 - ~~[https://gpt.gpt0.icu](https://gpt.gpt0.icu)~~ - 2023-04-28
 
