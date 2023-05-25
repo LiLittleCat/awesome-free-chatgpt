@@ -100,7 +100,7 @@
 
 - [ 🆓 ][https://www.promptboom.com](https://www.promptboom.com/) - 2023-04-24
 
-- [ 🆓 ][https://w.betai55.uk/](https://w.betai55.uk/) - 2023-04-26 - 密码 pub04-23Xs67AErn454
+- [ 🆓 ][https://w.betai55.uk/](https://d2.betai55.uk/) - 2023-04-26 - 密码 586-484-535D
 
 - [ 🆓 ][https://x1.xjai.cc](https://x1.xjai.cc/) - 2023-04-27
 
