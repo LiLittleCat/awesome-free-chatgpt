@@ -2,6 +2,8 @@ package com.lilittlecat.freechatgpt;
 
 import lombok.Getter;
 
+import java.util.List;
+
 /**
  * @author <a href="https://github.com/LiLittleCat">LiLittleCat</a>
  * @since 2023/5/7
@@ -27,6 +29,10 @@ public enum Feature {
         this.value = value;
         this.label = label;
         this.score = score;
+    }
+
+    public static double score(List<Feature> featureList) {
+        return featureList.stream().mapToDouble(Feature::getScore).sum();
     }
 
 }

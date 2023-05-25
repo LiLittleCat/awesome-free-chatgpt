@@ -22,11 +22,14 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import static com.lilittlecat.freechatgpt.Feature.*;
+
 public class Build {
 
     public static void main(String[] args) throws TemplateException, IOException {
         Build build = new Build();
-        build.init();
+        build.initNormal();
+        build.initAbnormal();
 //        build.update();
     }
 
@@ -41,19 +44,41 @@ public class Build {
         String abnormalWebsitesJSONString = FileUtil.readString(abnormalWebsitesJSON, StandardCharsets.UTF_8);
         List<Website> abnormalWebsitesJSONArray = JSON.parseArray(abnormalWebsitesJSONString, Website.class);
 
+        Website website = normalWebsitesJSONArray.get(0);
+        List<Feature> features = new ArrayList<>();
+        features.add(FREE);
+        features.add(GPT4_SUPPORTED);
+        website.setFeatures(features);
+        website.setScore(Feature.score(features));
+
+        System.out.println(JSON.toJSONString(website));
 
 
+//        Configuration cfg = new Configuration(Configuration.VERSION_2_3_32);
+//        FileTemplateLoader templateLoader = new FileTemplateLoader(new File(basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources"));
+//        cfg.setTemplateLoader(templateLoader);
+//
+////        cfg.setClassForTemplateLoading(Website.class, basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources");
+//        cfg.setDefaultEncoding("UTF-8");
+//        Template template = cfg.getTemplate("normal-websites-table.ftl");
+//
+//        Map<String, Object> model = new HashMap<>();
+//        model.put("websites", normalWebsites);
+//
+//        StringWriter out = new StringWriter();
+//        template.process(model, out);
+//
+//        String renderedHtml = out.toString();
 
-
+//        System.out.println(renderedHtml);
     }
 
-    public void init() throws IOException, TemplateException {
+    public void initNormal() {
         String basePath = System.getProperty("user.dir");
         String readmeFilePath = basePath + File.separator + "README.md";
         File file = new File(readmeFilePath);
         String readContent = FileUtil.readString(file, StandardCharsets.UTF_8);
         String normalSitesContent = StrUtil.subBetween(readContent, "<!-- normal-begin -->", "<!-- normal-end -->");
-        String abnormalSitesContent = StrUtil.subBetween(readContent, "<!-- abnormal-begin -->", "<!-- abnormal-end -->");
 
         String[] normalSites = normalSitesContent.split("\n");
         List<Website> normalWebsites = new ArrayList<>();
@@ -85,6 +110,15 @@ public class Build {
         String normalWebsitesJSONString = JSON.toJSONString(normalWebsites, SerializerFeature.WriteMapNullValue, SerializerFeature.PrettyFormat, SerializerFeature.SortField);
         File normalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "normal-websites.json");
         FileUtil.writeString(normalWebsitesJSONString, normalWebsitesJSON, StandardCharsets.UTF_8);
+    }
+
+
+    public void initAbnormal() throws IOException, TemplateException {
+        String basePath = System.getProperty("user.dir");
+        String readmeFilePath = basePath + File.separator + "README.md";
+        File file = new File(readmeFilePath);
+        String readContent = FileUtil.readString(file, StandardCharsets.UTF_8);
+        String abnormalSitesContent = StrUtil.subBetween(readContent, "<!-- abnormal-begin -->", "<!-- abnormal-end -->");
 
         String[] abnormalSites = abnormalSitesContent.split("\n");
         List<Website> abnormalWebsites = new ArrayList<>();
@@ -113,26 +147,6 @@ public class Build {
         String abnormalWebsitesJSONString = JSON.toJSONString(abnormalWebsites, SerializerFeature.WriteMapNullValue, SerializerFeature.PrettyFormat, SerializerFeature.SortField);
         File abnormalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "abnormal-websites.json");
         FileUtil.writeString(abnormalWebsitesJSONString, abnormalWebsitesJSON, StandardCharsets.UTF_8);
-
-
-
-//        Configuration cfg = new Configuration(Configuration.VERSION_2_3_32);
-//        FileTemplateLoader templateLoader = new FileTemplateLoader(new File(basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources"));
-//        cfg.setTemplateLoader(templateLoader);
-//
-////        cfg.setClassForTemplateLoading(Website.class, basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources");
-//        cfg.setDefaultEncoding("UTF-8");
-//        Template template = cfg.getTemplate("normal-websites-table.ftl");
-//
-//        Map<String, Object> model = new HashMap<>();
-//        model.put("websites", normalWebsites);
-//
-//        StringWriter out = new StringWriter();
-//        template.process(model, out);
-//
-//        String renderedHtml = out.toString();
-
-//        System.out.println(renderedHtml);
 
 
     }

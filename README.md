@@ -106,7 +106,7 @@
 
 - [ 🆓 ][https://www.promptboom.com](https://www.promptboom.com/) - 2023-04-24
 
-- [ 🆓 ][https://w.betai55.uk/](https://w.betai55.uk/) - 2023-04-26 - 密码 pub04-23Xs67AErn454
+- [ 🆓 ][https://d2.betai55.uk/](https://d2.betai55.uk/) - 2023-05-25 - 密码 586-484-535D
 
 - [ 🆓 ][https://x1.xjai.cc](https://x1.xjai.cc/) - 2023-04-27
 
@@ -164,7 +164,7 @@
 - [ 🆓 ] [https://vvanglro.eu.org/](https://vvanglro.eu.org) - 2023-05-23
 - [ 🆓 ] [https://1chat.c3r.ink/](https://1chat.c3r.ink/) - 2023-05-24
 - [ 🔐 ] [https://www.sweetsai.com/](https://www.sweetsai.com/) - 2023-05-24
-- [ 🆓📚 ] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-05-24
+- [ 🆓📚 ] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-05-24 - 免费 GPT3.5 和绘画
 
 
 ---
@@ -304,9 +304,11 @@
 
 <!-- abnormal-begin -->
 
-- ~~[ 🆓 ][https://1chat.cc](https://1chat.cc)~~ - 2023-05-04 - 2023-05-24
+- ~~[ 🆓 ][https://w.betai55.uk/](https://w.betai55.uk/)~~ - 2023-05-25
 
-- ~~[ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)~~ - 2023-04-20 - 2023-05-05
+- ~~[ 🆓 ][https://1chat.cc](https://1chat.cc)~~ - 2023-05-24
+
+- ~~[ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)~~ - 2023-05-05
 
 - ~~[https://gpt.gpt0.icu](https://gpt.gpt0.icu)~~ - 2023-04-28
 
