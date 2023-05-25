@@ -41,7 +41,10 @@
                 "x-powered-by": "Next.js"
             }
         },
-		"features":["FREE","GPT4_SUPPORTED"],
+        "features": [
+            "FREE",
+            "GPT4_SUPPORTED"
+        ],
 		"id":1,
 		"labels":null,
 		"lang":"en",
@@ -102,7 +105,9 @@
                 "vary": "Accept-Encoding"
             }
         },
-		"features":[],
+        "features": [
+            "FREE"
+        ],
 		"id":2,
 		"labels":null,
 		"lang":"zh",
@@ -121,17 +126,19 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+        "features": [
+            "FREE"
+        ],
 		"id":3,
 		"labels":null,
-		"lang":null,
+        "lang":"zh",
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
 		"score":null,
 		"sourceInfo":null,
 		"status":null,
-		"title":null,
+        "title":"AI Web",
 		"updatedDate":null,
 		"url":"https://www.aitianhu.com/"
 	},

@@ -126,5 +126,48 @@
             "server": "cloudflare",
             "vary": "Accept-Encoding"
         }
+    },
+    {
+        "status": "success",
+        "data": {
+            "title": "AI Web",
+            "description": null,
+            "lang": "zh",
+            "author": null,
+            "publisher": "aitianhu.com",
+            "image": null,
+            "date": "2023-05-20T13:38:19.000Z",
+            "url": "https://www.aitianhu.com/",
+            "logo": {
+                "url": "https://www.aitianhu.com/favicon.svg",
+                "type": "svg",
+                "size": 1049,
+                "height": 32,
+                "width": 32,
+                "size_pretty": "1.05 kB"
+            },
+            "screenshot": {
+                "size_pretty": "31.7 kB",
+                "size": 31736,
+                "type": "png",
+                "url": "https://iad.microlink.io/UFU5QIHI6Th855Q0vo10pz12UmuF_w-OeVE_gHkhrx317nxv89yX8RWjuk9KagTV55hb1rFy4Dzs8-RqrcTZGg.png",
+                "width": 2560,
+                "height": 1600
+            }
+        },
+        "statusCode": 200,
+        "headers": {
+            "cache-control": "public, max-age=0\nprivate",
+            "content-encoding": "gzip",
+            "content-type": "text/html; charset=UTF-8",
+            "date": "Thu, 25 May 2023 12:19:52 GMT",
+            "etag": "W/\"6ae-1883961ed59\"",
+            "last-modified": "Sat, 20 May 2023 13:38:19 GMT",
+            "server": "nginx",
+            "set-cookie": "SERVERID=srv88|ZG9Sa; path=/",
+            "strict-transport-security": "max-age=15768000",
+            "vary": "Accept-Encoding",
+            "x-powered-by": "Express"
+        }
     }
 ]
