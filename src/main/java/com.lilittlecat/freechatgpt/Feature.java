@@ -35,4 +35,13 @@ public enum Feature {
         return featureList.stream().mapToDouble(Feature::getScore).sum();
     }
 
+    public static Feature fromLabel(String label) {
+        for (Feature feature : Feature.values()) {
+            if (feature.getLabel().equals(label)) {
+                return feature;
+            }
+        }
+        return null;
+    }
+
 }

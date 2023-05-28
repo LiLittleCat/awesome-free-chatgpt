@@ -18,6 +18,7 @@ import java.io.IOException;
 import java.io.StringWriter;
 import java.nio.charset.StandardCharsets;
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -30,10 +31,45 @@ public class Build {
         Build build = new Build();
 //        build.initNormal();
 //        build.initAbnormal();
-//        build.update();
+        build.buildTable();
 
-        List<String> strings = extractLabels(" [ \uD83D\uDD13\uD83D\uDD11\uD83C\uDF0E\uD83D\uDCAA ]");
-        System.out.println(Arrays.toString(strings.toArray()));
+    }
+
+    public void buildTable() throws IOException, TemplateException {
+        String basePath = System.getProperty("user.dir");
+
+        File normalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "normal-websites.json");
+        String normalWebsitesJSONString = FileUtil.readString(normalWebsitesJSON, StandardCharsets.UTF_8);
+        List<Website> normalWebsites = JSON.parseArray(normalWebsitesJSONString, Website.class);
+
+        Configuration cfg = new Configuration(Configuration.VERSION_2_3_32);
+        FileTemplateLoader templateLoader = new FileTemplateLoader(new File(basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources"));
+        cfg.setTemplateLoader(templateLoader);
+
+//        cfg.setClassForTemplateLoading(Website.class, basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources");
+        cfg.setDefaultEncoding("UTF-8");
+        Template template = cfg.getTemplate("normal-websites-table.ftl");
+
+        Map<String, Object> model = new HashMap<>();
+        model.put("websites", normalWebsites);
+
+        StringWriter out = new StringWriter();
+        template.process(model, out);
+
+        String renderedHtml = out.toString();
+
+        System.out.println(renderedHtml);
+
+
+        String readmeFilePath = basePath + File.separator + "README.md";
+        File file = new File(readmeFilePath);
+        // replace  renderedHtml to README.md from <!-- normal-begin --> to <!-- normal-end -->
+        String readContent = FileUtil.readString(file, StandardCharsets.UTF_8);
+        String normalSitesContent = StrUtil.subBetween(readContent, "<!-- normal-begin -->", "<!-- normal-end -->");
+        String newReadmeContent = StrUtil.replace(readContent, normalSitesContent, renderedHtml);
+        FileUtil.writeString("\n" + newReadmeContent, file, StandardCharsets.UTF_8);
+
+
     }
 
     public void update() {
@@ -57,23 +93,6 @@ public class Build {
         System.out.println(JSON.toJSONString(website));
 
 
-//        Configuration cfg = new Configuration(Configuration.VERSION_2_3_32);
-//        FileTemplateLoader templateLoader = new FileTemplateLoader(new File(basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources"));
-//        cfg.setTemplateLoader(templateLoader);
-//
-////        cfg.setClassForTemplateLoading(Website.class, basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources");
-//        cfg.setDefaultEncoding("UTF-8");
-//        Template template = cfg.getTemplate("normal-websites-table.ftl");
-//
-//        Map<String, Object> model = new HashMap<>();
-//        model.put("websites", normalWebsites);
-//
-//        StringWriter out = new StringWriter();
-//        template.process(model, out);
-//
-//        String renderedHtml = out.toString();
-
-//        System.out.println(renderedHtml);
     }
 
     public void initNormal() {
@@ -91,8 +110,7 @@ public class Build {
             if (strings.length < 2) {
                 continue;
             }
-            // Extract the lable
-            List<String> labels = extractLabels(normalSite);
+
             // Extract the link
             String link = extractLink(strings[0]);
             // Extract the time
@@ -108,9 +126,34 @@ public class Build {
                 } else {
                     System.out.println(website.getId() + "." + link + " " + time);
                 }
+                // Extract the labels
+                List<String> labels = extractLabels(normalSite);
+                if (CollUtil.isNotEmpty(labels)) {
+                    List<Feature> features = new ArrayList<>();
+                    for (String label : labels) {
+                        Feature feature = fromLabel(label);
+                        if (feature != null) {
+                            features.add(feature);
+                        }
+                    }
+                    website.setScore(Feature.score(features));
+                    website.setFeatures(features);
+                }
                 normalWebsites.add(website);
             }
         }
+        // sort normal Websites by score and add date,  translate add date to LocalDateTime
+        normalWebsites.sort((o1, o2) -> {
+            if (o1.getScore() > o2.getScore()) {
+                return -1;
+            } else if (o1.getScore() < o2.getScore()) {
+                return 1;
+            } else {
+                LocalDate o1Date = LocalDate.parse(o1.getAddedDate(), DateTimeFormatter.ofPattern("yyyy-MM-dd"));
+                LocalDate o2Date = LocalDate.parse(o2.getAddedDate(), DateTimeFormatter.ofPattern("yyyy-MM-dd"));
+                return o2Date.compareTo(o1Date);
+            }
+        });
 
         String normalWebsitesJSONString = JSON.toJSONString(normalWebsites, SerializerFeature.WriteMapNullValue, SerializerFeature.PrettyFormat, SerializerFeature.SortField);
         File normalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "normal-websites.json");
@@ -156,21 +199,25 @@ public class Build {
 
     }
 
-    public static List<String> extractLabels(String content) {
-        Pattern labelPattern = Pattern.compile("\\[(.+?)\\]");
-        Matcher labelMatcher = labelPattern.matcher(content);
-        List<String> labels = new ArrayList<>();
-        if (labelMatcher.find()) {
-            String labelString = labelMatcher.group(1);
-            // 按两个 utf8 编码分隔
-            String[] labelArray = labelString.split("");
-            for (String label : labelArray) {
-                if (StrUtil.isNotBlank(label)) {
-                    labels.add(label);
-                }
+    public static List<String> extractLabels(String str) {
+        List<String> emojis = new ArrayList<>();
+        int i = 0;
+        while (i < str.length()) {
+            int codepoint = str.codePointAt(i);
+            if (Character.isSupplementaryCodePoint(codepoint)) {
+                i += 2;
+            } else {
+                i++;
+            }
+            if (Character.isSurrogate((char) codepoint)) {
+                continue;
+            }
+            if (Character.getType(codepoint) == Character.OTHER_SYMBOL) {
+                emojis.add(new String(Character.toChars(codepoint)));
             }
         }
-        return labels;
+        System.out.println(emojis);
+        return emojis;
 
     }
 
