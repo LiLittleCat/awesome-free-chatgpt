@@ -7,8 +7,8 @@
         <th>标签</th>
         <th>添加时间</th>
         <th>备注</th>
-<#--        <th>预览</th>-->
-<#--        <th>操作</th>-->
+        <th>预览</th>
+        <th>操作</th>
     </tr>
     </thead>
     <tbody>
@@ -27,13 +27,13 @@
             </td>
             <td>${website.addedDate!""}</td>
             <td>${website.customDescription!""}</td>
-<#--            <td style="text-align: center">-->
-<#--                <details>-->
-<#--                    <summary>点击预览</summary>-->
-<#--                    <img src="${website.previewUrl!""}" alt="preview">-->
-<#--                </details>-->
-<#--            </td>-->
-<#--            <td>点赞</td>-->
+            <td style="text-align: center">
+                <details>
+                    <summary>点击预览</summary>
+                    <img src="${website.previewUrl!""}" alt="preview">
+                </details>
+            </td>
+            <td>点赞</td>
         </tr>
     </#list>
     </tbody>

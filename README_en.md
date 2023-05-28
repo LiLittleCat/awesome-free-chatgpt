@@ -372,3 +372,31 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 [![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
 
+## ChatGPT
+
+## ChatGPT Alternative
+
+## 📚 More...
+
+### 💡 Prompt
+
+### 💿 Want to build your own ChatGPT mirror?
+
+- https://github.com/mckaywrigley/chatbot-ui
+- https://github.com/Yidadaa/ChatGPT-Next-Web
+- https://github.com/Chanzhaoyu/chatgpt-web
+- https://github.com/anse-app/chatgpt-demo
+- https://github.com/869413421/chatgpt-web
+- https://github.com/xqdoo00o/chatgpt-web
+- https://github.com/ztjhz/BetterChatGPT
+- https://github.com/ourongxing/chatgpt-vercel
+
+## 🤟 Have fun
+
+### 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
+
+### 💞 Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)

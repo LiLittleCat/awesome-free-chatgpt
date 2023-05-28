@@ -28,9 +28,12 @@ public class Build {
 
     public static void main(String[] args) throws TemplateException, IOException {
         Build build = new Build();
-        build.initNormal();
-        build.initAbnormal();
+//        build.initNormal();
+//        build.initAbnormal();
 //        build.update();
+
+        List<String> strings = extractLabels(" [ \uD83D\uDD13\uD83D\uDD11\uD83C\uDF0E\uD83D\uDCAA ]");
+        System.out.println(Arrays.toString(strings.toArray()));
     }
 
     public void update() {
@@ -88,6 +91,8 @@ public class Build {
             if (strings.length < 2) {
                 continue;
             }
+            // Extract the lable
+            List<String> labels = extractLabels(normalSite);
             // Extract the link
             String link = extractLink(strings[0]);
             // Extract the time
@@ -148,6 +153,24 @@ public class Build {
         File abnormalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "abnormal-websites.json");
         FileUtil.writeString(abnormalWebsitesJSONString, abnormalWebsitesJSON, StandardCharsets.UTF_8);
 
+
+    }
+
+    public static List<String> extractLabels(String content) {
+        Pattern labelPattern = Pattern.compile("\\[(.+?)\\]");
+        Matcher labelMatcher = labelPattern.matcher(content);
+        List<String> labels = new ArrayList<>();
+        if (labelMatcher.find()) {
+            String labelString = labelMatcher.group(1);
+            // 按两个 utf8 编码分隔
+            String[] labelArray = labelString.split("");
+            for (String label : labelArray) {
+                if (StrUtil.isNotBlank(label)) {
+                    labels.add(label);
+                }
+            }
+        }
+        return labels;
 
     }
 
