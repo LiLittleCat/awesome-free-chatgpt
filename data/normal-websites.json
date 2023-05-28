@@ -106,8 +106,9 @@
             }
         },
         "features": [
-            "FREE"
-        ],
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":2,
 		"labels":null,
 		"lang":"zh",
@@ -126,9 +127,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-        "features": [
-            "FREE"
-        ],
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":3,
 		"labels":null,
         "lang":"zh",
@@ -147,7 +149,12 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE_QUOTA",
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED",
+			"GPT4_SUPPORTED"
+		],
 		"id":4,
 		"labels":null,
 		"lang":null,
@@ -166,7 +173,11 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED",
+			"GPT4_SUPPORTED"
+		],
 		"id":5,
 		"labels":null,
 		"lang":null,
@@ -185,7 +196,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":6,
 		"labels":null,
 		"lang":null,
@@ -204,7 +218,11 @@
 		"customDescription":"免费操作步骤：转到 API 设置并选择“使用自定义 API 端点”。然后，输入 https://free.churchless.tech/v1/chat/completions 作为端点，并将 API 密钥字段留空。\r",
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":7,
 		"labels":null,
 		"lang":null,
@@ -223,7 +241,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":8,
 		"labels":null,
 		"lang":null,
@@ -242,7 +262,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":9,
 		"labels":null,
 		"lang":null,
@@ -261,7 +284,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":10,
 		"labels":null,
 		"lang":null,
@@ -280,7 +305,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"API_KEY_REQUIRED",
+			"GPT4_SUPPORTED"
+		],
 		"id":11,
 		"labels":null,
 		"lang":null,
@@ -299,7 +327,11 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"VPN_REQUIRED",
+			"GPT4_SUPPORTED"
+		],
 		"id":12,
 		"labels":null,
 		"lang":null,
@@ -318,7 +350,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":13,
 		"labels":null,
 		"lang":null,
@@ -337,7 +372,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":14,
 		"labels":null,
 		"lang":null,
@@ -356,7 +393,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":15,
 		"labels":null,
 		"lang":null,
@@ -375,7 +414,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":16,
 		"labels":null,
 		"lang":null,
@@ -394,7 +435,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":17,
 		"labels":null,
 		"lang":null,
@@ -413,7 +457,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":18,
 		"labels":null,
 		"lang":null,
@@ -432,7 +479,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":19,
 		"labels":null,
 		"lang":null,
@@ -451,7 +500,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":20,
 		"labels":null,
 		"lang":null,
@@ -470,7 +521,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":21,
 		"labels":null,
 		"lang":null,
@@ -489,7 +543,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FOLLOW_ON_WECHAT_REQUIRED"
+		],
 		"id":22,
 		"labels":null,
 		"lang":null,
@@ -508,7 +564,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":23,
 		"labels":null,
 		"lang":null,
@@ -527,7 +586,9 @@
 		"customDescription":"密码 586-484-535D\r",
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":24,
 		"labels":null,
 		"lang":null,
@@ -546,7 +607,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":25,
 		"labels":null,
 		"lang":null,
@@ -565,7 +628,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FOLLOW_ON_WECHAT_REQUIRED"
+		],
 		"id":26,
 		"labels":null,
 		"lang":null,
@@ -584,7 +649,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":27,
 		"labels":null,
 		"lang":null,
@@ -603,7 +671,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":28,
 		"labels":null,
 		"lang":null,
@@ -622,7 +693,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FOLLOW_ON_WECHAT_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":29,
 		"labels":null,
 		"lang":null,
@@ -641,7 +715,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":30,
 		"labels":null,
 		"lang":null,
@@ -660,7 +736,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":31,
 		"labels":null,
 		"lang":null,
@@ -679,7 +758,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":32,
 		"labels":null,
 		"lang":null,
@@ -698,7 +779,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":33,
 		"labels":null,
 		"lang":null,
@@ -717,7 +800,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":34,
 		"labels":null,
 		"lang":null,
@@ -736,7 +821,10 @@
 		"customDescription":"GPT4 的兑换码：TRYGPT4\r",
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"GPT4_SUPPORTED"
+		],
 		"id":35,
 		"labels":null,
 		"lang":null,
@@ -755,7 +843,10 @@
 		"customDescription":"设置中输入访问密码 857857\r",
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":36,
 		"labels":null,
 		"lang":null,
@@ -774,7 +865,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":37,
 		"labels":null,
 		"lang":null,
@@ -793,7 +886,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":38,
 		"labels":null,
 		"lang":null,
@@ -812,7 +907,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":39,
 		"labels":null,
 		"lang":null,
@@ -831,7 +929,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":40,
 		"labels":null,
 		"lang":null,
@@ -850,7 +951,10 @@
 		"customDescription":"免费 GPT3.5 和绘画\r",
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"LOGIN_REQUIRED"
+		],
 		"id":41,
 		"labels":null,
 		"lang":null,
@@ -869,7 +973,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":42,
 		"labels":null,
 		"lang":null,
@@ -888,7 +994,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":43,
 		"labels":null,
 		"lang":null,
@@ -907,7 +1016,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":44,
 		"labels":null,
 		"lang":null,
@@ -926,7 +1038,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":45,
 		"labels":null,
 		"lang":null,
@@ -945,7 +1060,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":46,
 		"labels":null,
 		"lang":null,
@@ -964,7 +1082,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE_QUOTA",
+			"VPN_REQUIRED"
+		],
 		"id":47,
 		"labels":null,
 		"lang":null,
@@ -983,7 +1104,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":48,
 		"labels":null,
 		"lang":null,
@@ -1002,7 +1126,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":49,
 		"labels":null,
 		"lang":null,
@@ -1021,7 +1148,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":50,
 		"labels":null,
 		"lang":null,
@@ -1040,7 +1170,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":51,
 		"labels":null,
 		"lang":null,
@@ -1059,7 +1191,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":52,
 		"labels":null,
 		"lang":null,
@@ -1078,7 +1212,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE_QUOTA"
+		],
 		"id":53,
 		"labels":null,
 		"lang":null,
@@ -1097,7 +1233,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":54,
 		"labels":null,
 		"lang":null,
@@ -1116,7 +1254,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":55,
 		"labels":null,
 		"lang":null,
@@ -1135,7 +1276,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":56,
 		"labels":null,
 		"lang":null,
@@ -1154,7 +1298,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"GPT4_SUPPORTED"
+		],
 		"id":57,
 		"labels":null,
 		"lang":null,
@@ -1173,7 +1320,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":58,
 		"labels":null,
 		"lang":null,
@@ -1192,7 +1342,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":59,
 		"labels":null,
 		"lang":null,
@@ -1211,7 +1364,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":60,
 		"labels":null,
 		"lang":null,
@@ -1230,7 +1386,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":61,
 		"labels":null,
 		"lang":null,
@@ -1249,7 +1408,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":62,
 		"labels":null,
 		"lang":null,
@@ -1268,7 +1429,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":63,
 		"labels":null,
 		"lang":null,
@@ -1287,7 +1451,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":64,
 		"labels":null,
 		"lang":null,
@@ -1306,7 +1472,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE_QUOTA",
+			"VPN_REQUIRED"
+		],
 		"id":65,
 		"labels":null,
 		"lang":null,
@@ -1325,7 +1494,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":66,
 		"labels":null,
 		"lang":null,
@@ -1344,7 +1516,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":67,
 		"labels":null,
 		"lang":null,
@@ -1363,7 +1537,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":68,
 		"labels":null,
 		"lang":null,
@@ -1382,7 +1558,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":69,
 		"labels":null,
 		"lang":null,
@@ -1401,7 +1579,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":70,
 		"labels":null,
 		"lang":null,
@@ -1420,7 +1601,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":71,
 		"labels":null,
 		"lang":null,
@@ -1439,7 +1623,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":72,
 		"labels":null,
 		"lang":null,
@@ -1458,7 +1644,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FOLLOW_ON_WECHAT_REQUIRED",
+			"VPN_REQUIRED"
+		],
 		"id":73,
 		"labels":null,
 		"lang":null,
@@ -1477,7 +1666,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":74,
 		"labels":null,
 		"lang":null,
@@ -1496,7 +1687,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":75,
 		"labels":null,
 		"lang":null,
@@ -1515,7 +1708,10 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
 		"id":76,
 		"labels":null,
 		"lang":null,
@@ -1534,7 +1730,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
 		"id":77,
 		"labels":null,
 		"lang":null,
@@ -1553,7 +1751,9 @@
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
-		"features":null,
+		"features":[
+			"FREE"
+		],
 		"id":78,
 		"labels":null,
 		"lang":null,
