@@ -8,6 +8,14 @@
 
 当然，非常感谢他们出色的工作，如果您觉得它有用，可以考虑捐赠或打赏他们。
 
+---
+
+|                                                                             🏆 赞助商 🏆                                                                              |
+  |:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 👉 [AiDoGe - kjshsh.com](https://kjshsh.com) 免费，稳定，GPT4，Midjourney 绘图 AI ![recommend](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/images/other/recommend.png) |
+
+---
+
 ## 🌈 欢迎贡献
 
 欢迎随时提交 [issue](https://github.com/LiLittleCat/awesome-free-chatgpt/issues) 和 [PR](https://github.com/LiLittleCat/awesome-free-chatgpt/pulls) 新增网站或报告网站失效，如果您发现此项目有用，不要忘记 star ⭐，您的支持是我前进的动力。
@@ -31,6 +39,8 @@
 > - [ 🚧 ] 建设中
 
 ### 类似官网风格
+
+- [ 🆓🔔 ] [https://gpt4.gravityengine.cc/](https://gpt4.gravityengine.cc/) - 2023-05-16
 
 - [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/)
 
@@ -90,7 +100,7 @@
 
 - [ 🆓 ][https://www.promptboom.com](https://www.promptboom.com/) - 2023-04-24
 
-- [ 🆓 ][https://w.betai55.uk/](https://w.betai55.uk/) - 2023-04-26 - 密码 pub04-23Xs67AErn454
+- [ 🆓 ][https://w.betai55.uk/](https://d2.betai55.uk/) - 2023-04-26 - 密码 586-484-535D
 
 - [ 🆓 ][https://x1.xjai.cc](https://x1.xjai.cc/) - 2023-04-27
 
@@ -102,7 +112,54 @@
 
 - [ 🆓 ][https://chatgpt.hz-it-dev.co](https://chatgpt.hz-it-dev.com/) - 2023-04-30
 
-- [ 🆓 ][https://1chat.cc](https://1chat.cc) - 2023-05-04
+- [ 🆓🌎🔐 ] [https://tubogpt.vercel.app](https://tubogpt.vercel.app) - 2023-05-06
+
+- [ 🆓 ] [http://207.148.94.37:7860](http://207.148.94.37:7860/) - 2023-05-06
+
+- [ 🆓🔐 ] [https://seven-star.org](https://seven-star.org/) - 2023-05-06
+
+- [ 🆓 ] [https://ai.hxkj.vip](https://ai.hxkj.vip) - 2023-05-06
+
+- [ 🔐 ] [https://gpt.opengpt88.com](https://gpt.opengpt88.com) - 2023-05-07
+
+- [ 🔐 ] [https://chat.aidutu.cn](https://chat.aidutu.cn) - 2023-05-09
+
+- [ 🔐 ] [https://chat.bk8787.com](https://chat.bk8787.com) - 2023-05-09
+
+- [ 🆓 ] [https://chatgpt.dreamtrend.net](https://chatgpt.dreamtrend.net/) - 2023-05-10
+
+- [ 🆓 ] [http://1.15.134.164:999](http://1.15.134.164:999/) - 2023-05-10
+
+- [ 🔐 ] [https://chat.wenwen-ai.com](https://chat.wenwen-ai.com) - 2023-05-10
+
+- [ 🆓 ] [https://chat.ok2ai.com](https://chat.ok2ai.com/) - 2023-05-11
+
+- [ 🔐 ] [https://gpt.uziai.com](https://gpt.uziai.com/) - 2023-05-11
+
+- [ 🔐🔔 ] [https://1919abc.com](https://1919abc.com) - 2023-05-15
+
+- [ 🔐 ] [https://aiget.cc/](https://aiget.cc/) - 2023-05-17
+
+- [ 🔐🔔 ] [https://chat.zhenbs.com/](https://chat.zhenbs.com/) - 2023-05-17 - GPT4 的兑换码：TRYGPT4
+
+- [ 🆓 ] [http://chat1.manongzyg.one/](http://chat1.manongzyg.one/) - 2023-05-17 - 设置中输入访问密码 857857
+
+- [ 🔐 ] [https://aiia.chat/](https://aiia.chat/) - 2023-05-17
+
+- [ 🆓🔔 ] [https://chataibase.com/](https://chataibase.com/) - 2023-05-18
+
+- [ 🆓 ] [https://srgfdfsf.xiaowenzi.xyz/](https://srgfdfsf.xiaowenzi.xyz/) - 2023-05-18 - 永久发布页：https://gpt.lovebaby.today/
+- [ 🆓 ] [https://1.nb8.ltd/](https://1.nb8.ltd/) - 2023-05-19
+- [ 🆓🔓🔔 ] [https://chat.v50.ltd](https://chat.v50.ltd) - 2023-05-19
+- [ 🔐 ] [https://www.openaicloud.cloud/](https://www.openaicloud.cloud/) - 2023-05-22
+- [ 🔐 ] [https://aitxt.io/](https://aitxt.io/) - 2023-05-22
+- [ 🔐 ] [https://ai.icodebug.xyz/](https://ai.icodebug.xyz/) - 2023-05-22
+- [ 🔐 ] [https://gpts.dawu.world](https://gpts.dawu.world) - 2023-05-22
+- [ 🆓 ] [https://vvanglro.eu.org/](https://vvanglro.eu.org) - 2023-05-23
+- [ 🆓 ] [https://1chat.c3r.ink/](https://1chat.c3r.ink/) - 2023-05-24
+- [ 🔐 ] [https://www.sweetsai.com/](https://www.sweetsai.com/) - 2023-05-24
+- [ 🆓📚 ] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-05-24 - 免费 GPT3.5 和绘画
+
 
 ---
 
@@ -226,6 +283,13 @@
 
 - [ 🔐 ][https://ai.dw3.io/](https://ai.dw3.io/) - 2023-05-05
 
+- [ 🔐 ][https://www.freechatsgpt.com](https://www.freechatsgpt.com/) - 2023-05-12
+
+- [ 🔐 ][http://bamboochat.kebakeba.com](http://bamboochat.kebakeba.com/) - 2023-05-12
+
+- [ 🔐 ][https://chat.pinkfong.cn](https://chat.pinkfong.cn) - 2023-05-18
+
+
 ---
 
 ### 替代方案
@@ -264,7 +328,9 @@
 
 <summary>点击展开</summary>
 
-- ~~[ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)~~ - 2023-04-20 up 2023-05-05 down
+- ~~[ 🆓 ][https://1chat.cc](https://1chat.cc)~~ - 2023-05-04 - 2023-05-24
+
+- ~~[ 🆓🔔 ] [http://www.tdchatd.us](http://www.tdchatd.us/)~~ - 2023-04-20 - 2023-05-05
 
 - ~~[https://gpt.gpt0.icu](https://gpt.gpt0.icu)~~ - 2023-04-28
 
