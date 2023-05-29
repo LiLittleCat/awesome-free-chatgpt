@@ -1,12 +1,9 @@
 
+<!-- new-add-begin -->
 
----
 
-|                                                                            🏆 赞助商 🏆                                                                             |
-  |:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 👉 [AiDoGe - kjshsh.com](https://kjshsh.com) 免费，稳定，GPT4，Midjourney 绘图 AI ![recommend](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/images/other/recommend.png) |
 
----
+<!-- new-add-end -->
 
 <!-- normal-begin -->
 
@@ -89,8 +86,8 @@
 - [ 🆓🌎 ][https://pro.ai.ls/](https://pro.ai.ls/) - 2023-04-26
 - [ 🔒 ][http://bamboochat.kebakeba.com](http://bamboochat.kebakeba.com/) - 2023-05-12
 - [ 🆓 ][https://chat.pinkfong.cn](https://chat.pinkfong.cn) - 2023-05-18
-
-<!-- normal-end -->
+- [ 🔓🧰 ] [https://aixforce.app](https://aixforce.app) - 2023-05-29
+- [ 🔓🌎 ] [https://chatgpt-cn.co/](https://chatgpt-cn.co/) - 2023-04-23- [ 🔒 ] [https://aihalo.chat/](https://aihalo.chat/) - 2023-05-28<!-- normal-end -->
 
 <details>
 
@@ -183,7 +180,3 @@
 </details>
 
 
-<!-- new-add-begin -->
-
-
-<!-- new-add-end -->

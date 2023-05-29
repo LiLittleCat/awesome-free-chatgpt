@@ -31,9 +31,15 @@ public class Build {
 
     public static void main(String[] args) throws TemplateException, IOException {
         Build build = new Build();
+
 //        build.initNormal();
 //        build.initAbnormal();
+//        build.buildTable();
+
+//        System.out.println(extractLabels(Feature.allLabelString()));
+
         build.newAdd();
+
     }
 
     public void newAdd() throws TemplateException, IOException {
@@ -42,15 +48,18 @@ public class Build {
         String normalWebsitesJSONString = FileUtil.readString(normalWebsitesJSON, StandardCharsets.UTF_8);
         List<Website> normalWebsites = JSON.parseArray(normalWebsitesJSONString, Website.class);
         File originalMdFile = new File(basePath + File.separator + "data" + File.separator + "original.md");
-        String newAddContent = StrUtil.subBetween(FileUtil.readString(originalMdFile, StandardCharsets.UTF_8),
-                "<!-- new-add-begin -->",
-                "<!-- new-add-end -->");
+        String originalMdFileContent = FileUtil.readString(originalMdFile, StandardCharsets.UTF_8);
+        String newAddContent = StrUtil.subBetween(originalMdFileContent, "<!-- new-add-begin -->", "<!-- new-add-end -->");
+        String oldNormalWebsitesContent = StrUtil.subBetween(originalMdFileContent, "<!-- normal-begin -->", "<!-- normal-end -->");
+        StringBuilder newNormalSitesContent = new StringBuilder(oldNormalWebsitesContent);
         String[] newAddLines = newAddContent.split("\n");
         for (String newAddLine : newAddLines) {
             String[] strings = newAddLine.split(" - ");
             if (strings.length < 2) {
                 continue;
             }
+            // new add to the end of normal
+            newNormalSitesContent.append(newAddLine);
             // Extract the link
             String link = extractLink(strings[0]);
             // Extract the time
@@ -97,10 +106,10 @@ public class Build {
         FileUtil.writeString(JSON.toJSONString(normalWebsites, SerializerFeature.WriteMapNullValue, SerializerFeature.PrettyFormat, SerializerFeature.SortField),
                 normalWebsitesJSON, StandardCharsets.UTF_8);
 
-        // set null to original.md
-        String originalMdContent = FileUtil.readString(originalMdFile, StandardCharsets.UTF_8);
-        String normalSitesContent = StrUtil.subBetween(originalMdContent, "<!-- new-add-begin -->", "<!-- new-add-end -->");
-        String newOriginalMdContent = originalMdContent.replace(normalSitesContent, "\n\n\n\n");
+        // move new add to the end of normal
+        String newOriginalMdContent = originalMdFileContent.replace(newAddContent, "\n\n\n\n")
+                .replace(oldNormalWebsitesContent, newNormalSitesContent);
+
         FileUtil.writeString(newOriginalMdContent, originalMdFile, StandardCharsets.UTF_8);
 
         buildTable();
@@ -280,17 +289,16 @@ public class Build {
         int i = 0;
         while (i < str.length()) {
             int codepoint = str.codePointAt(i);
-            if (Character.isSupplementaryCodePoint(codepoint)) {
-                i += 2;
-            } else {
-                i++;
-            }
+            int charCount = Character.charCount(codepoint);
             if (Character.isSurrogate((char) codepoint)) {
+                i += charCount;
                 continue;
             }
-            if (Character.getType(codepoint) == Character.OTHER_SYMBOL) {
-                emojis.add(new String(Character.toChars(codepoint)));
+            String emoji = new String(Character.toChars(codepoint));
+            if (Character.getType(codepoint) == Character.OTHER_SYMBOL && emoji.matches("[\\p{So}\\p{Sc}]")) {
+                emojis.add(emoji);
             }
+            i += charCount;
         }
         System.out.println(emojis);
         return emojis;

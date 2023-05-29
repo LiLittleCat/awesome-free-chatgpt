@@ -13,7 +13,7 @@ public enum Feature {
 //    FREE("free", "🎁", 2f),
     RECOMMENDED("recommended", "👍", 5f),
     FREE("free", "🆓", 2f),
-    FREE_QUOTA("free_quota", "🔓", 1f),
+    FREE_QUOTA("free_quota", "🔓", -1f),
     GPT4_SUPPORTED("gpt4_supported", "💪", 1f),
     MORE_THAN_CHAT("more_than_chat", "🧰", 0.5f),
     LOGIN_REQUIRED("login_required", "🔒", -5f),
@@ -43,6 +43,14 @@ public enum Feature {
             }
         }
         return null;
+    }
+
+    public static String allLabelString() {
+        StringBuilder sb = new StringBuilder();
+        for (Feature feature : Feature.values()) {
+            sb.append(feature.getLabel());
+        }
+        return sb.toString();
     }
 
 }
