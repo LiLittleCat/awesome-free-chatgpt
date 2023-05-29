@@ -13,6 +13,7 @@ import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
 
+import java.awt.*;
 import java.io.File;
 import java.io.IOException;
 import java.io.StringWriter;
@@ -20,6 +21,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
+import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -31,43 +33,52 @@ public class Build {
         Build build = new Build();
         build.initNormal();
         build.initAbnormal();
-//        build.buildTable();
-
+        build.buildTable();
     }
 
     public void buildTable() throws IOException, TemplateException {
         String basePath = System.getProperty("user.dir");
+        Configuration cfg = new Configuration(Configuration.VERSION_2_3_32);
+        FileTemplateLoader templateLoader = new FileTemplateLoader(new File(basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources"));
+        cfg.setTemplateLoader(templateLoader);
+//        cfg.setClassForTemplateLoading(Website.class, basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources");
+        cfg.setDefaultEncoding("UTF-8");
 
         File normalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "normal-websites.json");
         String normalWebsitesJSONString = FileUtil.readString(normalWebsitesJSON, StandardCharsets.UTF_8);
         List<Website> normalWebsites = JSON.parseArray(normalWebsitesJSONString, Website.class);
 
-        Configuration cfg = new Configuration(Configuration.VERSION_2_3_32);
-        FileTemplateLoader templateLoader = new FileTemplateLoader(new File(basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources"));
-        cfg.setTemplateLoader(templateLoader);
+        Template normalTemplate = cfg.getTemplate("normal-websites-table.ftl");
+        Map<String, Object> normalModel = new HashMap<>();
+        normalModel.put("websites", normalWebsites);
+        StringWriter normalOut = new StringWriter();
+        normalTemplate.process(normalModel, normalOut);
+        String normalRenderedHtml = "\n" + normalOut;
+        System.out.println(normalRenderedHtml);
 
-//        cfg.setClassForTemplateLoading(Website.class, basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources");
-        cfg.setDefaultEncoding("UTF-8");
-        Template template = cfg.getTemplate("normal-websites-table.ftl");
 
-        Map<String, Object> model = new HashMap<>();
-        model.put("websites", normalWebsites);
+        File abnormalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "abnormal-websites.json");
+        String abnormalWebsitesJSONString = FileUtil.readString(abnormalWebsitesJSON, StandardCharsets.UTF_8);
+        List<Website> abnormalWebsites = JSON.parseArray(abnormalWebsitesJSONString, Website.class);
 
-        StringWriter out = new StringWriter();
-        template.process(model, out);
-
-        String renderedHtml = out.toString();
-
-        System.out.println(renderedHtml);
+        Template abnormalTemplate = cfg.getTemplate("abnormal-websites-table.ftl");
+        Map<String, Object> abnormalModel = new HashMap<>();
+        abnormalModel.put("websites", abnormalWebsites);
+        StringWriter abnormalOut = new StringWriter();
+        abnormalTemplate.process(abnormalModel, abnormalOut);
+        String abnormalRenderedHtml = "\n" + abnormalOut;
+        System.out.println(abnormalRenderedHtml);
 
 
         String readmeFilePath = basePath + File.separator + "README.md";
-        File file = new File(readmeFilePath);
+        File readmeFile = new File(readmeFilePath);
         // replace  renderedHtml to README.md from <!-- normal-begin --> to <!-- normal-end -->
-        String readContent = FileUtil.readString(file, StandardCharsets.UTF_8);
+        String readContent = FileUtil.readString(readmeFile, StandardCharsets.UTF_8);
         String normalSitesContent = StrUtil.subBetween(readContent, "<!-- normal-begin -->", "<!-- normal-end -->");
-        String newReadmeContent = StrUtil.replace(readContent, normalSitesContent, renderedHtml);
-        FileUtil.writeString("\n" + newReadmeContent, file, StandardCharsets.UTF_8);
+        String abnormalSitesContent = StrUtil.subBetween(readContent, "<!-- abnormal-begin -->", "<!-- abnormal-end -->");
+
+        String newReadmeContent = readContent.replace(normalSitesContent, normalRenderedHtml).replace(abnormalSitesContent, abnormalRenderedHtml);
+        FileUtil.writeString(newReadmeContent, readmeFile, StandardCharsets.UTF_8);
 
     }
 
@@ -96,7 +107,7 @@ public class Build {
 
     public void initNormal() {
         String basePath = System.getProperty("user.dir");
-        String readmeFilePath = basePath + File.separator + "README.md";
+        String readmeFilePath = basePath + File.separator + "data" + File.separator + "original.md";
         File file = new File(readmeFilePath);
         String readContent = FileUtil.readString(file, StandardCharsets.UTF_8);
         String normalSitesContent = StrUtil.subBetween(readContent, "<!-- normal-begin -->", "<!-- normal-end -->");
@@ -108,7 +119,6 @@ public class Build {
             if (strings.length < 2) {
                 continue;
             }
-
             // Extract the link
             String link = extractLink(strings[0]);
             // Extract the time
@@ -118,7 +128,7 @@ public class Build {
                 website.setUrl(link);
                 website.setAddedDate(time);
                 if (strings.length > 2) {
-                    website.setCustomDescription(strings[2]);
+                    website.setCustomDescription(wrapSentence(strings[2]));
                     System.out.println(website.getId() + "." + link + " " + time + " " + strings[2]);
                 } else {
                     System.out.println(website.getId() + "." + link + " " + time);
@@ -139,17 +149,13 @@ public class Build {
                 normalWebsites.add(website);
             }
         }
-        // sort normal Websites by score and add date,  translate add date to LocalDateTime
+        // normalWebsites 先根据得分排序，得分相同的再根据时间排序
         normalWebsites.sort((o1, o2) -> {
-            if (o1.getScore() > o2.getScore()) {
-                return -1;
-            } else if (o1.getScore() < o2.getScore()) {
-                return 1;
-            } else {
-                LocalDate o1Date = LocalDate.parse(o1.getAddedDate(), DateTimeFormatter.ofPattern("yyyy-MM-dd"));
-                LocalDate o2Date = LocalDate.parse(o2.getAddedDate(), DateTimeFormatter.ofPattern("yyyy-MM-dd"));
-                return o2Date.compareTo(o1Date);
+            int scoreCompare = o2.getScore().compareTo(o1.getScore());
+            if (scoreCompare == 0) {
+                return o2.getAddedDate().compareTo(o1.getAddedDate());
             }
+            return scoreCompare;
         });
         // set id
         int normalId = 1;
@@ -165,7 +171,7 @@ public class Build {
 
     public void initAbnormal() throws IOException, TemplateException {
         String basePath = System.getProperty("user.dir");
-        String readmeFilePath = basePath + File.separator + "README.md";
+        String readmeFilePath = basePath + File.separator + "data" + File.separator + "original.md";
         File file = new File(readmeFilePath);
         String readContent = FileUtil.readString(file, StandardCharsets.UTF_8);
         String abnormalSitesContent = StrUtil.subBetween(readContent, "<!-- abnormal-begin -->", "<!-- abnormal-end -->");
@@ -204,6 +210,21 @@ public class Build {
 
     }
 
+    public static String wrapSentence(String text) {
+        String template = "<details>\n" +
+                "<summary>内容过长，点击展开</summary>\n" +
+                "{text}\n" +
+                "</details>";
+        if (StrUtil.isBlank(text)) {
+            return null;
+        }
+        if (text.length() > 30) {
+            return template.replace("{text}", text);
+        } else {
+            return text;
+        }
+    }
+
     public static List<String> extractLabels(String str) {
         List<String> emojis = new ArrayList<>();
         int i = 0;
@@ -227,10 +248,15 @@ public class Build {
     }
 
     public static String extractLink(String content) {
-        Pattern linkPattern = Pattern.compile("\\((.+?)\\)");
+        String regex = "\\[https?://\\S+]";
+        Pattern linkPattern = Pattern.compile(regex);
         Matcher linkMatcher = linkPattern.matcher(content);
         if (linkMatcher.find()) {
-            return linkMatcher.group(1);
+            String link = linkMatcher.group(0).replace("[", "").replace("]", "");
+            if (!link.endsWith("/")) {
+                return link + "/";
+            }
+            return link;
         }
         return null;
     }

@@ -89,8 +89,6 @@
 - [ 🆓🌎 ][https://pro.ai.ls/](https://pro.ai.ls/) - 2023-04-26
 - [ 🔒 ][http://bamboochat.kebakeba.com](http://bamboochat.kebakeba.com/) - 2023-05-12
 - [ 🆓 ][https://chat.pinkfong.cn](https://chat.pinkfong.cn) - 2023-05-18
-- [ 🆓 ][https://chat.jubianxingqiu.com/](https://chat.jubianxingqiu.com/) - 2023-05-29
-- [ 🆓 ][https://chat.kunshanyuxin.com/](https://chat.kunshanyuxin.com/) - 2023-05-29
 
 <!-- normal-end -->
 
@@ -143,7 +141,7 @@
 - ~~[https://chat.xiami.one](https://chat.xiami.one)~~ - 2023-05-26
 - ~~[https://chat.gptplus.one](https://chat.gptplus.one)~~ - 2023-05-26
 - ~~[http://www.msai.fun](http://www.msai.fun/)~~ - 2023-05-26
-- ~~[https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch](https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch)~~ - 2023-04-10
+- ~~[https://heimoshuiyu.github.io/chatgpt-api-web/](https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch)~~ - 2023-04-10
 - ~~[https://chatmindai.com](https://chatmindai.com/#/chat)~~ - 2023-05-26
 - ~~[https://aigcfun.com](https://aigcfun.com/)~~ - 2023-05-26
 - ~~[https://www.chat2ai.cn](https://www.chat2ai.cn/)~~ - 2023-05-26

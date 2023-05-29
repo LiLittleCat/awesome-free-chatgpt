@@ -13,7 +13,7 @@
     <#list websites as website>
         <tr>
             <td>${website_index + 1}</td>
-            <td>${website.title!""} <a href="${website.url!""}" target="_blank">${website.url!""}</a>
+            <td><del>${website.title!""} <a href="${website.url!""}" target="_blank">${website.url!""}</a>
 <#--                <br> ${website.description!""}</td>-->
 <#--            <td>${website.lang!""}</td>-->
 <#--            <td>-->
@@ -22,7 +22,8 @@
 <#--                        ${feature.label!""}-->
 <#--                    </#list>-->
 <#--                </#if>-->
-<#--            </td>-->
+                </del>
+            </td>
             <td>${website.reportedInvalidDate!""}</td>
 <#--            <td>${website.reportedInvalidReason!""}</td>-->
         </tr>
