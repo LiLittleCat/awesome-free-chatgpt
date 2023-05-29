@@ -31,22 +31,21 @@ public class Build {
 
     public static void main(String[] args) throws TemplateException, IOException {
         Build build = new Build();
-        build.initNormal();
-        build.initAbnormal();
-        build.buildTable();
+//        build.initNormal();
+//        build.initAbnormal();
+        build.newAdd();
     }
 
     public void newAdd() throws TemplateException, IOException {
         String basePath = System.getProperty("user.dir");
         File normalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "normal-websites.json");
         String normalWebsitesJSONString = FileUtil.readString(normalWebsitesJSON, StandardCharsets.UTF_8);
-        List<Website> normalSites = JSON.parseArray(normalWebsitesJSONString, Website.class);
-        File originalMd = new File(basePath + File.separator + "data" + File.separator + "original.md");
-        String newAddContent = StrUtil.subBetween(FileUtil.readString(originalMd, StandardCharsets.UTF_8),
+        List<Website> normalWebsites = JSON.parseArray(normalWebsitesJSONString, Website.class);
+        File originalMdFile = new File(basePath + File.separator + "data" + File.separator + "original.md");
+        String newAddContent = StrUtil.subBetween(FileUtil.readString(originalMdFile, StandardCharsets.UTF_8),
                 "<!-- new-add-begin -->",
                 "<!-- new-add-end -->");
         String[] newAddLines = newAddContent.split("\n");
-        List<Website> normalWebsites = new ArrayList<>();
         for (String newAddLine : newAddLines) {
             String[] strings = newAddLine.split(" - ");
             if (strings.length < 2) {
@@ -97,6 +96,12 @@ public class Build {
         }
         FileUtil.writeString(JSON.toJSONString(normalWebsites, SerializerFeature.WriteMapNullValue, SerializerFeature.PrettyFormat, SerializerFeature.SortField),
                 normalWebsitesJSON, StandardCharsets.UTF_8);
+
+        // set null to original.md
+        String originalMdContent = FileUtil.readString(originalMdFile, StandardCharsets.UTF_8);
+        String normalSitesContent = StrUtil.subBetween(originalMdContent, "<!-- new-add-begin -->", "<!-- new-add-end -->");
+        String newOriginalMdContent = originalMdContent.replace(normalSitesContent, "\n\n\n");
+        FileUtil.writeString(newOriginalMdContent, originalMdFile, StandardCharsets.UTF_8);
 
         buildTable();
 
