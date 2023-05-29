@@ -41,6 +41,8 @@
 ### 类似官网风格
 
 
+- [ 🔐 ] [https://aihalo.chat/](https://aihalo.chat/) - 2023-05-28
+
 - [ 🔐 ] [https://chatgpt-cn.co](https://chatgpt-cn.co/)
 
 - [ 🆓🔔 ] [https://gpt4.gravityengine.cc/](https://gpt4.gravityengine.cc/) - 2023-05-16
