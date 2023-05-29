@@ -40,9 +40,13 @@
 
 ### 类似官网风格
 
+
 - [ 🔐 ] [https://aihalo.chat/](https://aihalo.chat/) - 2023-05-28
 
+- [ 🔐 ] [https://chatgpt-cn.co](https://chatgpt-cn.co/)
+
 - [ 🆓🔔 ] [https://gpt4.gravityengine.cc/](https://gpt4.gravityengine.cc/) - 2023-05-16
+
 
 - [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/)
 
@@ -73,6 +77,8 @@
 - [ 🔐 ] [https://chatmindai.com](https://chatmindai.com/#/chat)
 
 - [ 🔐🌎🔔 ] [https://chat.bumo.ai](https://chat.bumo.ai/)
+
+- [ 🔐🔔 ] [https://chat.bumo.tech](https://chat.bumo.tech/)
 
 - [ 🆓 ] [https://chat.gpt.bz](https://chat.gpt.bz/)
 
