@@ -34,11 +34,11 @@ public class Build {
 
 //        build.initNormal();
 //        build.initAbnormal();
-//        build.buildTable();
+        build.buildTable();
 
 //        System.out.println(extractLabels(Feature.allLabelString()));
 
-        build.newAdd();
+//        build.newAdd();
 
     }
 
