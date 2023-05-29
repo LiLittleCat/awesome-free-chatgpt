@@ -162,6 +162,15 @@ public class Build {
         String newReadmeContent2 = newReadmeContent.replace("https://img.shields.io/badge/websites-" + websitesCount + "-blue?style=flat", "https://img.shields.io/badge/websites-" + normalWebsites.size() + "-blue?style=flat");
         FileUtil.writeString(newReadmeContent2, readmeFile, StandardCharsets.UTF_8);
 
+        // update urls.json
+        String urlsJsonFilePath = basePath + File.separator + "urls.json";
+        File urlsJsonFile = new File(urlsJsonFilePath);
+        List<String> urls = new ArrayList<>();
+        for (Website normalWebsite : normalWebsites) {
+            urls.add(normalWebsite.getUrl());
+        }
+        FileUtil.writeString(JSON.toJSONString(urls), urlsJsonFile, StandardCharsets.UTF_8);
+
     }
 
     public void initNormal() {
