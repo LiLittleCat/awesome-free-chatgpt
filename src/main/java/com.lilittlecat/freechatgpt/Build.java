@@ -100,7 +100,7 @@ public class Build {
         // set null to original.md
         String originalMdContent = FileUtil.readString(originalMdFile, StandardCharsets.UTF_8);
         String normalSitesContent = StrUtil.subBetween(originalMdContent, "<!-- new-add-begin -->", "<!-- new-add-end -->");
-        String newOriginalMdContent = originalMdContent.replace(normalSitesContent, "\n\n\n");
+        String newOriginalMdContent = originalMdContent.replace(normalSitesContent, "\n\n\n\n");
         FileUtil.writeString(newOriginalMdContent, originalMdFile, StandardCharsets.UTF_8);
 
         buildTable();
