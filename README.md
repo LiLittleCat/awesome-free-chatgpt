@@ -297,6 +297,8 @@
 
 - [ 🔐 ][https://chat.pinkfong.cn](https://chat.pinkfong.cn) - 2023-05-18
 
+- [ 🔐📚 ] [https://aixforce.app](https://aixforce.app) - 2023-05-29
+
 
 ---
 
