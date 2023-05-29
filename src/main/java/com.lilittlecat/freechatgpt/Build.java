@@ -36,6 +36,72 @@ public class Build {
         build.buildTable();
     }
 
+    public void newAdd() throws TemplateException, IOException {
+        String basePath = System.getProperty("user.dir");
+        File normalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "normal-websites.json");
+        String normalWebsitesJSONString = FileUtil.readString(normalWebsitesJSON, StandardCharsets.UTF_8);
+        List<Website> normalSites = JSON.parseArray(normalWebsitesJSONString, Website.class);
+        File originalMd = new File(basePath + File.separator + "data" + File.separator + "original.md");
+        String newAddContent = StrUtil.subBetween(FileUtil.readString(originalMd, StandardCharsets.UTF_8),
+                "<!-- new-add-begin -->",
+                "<!-- new-add-end -->");
+        String[] newAddLines = newAddContent.split("\n");
+        List<Website> normalWebsites = new ArrayList<>();
+        for (String newAddLine : newAddLines) {
+            String[] strings = newAddLine.split(" - ");
+            if (strings.length < 2) {
+                continue;
+            }
+            // Extract the link
+            String link = extractLink(strings[0]);
+            // Extract the time
+            String time = extractTime(strings[1]);
+            if (StrUtil.isNotBlank(link) && StrUtil.isNotBlank(time)) {
+                Website website = new Website();
+                website.setUrl(link);
+                website.setAddedDate(time);
+                if (strings.length > 2) {
+                    website.setCustomDescription(wrapSentence(strings[2]));
+                    System.out.println(website.getId() + "." + link + " " + time + " " + strings[2]);
+                } else {
+                    System.out.println(website.getId() + "." + link + " " + time);
+                }
+                // Extract the labels
+                List<String> labels = extractLabels(newAddLine);
+                if (CollUtil.isNotEmpty(labels)) {
+                    List<Feature> features = new ArrayList<>();
+                    for (String label : labels) {
+                        Feature feature = fromLabel(label);
+                        if (feature != null) {
+                            features.add(feature);
+                        }
+                    }
+                    website.setScore(Feature.score(features));
+                    website.setFeatures(features);
+                }
+                normalWebsites.add(website);
+            }
+        }
+        // normalWebsites 先根据得分排序，得分相同的再根据时间排序
+        normalWebsites.sort((o1, o2) -> {
+            int scoreCompare = o2.getScore().compareTo(o1.getScore());
+            if (scoreCompare == 0) {
+                return o2.getAddedDate().compareTo(o1.getAddedDate());
+            }
+            return scoreCompare;
+        });
+        // set id
+        int normalId = 1;
+        for (Website normalWebsite : normalWebsites) {
+            normalWebsite.setId(normalId++);
+        }
+        FileUtil.writeString(JSON.toJSONString(normalWebsites, SerializerFeature.WriteMapNullValue, SerializerFeature.PrettyFormat, SerializerFeature.SortField),
+                normalWebsitesJSON, StandardCharsets.UTF_8);
+
+        buildTable();
+
+    }
+
     public void buildTable() throws IOException, TemplateException {
         String basePath = System.getProperty("user.dir");
         Configuration cfg = new Configuration(Configuration.VERSION_2_3_32);
@@ -79,29 +145,6 @@ public class Build {
 
         String newReadmeContent = readContent.replace(normalSitesContent, normalRenderedHtml).replace(abnormalSitesContent, abnormalRenderedHtml);
         FileUtil.writeString(newReadmeContent, readmeFile, StandardCharsets.UTF_8);
-
-    }
-
-    public void update() {
-        String basePath = System.getProperty("user.dir");
-
-        File normalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "normal-websites.json");
-        String normalWebsitesJSONString = FileUtil.readString(normalWebsitesJSON, StandardCharsets.UTF_8);
-        List<Website> normalWebsitesJSONArray = JSON.parseArray(normalWebsitesJSONString, Website.class);
-
-        File abnormalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "abnormal-websites.json");
-        String abnormalWebsitesJSONString = FileUtil.readString(abnormalWebsitesJSON, StandardCharsets.UTF_8);
-        List<Website> abnormalWebsitesJSONArray = JSON.parseArray(abnormalWebsitesJSONString, Website.class);
-
-        Website website = normalWebsitesJSONArray.get(0);
-        List<Feature> features = new ArrayList<>();
-        features.add(FREE);
-        features.add(GPT4_SUPPORTED);
-        website.setFeatures(features);
-        website.setScore(Feature.score(features));
-
-        System.out.println(JSON.toJSONString(website));
-
 
     }
 
