@@ -147,9 +147,11 @@ public class Build {
         String readContent = FileUtil.readString(readmeFile, StandardCharsets.UTF_8);
         String normalSitesContent = StrUtil.subBetween(readContent, "<!-- normal-begin -->", "<!-- normal-end -->");
         String abnormalSitesContent = StrUtil.subBetween(readContent, "<!-- abnormal-begin -->", "<!-- abnormal-end -->");
-
         String newReadmeContent = readContent.replace(normalSitesContent, normalRenderedHtml).replace(abnormalSitesContent, abnormalRenderedHtml);
-        FileUtil.writeString(newReadmeContent, readmeFile, StandardCharsets.UTF_8);
+        // replace the count, like https://img.shields.io/badge/websites-107-blue?style=flat to https://img.shields.io/badge/websites-{number}-blue?style=flat
+        String websitesCount = StrUtil.subBetween(newReadmeContent, "https://img.shields.io/badge/websites-", "-blue?style=flat");
+        String newReadmeContent2 = newReadmeContent.replace("https://img.shields.io/badge/websites-" + websitesCount + "-blue?style=flat", "https://img.shields.io/badge/websites-" + normalWebsites.size() + "-blue?style=flat");
+        FileUtil.writeString(newReadmeContent2, readmeFile, StandardCharsets.UTF_8);
 
     }
 
