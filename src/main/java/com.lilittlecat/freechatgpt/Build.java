@@ -29,9 +29,9 @@ public class Build {
 
     public static void main(String[] args) throws TemplateException, IOException {
         Build build = new Build();
-//        build.initNormal();
-//        build.initAbnormal();
-        build.buildTable();
+        build.initNormal();
+        build.initAbnormal();
+//        build.buildTable();
 
     }
 
@@ -69,7 +69,6 @@ public class Build {
         String newReadmeContent = StrUtil.replace(readContent, normalSitesContent, renderedHtml);
         FileUtil.writeString("\n" + newReadmeContent, file, StandardCharsets.UTF_8);
 
-
     }
 
     public void update() {
@@ -104,7 +103,6 @@ public class Build {
 
         String[] normalSites = normalSitesContent.split("\n");
         List<Website> normalWebsites = new ArrayList<>();
-        int normalId = 1;
         for (String normalSite : normalSites) {
             String[] strings = normalSite.split(" - ");
             if (strings.length < 2) {
@@ -117,7 +115,6 @@ public class Build {
             String time = extractTime(strings[1]);
             if (StrUtil.isNotBlank(link) && StrUtil.isNotBlank(time)) {
                 Website website = new Website();
-                website.setId(normalId++);
                 website.setUrl(link);
                 website.setAddedDate(time);
                 if (strings.length > 2) {
@@ -154,6 +151,11 @@ public class Build {
                 return o2Date.compareTo(o1Date);
             }
         });
+        // set id
+        int normalId = 1;
+        for (Website normalWebsite : normalWebsites) {
+            normalWebsite.setId(normalId++);
+        }
 
         String normalWebsitesJSONString = JSON.toJSONString(normalWebsites, SerializerFeature.WriteMapNullValue, SerializerFeature.PrettyFormat, SerializerFeature.SortField);
         File normalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "normal-websites.json");
@@ -170,7 +172,6 @@ public class Build {
 
         String[] abnormalSites = abnormalSitesContent.split("\n");
         List<Website> abnormalWebsites = new ArrayList<>();
-        int abnormalId = 1;
         for (String abnormalSite : abnormalSites) {
             // Extract the link
             String link = extractLink(abnormalSite);
@@ -178,7 +179,6 @@ public class Build {
             String time = extractTime(abnormalSite);
             if (StrUtil.isNotBlank(link) && StrUtil.isNotBlank(time)) {
                 Website website = new Website();
-                website.setId(abnormalId++);
                 website.setUrl(link);
                 website.setReportedInvalidDate(time);
                 abnormalWebsites.add(website);
@@ -191,6 +191,11 @@ public class Build {
             LocalDate date2 = LocalDate.parse(o2.getReportedInvalidDate());
             return date2.compareTo(date1);
         });
+        // set id
+        int abnormalId = 1;
+        for (Website abnormalWebsite : abnormalWebsites) {
+            abnormalWebsite.setId(abnormalId++);
+        }
 
         String abnormalWebsitesJSONString = JSON.toJSONString(abnormalWebsites, SerializerFeature.WriteMapNullValue, SerializerFeature.PrettyFormat, SerializerFeature.SortField);
         File abnormalWebsitesJSON = new File(basePath + File.separator + "data" + File.separator + "abnormal-websites.json");

@@ -11,15 +11,16 @@ import java.util.List;
 @Getter
 public enum Feature {
 //    FREE("free", "🎁", 2f),
+    RECOMMENDED("recommended", "👍", 5f),
     FREE("free", "🆓", 2f),
     FREE_QUOTA("free_quota", "🔓", 1f),
     GPT4_SUPPORTED("gpt4_supported", "💪", 1f),
     MORE_THAN_CHAT("more_than_chat", "🧰", 0.5f),
-    LOGIN_REQUIRED("login_required", "🔒", -1f),
+    LOGIN_REQUIRED("login_required", "🔒", -2f),
     VPN_REQUIRED("vpn_required", "🌎", -1f),
     API_KEY_REQUIRED("api_key_required", "🔑", -1f),
-    FOLLOW_ON_WECHAT_REQUIRED("follow_on_wechat_required", "👀", -1f),
-    CHARGE_REQUIRED("charge_required", "💰", -2f),
+    FOLLOW_ON_WECHAT_REQUIRED("follow_on_wechat_required", "👀", -2f),
+    CHARGE_REQUIRED("charge_required", "💰", -3f),
     COMMUNITY_RECOMMENDATION("community_recommendation", "🌟", 0.5f);
     private final String value;
     private final String label;

@@ -2,158 +2,74 @@
 	{
 		"addedDate":"2023-05-16",
 		"customDescription":null,
-		"description":"Your personal ChatGPT Chat Bot.",
-		"extraInfo":{
-            "status": "success",
-            "data": {
-                "title": "ChatGPT Next Web",
-                "description": "Your personal ChatGPT Chat Bot.",
-                "lang": "en",
-                "author": null,
-                "publisher": "gravityengine.cc",
-                "image": null,
-                "date": "2023-05-22T11:26:13.000Z",
-                "url": "https://gpt4.gravityengine.cc/",
-                "logo": null,
-                "screenshot": {
-                    "size_pretty": "92.7 kB",
-                    "size": 92718,
-                    "type": "png",
-                    "url": "https://iad.microlink.io/4vOzV5drUUwBv5Bd7e3nPcFu1YKKrFs2JeT7w-5vvjlNW0WEK7N0N7xBmGYt9bLmaUTDVA3w41YSxU--kqrq8g.png",
-                    "width": 2560,
-                    "height": 1600
-                }
-            },
-            "statusCode": 200,
-            "headers": {
-                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
-                "cache-control": "no-store, must-revalidate",
-                "cf-cache-status": "DYNAMIC",
-                "cf-ray": "7cb4b3f20de80cc0-EWR",
-                "content-encoding": "gzip",
-                "content-type": "text/html; charset=utf-8",
-                "date": "Mon, 22 May 2023 11:26:13 GMT",
-                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-                "report-to": "{\"endpoints\":[{\"url\":\"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JzhEHReC28sMjfZUnUzlVL49XNBmM8eMGeKq88FCCMt5eBjet34hlIJrnGPfiRjj2G9GPf3DauIf1SaAAzZWU5LZQqwfbiguMnYmMyNoP2Hmynv4T2wP%2BV7CtII91jG2%2FM1jTzrdNXc%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
-                "server": "cloudflare",
-                "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
-                "x-cache": "MISS",
-                "x-powered-by": "Next.js"
-            }
-        },
-        "features": [
-            "FREE",
-            "GPT4_SUPPORTED"
-        ],
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"GPT4_SUPPORTED"
+		],
 		"id":1,
 		"labels":null,
-		"lang":"en",
+		"lang":null,
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":3.0,
 		"sourceInfo":null,
 		"status":null,
-		"title":"ChatGPT Next Web",
+		"title":null,
 		"updatedDate":null,
 		"url":"https://gpt4.gravityengine.cc/"
 	},
 	{
-		"addedDate":"2023-04-20",
+		"addedDate":"2023-05-26",
 		"customDescription":null,
-		"description":"BAI Chat is a GPT-3.5 / ChatGPT API based chatbot that is free, convenient and responsive. Give it a try!",
-		"extraInfo":{
-            "status": "success",
-            "data": {
-                "title": "BAI Chat",
-                "description": "BAI Chat is a GPT-3.5 / ChatGPT API based chatbot that is free, convenient and responsive. Give it a try!",
-                "lang": "zh",
-                "author": null,
-                "publisher": "theb.ai",
-                "image": null,
-                "date": "2023-03-15T15:11:51.000Z",
-                "url": "https://chatbot.theb.ai/",
-                "logo": {
-                    "url": "https://chatbot.theb.ai/assets/bai.png",
-                    "type": "png",
-                    "size": 1619,
-                    "height": 100,
-                    "width": 100,
-                    "size_pretty": "1.62 kB"
-                },
-                "screenshot": {
-                    "size_pretty": "197 kB",
-                    "size": 196606,
-                    "type": "png",
-                    "url": "https://iad.microlink.io/wy4l15y8WDww-Umt_bIlEb0Q6C8htLZyh5kWKt_PJBFnroJJUvh8WceqAgCkaTjMuLws-96L-L4wXv8xbBcj5A.png",
-                    "width": 2560,
-                    "height": 1600
-                }
-            },
-            "statusCode": 200,
-            "headers": {
-                "cf-cache-status": "DYNAMIC",
-                "cf-ray": "7c270ebf4c8d425f-EWR",
-                "content-encoding": "br",
-                "content-type": "text/html",
-                "date": "Fri, 05 May 2023 06:51:54 GMT",
-                "last-modified": "Wed, 15 Mar 2023 15:11:51 GMT",
-                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-                "report-to": "{\"endpoints\":[{\"url\":\"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qSyOtzkETpcunxW2UZ8VUJKM%2F7iJ07iLA3b5HFJDXHZ%2BbjeKl4snj%2FtPmYnqSBq8eJ%2BF%2BwN5uE%2B%2BFyVnoi49Xsel6Tw7CGS%2BAx%2BHz7JHE%2BD%2FcrJ8DiE7A7OEJK4kot2Upw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
-                "server": "cloudflare",
-                "strict-transport-security": "max-age=31536000",
-                "vary": "Accept-Encoding"
-            }
-        },
-        "features": [
-			"FREE",
-			"VPN_REQUIRED"
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE"
 		],
 		"id":2,
 		"labels":null,
-		"lang":"zh",
+		"lang":null,
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
-		"title":"BAI Chat",
+		"title":null,
 		"updatedDate":null,
-		"url":"https://chatbot.theb.ai/"
+		"url":"https://a.aiask.me/"
 	},
 	{
-		"addedDate":"2023-04-20",
+		"addedDate":"2023-05-26",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE",
-			"VPN_REQUIRED"
+			"FREE"
 		],
 		"id":3,
 		"labels":null,
-        "lang":"zh",
+		"lang":null,
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
-        "title":"AI Web",
+		"title":null,
 		"updatedDate":null,
-		"url":"https://www.aitianhu.com/"
+		"url":"https://ai.gptforlove.com/"
 	},
 	{
-		"addedDate":"2023-04-04",
-		"customDescription":null,
+		"addedDate":"2023-05-25",
+		"customDescription":"密码 586-484-535D",
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE_QUOTA",
-			"API_KEY_REQUIRED",
-			"VPN_REQUIRED",
-			"GPT4_SUPPORTED"
+			"FREE"
 		],
 		"id":4,
 		"labels":null,
@@ -161,22 +77,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://fastgpt.app/"
+		"url":"https://d2.betai55.uk/"
 	},
 	{
-		"addedDate":"2023-03-22",
+		"addedDate":"2023-05-18",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"API_KEY_REQUIRED",
-			"VPN_REQUIRED",
-			"GPT4_SUPPORTED"
+			"FREE"
 		],
 		"id":5,
 		"labels":null,
@@ -184,21 +98,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://freegpt.cc"
+		"url":"https://chat.pinkfong.cn"
 	},
 	{
-		"addedDate":"2023-04-04",
+		"addedDate":"2023-05-05",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"API_KEY_REQUIRED",
-			"VPN_REQUIRED"
+			"FREE"
 		],
 		"id":6,
 		"labels":null,
@@ -206,22 +119,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://freechatgpt.chat/"
+		"url":"http://www.tdchat.pro/"
 	},
 	{
-		"addedDate":"2023-05-26",
-		"customDescription":"免费操作步骤：转到 API 设置并选择“使用自定义 API 端点”。然后，输入 https://free.churchless.tech/v1/chat/completions 作为端点，并将 API 密钥字段留空。\r",
+		"addedDate":"2023-04-30",
+		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE",
-			"API_KEY_REQUIRED",
-			"VPN_REQUIRED"
+			"FREE"
 		],
 		"id":7,
 		"labels":null,
@@ -229,15 +140,15 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://bettergpt.chat/"
+		"url":"https://ai.heptax.com"
 	},
 	{
-		"addedDate":"2023-03-22",
+		"addedDate":"2023-04-28",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
@@ -250,21 +161,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://dev.yqcloud.top"
+		"url":"https://index.chat.bnu120.space"
 	},
 	{
-		"addedDate":"2023-03-22",
+		"addedDate":"2023-04-27",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"API_KEY_REQUIRED",
-			"VPN_REQUIRED"
+			"FREE"
 		],
 		"id":9,
 		"labels":null,
@@ -272,15 +182,15 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://94gpt.com"
+		"url":"https://f12.xjai.cc/"
 	},
 	{
-		"addedDate":"2023-05-26",
+		"addedDate":"2023-04-24",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
@@ -293,21 +203,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://a.aiask.me/"
+		"url":"https://f1.nbai.live/"
 	},
 	{
-		"addedDate":"2023-03-26",
+		"addedDate":"2023-04-19",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"API_KEY_REQUIRED",
-			"GPT4_SUPPORTED"
+			"FREE"
 		],
 		"id":11,
 		"labels":null,
@@ -315,22 +224,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://www.typingmind.com/"
+		"url":"https://chat.waixingyun.cn"
 	},
 	{
-		"addedDate":"2023-05-07",
+		"addedDate":"2023-04-19",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"LOGIN_REQUIRED",
-			"VPN_REQUIRED",
-			"GPT4_SUPPORTED"
+			"FREE"
 		],
 		"id":12,
 		"labels":null,
@@ -338,21 +245,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat.bumo.ai/"
+		"url":"https://nav4ai.net/chatgptweb"
 	},
 	{
-		"addedDate":"2023-04-03",
+		"addedDate":"2023-04-18",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE",
-			"VPN_REQUIRED"
+			"FREE"
 		],
 		"id":13,
 		"labels":null,
@@ -360,12 +266,12 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat.gpt.bz/"
+		"url":"https://mirrorchat.extkj.cn/"
 	},
 	{
 		"addedDate":"2023-04-11",
@@ -373,7 +279,7 @@
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"LOGIN_REQUIRED"
+			"FREE"
 		],
 		"id":14,
 		"labels":null,
@@ -381,15 +287,15 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://gpt6.fun/"
+		"url":"https://chat13.xeasy.me/"
 	},
 	{
-		"addedDate":"2023-04-18",
+		"addedDate":"2023-04-11",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
@@ -402,15 +308,15 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://mirrorchat.extkj.cn/"
+		"url":"https://www.chatgptunli.com/chatgpt/"
 	},
 	{
-		"addedDate":"2023-05-26",
+		"addedDate":"2023-03-22",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
@@ -423,12 +329,12 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://ai.gptforlove.com/"
+		"url":"https://dev.yqcloud.top"
 	},
 	{
 		"addedDate":"2023-05-26",
@@ -445,7 +351,7 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
@@ -467,7 +373,7 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
@@ -475,12 +381,13 @@
 		"url":"https://aichat.gogpt.site/"
 	},
 	{
-		"addedDate":"2023-04-19",
+		"addedDate":"2023-05-23",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE"
+			"FREE",
+			"VPN_REQUIRED"
 		],
 		"id":19,
 		"labels":null,
@@ -488,20 +395,21 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat.waixingyun.cn"
+		"url":"https://vvanglro.eu.org"
 	},
 	{
-		"addedDate":"2023-04-19",
-		"customDescription":null,
+		"addedDate":"2023-05-17",
+		"customDescription":"设置中输入访问密码 857857",
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE"
+			"FREE",
+			"VPN_REQUIRED"
 		],
 		"id":20,
 		"labels":null,
@@ -509,15 +417,15 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://nav4ai.net/chatgptweb"
+		"url":"http://chat1.manongzyg.one/"
 	},
 	{
-		"addedDate":"2023-04-23",
+		"addedDate":"2023-04-26",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
@@ -531,12 +439,12 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://freegpt.one"
+		"url":"https://pro.ai.ls/"
 	},
 	{
 		"addedDate":"2023-04-24",
@@ -544,7 +452,8 @@
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FOLLOW_ON_WECHAT_REQUIRED"
+			"FREE",
+			"VPN_REQUIRED"
 		],
 		"id":22,
 		"labels":null,
@@ -552,15 +461,15 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat.wobcw.com/"
+		"url":"https://www.promptboom.com/"
 	},
 	{
-		"addedDate":"2023-04-24",
+		"addedDate":"2023-04-23",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
@@ -574,20 +483,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://www.promptboom.com/"
+		"url":"https://freegpt.one"
 	},
 	{
-		"addedDate":"2023-05-25",
-		"customDescription":"密码 586-484-535D\r",
+		"addedDate":"2023-04-21",
+		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE"
+			"FREE_QUOTA"
 		],
 		"id":24,
 		"labels":null,
@@ -595,20 +504,21 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://d2.betai55.uk/"
+		"url":"https://chat.zhulei.xyz"
 	},
 	{
-		"addedDate":"2023-04-27",
+		"addedDate":"2023-04-20",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE"
+			"FREE",
+			"VPN_REQUIRED"
 		],
 		"id":25,
 		"labels":null,
@@ -616,20 +526,21 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://f12.xjai.cc/"
+		"url":"https://chatbot.theb.ai/"
 	},
 	{
-		"addedDate":"2023-04-28",
+		"addedDate":"2023-04-20",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FOLLOW_ON_WECHAT_REQUIRED"
+			"FREE",
+			"VPN_REQUIRED"
 		],
 		"id":26,
 		"labels":null,
@@ -637,20 +548,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat.douresources.com"
+		"url":"https://www.aitianhu.com/"
 	},
 	{
-		"addedDate":"2023-04-04",
+		"addedDate":"2023-04-11",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"API_KEY_REQUIRED",
+			"FREE",
 			"VPN_REQUIRED"
 		],
 		"id":27,
@@ -659,20 +570,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://www.chatbotui.com/"
+		"url":"https://chatcat.pages.dev"
 	},
 	{
-		"addedDate":"2023-05-06",
+		"addedDate":"2023-04-04",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"LOGIN_REQUIRED",
+			"FREE",
 			"VPN_REQUIRED"
 		],
 		"id":28,
@@ -681,20 +592,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://tubogpt.vercel.app"
+		"url":"https://chat2.geekr.dev/"
 	},
 	{
-		"addedDate":"2023-05-06",
+		"addedDate":"2023-04-03",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FOLLOW_ON_WECHAT_REQUIRED",
+			"FREE",
 			"VPN_REQUIRED"
 		],
 		"id":29,
@@ -703,20 +614,21 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://seven-star.org/"
+		"url":"https://chat.gpt.bz/"
 	},
 	{
-		"addedDate":"2023-05-06",
+		"addedDate":"2023-04-03",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"LOGIN_REQUIRED"
+			"FREE",
+			"VPN_REQUIRED"
 		],
 		"id":30,
 		"labels":null,
@@ -724,20 +636,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://ai.hxkj.vip"
+		"url":"https://ailink.icu/"
 	},
 	{
-		"addedDate":"2023-05-07",
+		"addedDate":"2023-04-01",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"LOGIN_REQUIRED",
+			"FREE",
 			"VPN_REQUIRED"
 		],
 		"id":31,
@@ -746,248 +658,12 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://gpt.opengpt88.com"
-	},
-	{
-		"addedDate":"2023-05-10",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED"
-		],
-		"id":32,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://chat.wenwen-ai.com"
-	},
-	{
-		"addedDate":"2023-05-11",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED"
-		],
-		"id":33,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://gpt.uziai.com/"
-	},
-	{
-		"addedDate":"2023-05-17",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED"
-		],
-		"id":34,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://aiget.cc/"
-	},
-	{
-		"addedDate":"2023-05-17",
-		"customDescription":"GPT4 的兑换码：TRYGPT4\r",
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED",
-			"GPT4_SUPPORTED"
-		],
-		"id":35,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://chat.zhenbs.com/"
-	},
-	{
-		"addedDate":"2023-05-17",
-		"customDescription":"设置中输入访问密码 857857\r",
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
-			"VPN_REQUIRED"
-		],
-		"id":36,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"http://chat1.manongzyg.one/"
-	},
-	{
-		"addedDate":"2023-05-22",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED"
-		],
-		"id":37,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://www.openaicloud.cloud/"
-	},
-	{
-		"addedDate":"2023-05-22",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED"
-		],
-		"id":38,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://gpts.dawu.world"
-	},
-	{
-		"addedDate":"2023-05-23",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
-			"VPN_REQUIRED"
-		],
-		"id":39,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://vvanglro.eu.org"
-	},
-	{
-		"addedDate":"2023-05-24",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED",
-			"VPN_REQUIRED"
-		],
-		"id":40,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://www.sweetsai.com/"
-	},
-	{
-		"addedDate":"2023-05-24",
-		"customDescription":"免费 GPT3.5 和绘画\r",
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
-			"LOGIN_REQUIRED"
-		],
-		"id":41,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://home.xiamis.xyz/"
-	},
-	{
-		"addedDate":"2023-04-28",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE"
-		],
-		"id":42,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://index.chat.bnu120.space"
+		"url":"https://greengpt.app/"
 	},
 	{
 		"addedDate":"2023-03-22",
@@ -998,13 +674,13 @@
 			"FREE",
 			"VPN_REQUIRED"
 		],
-		"id":43,
+		"id":32,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
@@ -1020,13 +696,13 @@
 			"FREE",
 			"VPN_REQUIRED"
 		],
-		"id":44,
+		"id":33,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
@@ -1042,13 +718,13 @@
 			"FREE",
 			"VPN_REQUIRED"
 		],
-		"id":45,
+		"id":34,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
@@ -1056,12 +732,257 @@
 		"url":"https://ai.ci/"
 	},
 	{
-		"addedDate":"2023-04-11",
+		"addedDate":"2023-03-22",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
 			"FREE",
+			"VPN_REQUIRED"
+		],
+		"id":35,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":1.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://chat2.xeasy.me/"
+	},
+	{
+		"addedDate":"2023-03-22",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
+		"id":36,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":1.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://gpt.xeasy.me/"
+	},
+	{
+		"addedDate":"2023-03-22",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
+		"id":37,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":1.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://gpt.getshare.net"
+	},
+	{
+		"addedDate":"2023-03-22",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
+		"id":38,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":1.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://gpt.getshare.net"
+	},
+	{
+		"addedDate":"2023-03-22",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
+		"id":39,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":1.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://chat.51buygpt.com"
+	},
+	{
+		"addedDate":"2023-03-22",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
+		"id":40,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":1.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://trychatgp.com"
+	},
+	{
+		"addedDate":"2023-03-10",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"VPN_REQUIRED"
+		],
+		"id":41,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":1.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://chat12.xeasy.me/"
+	},
+	{
+		"addedDate":"2023-05-26",
+		"customDescription":"免费操作步骤：转到 API 设置并选择“使用自定义 API 端点”。然后，输入 https://free.churchless.tech/v1/chat/completions 作为端点，并将 API 密钥字段留空。",
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED"
+		],
+		"id":42,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":0.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://bettergpt.chat/"
+	},
+	{
+		"addedDate":"2023-05-24",
+		"customDescription":"免费 GPT3.5 和绘画",
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"LOGIN_REQUIRED"
+		],
+		"id":43,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":0.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://home.xiamis.xyz/"
+	},
+	{
+		"addedDate":"2023-04-04",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE_QUOTA",
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED",
+			"GPT4_SUPPORTED"
+		],
+		"id":44,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":0.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://fastgpt.app/"
+	},
+	{
+		"addedDate":"2023-03-26",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"API_KEY_REQUIRED",
+			"GPT4_SUPPORTED"
+		],
+		"id":45,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":0.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://www.typingmind.com/"
+	},
+	{
+		"addedDate":"2023-03-22",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE_QUOTA",
 			"VPN_REQUIRED"
 		],
 		"id":46,
@@ -1070,12 +991,12 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":0.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chatcat.pages.dev"
+		"url":"https://chatforai.com/"
 	},
 	{
 		"addedDate":"2023-03-22",
@@ -1092,21 +1013,21 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":0.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chatforai.com/"
+		"url":"https://ai.okmiku.com/chat"
 	},
 	{
-		"addedDate":"2023-03-22",
+		"addedDate":"2023-05-29",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE",
-			"VPN_REQUIRED"
+			"LOGIN_REQUIRED",
+			"GPT4_SUPPORTED"
 		],
 		"id":48,
 		"labels":null,
@@ -1114,21 +1035,21 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat2.xeasy.me/"
+		"url":"https://chat.bumo.tech/"
 	},
 	{
-		"addedDate":"2023-03-22",
-		"customDescription":null,
+		"addedDate":"2023-05-17",
+		"customDescription":"GPT4 的兑换码：TRYGPT4",
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE",
-			"VPN_REQUIRED"
+			"LOGIN_REQUIRED",
+			"GPT4_SUPPORTED"
 		],
 		"id":49,
 		"labels":null,
@@ -1136,162 +1057,12 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://gpt.xeasy.me/"
-	},
-	{
-		"addedDate":"2023-03-10",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
-			"VPN_REQUIRED"
-		],
-		"id":50,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://chat12.xeasy.me/"
-	},
-	{
-		"addedDate":"2023-04-11",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE"
-		],
-		"id":51,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://chat13.xeasy.me/"
-	},
-	{
-		"addedDate":"2023-04-11",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE"
-		],
-		"id":52,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://www.chatgptunli.com/chatgpt/"
-	},
-	{
-		"addedDate":"2023-04-21",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE_QUOTA"
-		],
-		"id":53,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://chat.zhulei.xyz"
-	},
-	{
-		"addedDate":"2023-04-30",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE"
-		],
-		"id":54,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://ai.heptax.com"
-	},
-	{
-		"addedDate":"2023-04-03",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
-			"VPN_REQUIRED"
-		],
-		"id":55,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://ailink.icu/"
-	},
-	{
-		"addedDate":"2023-04-01",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
-			"VPN_REQUIRED"
-		],
-		"id":56,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://greengpt.app/"
+		"url":"https://chat.zhenbs.com/"
 	},
 	{
 		"addedDate":"2023-04-07",
@@ -1302,13 +1073,13 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":57,
+		"id":50,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-1.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
@@ -1316,13 +1087,163 @@
 		"url":"https://nat.dev/"
 	},
 	{
-		"addedDate":"2023-04-04",
+		"addedDate":"2023-03-22",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE",
-			"VPN_REQUIRED"
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED",
+			"GPT4_SUPPORTED"
+		],
+		"id":51,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-1.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://freegpt.cc"
+	},
+	{
+		"addedDate":"2023-05-22",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
+		"id":52,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://www.openaicloud.cloud/"
+	},
+	{
+		"addedDate":"2023-05-22",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
+		"id":53,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://gpts.dawu.world"
+	},
+	{
+		"addedDate":"2023-05-17",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
+		"id":54,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://aiget.cc/"
+	},
+	{
+		"addedDate":"2023-05-12",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
+		"id":55,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"http://bamboochat.kebakeba.com/"
+	},
+	{
+		"addedDate":"2023-05-11",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
+		"id":56,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://gpt.uziai.com/"
+	},
+	{
+		"addedDate":"2023-05-10",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
+		"id":57,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://chat.wenwen-ai.com"
+	},
+	{
+		"addedDate":"2023-05-07",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"VPN_REQUIRED",
+			"GPT4_SUPPORTED"
 		],
 		"id":58,
 		"labels":null,
@@ -1330,21 +1251,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat2.geekr.dev/"
+		"url":"https://chat.bumo.ai/"
 	},
 	{
-		"addedDate":"2023-03-22",
+		"addedDate":"2023-05-06",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE",
-			"VPN_REQUIRED"
+			"LOGIN_REQUIRED"
 		],
 		"id":59,
 		"labels":null,
@@ -1352,21 +1272,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://gpt.getshare.net"
+		"url":"https://ai.hxkj.vip"
 	},
 	{
-		"addedDate":"2023-03-22",
+		"addedDate":"2023-05-04",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE",
-			"VPN_REQUIRED"
+			"LOGIN_REQUIRED"
 		],
 		"id":60,
 		"labels":null,
@@ -1374,21 +1293,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://gpt.getshare.net"
+		"url":"https://qxme.com"
 	},
 	{
-		"addedDate":"2023-03-22",
+		"addedDate":"2023-04-28",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE",
-			"VPN_REQUIRED"
+			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
 		"id":61,
 		"labels":null,
@@ -1396,20 +1314,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat.51buygpt.com"
+		"url":"https://chat.douresources.com"
 	},
 	{
-		"addedDate":"2023-03-22",
+		"addedDate":"2023-04-24",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"LOGIN_REQUIRED"
+			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
 		"id":62,
 		"labels":null,
@@ -1417,141 +1335,12 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat.alpaca-bi.com"
-	},
-	{
-		"addedDate":"2023-03-22",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
-			"VPN_REQUIRED"
-		],
-		"id":63,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://trychatgp.com"
-	},
-	{
-		"addedDate":"2023-03-22",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED"
-		],
-		"id":64,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://www.bz1y.cn"
-	},
-	{
-		"addedDate":"2023-03-22",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE_QUOTA",
-			"VPN_REQUIRED"
-		],
-		"id":65,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://ai.okmiku.com/chat"
-	},
-	{
-		"addedDate":"2023-03-29",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED",
-			"VPN_REQUIRED"
-		],
-		"id":66,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://open-gpt.app/"
-	},
-	{
-		"addedDate":"2023-04-18",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED"
-		],
-		"id":67,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://openmao.panchuang.net/"
-	},
-	{
-		"addedDate":"2023-04-18",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED"
-		],
-		"id":68,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://www.weijiwangluo.com/talk"
+		"url":"https://chat.wobcw.com/"
 	},
 	{
 		"addedDate":"2023-04-22",
@@ -1561,13 +1350,13 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":69,
+		"id":63,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
@@ -1583,13 +1372,13 @@
 			"API_KEY_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":70,
+		"id":64,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
@@ -1597,13 +1386,141 @@
 		"url":"https://chat.iwoso.co/"
 	},
 	{
-		"addedDate":"2023-04-21",
+		"addedDate":"2023-04-18",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"LOGIN_REQUIRED",
+			"LOGIN_REQUIRED"
+		],
+		"id":65,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://openmao.panchuang.net/"
+	},
+	{
+		"addedDate":"2023-04-18",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
+		"id":66,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://www.weijiwangluo.com/talk"
+	},
+	{
+		"addedDate":"2023-04-11",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
+		"id":67,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://gpt6.fun/"
+	},
+	{
+		"addedDate":"2023-04-04",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"API_KEY_REQUIRED",
 			"VPN_REQUIRED"
+		],
+		"id":68,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://freechatgpt.chat/"
+	},
+	{
+		"addedDate":"2023-04-04",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED"
+		],
+		"id":69,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://www.chatbotui.com/"
+	},
+	{
+		"addedDate":"2023-03-22",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"API_KEY_REQUIRED",
+			"VPN_REQUIRED"
+		],
+		"id":70,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://94gpt.com"
+	},
+	{
+		"addedDate":"2023-03-22",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED"
 		],
 		"id":71,
 		"labels":null,
@@ -1611,20 +1528,20 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat.8kg.co"
+		"url":"https://chat.alpaca-bi.com"
 	},
 	{
-		"addedDate":"2023-04-24",
+		"addedDate":"2023-03-22",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE"
+			"LOGIN_REQUIRED"
 		],
 		"id":72,
 		"labels":null,
@@ -1632,12 +1549,100 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-2.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://f1.nbai.live/"
+		"url":"https://www.bz1y.cn"
+	},
+	{
+		"addedDate":"2023-05-24",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"VPN_REQUIRED"
+		],
+		"id":73,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-3.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://www.sweetsai.com/"
+	},
+	{
+		"addedDate":"2023-05-07",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"VPN_REQUIRED"
+		],
+		"id":74,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-3.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://gpt.opengpt88.com"
+	},
+	{
+		"addedDate":"2023-05-06",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"VPN_REQUIRED"
+		],
+		"id":75,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-3.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://tubogpt.vercel.app"
+	},
+	{
+		"addedDate":"2023-05-06",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FOLLOW_ON_WECHAT_REQUIRED",
+			"VPN_REQUIRED"
+		],
+		"id":76,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-3.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://seven-star.org/"
 	},
 	{
 		"addedDate":"2023-04-25",
@@ -1648,13 +1653,13 @@
 			"FOLLOW_ON_WECHAT_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":73,
+		"id":77,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-3.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
@@ -1662,97 +1667,13 @@
 		"url":"https://chat.hehanwang.com/"
 	},
 	{
-		"addedDate":"2023-05-05",
+		"addedDate":"2023-04-21",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FREE"
-		],
-		"id":74,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"http://www.tdchat.pro/"
-	},
-	{
-		"addedDate":"2023-05-04",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED"
-		],
-		"id":75,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://qxme.com"
-	},
-	{
-		"addedDate":"2023-04-26",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
+			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
-		],
-		"id":76,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://pro.ai.ls/"
-	},
-	{
-		"addedDate":"2023-05-12",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"LOGIN_REQUIRED"
-		],
-		"id":77,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":null,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"http://bamboochat.kebakeba.com/"
-	},
-	{
-		"addedDate":"2023-05-18",
-		"customDescription":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE"
 		],
 		"id":78,
 		"labels":null,
@@ -1760,11 +1681,33 @@
 		"previewUrl":null,
 		"reportedInvalidDate":null,
 		"reportedInvalidReason":null,
-		"score":null,
+		"score":-3.0,
 		"sourceInfo":null,
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat.pinkfong.cn"
+		"url":"https://chat.8kg.co"
+	},
+	{
+		"addedDate":"2023-03-29",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"VPN_REQUIRED"
+		],
+		"id":79,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-3.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://open-gpt.app/"
 	}
 ]
