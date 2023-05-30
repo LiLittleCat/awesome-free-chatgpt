@@ -18,11 +18,11 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
 ## 💬 ChatGPT Mirrors
 
 > Tag Meaning
->
-> - 🆓 Completely free, ready to use upon opening
-> - 🔓 Has free quota
-> - 🔑 API Key required
-> - 💪 Supports GPT4
+> 
+> - 🆓 Completely free, ready to use upon opening 
+> - 🔓 Has free quota 
+> - 🔑 API Key required 
+> - 💪 Supports GPT4 
 > - 🧰 Not just Chat, supports other models or functions
 
 <!-- normal-begin -->
@@ -668,7 +668,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 
 ### 💿 Want to build your own ChatGPT mirror?
 
-- https://github.com/Yidadaa/ChatGPT-Next-Web - One-Click to deploy well-designed ChatGPT web UI on Vercel.
+- https://github.com/Yidadaa/ChatGPT-Next-Web - One-Click to deploy well-designed ChatGPT web UI on Vercel. 
 - https://github.com/mckaywrigley/chatbot-ui - An open source ChatGPT UI.
 - https://github.com/Chanzhaoyu/chatgpt-web - ChatGPT demo website built with Express and Vue3.
 - https://github.com/anse-app/chatgpt-demo - Minimal web UI for ChatGPT.
