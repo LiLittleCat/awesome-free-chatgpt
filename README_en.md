@@ -648,7 +648,6 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 ## ChatGPT Alternative
 
 - 👍 [Poe - Fast, Helpful AI Chat](https://poe.com) - Poe lets you ask questions, get instant answers, and have back-and-forth conversations with AI. Gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, and a variety of other bots.
-
 - [Bing Chat](https://www.bing.com/chat)
 - [Google Bard](https://bard.google.com)
 - [HuggingChat](https://huggingface.co/chat) - The first open source alternative to ChatGPT. 💪
@@ -656,7 +655,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [Chat with Open Large Language Models](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat> - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [Open Assistant](https://open-assistant.io/) - Conversational AI for everyone. An open source project to create a chat enabled GPT LLM run by LAION and contributors around the world.
 - [Pi, your personal AI](https://heypi.com/talk) - Hi, I'm Pi. I'm your personal AI, designed to be supportive, smart, and there for you anytime. Ask me for advice, for answers, or let's talk about whatever's on your mind.
-- [ERNIE Bot](https://yiyan.baidu.com/welcome)
+- [ERNIE Bot](https://yiyan.baidu.com)
 - [Tongyi Qianwen](https://tongyi.aliyun.com/)
 - [iFLYTEK Spark](https://xinghuo.xfyun.cn/) - The iFLYTEK StarFire Cognitive Large Model is a large language model launched by iFLYTEK that can intelligently respond through natural language understanding.
 

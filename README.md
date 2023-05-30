@@ -25,14 +25,14 @@
 ## 目录
 <!-- TOC -->
 * [Awesome Free ChatGPT](#awesome-free-chatgpt)
-    * [💬 ChatGPT 镜像列表](#-chatgpt-镜像列表)
-    * [🗨️ ChatGPT 替代方案](#-chatgpt-替代方案)
-    * [📚 更多...](#-更多)
-        * [💿 构建你自己的 ChatGPT 镜像](#-构建你自己的-chatgpt-镜像)
-        * [💡 提示词（Prompt）](#-提示词prompt)
-        * [💻 开发者工具](#-开发者工具)
-        * [🌟 Star History](#-star-history)
-        * [💞 Contributors](#-contributors)
+  * [💬 ChatGPT 镜像列表](#-chatgpt-镜像列表)
+  * [🗨️ ChatGPT 替代方案](#-chatgpt-替代方案)
+  * [📚 更多...](#-更多)
+    * [💿 构建你自己的 ChatGPT 镜像](#-构建你自己的-chatgpt-镜像)
+    * [💡 提示词（Prompt）](#-提示词prompt)
+    * [💻 开发者工具](#-开发者工具)
+    * [🌟 Star History](#-star-history)
+    * [💞 Contributors](#-contributors)
 <!-- TOC -->
 
 ## 💬 ChatGPT 镜像列表
@@ -655,7 +655,8 @@
                         💪
             </td>
             <td>2023-05-17</td>
-            <td>GPT4 的兑换码：TRYGPT4</td>
+            <td>GPT4 的兑换码：TRYGPT4
+</td>
         </tr>
         <tr>
             <td>51</td>
@@ -1590,22 +1591,14 @@
 ## 🗨️ ChatGPT 替代方案
 
 - 👍 [Poe - Fast, Helpful AI Chat](https://poe.com) - Poe lets you ask questions, get instant answers, and have back-and-forth conversations with AI. Gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, and a variety of other bots.
-
 - [HuggingChat](https://huggingface.co/chat) - The first open source alternative to ChatGPT. 💪
-
 - [Chat with Open Large Language Models](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat> - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
-
 - [Bing Chat](https://www.bing.com/new)
-
 - [Google Bard](https://bard.google.com)
-
 - [Anthropic Claude](https://www.anthropic.com/product) - A next-generation AI assistant for your tasks, no matter the scale.
-- [百度 文心一言](https://yiyan.baidu.com/welcome)
-
+- [百度 文心一言](https://yiyan.baidu.com/)
 - [Open Assistant](https://open-assistant.io/) - 面向所有人的对话式 AI, 这是一个由 LAION 和全球贡献者共同开发的 GPT LLM 项目.
-
 - [阿里 通义千问](https://tongyi.aliyun.com/)
-
 - [讯飞星火认知大模型](https://xinghuo.xfyun.cn/) - 讯飞星火认知大模型，是由科大讯飞推出的大语言模型，能够通过自然语言理解，完成智能对答。
 - [Pi, your personal AI](https://heypi.com/talk) - Hi, I'm Pi. I'm your personal AI, designed to be supportive, smart, and there for you anytime. Ask me for advice, for answers, or let's talk about whatever's on your mind.
 
