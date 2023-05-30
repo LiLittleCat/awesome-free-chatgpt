@@ -88,7 +88,7 @@
 - [ 🔓🧰 ] [https://aixforce.app/](https://aixforce.app/) - 2023-05-29
 - [ 🔓🌎 ] [https://chatgpt-cn.co/](https://chatgpt-cn.co/) - 2023-04-23
 - [ 🔒 ] [https://aihalo.chat/](https://aihalo.chat/) - 2023-05-28
-<!-- normal-end -->
+- [ 👀 ] [https://ai.iiter.cn/](https://ai.iiter.cn/) - 2023-05-25<!-- normal-end -->
 
 <details>
 
