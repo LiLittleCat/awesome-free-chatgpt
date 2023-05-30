@@ -192,6 +192,16 @@ public class Build {
         String urlsJsonFilePath = basePath + File.separator + "urls.json";
         File urlsJsonFile = new File(urlsJsonFilePath);
         List<String> urls = new ArrayList<>();
+        urls.add("https://poe.com");
+        urls.add("https://huggingface.co/chat");
+        urls.add("https://chat.lmsys.org/");
+        urls.add("https://bard.google.com/");
+        urls.add("https://heypi.com/talk");
+        urls.add("https://open-assistant.io/");
+        urls.add("https://yiyan.baidu.com/");
+        urls.add("https://tongyi.aliyun.com/");
+        urls.add("https://xinghuo.xfyun.cn/");
+
         for (Website normalWebsite : normalWebsites) {
             urls.add(normalWebsite.getUrl());
         }
