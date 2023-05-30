@@ -157,6 +157,37 @@ public class Build {
         String newReadmeContent2 = newReadmeContent.replace("https://img.shields.io/badge/websites-" + websitesCount + "-blue?style=flat", "https://img.shields.io/badge/websites-" + normalWebsites.size() + "-blue?style=flat");
         FileUtil.writeString(newReadmeContent2, readmeFile, StandardCharsets.UTF_8);
 
+        String readmeFilePathEnglish = basePath + File.separator + "README_en.md";
+        File readmeFileEnglish = new File(readmeFilePath);
+
+        List<Website> normalWebsitesEnglish = new ArrayList<>();
+        for (Website normalWebsite : normalWebsites) {
+            List<Feature> features = normalWebsite.getFeatures();
+            if (features.contains(Feature.LOGIN_REQUIRED)
+                    || features.contains(Feature.VPN_REQUIRED)
+                    || features.contains(Feature.FOLLOW_ON_WECHAT_REQUIRED)
+                    || features.contains(Feature.CHARGE_REQUIRED)
+            ) {
+                continue;
+            }
+            normalWebsitesEnglish.add(normalWebsite);
+        }
+        Template normalTemplateEnglish = cfg.getTemplate("normal-websites-table.ftl");
+        Map<String, Object> normalModelEnglish = new HashMap<>();
+        normalModelEnglish.put("websites", normalWebsitesEnglish);
+        StringWriter normalOutEnglish = new StringWriter();
+        normalTemplateEnglish.process(normalModelEnglish, normalOutEnglish);
+        String normalRenderedHtmlEnglish = "\n" + normalOutEnglish;
+        System.out.println(normalRenderedHtmlEnglish);
+
+        String readContentEnglish = FileUtil.readString(readmeFileEnglish, StandardCharsets.UTF_8);
+        String normalSitesContentEnglish = StrUtil.subBetween(readContentEnglish, "<!-- normal-begin -->", "<!-- normal-end -->");
+        String newReadmeContentEnglish = readContentEnglish.replace(normalSitesContentEnglish, normalRenderedHtmlEnglish);
+        // replace the count, like https://img.shields.io/badge/websites-107-blue?style=flat to https://img.shields.io/badge/websites-{number}-blue?style=flat
+        String websitesCountEnglish = StrUtil.subBetween(newReadmeContentEnglish, "https://img.shields.io/badge/websites-", "-blue?style=flat");
+        String newReadmeContentEnglish2 = newReadmeContentEnglish.replace("https://img.shields.io/badge/websites-" + websitesCount + "-blue?style=flat", "https://img.shields.io/badge/websites-" + normalWebsites.size() + "-blue?style=flat");
+        FileUtil.writeString(newReadmeContentEnglish2, readmeFile, StandardCharsets.UTF_8);
+
         // update urls.json
         String urlsJsonFilePath = basePath + File.separator + "urls.json";
         File urlsJsonFile = new File(urlsJsonFilePath);
