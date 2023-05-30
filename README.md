@@ -655,8 +655,8 @@
                         💪
             </td>
             <td>2023-05-17</td>
-            <td>GPT4 的兑换码：TRYGPT4
-</td>
+
+            <td>GPT4 的兑换码：TRYGPT4</td>
         </tr>
         <tr>
             <td>51</td>
@@ -1583,7 +1583,6 @@
     </tbody>
 </table>
 <!-- abnormal-end -->
-
 
 
 </details>
