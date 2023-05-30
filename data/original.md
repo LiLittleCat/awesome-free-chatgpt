@@ -13,7 +13,7 @@
 - [ 🔓🔑🌎💪 ] [https://fastgpt.app/](https://fastgpt.app/) - 2023-04-04
 - [ 🔑🌎💪 ] [https://freegpt.cc/](https://freegpt.cc) - 2023-03-22
 - [ 🔑🌎 ] [https://freechatgpt.chat/](https://freechatgpt.chat/) - 2023-04-04
-- [ 🆓🔑🌎 ] [https://bettergpt.chat/](https://bettergpt.chat/) - 2023-05-26 - 免费操作步骤：转到 API 设置并选择“使用自定义 API 端点”。然后，输入 https://free.churchless.tech/v1/chat/completions 作为端点，并将 API 密钥字段留空。
+- [ 🆓🔑🌎 ] [https://bettergpt.chat/](https://bettergpt.chat/) - 2023-05-26 - 免费操作步骤：转到 API 设置并选择“使用自定义 API 端点”。然后，输入 https://free.churchless.tech/v1/chat/completions 作为端点，并将 API 密钥字段留空。 - Free operation steps: Go to API settings and select 'Use custom API endpoint'. Then, enter https://free.churchless.tech/v1/chat/completions as the endpoint and leave the API key field blank.
 - [ 🆓 ] [https://dev.yqcloud.top/](https://dev.yqcloud.top) - 2023-03-22
 - [ 🔑🌎 ] [https://94gpt.com/](https://94gpt.com) - 2023-03-22
 - [ 🆓 ] [https://a.aiask.me/](https://a.aiask.me/) - 2023-05-26
@@ -31,7 +31,7 @@
 - [ 🆓🌎 ][https://freegpt.one/](https://freegpt.one) - 2023-04-23
 - [ 👀 ][https://chat.wobcw.com/](https://chat.wobcw.com/) - 2023-04-24
 - [ 🆓🌎🧰 ][https://www.promptboom.com/](https://www.promptboom.com/) - 2023-04-24
-- [ 🆓 ][https://d2.betai55.uk/](https://d2.betai55.uk/) - 2023-05-25 - 密码 586-484-535D
+- [ 🆓 ][https://d2.betai55.uk/](https://d2.betai55.uk/) - 2023-05-25 - 设置中输入访问密码 586-484-535D - Enter access password 586-484-535D in settings.
 - [ 🆓 ][https://f12.xjai.cc/](https://f12.xjai.cc/) - 2023-04-27
 - [ 👀 ][https://chat.douresources.com/](https://chat.douresources.com/) - 2023-04-28
 - [ 🔑🌎 ][https://www.chatbotui.com/](https://www.chatbotui.com/) - 2023-04-04
@@ -43,12 +43,11 @@
 - [ 🔒 ] [https://gpt.uziai.com/](https://gpt.uziai.com/) - 2023-05-11
 - [ 🔒 ] [https://aiget.cc/](https://aiget.cc/) - 2023-05-17
 - [ 🔒💪 ] [https://chat.zhenbs.com/](https://chat.zhenbs.com/) - 2023-05-17 - GPT4 的兑换码：TRYGPT4
-- [ 🆓🌎 ] [http://chat1.manongzyg.one/](http://chat1.manongzyg.one/) - 2023-05-17 - 设置中输入访问密码 857857
+- [ 🆓🌎 ] [http://chat1.manongzyg.one/](http://chat1.manongzyg.one/) - 2023-05-17 - 设置中输入访问密码 857857 - Enter access password 857857 in settings.
 - [ 🔒 ] [https://www.openaicloud.cloud/](https://www.openaicloud.cloud/) - 2023-05-22
 - [ 🔒 ] [https://gpts.dawu.world/](https://gpts.dawu.world/) - 2023-05-22
 - [ 🆓🌎 ] [https://vvanglro.eu.org/](https://vvanglro.eu.org/) - 2023-05-23
 - [ 🔒🌎 ] [https://www.sweetsai.com/](https://www.sweetsai.com/) - 2023-05-24
-- [ 🆓🔒 ] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-05-24 - 免费 GPT3.5 和绘画
 - [ 🆓 ] [https://index.chat.bnu120.space/](https://index.chat.bnu120.space/) - 2023-04-28
 - [ 🆓🌎 ] [https://desk.im/](https://desk.im/) - 2023-03-22
 - [ 🆓🌎 ] [https://ai.ls/](https://ai.ls/) - 2023-03-22

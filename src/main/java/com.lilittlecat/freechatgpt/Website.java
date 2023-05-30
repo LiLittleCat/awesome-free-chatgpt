@@ -25,6 +25,7 @@ public class Website {
     private String reportedInvalidReason;
     private String labels;
     private String customDescription;
+    private String customDescriptionEnglish;
     private String sourceInfo;
     private String previewUrl;
     /**

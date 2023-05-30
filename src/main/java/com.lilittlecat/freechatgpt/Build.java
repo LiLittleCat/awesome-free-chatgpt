@@ -157,22 +157,21 @@ public class Build {
         String newReadmeContent2 = newReadmeContent.replace("https://img.shields.io/badge/websites-" + websitesCount + "-blue?style=flat", "https://img.shields.io/badge/websites-" + normalWebsites.size() + "-blue?style=flat");
         FileUtil.writeString(newReadmeContent2, readmeFile, StandardCharsets.UTF_8);
 
+        // update README_en.md
         String readmeFilePathEnglish = basePath + File.separator + "README_en.md";
-        File readmeFileEnglish = new File(readmeFilePath);
-
+        File readmeFileEnglish = new File(readmeFilePathEnglish);
         List<Website> normalWebsitesEnglish = new ArrayList<>();
         for (Website normalWebsite : normalWebsites) {
             List<Feature> features = normalWebsite.getFeatures();
             if (features.contains(Feature.LOGIN_REQUIRED)
-                    || features.contains(Feature.VPN_REQUIRED)
                     || features.contains(Feature.FOLLOW_ON_WECHAT_REQUIRED)
-                    || features.contains(Feature.CHARGE_REQUIRED)
-            ) {
+                    || features.contains(Feature.CHARGE_REQUIRED)) {
                 continue;
             }
+            features.remove(VPN_REQUIRED);
             normalWebsitesEnglish.add(normalWebsite);
         }
-        Template normalTemplateEnglish = cfg.getTemplate("normal-websites-table.ftl");
+        Template normalTemplateEnglish = cfg.getTemplate("normal-websites-table-en.ftl");
         Map<String, Object> normalModelEnglish = new HashMap<>();
         normalModelEnglish.put("websites", normalWebsitesEnglish);
         StringWriter normalOutEnglish = new StringWriter();
@@ -185,8 +184,9 @@ public class Build {
         String newReadmeContentEnglish = readContentEnglish.replace(normalSitesContentEnglish, normalRenderedHtmlEnglish);
         // replace the count, like https://img.shields.io/badge/websites-107-blue?style=flat to https://img.shields.io/badge/websites-{number}-blue?style=flat
         String websitesCountEnglish = StrUtil.subBetween(newReadmeContentEnglish, "https://img.shields.io/badge/websites-", "-blue?style=flat");
-        String newReadmeContentEnglish2 = newReadmeContentEnglish.replace("https://img.shields.io/badge/websites-" + websitesCount + "-blue?style=flat", "https://img.shields.io/badge/websites-" + normalWebsites.size() + "-blue?style=flat");
-        FileUtil.writeString(newReadmeContentEnglish2, readmeFile, StandardCharsets.UTF_8);
+        String newReadmeContentEnglish2 = newReadmeContentEnglish.replace("https://img.shields.io/badge/websites-" + websitesCountEnglish + "-blue?style=flat",
+                "https://img.shields.io/badge/websites-" + normalWebsitesEnglish.size() + "-blue?style=flat");
+        FileUtil.writeString(newReadmeContentEnglish2, readmeFileEnglish, StandardCharsets.UTF_8);
 
         // update urls.json
         String urlsJsonFilePath = basePath + File.separator + "urls.json";
@@ -223,6 +223,9 @@ public class Build {
                 website.setAddedDate(time);
                 if (strings.length > 2) {
                     website.setCustomDescription(wrapSentence(strings[2]));
+                    if (strings.length > 3) {
+                        website.setCustomDescriptionEnglish(wrapSentenceEnglish(strings[3]));
+                    }
                     System.out.println(website.getId() + "." + link + " " + time + " " + strings[2]);
                 } else {
                     System.out.println(website.getId() + "." + link + " " + time);
@@ -307,6 +310,20 @@ public class Build {
     public static String wrapSentence(String text) {
         String template = "<details>\n" +
                 "<summary>内容过长，点击展开</summary>\n" +
+                "{text}\n" +
+                "</details>";
+        if (StrUtil.isBlank(text)) {
+            return null;
+        }
+        if (text.length() > 30) {
+            return template.replace("{text}", text);
+        } else {
+            return text;
+        }
+    }
+    public static String wrapSentenceEnglish(String text) {
+        String template = "<details>\n" +
+                "<summary>Content is too long, click to expand.</summary>\n" +
                 "{text}\n" +
                 "</details>";
         if (StrUtil.isBlank(text)) {
