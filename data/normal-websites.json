@@ -251,7 +251,7 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://nav4ai.net/chatgptweb/"
+		"url":"https://nav4ai.net/chatgptweb"
 	},
 	{
 		"addedDate":"2023-04-18",
@@ -957,7 +957,7 @@
 		"url":"https://bettergpt.chat/"
 	},
 	{
-		"addedDate":"2023-03-22",
+		"addedDate":"2023-04-23",
 		"customDescription":null,
 		"description":null,
 		"extraInfo":null,
@@ -976,7 +976,7 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chatforai.com/"
+		"url":"https://chatgpt-cn.co/"
 	},
 	{
 		"addedDate":"2023-03-22",
@@ -998,7 +998,29 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://ai.okmiku.com/chat/"
+		"url":"https://chatforai.com/"
+	},
+	{
+		"addedDate":"2023-03-22",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE_QUOTA",
+			"VPN_REQUIRED"
+		],
+		"id":47,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://ai.okmiku.com/chat"
 	},
 	{
 		"addedDate":"2023-05-24",
@@ -1009,7 +1031,7 @@
 			"FREE",
 			"LOGIN_REQUIRED"
 		],
-		"id":47,
+		"id":48,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1032,7 +1054,7 @@
 			"VPN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":48,
+		"id":49,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1054,7 +1076,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":49,
+		"id":50,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1076,7 +1098,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":50,
+		"id":51,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1098,7 +1120,7 @@
 			"API_KEY_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":51,
+		"id":52,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1120,7 +1142,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":52,
+		"id":53,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1144,7 +1166,7 @@
 			"VPN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":53,
+		"id":54,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1166,7 +1188,7 @@
 			"API_KEY_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":54,
+		"id":55,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1188,7 +1210,7 @@
 			"API_KEY_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":55,
+		"id":56,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1210,7 +1232,7 @@
 			"API_KEY_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":56,
+		"id":57,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1224,6 +1246,27 @@
 		"url":"https://94gpt.com/"
 	},
 	{
+		"addedDate":"2023-05-28",
+		"customDescription":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
+		"id":58,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-5.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://aihalo.chat/"
+	},
+	{
 		"addedDate":"2023-05-22",
 		"customDescription":null,
 		"description":null,
@@ -1231,7 +1274,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":57,
+		"id":59,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1252,7 +1295,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":58,
+		"id":60,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1273,7 +1316,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":59,
+		"id":61,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1294,7 +1337,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":60,
+		"id":62,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1315,7 +1358,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":61,
+		"id":63,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1336,7 +1379,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":62,
+		"id":64,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1359,7 +1402,7 @@
 			"VPN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":63,
+		"id":65,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1380,7 +1423,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":64,
+		"id":66,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1401,7 +1444,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":65,
+		"id":67,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1422,7 +1465,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":66,
+		"id":68,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1443,7 +1486,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":67,
+		"id":69,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1464,7 +1507,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":68,
+		"id":70,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1475,7 +1518,7 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://www.vivi-chat.com/#/chat/"
+		"url":"https://www.vivi-chat.com/#/chat"
 	},
 	{
 		"addedDate":"2023-04-18",
@@ -1485,7 +1528,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":69,
+		"id":71,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1506,7 +1549,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":70,
+		"id":72,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1517,7 +1560,7 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://www.weijiwangluo.com/talk/"
+		"url":"https://www.weijiwangluo.com/talk"
 	},
 	{
 		"addedDate":"2023-04-11",
@@ -1527,7 +1570,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":71,
+		"id":73,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1548,7 +1591,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":72,
+		"id":74,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1569,7 +1612,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":73,
+		"id":75,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1591,7 +1634,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":74,
+		"id":76,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1613,7 +1656,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":75,
+		"id":77,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1635,7 +1678,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":76,
+		"id":78,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1657,7 +1700,7 @@
 			"FOLLOW_ON_WECHAT_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":77,
+		"id":79,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1679,7 +1722,7 @@
 			"FOLLOW_ON_WECHAT_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":78,
+		"id":80,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1701,7 +1744,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":79,
+		"id":81,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1723,7 +1766,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":80,
+		"id":82,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1735,28 +1778,5 @@
 		"title":null,
 		"updatedDate":null,
 		"url":"https://open-gpt.app/"
-	},
-	{
-		"addedDate":"2023-04-23",
-		"customDescription":"2023-05-28\r",
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE_QUOTA",
-			"VPN_REQUIRED",
-			"LOGIN_REQUIRED"
-		],
-		"id":81,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":-7.0,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://chatgpt-cn.co/"
 	}
 ]

@@ -32,8 +32,8 @@ public class Build {
     public static void main(String[] args) throws TemplateException, IOException {
         Build build = new Build();
 
-//        build.initNormal();
-//        build.initAbnormal();
+        build.initNormal();
+        build.initAbnormal();
         build.buildTable();
 
 //        System.out.println(extractLabels(Feature.allLabelString()));
@@ -319,11 +319,7 @@ public class Build {
         Pattern linkPattern = Pattern.compile(regex);
         Matcher linkMatcher = linkPattern.matcher(content);
         if (linkMatcher.find()) {
-            String link = linkMatcher.group(0).replace("[", "").replace("]", "");
-            if (!link.endsWith("/")) {
-                return link + "/";
-            }
-            return link;
+            return linkMatcher.group(0).replace("[", "").replace("]", "");
         }
         return null;
     }
