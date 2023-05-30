@@ -1,25 +1,20 @@
 package com.lilittlecat.freechatgpt;
 
 import cn.hutool.core.collection.CollUtil;
-import cn.hutool.core.collection.ListUtil;
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.StrUtil;
 import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.JSONArray;
-import com.alibaba.fastjson.JSONWriter;
 import com.alibaba.fastjson.serializer.SerializerFeature;
 import freemarker.cache.FileTemplateLoader;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
 
-import java.awt.*;
 import java.io.File;
 import java.io.IOException;
 import java.io.StringWriter;
 import java.nio.charset.StandardCharsets;
 import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.List;
 import java.util.regex.Matcher;
@@ -34,7 +29,7 @@ public class Build {
 
         build.initNormal();
         build.initAbnormal();
-        build.buildTable();
+        build.updateReadme();
 
 //        System.out.println(extractLabels(Feature.allLabelString()));
 
@@ -112,11 +107,11 @@ public class Build {
 
         FileUtil.writeString(newOriginalMdContent, originalMdFile, StandardCharsets.UTF_8);
 
-        buildTable();
+        updateReadme();
 
     }
 
-    public void buildTable() throws IOException, TemplateException {
+    public void updateReadme() throws IOException, TemplateException {
         String basePath = System.getProperty("user.dir");
         Configuration cfg = new Configuration(Configuration.VERSION_2_3_32);
         FileTemplateLoader templateLoader = new FileTemplateLoader(new File(basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources"));
