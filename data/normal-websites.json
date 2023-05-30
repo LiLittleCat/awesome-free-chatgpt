@@ -92,7 +92,7 @@
 	{
 		"addedDate":"2023-05-25",
 		"customDescription":"设置中输入访问密码 586-484-535D",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password 586-484-535D in settings.\n</details>",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password 586-484-535D in settings.\r\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -473,7 +473,7 @@
 	{
 		"addedDate":"2023-05-17",
 		"customDescription":"设置中输入访问密码 857857",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password 857857 in settings.\n</details>",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password 857857 in settings.\r\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -979,7 +979,7 @@
 	{
 		"addedDate":"2023-05-26",
 		"customDescription":"<details>\n<summary>内容过长，点击展开</summary>\n免费操作步骤：转到 API 设置并选择“使用自定义 API 端点”。然后，输入 https://free.churchless.tech/v1/chat/completions 作为端点，并将 API 密钥字段留空。\n</details>",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nFree operation steps: Go to API settings and select 'Use custom API endpoint'. Then, enter https://free.churchless.tech/v1/chat/completions as the endpoint and leave the API key field blank.\n</details>",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nFree operation steps: Go to API settings and select 'Use custom API endpoint'. Then, enter https://free.churchless.tech/v1/chat/completions as the endpoint and leave the API key field blank.\r\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -1118,7 +1118,7 @@
 	},
 	{
 		"addedDate":"2023-05-17",
-		"customDescription":"GPT4 的兑换码：TRYGPT4",
+		"customDescription":"GPT4 的兑换码：TRYGPT4\r",
 		"customDescriptionEnglish":null,
 		"description":null,
 		"extraInfo":null,

@@ -202,7 +202,7 @@ public class Build {
         urls.add("https://tongyi.aliyun.com/");
         urls.add("https://xinghuo.xfyun.cn/");
 
-        for (Website normalWebsite : normalWebsites) {
+        for (Website normalWebsite : normalWebsitesEnglish) {
             urls.add(normalWebsite.getUrl());
         }
         FileUtil.writeString(JSON.toJSONString(urls), urlsJsonFile, StandardCharsets.UTF_8);
