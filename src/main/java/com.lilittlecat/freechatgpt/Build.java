@@ -212,6 +212,7 @@ public class Build {
         urls.add("https://bard.google.com/");
         urls.add("https://heypi.com/talk");
         urls.add("https://open-assistant.io/");
+        urls.add("https://talk.truthgpt.one/");
         urls.add("https://yiyan.baidu.com/");
         urls.add("https://tongyi.aliyun.com/");
         urls.add("https://xinghuo.xfyun.cn/");
