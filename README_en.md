@@ -15,6 +15,21 @@ The websites listed here are from the internet, please do not enter any personal
 
 If you find this project useful, don't forget to star 🌟. Your support is my motivation to move forward.
 
+## Table of Content
+<!-- TOC -->
+* [Awesome Free ChatGPT](#awesome-free-chatgpt)
+  * [Table of Content](#table-of-content)
+  * [💬 ChatGPT Mirrors](#-chatgpt-mirrors)
+  * [🗨️ ChatGPT Alternative](#-chatgpt-alternative)
+  * [📚 More...](#-more)
+    * [💿 Want to build your own ChatGPT mirror?](#-want-to-build-your-own-chatgpt-mirror)
+    * [💡 Prompt](#-prompt)
+    * [📝 Chat with your content](#-chat-with-your-content)
+    * [💻 Developer Tools](#-developer-tools)
+    * [🌟 Star History](#-star-history)
+    * [💞 Contributors](#-contributors)
+<!-- TOC -->
+
 ## 💬 ChatGPT Mirrors
 
 > Tag Meaning
@@ -678,7 +693,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 </table>
 <!-- normal-end -->
 
-## ChatGPT Alternative
+## 🗨️ ChatGPT Alternative
 
 - 👍 [Poe - Fast, Helpful AI Chat](https://poe.com) - Poe lets you ask questions, get instant answers, and have back-and-forth conversations with AI. Gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, and a variety of other bots.
 - [Bing Chat](https://www.bing.com/chat)
@@ -688,16 +703,13 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [Chat with Open Large Language Models](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat> - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [Open Assistant](https://open-assistant.io/) - Conversational AI for everyone. An open source project to create a chat enabled GPT LLM run by LAION and contributors around the world.
 - [Pi, your personal AI](https://heypi.com/talk) - Hi, I'm Pi. I'm your personal AI, designed to be supportive, smart, and there for you anytime. Ask me for advice, for answers, or let's talk about whatever's on your mind.
+- [TruthGPT Chat](https://talk.truthgpt.one/) - Hey, I’m TruthGPT! The beacon of truth in a world of unknown. We can either have a conversation or you may ask me complex questions!
 - [ERNIE Bot](https://yiyan.baidu.com)
 - [Tongyi Qianwen](https://tongyi.aliyun.com/)
 - [iFLYTEK Spark](https://xinghuo.xfyun.cn/) - The iFLYTEK StarFire Cognitive Large Model is a large language model launched by iFLYTEK that can intelligently respond through natural language understanding.
 
 ## 📚 More...
 
-### 💡 Prompt
-
-- [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- todo
 
 ### 💿 Want to build your own ChatGPT mirror?
 
@@ -708,6 +720,18 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - https://github.com/869413421/chatgpt-web - Private web application implemented based on ChatGPT3.5 API.
 - https://github.com/ztjhz/BetterChatGPT - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - https://github.com/ourongxing/chatgpt-vercel - Elegant and Powerful. Powered by OpenAI and Vercel.
+
+### 💡 Prompt
+
+- [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- https://github.com/f/awesome-chatgpt-prompts - The repo includes ChatGPT prompt curation to use ChatGPT better.
+
+
+### 📝 Chat with your content
+
+- [ChatDOC - Chat with your documents](https://chatdoc.com/) - ChatDOC is a ChatGPT-based file-reading assistant that can quickly extract, locate and summarize information from documents, able to understand texts, tables and images.
+- [Humata - GPT for your files](https://www.humata.ai/) - Humata is like GPT for your files. Ask AI anything about your data. Ask questions about your data and get answers powered by AI instantly. Learn, summarize, synthesize, and extract valuable data from your files 100X faster.
+- [Chatbase | ChatGPT for your website](https://www.chatbase.co/) - Build an AI chatbot from your knowledge base and add it to your website.
 
 ### 💻 Developer Tools
 
