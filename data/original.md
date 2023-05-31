@@ -1,4 +1,6 @@
 
+- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-05-31
+
 <!-- new-add-begin -->
 
 
@@ -89,7 +91,8 @@
 - [ 🔓🌎 ] [https://chatgpt-cn.co/](https://chatgpt-cn.co/) - 2023-04-23
 - [ 🔒 ] [https://aihalo.chat/](https://aihalo.chat/) - 2023-05-28
 - [ 👀 ] [https://ai.iiter.cn/](https://ai.iiter.cn/) - 2023-05-25
-- [ 👀 ] [https://chat1.wobcw.com/](https://chat1.wobcw.com/) - 2023-05-26<!-- normal-end -->
+- [ 👀 ] [https://chat1.wobcw.com/](https://chat1.wobcw.com/) - 2023-05-26
+- [🔒🧰] [https://www.dqzboy.top/](https://www.dqzboy.top/) - 2023-05-27<!-- normal-end -->
 
 <details>
 
