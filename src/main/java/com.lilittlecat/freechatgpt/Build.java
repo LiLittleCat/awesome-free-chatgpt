@@ -174,6 +174,17 @@ public class Build {
             features.remove(VPN_REQUIRED);
             normalWebsitesEnglish.add(normalWebsite);
         }
+        // sort
+        for (Website websitesEnglish : normalWebsitesEnglish) {
+            websitesEnglish.setScore(Feature.score(websitesEnglish.getFeatures()));
+        }
+        normalWebsitesEnglish.sort((o1, o2) -> {
+            int scoreCompare = o2.getScore().compareTo(o1.getScore());
+            if (scoreCompare == 0) {
+                return o2.getAddedDate().compareTo(o1.getAddedDate());
+            }
+            return scoreCompare;
+        });
         Template normalTemplateEnglish = cfg.getTemplate("normal-websites-table-en.ftl");
         Map<String, Object> normalModelEnglish = new HashMap<>();
         normalModelEnglish.put("websites", normalWebsitesEnglish);
