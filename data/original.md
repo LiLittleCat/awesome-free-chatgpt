@@ -94,7 +94,8 @@
 - [ 👀 ] [https://chat1.wobcw.com/](https://chat1.wobcw.com/) - 2023-05-26
 - [🔒🧰] [https://www.dqzboy.top/](https://www.dqzboy.top/) - 2023-05-27
 - [🆓] [https://ai.mcbbs.gq/](https://ai.mcbbs.gq/) - 2023-05-28
-- [🔒] [http://a1ya.cn/9df35d55c75a5a90](http://a1ya.cn/9df35d55c75a5a90) - 2023-05-29<!-- normal-end -->
+- [🔒] [http://a1ya.cn/9df35d55c75a5a90](http://a1ya.cn/9df35d55c75a5a90) - 2023-05-29
+- [🔒] [http://chatgpt.bamboochat.cn/](http://chatgpt.bamboochat.cn/) - 2023-05-29<!-- normal-end -->
 
 <details>
 
