@@ -25,11 +25,13 @@
 ## 目录
 <!-- TOC -->
 * [Awesome Free ChatGPT](#awesome-free-chatgpt)
+  * [目录](#目录)
   * [💬 ChatGPT 镜像列表](#-chatgpt-镜像列表)
   * [🗨️ ChatGPT 替代方案](#-chatgpt-替代方案)
   * [📚 更多...](#-更多)
     * [💿 构建你自己的 ChatGPT 镜像](#-构建你自己的-chatgpt-镜像)
     * [💡 提示词（Prompt）](#-提示词prompt)
+    * [📝 自建内容库](#-自建内容库)
     * [💻 开发者工具](#-开发者工具)
     * [🌟 Star History](#-star-history)
     * [💞 Contributors](#-contributors)
@@ -700,7 +702,8 @@
                         💪
             </td>
             <td>2023-05-17</td>
-            <td>GPT4 的兑换码：TRYGPT4</td>
+            <td>GPT4 的兑换码：TRYGPT4
+</td>
         </tr>
         <tr>
             <td>55</td>
@@ -1712,6 +1715,7 @@
 - [阿里 通义千问](https://tongyi.aliyun.com/)
 - [讯飞星火认知大模型](https://xinghuo.xfyun.cn/) - 讯飞星火认知大模型，是由科大讯飞推出的大语言模型，能够通过自然语言理解，完成智能对答。
 - [Pi, your personal AI](https://heypi.com/talk) - Hi, I'm Pi. I'm your personal AI, designed to be supportive, smart, and there for you anytime. Ask me for advice, for answers, or let's talk about whatever's on your mind.
+- [TruthGPT Chat](https://talk.truthgpt.one/) - Hey, I’m TruthGPT! The beacon of truth in a world of unknown. We can either have a conversation or you may ask me complex questions!
 
 ## 📚 更多...
 
@@ -1729,8 +1733,13 @@
 
 - [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - https://github.com/datawhalechina/prompt-engineering-for-developers - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版
-- todo
+- https://github.com/f/awesome-chatgpt-prompts - The repo includes ChatGPT prompt curation to use ChatGPT better.
 
+### 📝 自建内容库
+
+- [ChatDOC - Chat with your documents](https://chatdoc.com/) - ChatDOC is a ChatGPT-based file-reading assistant that can quickly extract, locate and summarize information from documents, able to understand texts, tables and images.
+- [Humata - GPT for your files](https://www.humata.ai/) - Humata is like GPT for your files. Ask AI anything about your data. Ask questions about your data and get answers powered by AI instantly. Learn, summarize, synthesize, and extract valuable data from your files 100X faster.
+- [Chatbase | ChatGPT for your website](https://www.chatbase.co/) - Build an AI chatbot from your knowledge base and add it to your website.
 
 
 ### 💻 开发者工具
