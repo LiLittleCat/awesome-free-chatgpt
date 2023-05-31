@@ -168,6 +168,9 @@ public class Build {
                     || features.contains(Feature.CHARGE_REQUIRED)) {
                 continue;
             }
+            if (normalWebsite.getUrl().contains("tchat.c1ns.cn")) {
+                continue;
+            }
             features.remove(VPN_REQUIRED);
             normalWebsitesEnglish.add(normalWebsite);
         }
