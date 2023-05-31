@@ -92,7 +92,8 @@
 - [ 🔒 ] [https://aihalo.chat/](https://aihalo.chat/) - 2023-05-28
 - [ 👀 ] [https://ai.iiter.cn/](https://ai.iiter.cn/) - 2023-05-25
 - [ 👀 ] [https://chat1.wobcw.com/](https://chat1.wobcw.com/) - 2023-05-26
-- [🔒🧰] [https://www.dqzboy.top/](https://www.dqzboy.top/) - 2023-05-27<!-- normal-end -->
+- [🔒🧰] [https://www.dqzboy.top/](https://www.dqzboy.top/) - 2023-05-27
+- [🆓] [https://ai.mcbbs.gq/](https://ai.mcbbs.gq/) - 2023-05-28<!-- normal-end -->
 
 <details>
 
