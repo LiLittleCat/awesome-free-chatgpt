@@ -93,7 +93,7 @@
 - [ 👀 ] [https://ai.iiter.cn/](https://ai.iiter.cn/) - 2023-05-25
 - [ 👀 ] [https://chat1.wobcw.com/](https://chat1.wobcw.com/) - 2023-05-26
 - [🔒🧰] [https://www.dqzboy.top/](https://www.dqzboy.top/) - 2023-05-27
-- [🆓] [https://ai.mcbbs.gq/](https://ai.mcbbs.gq/) - 2023-05-28
+- [🆓🌎] [https://ai.mcbbs.gq/](https://ai.mcbbs.gq/) - 2023-05-28
 - [🔒] [http://a1ya.cn/9df35d55c75a5a90](http://a1ya.cn/9df35d55c75a5a90) - 2023-05-29
 - [🔒] [http://chatgpt.bamboochat.cn/](http://chatgpt.bamboochat.cn/) - 2023-05-29
 - [ 🆓 ] [https://tchat.c1ns.cn/](https://tchat.c1ns.cn/) - 2023-05-29
@@ -105,6 +105,7 @@
 - [🆓] [https://chatyou.lovebaby.today/](https://chatyou.lovebaby.today/) - 2023-06-01
 - [👀🧰] [https://www.magicaibot.com/talk](https://www.magicaibot.com/talk) - 2023-06-01
 - [🆓] [https://www.magicaibot.com/talk](https://www.magicaibot.com/talk) - 2023-06-01
+- [🆓] [https://521.zeabur.app/](https://521.zeabur.app/) - 2023-06-01
 <!-- normal-end -->
 
 <details>
