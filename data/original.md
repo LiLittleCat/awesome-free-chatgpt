@@ -1,5 +1,5 @@
 
-- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-05-31
+- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-06-01
 
 <!-- new-add-begin -->
 
@@ -100,7 +100,7 @@
 - [ 🆓 ] [https://chat.kunshanyuxin.com/](https://chat.kunshanyuxin.com/) - 2023-05-31
 - [ 🆓 ] [https://chat.jubianxingqiu.com/](https://chat.jubianxingqiu.com/) - 2023-05-31
 - [ 👀 ] [https://ai.douresources.com](https://ai.douresources.com) - 2023-05-31
-<!-- normal-end -->
+- [🆓] [https://chatgptdddd.com/](https://chatgptdddd.com/) - 2023-06-01<!-- normal-end -->
 
 <details>
 
