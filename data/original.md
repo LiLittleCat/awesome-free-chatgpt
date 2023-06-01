@@ -101,7 +101,11 @@
 - [ 🆓 ] [https://chat.jubianxingqiu.com/](https://chat.jubianxingqiu.com/) - 2023-05-31
 - [ 👀 ] [https://ai.douresources.com](https://ai.douresources.com) - 2023-05-31
 - [🆓] [https://chatgptdddd.com/](https://chatgptdddd.com/) - 2023-06-01
-- [🆓] [https://chatgptmirror.com/](https://chatgptmirror.com/) - 2023-06-01- [🆓] [https://chatyou.lovebaby.today/](https://chatyou.lovebaby.today/) - 2023-06-01- [👀🧰] [https://www.magicaibot.com/talk](https://www.magicaibot.com/talk) - 2023-06-01<!-- normal-end -->
+- [🆓] [https://chatgptmirror.com/](https://chatgptmirror.com/) - 2023-06-01
+- [🆓] [https://chatyou.lovebaby.today/](https://chatyou.lovebaby.today/) - 2023-06-01
+- [👀🧰] [https://www.magicaibot.com/talk](https://www.magicaibot.com/talk) - 2023-06-01
+- [🆓] [https://www.magicaibot.com/talk](https://www.magicaibot.com/talk) - 2023-06-01
+<!-- normal-end -->
 
 <details>
 

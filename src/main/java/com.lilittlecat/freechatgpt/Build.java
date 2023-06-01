@@ -54,7 +54,7 @@ public class Build {
                 continue;
             }
             // new add to the end of normal
-            newNormalSitesContent.append(newAddLine);
+            newNormalSitesContent.append(newAddLine).append("\n");
             // Extract the link
             String link = extractLink(strings[0]);
             // Extract the time
