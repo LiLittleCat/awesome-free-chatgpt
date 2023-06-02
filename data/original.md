@@ -1,5 +1,5 @@
 
-- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-06-01
+- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-06-02
 
 <!-- new-add-begin -->
 
@@ -106,6 +106,7 @@
 - [👀🧰] [https://www.magicaibot.com/talk](https://www.magicaibot.com/talk) - 2023-06-01
 - [🆓] [https://www.magicaibot.com/talk](https://www.magicaibot.com/talk) - 2023-06-01
 - [🆓] [https://521.zeabur.app/](https://521.zeabur.app/) - 2023-06-01
+- [👀💪🧰][https://carps.ink/](https://carps.ink/) - 2023-06-02
 <!-- normal-end -->
 
 <details>
