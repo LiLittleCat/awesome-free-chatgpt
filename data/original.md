@@ -108,6 +108,7 @@
 - [🆓] [https://521.zeabur.app/](https://521.zeabur.app/) - 2023-06-01
 - [👀💪🧰][https://carps.ink/](https://carps.ink/) - 2023-06-02
 - [🆓][https://nb8.c1ns.cn/](https://nb8.c1ns.cn/) - 2023-06-02
+- [👀] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-06-02
 <!-- normal-end -->
 
 <details>
