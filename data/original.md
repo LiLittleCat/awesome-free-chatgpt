@@ -41,7 +41,7 @@
 - [ 👀🌎 ] [https://seven-star.org/](https://seven-star.org/) - 2023-05-06
 - [ 🔒 ] [https://ai.hxkj.vip/](https://ai.hxkj.vip/) - 2023-05-06
 - [ 🔒🌎 ] [https://gpt.opengpt88.com/](https://gpt.opengpt88.com/) - 2023-05-07
-- [ 🔒 ] [https://chat.wenwen-ai.com/](https://chat.wenwen-ai.com/) - 2023-05-10
+- [ 🔒💪🧰 ] [https://chat.wenwen-ai.com/](https://chat.wenwen-ai.com/) - 2023-05-10
 - [ 🔒 ] [https://gpt.uziai.com/](https://gpt.uziai.com/) - 2023-05-11
 - [ 🔒 ] [https://aiget.cc/](https://aiget.cc/) - 2023-05-17
 - [ 🔒💪 ] [https://chat.zhenbs.com/](https://chat.zhenbs.com/) - 2023-05-17 - GPT4 的兑换码：TRYGPT4
@@ -109,6 +109,7 @@
 - [🔒💪🧰][https://carps.ink/](https://carps.ink/) - 2023-06-02
 - [🆓][https://nb8.c1ns.cn/](https://nb8.c1ns.cn/) - 2023-06-02
 - [👀] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-06-02
+- [🔓💪🧰][https://tchat.c1ns.cn](https://tchat.c1ns.cn) - 2023-06-02
 <!-- normal-end -->
 
 <details>
