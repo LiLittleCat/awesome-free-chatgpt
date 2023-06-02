@@ -1322,7 +1322,7 @@
 		"description":null,
 		"extraInfo":null,
 		"features":[
-			"FOLLOW_ON_WECHAT_REQUIRED",
+			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
