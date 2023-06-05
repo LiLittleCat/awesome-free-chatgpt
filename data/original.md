@@ -110,6 +110,7 @@
 - [🆓][https://nb8.c1ns.cn/](https://nb8.c1ns.cn/) - 2023-06-02
 - [👀] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-06-02
 - [🔓💪🧰][https://tchat.c1ns.cn](https://tchat.c1ns.cn) - 2023-06-02
+- [🔒💪] [https://chat.immuseai.com/](https://chat.immuseai.com/) - 2023-06-04
 <!-- normal-end -->
 
 <details>
