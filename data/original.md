@@ -54,7 +54,7 @@
 - [ 🆓🌎 ] [https://desk.im/](https://desk.im/) - 2023-03-22
 - [ 🆓🌎 ] [https://ai.ls/](https://ai.ls/) - 2023-03-22
 - [ 🆓🌎 ] [https://ai.ci/](https://ai.ci/) - 2023-03-22
-- [ 🆓🌎 ] [https://chatcat.pages.dev/](https://chatcat.pages.dev/) - 2023-04-11
+- [ 🆓🌎 ] [https://chatcat.pages.dev/](https://chatcat.pages.dev/) - 2023-04-11 - 设置中输入访问密码 chatcat - Enter access password chatcat in settings.
 - [ 🔓🌎 ] [https://chatforai.com/](https://chatforai.com/) - 2023-03-22
 - [ 🆓🌎 ] [https://chat2.xeasy.me/](https://chat2.xeasy.me/) - 2023-03-22
 - [ 🆓🌎 ] [https://gpt.xeasy.me/](https://gpt.xeasy.me/) - 2023-03-22
@@ -110,6 +110,7 @@
 - [👀] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-06-02
 - [🔓💪🧰][https://tchat.c1ns.cn](https://tchat.c1ns.cn) - 2023-06-02
 - [🔒💪] [https://chat.immuseai.com/](https://chat.immuseai.com/) - 2023-06-04
+- [ 🆓 ] [https://chatcat.zhaoyoung.me](https://chatcat.zhaoyoung.me) - 2023-06-04 - 设置中输入访问密码 chatcat - Enter access password chatcat in settings.
 <!-- normal-end -->
 
 <details>
