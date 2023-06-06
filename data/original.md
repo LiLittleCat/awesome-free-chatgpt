@@ -111,6 +111,7 @@
 - [🔓💪🧰][https://tchat.c1ns.cn](https://tchat.c1ns.cn) - 2023-06-02
 - [🔒💪] [https://chat.immuseai.com/](https://chat.immuseai.com/) - 2023-06-04
 - [ 🆓 ] [https://chatcat.zhaoyoung.me](https://chatcat.zhaoyoung.me) - 2023-06-04 - 设置中输入访问密码 chatcat - Enter access password chatcat in settings.
+- [ 🆓 ] [https://chat.newstop.asia/](https://chat.newstop.asia/) - 2023-06-06
 <!-- normal-end -->
 
 <details>
