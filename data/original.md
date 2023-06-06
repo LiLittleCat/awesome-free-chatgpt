@@ -82,7 +82,7 @@
 - [ 🔒🌎 ] [https://chat.8kg.co/](https://chat.8kg.co/) - 2023-04-21
 - [ 🆓 ][https://f1.nbai.live/](https://f1.nbai.live/) - 2023-04-24
 - [ 👀🌎 ][https://chat.hehanwang.com/](https://chat.hehanwang.com/) - 2023-04-25
-- [ 🆓 ] [http://www.tdchat.pro/](http://www.tdchat.pro/) - 2023-05-05
+- [ 🔓 ] [http://www.tdchat.pro/](http://www.tdchat.pro/) - 2023-05-05
 - [ 🔒 ][https://qxme.com/](https://qxme.com/) - 2023-05-04
 - [ 🆓🌎 ][https://pro.ai.ls/](https://pro.ai.ls/) - 2023-04-26
 - [ 🔒 ][http://bamboochat.kebakeba.com/](http://bamboochat.kebakeba.com/) - 2023-05-12
@@ -100,8 +100,7 @@
 - [ 🆓 ] [https://chat.kunshanyuxin.com/](https://chat.kunshanyuxin.com/) - 2023-05-31
 - [ 🆓 ] [https://chat.jubianxingqiu.com/](https://chat.jubianxingqiu.com/) - 2023-05-31
 - [ 👀 ] [https://ai.douresources.com](https://ai.douresources.com) - 2023-05-31
-- [🆓] [https://chatgptdddd.com/](https://chatgptdddd.com/) - 2023-06-01
-- [🆓] [https://chatgptmirror.com/](https://chatgptmirror.com/) - 2023-06-01
+- [🔒] [https://chatgptmirror.com/](https://chatgptmirror.com/) - 2023-06-01
 - [🆓] [https://chatyou.lovebaby.today/](https://chatyou.lovebaby.today/) - 2023-06-01
 - [👀🧰] [https://www.magicaibot.com/talk](https://www.magicaibot.com/talk) - 2023-06-01
 - [🆓] [https://www.magicaibot.com/talk](https://www.magicaibot.com/talk) - 2023-06-01
@@ -118,6 +117,7 @@
 <summary>🚫 已失效</summary>
 
 <!-- abnormal-begin -->
+- ~~[https://chatgptdddd.com/](https://chatgptdddd.com/)~~ - 2023-06-06
 - ~~[http://gpt.hz-it-dev.com/](http://gpt.hz-it-dev.com/)~~ - 2023-05-30
 - ~~[https://www.freechatsgpt.com/](https://www.freechatsgpt.com/)~~ - 2023-05-28
 - ~~[https://qa.6bbs.cn/](https://qa.6bbs.cn/)~~ - 2023-05-28
