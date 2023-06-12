@@ -120,6 +120,7 @@
 - [🔒🧰][https://chat.ijixian.com.cn](https://chat.ijixian.com.cn) - 2023-06-09
 - [🔒💪][https://chat.gpt4plus.fun](https://chat.gpt4plus.fun) - 2023-06-09
 - [🔒][https://www.confman.com/chat](https://www.confman.com/chat) - 2023-06-11
+- [🔒💪🧰][https://ai.hxkj.vip/](https://ai.hxkj.vip/) - 2023-06-12 - 未登录用户三天免费额度，登录用户无限制，支持AI绘图（Stable Diffusion 和 Midjourney）
 <!-- normal-end -->
 
 <details>
