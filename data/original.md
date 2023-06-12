@@ -116,6 +116,7 @@
 - [🆓][https://chat.flares.ai/](https://chat.flares.ai/) - 2023-06-08
 -[🆓][https://devgpt.com/](https://devgpt.com/) - 2023-06-08
 - [🔒][https://emkok.com](https://emkok.com) - 2023-06-08 - 以提示词创建的指令应用 GPT 平台，目前已经有 200+ 应用
+- [👀💪][https://ai.fanyi.im](https://ai.fanyi.im) - 2023-06-09
 <!-- normal-end -->
 
 <details>
