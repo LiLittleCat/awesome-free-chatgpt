@@ -1,5 +1,5 @@
 
-- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-06-02
+- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-06-13
 
 <!-- new-add-begin -->
 
@@ -119,6 +119,7 @@
 - [👀💪][https://ai.fanyi.im](https://ai.fanyi.im) - 2023-06-09
 - [🔒🧰][https://chat.ijixian.com.cn](https://chat.ijixian.com.cn) - 2023-06-09
 - [🔒💪][https://chat.gpt4plus.fun](https://chat.gpt4plus.fun) - 2023-06-09
+- [🔒][https://www.confman.com/chat](https://www.confman.com/chat) - 2023-06-11
 <!-- normal-end -->
 
 <details>
