@@ -120,6 +120,11 @@
 - [🔒💪][https://chat.gpt4plus.fun](https://chat.gpt4plus.fun) - 2023-06-09
 - [🔒][https://www.confman.com/chat](https://www.confman.com/chat) - 2023-06-11
 - [🔒💪🧰][https://ai.hxkj.vip/](https://ai.hxkj.vip/) - 2023-06-12 - 未登录用户三天免费额度，登录用户无限制，支持AI绘图（Stable Diffusion 和 Midjourney）
+- [🔒💪🧰][https://wrtn.ai/](https://wrtn.ai/) - 2023-06-13 
+- [🔒💪🧰][https://www.aibvs.com/chat](https://www.aibvs.com/chat) - 2023-06-13 - 邀请码 6 个 6 有免费额度
+- [🆓][http://chat.darkflow.top/](http://chat.darkflow.top/) - 2023-06-13
+- [🆓][https://macll.cn/](https://macll.cn/) - 2023-06-13
+- [🆓][http://chat3.aiyunos.top](http://chat3.aiyunos.top) - 2023-06-13 
 <!-- normal-end -->
 
 <details>
