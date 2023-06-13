@@ -80,7 +80,6 @@
 - [ 🔒 ] [https://www.vivi-chat.com/#/chat](https://www.vivi-chat.com/#/chat) - 2023-04-22
 - [ 🔑🌎 ] [https://chat.iwoso.co/](https://chat.iwoso.co/) - 2023-04-21
 - [ 🔒🌎 ] [https://chat.8kg.co/](https://chat.8kg.co/) - 2023-04-21
-- [ 🆓 ][https://f1.nbai.live/](https://f1.nbai.live/) - 2023-04-24
 - [ 👀🌎 ][https://chat.hehanwang.com/](https://chat.hehanwang.com/) - 2023-04-25
 - [ 🔓 ] [http://www.tdchat.pro/](http://www.tdchat.pro/) - 2023-05-05
 - [ 🔒 ][https://qxme.com/](https://qxme.com/) - 2023-05-04
@@ -128,6 +127,7 @@
 <summary>🚫 已失效</summary>
 
 <!-- abnormal-begin -->
+- ~~[https://f1.nbai.live/](https://f1.nbai.live/)~~ - 2023-06-13
 - ~~[https://chatgptdddd.com/](https://chatgptdddd.com/)~~ - 2023-06-06
 - ~~[http://gpt.hz-it-dev.com/](http://gpt.hz-it-dev.com/)~~ - 2023-05-30
 - ~~[https://www.freechatsgpt.com/](https://www.freechatsgpt.com/)~~ - 2023-05-28
