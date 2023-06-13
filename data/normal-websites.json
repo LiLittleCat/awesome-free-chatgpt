@@ -113,7 +113,7 @@
 	{
 		"addedDate":"2023-06-04",
 		"customDescription":"设置中输入访问密码 chatcat",
-		"customDescriptionEnglish":null,
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password chatcat in settings.\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -332,8 +332,8 @@
 	},
 	{
 		"addedDate":"2023-05-25",
-		"customDescription":"设置中输入访问密码 586-484-535D",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password 586-484-535D in settings.\n</details>",
+		"customDescription":"设置中输入访问密码 586-481-535A",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password 586-481-535A in settings.\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -853,8 +853,8 @@
 	},
 	{
 		"addedDate":"2023-04-11",
-		"customDescription":null,
-		"customDescriptionEnglish":null,
+		"customDescription":"设置中输入访问密码 chatcat",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password chatcat in settings.\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[

@@ -33,7 +33,7 @@
 - [ 🆓🌎 ][https://freegpt.one/](https://freegpt.one) - 2023-04-23
 - [ 👀 ][https://chat.wobcw.com/](https://chat.wobcw.com/) - 2023-04-24
 - [ 🆓🌎🧰 ][https://www.promptboom.com/](https://www.promptboom.com/) - 2023-04-24
-- [ 🆓 ][https://d2.betai55.uk/](https://d2.betai55.uk/) - 2023-05-25 - 设置中输入访问密码 586-484-535D - Enter access password 586-484-535D in settings.
+- [ 🆓 ][https://d2.betai55.uk/](https://d2.betai55.uk/) - 2023-05-25 - 设置中输入访问密码 586-481-535A - Enter access password 586-481-535A in settings.
 - [ 🆓 ][https://f12.xjai.cc/](https://f12.xjai.cc/) - 2023-04-27
 - [ 👀 ][https://chat.douresources.com/](https://chat.douresources.com/) - 2023-04-28
 - [ 🔑🌎 ][https://www.chatbotui.com/](https://www.chatbotui.com/) - 2023-04-04
