@@ -125,6 +125,8 @@
 - [🆓][http://chat.darkflow.top/](http://chat.darkflow.top/) - 2023-06-13
 - [🆓][https://macll.cn/](https://macll.cn/) - 2023-06-13
 - [🆓][http://chat3.aiyunos.top](http://chat3.aiyunos.top) - 2023-06-13 
+- [🆓][https://gptdidi.com/](https://gptdidi.com/) - 2023-06-14
+- [🔒][http://chat.moyifeng.top/](http://chat.moyifeng.top/) - 2023-06-14
 <!-- normal-end -->
 
 <details>
