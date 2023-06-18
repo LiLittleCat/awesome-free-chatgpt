@@ -1982,6 +1982,28 @@
 		"url":"https://emkok.com"
 	},
 	{
+		"addedDate":"2023-06-05",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED"
+		],
+		"id":88,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-5.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://varmsg.com/"
+	},
+	{
 		"addedDate":"2023-06-02",
 		"customDescription":null,
 		"customDescriptionEnglish":null,
@@ -1990,7 +2012,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":88,
+		"id":89,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2012,7 +2034,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":89,
+		"id":90,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2034,7 +2056,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":90,
+		"id":91,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2056,7 +2078,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":91,
+		"id":92,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2078,7 +2100,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":92,
+		"id":93,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2100,7 +2122,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":93,
+		"id":94,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2122,7 +2144,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":94,
+		"id":95,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2144,7 +2166,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":95,
+		"id":96,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2166,7 +2188,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":96,
+		"id":97,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2188,7 +2210,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":97,
+		"id":98,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2210,7 +2232,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":98,
+		"id":99,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2232,7 +2254,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":99,
+		"id":100,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2254,7 +2276,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":100,
+		"id":101,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2278,7 +2300,7 @@
 			"VPN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":101,
+		"id":102,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2300,7 +2322,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":102,
+		"id":103,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2322,7 +2344,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":103,
+		"id":104,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2344,7 +2366,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":104,
+		"id":105,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2366,7 +2388,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":105,
+		"id":106,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2388,7 +2410,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":106,
+		"id":107,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2410,7 +2432,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":107,
+		"id":108,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2432,7 +2454,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":108,
+		"id":109,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2454,7 +2476,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":109,
+		"id":110,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2476,7 +2498,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":110,
+		"id":111,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2498,7 +2520,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":111,
+		"id":112,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2521,7 +2543,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":112,
+		"id":113,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2544,7 +2566,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":113,
+		"id":114,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2567,7 +2589,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":114,
+		"id":115,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2590,7 +2612,7 @@
 			"FOLLOW_ON_WECHAT_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":115,
+		"id":116,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2613,7 +2635,7 @@
 			"FOLLOW_ON_WECHAT_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":116,
+		"id":117,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2636,7 +2658,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":117,
+		"id":118,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2659,7 +2681,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":118,
+		"id":119,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,

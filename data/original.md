@@ -127,6 +127,7 @@
 - [🆓][http://chat3.aiyunos.top](http://chat3.aiyunos.top) - 2023-06-13 
 - [🆓][https://gptdidi.com/](https://gptdidi.com/) - 2023-06-14
 - [🔒][http://chat.moyifeng.top/](http://chat.moyifeng.top/) - 2023-06-14
+- [🔒][https://varmsg.com/](https://varmsg.com/login) - 2023-06-05
 <!-- normal-end -->
 
 <details>
