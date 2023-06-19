@@ -128,6 +128,19 @@
 - [🆓][https://gptdidi.com/](https://gptdidi.com/) - 2023-06-14
 - [🔒][http://chat.moyifeng.top/](http://chat.moyifeng.top/) - 2023-06-14
 - [🔒][https://varmsg.com/](https://varmsg.com/login) - 2023-06-05
+- [🆓][http://chat.aisoftworks.com](http://chat.aisoftworks.com) - 2023-06-15
+- [🔒💪][https://candy666.top/](https://candy666.top/) - 2023-06-15
+- [🔒][https://chatgpt-free.pro](https://chatgpt-free.pro) - 2023-06-16
+- [🔒💪][https://www.ai2dog.com/bavarder](https://www.ai2dog.com/bavarder) - 2023-06-16
+- [🔒][https://zyzyai.cn](https://zyzyai.cn) - 2023-06-16 
+- [👀🧰][https://c1ns.cn/wlyzs](https://c1ns.cn/wlyzs) - 2023-06-16 
+- [🆓][https://zyq-chatgpt.github.io](https://zyq-chatgpt.github.io) - 2023-06-16 
+- [🆓][https://chat.weuseing.com/](https://chat.weuseing.com/) - 2023-06-17
+- [🔒🧰][https://xdu.cn/](https://xdu.cn/) - 2023-06-17 
+- [🔒🧰][https://chat.icoding.ink/](https://chat.icoding.ink/) - 2023-06-17  
+- [🆓💪][http://chat3.aiyunos.top](http://chat3.aiyunos.top) - 2023-06-17
+- [🆓💪🧰][https://free.easychat.work](https://free.easychat.work) - 2023-06-18
+- [🔒][http://ai.mkzero.top:44444/](http://ai.mkzero.top:44444/) - 2023-06-18 
 <!-- normal-end -->
 
 <details>
