@@ -109,9 +109,8 @@
 - [👀] [https://home.xiamis.xyz/](https://home.xiamis.xyz/) - 2023-06-02
 - [🔓💪🧰][https://tchat.c1ns.cn](https://tchat.c1ns.cn) - 2023-06-02
 - [🔒💪] [https://chat.immuseai.com/](https://chat.immuseai.com/) - 2023-06-04
-- [ 🆓 ] [https://chatcat.zhaoyoung.me](https://chatcat.zhaoyoung.me) - 2023-06-04 - 设置中输入访问密码 chatcat - Enter access password chatcat in settings.
+- [ 🆓🌎 ] [https://chatcat.zhaoyoung.me](https://chatcat.zhaoyoung.me) - 2023-06-04 - 设置中输入访问密码 chatcat - Enter access password chatcat in settings.
 - [ 🆓 ] [https://chat.newstop.asia/](https://chat.newstop.asia/) - 2023-06-06
-- [🆓][https://askgpt.cn/](https://askgpt.cn/) - 2023-06-06
 - [🆓][https://chat.flares.ai/](https://chat.flares.ai/) - 2023-06-08
 -[🆓][https://devgpt.com/](https://devgpt.com/) - 2023-06-08
 - [🔒][https://emkok.com](https://emkok.com) - 2023-06-08 - 以提示词创建的指令应用 GPT 平台，目前已经有 200+ 应用
@@ -148,6 +147,7 @@
 <summary>🚫 已失效</summary>
 
 <!-- abnormal-begin -->
+- ~~[https://askgpt.cn/](https://askgpt.cn/)~~ - 2023-06-19
 - ~~[https://f1.nbai.live/](https://f1.nbai.live/)~~ - 2023-06-13
 - ~~[https://chatgptdddd.com/](https://chatgptdddd.com/)~~ - 2023-06-06
 - ~~[http://gpt.hz-it-dev.com/](http://gpt.hz-it-dev.com/)~~ - 2023-05-30
