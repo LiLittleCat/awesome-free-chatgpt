@@ -291,7 +291,7 @@
         </tr>
         <tr>
             <td>23</td>
-            <td> <a href="https://d2.betai55.uk/" target="_blank">https://d2.betai55.uk/</a>
+            <td> <a href="https://as1.betai55.uk/" target="_blank">https://as1.betai55.uk/</a>
                 <br> </td>
             <td>
                         🆓
