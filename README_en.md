@@ -1,6 +1,6 @@
 # Awesome Free ChatGPT
 
-![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![中文](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/chinese.svg)](README.md) ![website count](https://img.shields.io/badge/websites-72-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
+![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![中文](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/chinese.svg)](README.md) ![website count](https://img.shields.io/badge/websites-73-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
 
 
 🚀 List of free ChatGPT(<https://chat.openai.com/>) mirror sites and more free resources, continuously updated.
@@ -712,6 +712,19 @@ Enter access password chatcat in settings.
         </tr>
         <tr>
             <td>59</td>
+            <td> <a href="https://t1.c1ns.cn/" target="_blank">https://t1.c1ns.cn/</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🔓
+                        💪
+                        🧰
+            </td>
+            <td>2023-06-20</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>60</td>
             <td> <a href="https://aixforce.app/" target="_blank">https://aixforce.app/</a>
                 <br> </td>
             <td></td>
@@ -723,7 +736,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>60</td>
+            <td>61</td>
             <td> <a href="https://bettergpt.chat/" target="_blank">https://bettergpt.chat/</a>
                 <br> </td>
             <td></td>
@@ -738,7 +751,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 </details></td>
         </tr>
         <tr>
-            <td>61</td>
+            <td>62</td>
             <td> <a href="http://www.tdchat.pro/" target="_blank">http://www.tdchat.pro/</a>
                 <br> </td>
             <td></td>
@@ -749,7 +762,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>62</td>
+            <td>63</td>
             <td> <a href="https://chatgpt-cn.co/" target="_blank">https://chatgpt-cn.co/</a>
                 <br> </td>
             <td></td>
@@ -760,7 +773,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>63</td>
+            <td>64</td>
             <td> <a href="https://chat.zhulei.xyz/" target="_blank">https://chat.zhulei.xyz/</a>
                 <br> </td>
             <td></td>
@@ -771,7 +784,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>64</td>
+            <td>65</td>
             <td> <a href="https://chatforai.com/" target="_blank">https://chatforai.com/</a>
                 <br> </td>
             <td></td>
@@ -782,7 +795,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>65</td>
+            <td>66</td>
             <td> <a href="https://ai.okmiku.com/chat" target="_blank">https://ai.okmiku.com/chat</a>
                 <br> </td>
             <td></td>
@@ -793,7 +806,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>66</td>
+            <td>67</td>
             <td> <a href="https://www.typingmind.com/" target="_blank">https://www.typingmind.com/</a>
                 <br> </td>
             <td></td>
@@ -806,7 +819,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>67</td>
+            <td>68</td>
             <td> <a href="https://freegpt.cc/" target="_blank">https://freegpt.cc/</a>
                 <br> </td>
             <td></td>
@@ -818,7 +831,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>68</td>
+            <td>69</td>
             <td> <a href="https://chat.iwoso.co/" target="_blank">https://chat.iwoso.co/</a>
                 <br> </td>
             <td></td>
@@ -829,7 +842,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>69</td>
+            <td>70</td>
             <td> <a href="https://fastgpt.app/" target="_blank">https://fastgpt.app/</a>
                 <br> </td>
             <td></td>
@@ -842,7 +855,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>70</td>
+            <td>71</td>
             <td> <a href="https://freechatgpt.chat/" target="_blank">https://freechatgpt.chat/</a>
                 <br> </td>
             <td></td>
@@ -853,7 +866,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>71</td>
+            <td>72</td>
             <td> <a href="https://www.chatbotui.com/" target="_blank">https://www.chatbotui.com/</a>
                 <br> </td>
             <td></td>
@@ -864,7 +877,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>72</td>
+            <td>73</td>
             <td> <a href="https://94gpt.com/" target="_blank">https://94gpt.com/</a>
                 <br> </td>
             <td></td>
