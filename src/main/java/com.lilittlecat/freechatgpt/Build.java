@@ -164,6 +164,7 @@ public class Build {
         for (Website normalWebsite : normalWebsites) {
             List<Feature> features = normalWebsite.getFeatures();
             if (features.contains(Feature.LOGIN_REQUIRED)
+                    || features.contains(FREE_QUOTA)
                     || features.contains(Feature.FOLLOW_ON_WECHAT_REQUIRED)
                     || features.contains(Feature.CHARGE_REQUIRED)) {
                 continue;

@@ -1,5 +1,5 @@
 
-- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-06-13
+- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-06-26
 
 <!-- new-add-begin -->
 
@@ -33,7 +33,7 @@
 - [ 🆓🌎 ][https://freegpt.one/](https://freegpt.one) - 2023-04-23
 - [ 👀 ][https://chat.wobcw.com/](https://chat.wobcw.com/) - 2023-04-24
 - [ 🆓🌎🧰 ][https://www.promptboom.com/](https://www.promptboom.com/) - 2023-04-24
-- [ 🆓 ][https://d2.betai55.uk/](https://d2.betai55.uk/) - 2023-05-25 - 设置中输入访问密码 586-481-535A - Enter access password 586-481-535A in settings.
+- [ 🆓 ][https://as1.betai55.uk/](https://as1.betai55.uk/) - 2023-05-25 - 设置中输入访问密码 586-481-535A - Enter access password 586-481-535A in settings.
 - [ 🆓 ][https://f12.xjai.cc/](https://f12.xjai.cc/) - 2023-04-27
 - [ 👀 ][https://chat.douresources.com/](https://chat.douresources.com/) - 2023-04-28
 - [ 🔑🌎 ][https://www.chatbotui.com/](https://www.chatbotui.com/) - 2023-04-04
@@ -143,6 +143,12 @@
 - [🔒💪][https://firstai.opao.xyz/](https://firstai.opao.xyz/) - 2023-06-20
 - [🔓💪🧰][https://t1.c1ns.cn/](https://t1.c1ns.cn/) - 2023-06-20 
 - [🔒🔑🧰][https://gpt.ltopx.com](https://gpt.ltopx.com) - 2023-06-20 
+- [ 🆓 ] [https://hteyun.com/](https://hteyun.com/) - 2023-06-23
+- [ 🆓 ] [https://gpt.aifree.site/](https://gpt.aifree.site/) - 2023-06-24
+- [ 🆓 ] [https://newstop.c1ns.cn/](https://newstop.c1ns.cn/) - 2023-06-25
+- [ 🆓💪 ] [https://py.c1ns.cn](https://py.c1ns.cn) - 2023-06-25
+- [ 🔒🧰 ] [http://zhiziera.com/](http://zhiziera.com/) - 2023-06-23
+- [ 🔒💪🧰 ] [https://chattoai.cc/](https://chattoai.cc/) - 2023-06-23
 <!-- normal-end -->
 
 <details>
