@@ -140,6 +140,9 @@
 - [🆓💪][http://chat3.aiyunos.top](http://chat3.aiyunos.top) - 2023-06-17
 - [🆓💪🧰][https://free.easychat.work](https://free.easychat.work) - 2023-06-18
 - [🔒][http://ai.mkzero.top:44444/](http://ai.mkzero.top:44444/) - 2023-06-18 
+- [🔒💪][https://firstai.opao.xyz/](https://firstai.opao.xyz/) - 2023-06-20
+- [🔓💪🧰][https://t1.c1ns.cn/](https://t1.c1ns.cn/) - 2023-06-20 
+- [🔒🔑🧰][https://gpt.ltopx.com](https://gpt.ltopx.com) - 2023-06-20 
 <!-- normal-end -->
 
 <details>
