@@ -149,6 +149,7 @@
 - [ 🆓💪 ] [https://py.c1ns.cn](https://py.c1ns.cn) - 2023-06-25
 - [ 🔒🧰 ] [http://zhiziera.com/](http://zhiziera.com/) - 2023-06-23
 - [ 🔒💪🧰 ] [https://chattoai.cc/](https://chattoai.cc/) - 2023-06-23
+- [🆓][https://c1ns.cn/chat/](https://c1ns.cn/chat/) - 2023-06-26
 <!-- normal-end -->
 
 <details>
