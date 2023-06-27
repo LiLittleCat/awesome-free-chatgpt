@@ -122,7 +122,6 @@
 - [🔒💪🧰][https://wrtn.ai/](https://wrtn.ai/) - 2023-06-13 
 - [🔒💪🧰][https://www.aibvs.com/chat](https://www.aibvs.com/chat) - 2023-06-13 - 邀请码 6 个 6 有免费额度
 - [🆓][http://chat.darkflow.top/](http://chat.darkflow.top/) - 2023-06-13
-- [🆓][https://macll.cn/](https://macll.cn/) - 2023-06-13
 - [🆓][http://chat3.aiyunos.top](http://chat3.aiyunos.top) - 2023-06-13 
 - [🆓][https://gptdidi.com/](https://gptdidi.com/) - 2023-06-14
 - [🔒][http://chat.moyifeng.top/](http://chat.moyifeng.top/) - 2023-06-14
@@ -157,6 +156,8 @@
 <summary>🚫 已失效</summary>
 
 <!-- abnormal-begin -->
+
+- ~~[https://macll.cn/](https://macll.cn/)~~ - 2023-06-26
 - ~~[https://askgpt.cn/](https://askgpt.cn/)~~ - 2023-06-19
 - ~~[https://f1.nbai.live/](https://f1.nbai.live/)~~ - 2023-06-13
 - ~~[https://chatgptdddd.com/](https://chatgptdddd.com/)~~ - 2023-06-06
