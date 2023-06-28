@@ -120,7 +120,6 @@
 - [🔒][https://www.confman.com/chat](https://www.confman.com/chat) - 2023-06-11
 - [🔒💪🧰][https://ai.hxkj.vip/](https://ai.hxkj.vip/) - 2023-06-12 - 未登录用户三天免费额度，登录用户无限制，支持AI绘图（Stable Diffusion 和 Midjourney）
 - [🔒💪🧰][https://wrtn.ai/](https://wrtn.ai/) - 2023-06-13 
-- [🔒💪🧰][https://www.aibvs.com/chat](https://www.aibvs.com/chat) - 2023-06-13 - 邀请码 6 个 6 有免费额度
 - [🆓][http://chat.darkflow.top/](http://chat.darkflow.top/) - 2023-06-13
 - [🆓][http://chat3.aiyunos.top](http://chat3.aiyunos.top) - 2023-06-13 
 - [🆓][https://gptdidi.com/](https://gptdidi.com/) - 2023-06-14
@@ -128,7 +127,6 @@
 - [🔒][https://varmsg.com/](https://varmsg.com/login) - 2023-06-05
 - [🆓][http://chat.aisoftworks.com](http://chat.aisoftworks.com) - 2023-06-15
 - [🔒💪][https://candy666.top/](https://candy666.top/) - 2023-06-15
-- [🔒][https://chatgpt-free.pro](https://chatgpt-free.pro) - 2023-06-16
 - [🔒💪][https://www.ai2dog.com/bavarder](https://www.ai2dog.com/bavarder) - 2023-06-16
 - [🔒][https://zyzyai.cn](https://zyzyai.cn) - 2023-06-16 
 - [👀🧰][https://c1ns.cn/wlyzs](https://c1ns.cn/wlyzs) - 2023-06-16 
@@ -137,7 +135,7 @@
 - [🔒🧰][https://xdu.cn/](https://xdu.cn/) - 2023-06-17 
 - [🔒🧰][https://chat.icoding.ink/](https://chat.icoding.ink/) - 2023-06-17  
 - [🆓💪][http://chat3.aiyunos.top](http://chat3.aiyunos.top) - 2023-06-17
-- [🆓💪🧰][https://free.easychat.work](https://free.easychat.work) - 2023-06-18
+- [🆓💪🧰][https://free.easychat.work](https://free.easychat.work) - 2023-06-18 - 备用链接: https://www.easygpt.work
 - [🔒][http://ai.mkzero.top:44444/](http://ai.mkzero.top:44444/) - 2023-06-18 
 - [🔒💪][https://firstai.opao.xyz/](https://firstai.opao.xyz/) - 2023-06-20
 - [🔓💪🧰][https://t1.c1ns.cn/](https://t1.c1ns.cn/) - 2023-06-20 
@@ -163,6 +161,8 @@
 
 <!-- abnormal-begin -->
 
+- ~~[https://chatgpt-free.pro](https://chatgpt-free.pro)~~ - 2023-06-27
+- ~~[https://www.aibvs.com/chat](https://www.aibvs.com/chat)~~ - 2023-06-26
 - ~~[https://macll.cn/](https://macll.cn/)~~ - 2023-06-26
 - ~~[https://askgpt.cn/](https://askgpt.cn/)~~ - 2023-06-19
 - ~~[https://f1.nbai.live/](https://f1.nbai.live/)~~ - 2023-06-13
