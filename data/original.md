@@ -149,6 +149,12 @@
 - [ 🔒🧰 ] [http://zhiziera.com/](http://zhiziera.com/) - 2023-06-23
 - [ 🔒💪🧰 ] [https://chattoai.cc/](https://chattoai.cc/) - 2023-06-23
 - [🆓][https://c1ns.cn/chat/](https://c1ns.cn/chat/) - 2023-06-26
+- [ 🆓 ] [https://macqv.com](https://macqv.com) - 2023-06-26 
+- [ 🔒💪🧰 ] [https://www.aibvs.net/chat](https://www.aibvs.net/chat) - 2023-06-26 
+- [ 🔒 ] [https://jqk.ai](https://jqk.ai) - 2023-06-27
+- [ 🔒💪 ] [https://zhuo.mkzero.top:17777/](https://zhuo.mkzero.top:17777/) - 2023-06-27 
+- [ 🔒💪 ] [https://ai.mkzero.top:44444/](https://ai.mkzero.top:44444/) - 2023-06-27 
+- [ 🆓 ] [https://gpt4.ezchat.top/](https://gpt4.ezchat.top/) - 2023-06-28
 <!-- normal-end -->
 
 <details>
