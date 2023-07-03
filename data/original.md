@@ -1,5 +1,5 @@
 
-- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-06-26
+- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-07-01
 
 <!-- new-add-begin -->
 
@@ -33,7 +33,7 @@
 - [ 🆓🌎 ][https://freegpt.one/](https://freegpt.one) - 2023-04-23
 - [ 👀 ][https://chat.wobcw.com/](https://chat.wobcw.com/) - 2023-04-24
 - [ 🆓🌎🧰 ][https://www.promptboom.com/](https://www.promptboom.com/) - 2023-04-24
-- [ 🆓 ][https://as1.betai55.uk/](https://as1.betai55.uk/) - 2023-05-25 - 设置中输入访问密码 586-481-535A - Enter access password 586-481-535A in settings.
+- [ 🆓 ][https://as1.betai55.uk/](https://as1.betai55.uk/) - 2023-05-25 - 设置中输入访问密码 586-482-535B - Enter access password 586-482-535B in settings.
 - [ 🆓 ][https://f12.xjai.cc/](https://f12.xjai.cc/) - 2023-04-27
 - [ 👀 ][https://chat.douresources.com/](https://chat.douresources.com/) - 2023-04-28
 - [ 🔑🌎 ][https://www.chatbotui.com/](https://www.chatbotui.com/) - 2023-04-04
@@ -153,6 +153,14 @@
 - [ 🔒💪 ] [https://zhuo.mkzero.top:17777/](https://zhuo.mkzero.top:17777/) - 2023-06-27 
 - [ 🔒💪 ] [https://ai.mkzero.top:44444/](https://ai.mkzero.top:44444/) - 2023-06-27 
 - [ 🆓 ] [https://gpt4.ezchat.top/](https://gpt4.ezchat.top/) - 2023-06-28
+- [🔒🧰][https://zhiziera.com/](https://zhiziera.com/) - 2023-06-28
+- [🔒][https://dashuye.top](https://dashuye.top) - 2023-06-29
+- [🆓][http://g01.plitun.com/](http://g01.plitun.com/) - 2023-06-29
+- [🆓][https://chat.dfehub.com](https://chat.dfehub.com) - 2023-06-30
+- [🆓][https://chat.acytoo.com/](https://chat.acytoo.com/) - 2023-07-01
+- [🔑][https://chat.wudi11.shop/](https://chat.wudi11.shop/) - 2023-06-29 
+- [🔓🧰][https://deepai.org/](https://deepai.org/) - 2023-06-29 
+- [🔓][https://99.opao.xyz/](https://99.opao.xyz/) - 2023-07-02 
 <!-- normal-end -->
 
 <details>
