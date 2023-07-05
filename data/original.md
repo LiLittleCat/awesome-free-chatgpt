@@ -161,6 +161,7 @@
 - [🔑][https://chat.wudi11.shop/](https://chat.wudi11.shop/) - 2023-06-29 
 - [🔓🧰][https://deepai.org/](https://deepai.org/) - 2023-06-29 
 - [🔓][https://99.opao.xyz/](https://99.opao.xyz/) - 2023-07-02 
+- [🆓][https://xiaor.eu.org/](https://xiaor.eu.org/) - 2023-07-04
 <!-- normal-end -->
 
 <details>
