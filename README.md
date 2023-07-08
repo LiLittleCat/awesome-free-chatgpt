@@ -55,6 +55,7 @@
 &gt;    - 🌎需要国际网络
 
 <!-- normal-begin -->
+<table>
     <thead>
     <tr>
         <th>序号</th>
@@ -64,8 +65,7 @@
         <th>备注</th>
     </tr>
     </thead>
-<table>
-<tbody>
+    <tbody>
 <tr>
 <td>1</td>
 <td> <a href="https://chatgpt.kiask.xyz" target="_blank">https://chatgpt.kiask.xyz</a>
