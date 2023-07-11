@@ -1,5 +1,5 @@
 
-- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-07-08
+- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-07-09
 
 <!-- new-add-begin -->
 
@@ -169,6 +169,7 @@
 - [ 🆓💪 ] [http://i.doai.top/](http://i.doai.top/) - 2023-07-07 
 - [ 🆓💪 ] [https://gptleg.zeabur.app/](https://gptleg.zeabur.app/) - 2023-07-07  
 - [ 🆓 ] [https://xiaoc.eu.org/](https://xiaoc.eu.org/) - 2023-07-08 - 访问码:754685. - Enter access password: 754685. 
+- [🔒💪][https://aassdd.opao.xyz](https://aassdd.opao.xyz) - 2023-07-09 
 <!-- normal-end -->
 
 <details>
