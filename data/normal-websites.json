@@ -3441,6 +3441,54 @@
 		"url":"https://open-gpt.app/"
 	},
 	{
+		"addedDate":"2023-07-05",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"API_KEY_REQUIRED",
+			"GPT4_SUPPORTED"
+		],
+		"id":153,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-7.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://chat.wudi11.shop"
+	},
+	{
+		"addedDate":"2023-07-05",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"API_KEY_REQUIRED",
+			"GPT4_SUPPORTED"
+		],
+		"id":154,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-7.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://gpt4.ezchat.top"
+	},
+	{
 		"addedDate":"2023-06-20",
 		"customDescription":null,
 		"customDescriptionEnglish":null,
@@ -3451,7 +3499,7 @@
 			"API_KEY_REQUIRED",
 			"MORE_THAN_CHAT"
 		],
-		"id":153,
+		"id":155,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
