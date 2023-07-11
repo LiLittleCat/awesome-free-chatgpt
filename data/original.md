@@ -1,5 +1,5 @@
 
-- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-07-05
+- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-07-06
 
 <!-- new-add-begin -->
 
@@ -164,6 +164,8 @@
 - [🆓][https://xiaor.eu.org/](https://xiaor.eu.org/) - 2023-07-04
 - [🔒🔑💪][https://chat.wudi11.shop](https://chat.wudi11.shop) - 2023-07-05
 - [🔒🔑💪][https://gpt4.ezchat.top](https://gpt4.ezchat.top) - 2023-07-05 
+- [ 🔒🧰 ] [https://ai-connect.cn/chat](https://ai-connect.cn/chat) - 2023-07-06 
+- [ 🔒💪🧰 ] [https://www.sreaigc.com/](https://www.sreaigc.com/) - 2023-07-06  
 <!-- normal-end -->
 
 <details>

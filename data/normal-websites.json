@@ -1876,7 +1876,7 @@
 		"url":"https://freegpt.cc/"
 	},
 	{
-		"addedDate":"2023-06-26",
+		"addedDate":"2023-07-06",
 		"customDescription":null,
 		"customDescriptionEnglish":null,
 		"description":null,
@@ -1887,6 +1887,30 @@
 			"MORE_THAN_CHAT"
 		],
 		"id":84,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-3.5,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://www.sreaigc.com/"
+	},
+	{
+		"addedDate":"2023-06-26",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"GPT4_SUPPORTED",
+			"MORE_THAN_CHAT"
+		],
+		"id":85,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1910,7 +1934,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":85,
+		"id":86,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1934,7 +1958,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":86,
+		"id":87,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1958,7 +1982,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":87,
+		"id":88,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1982,7 +2006,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":88,
+		"id":89,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2006,7 +2030,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":89,
+		"id":90,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2029,7 +2053,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":90,
+		"id":91,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2052,7 +2076,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":91,
+		"id":92,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2075,7 +2099,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":92,
+		"id":93,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2098,7 +2122,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":93,
+		"id":94,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2121,7 +2145,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":94,
+		"id":95,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2144,7 +2168,7 @@
 			"FOLLOW_ON_WECHAT_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":95,
+		"id":96,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2167,7 +2191,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":96,
+		"id":97,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2190,7 +2214,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":97,
+		"id":98,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2213,7 +2237,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":98,
+		"id":99,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2236,7 +2260,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":99,
+		"id":100,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2259,7 +2283,7 @@
 			"API_KEY_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":100,
+		"id":101,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2282,7 +2306,7 @@
 			"LOGIN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":101,
+		"id":102,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2307,7 +2331,7 @@
 			"VPN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":102,
+		"id":103,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2330,7 +2354,7 @@
 			"API_KEY_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":103,
+		"id":104,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2353,7 +2377,7 @@
 			"API_KEY_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":104,
+		"id":105,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2376,7 +2400,7 @@
 			"API_KEY_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":105,
+		"id":106,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2390,6 +2414,29 @@
 		"url":"https://94gpt.com/"
 	},
 	{
+		"addedDate":"2023-07-06",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"MORE_THAN_CHAT"
+		],
+		"id":107,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-4.5,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://ai-connect.cn/chat"
+	},
+	{
 		"addedDate":"2023-06-28",
 		"customDescription":null,
 		"customDescriptionEnglish":null,
@@ -2399,7 +2446,7 @@
 			"LOGIN_REQUIRED",
 			"MORE_THAN_CHAT"
 		],
-		"id":106,
+		"id":108,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2422,7 +2469,7 @@
 			"LOGIN_REQUIRED",
 			"MORE_THAN_CHAT"
 		],
-		"id":107,
+		"id":109,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2445,7 +2492,7 @@
 			"LOGIN_REQUIRED",
 			"MORE_THAN_CHAT"
 		],
-		"id":108,
+		"id":110,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2468,7 +2515,7 @@
 			"LOGIN_REQUIRED",
 			"MORE_THAN_CHAT"
 		],
-		"id":109,
+		"id":111,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2491,7 +2538,7 @@
 			"FOLLOW_ON_WECHAT_REQUIRED",
 			"MORE_THAN_CHAT"
 		],
-		"id":110,
+		"id":112,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2514,7 +2561,7 @@
 			"LOGIN_REQUIRED",
 			"MORE_THAN_CHAT"
 		],
-		"id":111,
+		"id":113,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2537,7 +2584,7 @@
 			"FOLLOW_ON_WECHAT_REQUIRED",
 			"MORE_THAN_CHAT"
 		],
-		"id":112,
+		"id":114,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2560,7 +2607,7 @@
 			"LOGIN_REQUIRED",
 			"MORE_THAN_CHAT"
 		],
-		"id":113,
+		"id":115,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2582,7 +2629,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":114,
+		"id":116,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2604,7 +2651,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":115,
+		"id":117,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2626,7 +2673,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":116,
+		"id":118,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2648,7 +2695,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":117,
+		"id":119,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2670,7 +2717,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":118,
+		"id":120,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2692,7 +2739,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":119,
+		"id":121,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2714,7 +2761,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":120,
+		"id":122,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2736,7 +2783,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":121,
+		"id":123,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2758,7 +2805,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":122,
+		"id":124,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2780,7 +2827,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":123,
+		"id":125,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2802,7 +2849,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":124,
+		"id":126,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2824,7 +2871,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":125,
+		"id":127,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2846,7 +2893,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":126,
+		"id":128,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2868,7 +2915,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":127,
+		"id":129,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2890,7 +2937,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":128,
+		"id":130,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2912,7 +2959,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":129,
+		"id":131,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2934,7 +2981,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":130,
+		"id":132,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2956,7 +3003,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":131,
+		"id":133,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2978,7 +3025,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":132,
+		"id":134,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3000,7 +3047,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":133,
+		"id":135,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3022,7 +3069,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":134,
+		"id":136,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3046,7 +3093,7 @@
 			"VPN_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":135,
+		"id":137,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3068,7 +3115,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":136,
+		"id":138,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3090,7 +3137,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":137,
+		"id":139,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3112,7 +3159,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":138,
+		"id":140,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3134,7 +3181,7 @@
 		"features":[
 			"FOLLOW_ON_WECHAT_REQUIRED"
 		],
-		"id":139,
+		"id":141,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3156,7 +3203,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":140,
+		"id":142,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3178,7 +3225,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":141,
+		"id":143,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3200,7 +3247,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":142,
+		"id":144,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3222,7 +3269,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":143,
+		"id":145,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3244,7 +3291,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":144,
+		"id":146,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3266,7 +3313,7 @@
 		"features":[
 			"LOGIN_REQUIRED"
 		],
-		"id":145,
+		"id":147,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3289,7 +3336,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":146,
+		"id":148,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3312,7 +3359,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":147,
+		"id":149,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3335,7 +3382,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":148,
+		"id":150,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3358,7 +3405,7 @@
 			"FOLLOW_ON_WECHAT_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":149,
+		"id":151,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3381,7 +3428,7 @@
 			"FOLLOW_ON_WECHAT_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":150,
+		"id":152,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3404,7 +3451,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":151,
+		"id":153,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3427,7 +3474,7 @@
 			"LOGIN_REQUIRED",
 			"VPN_REQUIRED"
 		],
-		"id":152,
+		"id":154,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3451,7 +3498,7 @@
 			"API_KEY_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":153,
+		"id":155,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3475,7 +3522,7 @@
 			"API_KEY_REQUIRED",
 			"GPT4_SUPPORTED"
 		],
-		"id":154,
+		"id":156,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -3499,7 +3546,7 @@
 			"API_KEY_REQUIRED",
 			"MORE_THAN_CHAT"
 		],
-		"id":155,
+		"id":157,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
