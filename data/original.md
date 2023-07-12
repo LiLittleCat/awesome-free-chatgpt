@@ -170,6 +170,9 @@
 - [ 🆓💪 ] [https://gptleg.zeabur.app/](https://gptleg.zeabur.app/) - 2023-07-07  
 - [ 🆓 ] [https://xiaoc.eu.org/](https://xiaoc.eu.org/) - 2023-07-08 - 访问码:754685. - Enter access password: 754685. 
 - [🔒💪][https://aassdd.opao.xyz](https://aassdd.opao.xyz) - 2023-07-09 
+- [🆓][https://ai.azstudio.top/](https://ai.azstudio.top/) - 2023-07-10
+- [🆓][https://ai.zenglingkun.cn/](https://ai.zenglingkun.cn/) - 2023-07-10 
+- [🔑💪🧰][https://home.chatplus.buzz](https://home.chatplus.buzz) - 2023-07-10 
 <!-- normal-end -->
 
 <details>
