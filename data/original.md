@@ -176,6 +176,7 @@
 - [ 🆓💪 ] [https://free.icoding.ink/](https://free.icoding.ink/) - 2023-07-11 
 - [ 🆓 ] [https://openai.aifree.site/](https://openai.aifree.site/) - 2023-07-11  
 - [ 🔒💪🧰 ] [https://aigptx.top/](https://aigptx.top/) - 2023-07-11 
+- [ 🆓 ] [https://chatgpt.kiask.xyz/](https://chatgpt.kiask.xyz/) - 2023-07-09
 <!-- normal-end -->
 
 <details>
