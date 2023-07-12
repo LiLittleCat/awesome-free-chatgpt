@@ -1,5 +1,5 @@
 
-- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-07-10
+- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-07-11
 
 <!-- new-add-begin -->
 
@@ -173,6 +173,9 @@
 - [🆓][https://ai.azstudio.top/](https://ai.azstudio.top/) - 2023-07-10
 - [🆓][https://ai.zenglingkun.cn/](https://ai.zenglingkun.cn/) - 2023-07-10 
 - [🔑💪🧰][https://home.chatplus.buzz](https://home.chatplus.buzz) - 2023-07-10 
+- [ 🆓💪 ] [https://free.icoding.ink/](https://free.icoding.ink/) - 2023-07-11 
+- [ 🆓 ] [https://openai.aifree.site/](https://openai.aifree.site/) - 2023-07-11  
+- [ 🔒💪🧰 ] [https://aigptx.top/](https://aigptx.top/) - 2023-07-11 
 <!-- normal-end -->
 
 <details>
