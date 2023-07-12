@@ -1,5 +1,5 @@
 
-- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-07-09
+- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-07-10
 
 <!-- new-add-begin -->
 
@@ -133,7 +133,7 @@
 - [🆓][https://zyq-chatgpt.github.io](https://zyq-chatgpt.github.io) - 2023-06-16 
 - [🆓][https://chat.weuseing.com/](https://chat.weuseing.com/) - 2023-06-17
 - [🔒🧰][https://xdu.cn/](https://xdu.cn/) - 2023-06-17 
-- [🔒🧰][https://chat.icoding.ink/](https://chat.icoding.ink/) - 2023-06-17  
+- [🔒💪🧰][https://chat.icoding.ink/](https://chat.icoding.ink/) - 2023-06-17  
 - [🆓💪][http://chat3.aiyunos.top](http://chat3.aiyunos.top) - 2023-06-17
 - [🆓💪🧰][https://free.easychat.work](https://free.easychat.work) - 2023-06-18 - 备用链接: https://www.easygpt.work
 - [🔒][http://ai.mkzero.top:44444/](http://ai.mkzero.top:44444/) - 2023-06-18 

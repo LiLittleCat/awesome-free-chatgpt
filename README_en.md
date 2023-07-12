@@ -171,7 +171,10 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🆓
             </td>
             <td>2023-07-08</td>
-            <td></td>
+            <td><details>
+<summary>Content is too long, click to expand.</summary>
+Enter access password: 754685. 
+</details></td>
         </tr>
         <tr>
             <td>11</td>
