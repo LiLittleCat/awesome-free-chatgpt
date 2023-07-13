@@ -1034,6 +1034,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [Google Bard](https://bard.google.com)
 - [HuggingChat](https://huggingface.co/chat) - The first open source alternative to ChatGPT. 💪
 - [Anthropic Claude](https://www.anthropic.com/product) - A next-generation AI assistant for your tasks, no matter the scale.
+- [Anthropic Claude 2](https://claude.ai/) - See more detail on <https://www.anthropic.com/index/claude-2>
 - [Chat with Open Large Language Models](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat> - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [Open Assistant](https://open-assistant.io/) - Conversational AI for everyone. An open source project to create a chat enabled GPT LLM run by LAION and contributors around the world.
 - [Pi, your personal AI](https://heypi.com/talk) - Hi, I'm Pi. I'm your personal AI, designed to be supportive, smart, and there for you anytime. Ask me for advice, for answers, or let's talk about whatever's on your mind.
