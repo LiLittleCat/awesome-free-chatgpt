@@ -2491,6 +2491,7 @@
 - [Bing Chat](https://www.bing.com/new)
 - [Google Bard](https://bard.google.com)
 - [Anthropic Claude](https://www.anthropic.com/product) - A next-generation AI assistant for your tasks, no matter the scale.
+- [Anthropic Claude 2](https://claude.ai/) - See more detail on <https://www.anthropic.com/index/claude-2>
 - [百度 文心一言](https://yiyan.baidu.com/)
 - [Open Assistant](https://open-assistant.io/) - 面向所有人的对话式 AI, 这是一个由 LAION 和全球贡献者共同开发的 GPT LLM 项目.
 - [阿里 通义千问](https://tongyi.aliyun.com/)
