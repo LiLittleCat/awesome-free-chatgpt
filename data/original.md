@@ -166,13 +166,13 @@
 - [🔒🔑💪][https://gpt4.ezchat.top](https://gpt4.ezchat.top) - 2023-07-05 
 - [ 🔒🧰 ] [https://ai-connect.cn/chat](https://ai-connect.cn/chat) - 2023-07-06 
 - [ 🔒💪🧰 ] [https://www.sreaigc.com/](https://www.sreaigc.com/) - 2023-07-06  
-- [ 🆓💪 ] [http://i.doai.top/](http://i.doai.top/) - 2023-07-07 
+- [ 🆓💪 ] [https://doai.c1ns.cn](https://doai.c1ns.cn) - 2023-07-07 
 - [ 🆓💪 ] [https://gptleg.zeabur.app/](https://gptleg.zeabur.app/) - 2023-07-07  
 - [ 🆓 ] [https://xiaoc.eu.org/](https://xiaoc.eu.org/) - 2023-07-08 - 访问码:754685. - Enter access password: 754685. 
 - [🔒💪][https://aassdd.opao.xyz](https://aassdd.opao.xyz) - 2023-07-09 
 - [🆓][https://ai.azstudio.top/](https://ai.azstudio.top/) - 2023-07-10
 - [🆓][https://ai.zenglingkun.cn/](https://ai.zenglingkun.cn/) - 2023-07-10 
-- [🔑💪🧰][https://home.chatplus.buzz](https://home.chatplus.buzz) - 2023-07-10 
+- [🔑💪🧰][https://chatplus.buzz](https://chatplus.buzz) - 2023-07-10 
 - [ 🆓💪 ] [https://free.icoding.ink/](https://free.icoding.ink/) - 2023-07-11 
 - [ 🆓 ] [https://openai.aifree.site/](https://openai.aifree.site/) - 2023-07-11  
 - [ 🔒💪🧰 ] [https://aigptx.top/](https://aigptx.top/) - 2023-07-11 
