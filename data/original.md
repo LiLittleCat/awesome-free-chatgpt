@@ -1,5 +1,5 @@
 
-- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-07-12
+- [🆓🔓💪🧰🔒🌎🔑👀💰] []() - 2023-07-13
 
 <!-- new-add-begin -->
 
@@ -179,6 +179,8 @@
 - [ 🆓 ] [https://chatgpt.kiask.xyz/](https://chatgpt.kiask.xyz/) - 2023-07-09
 - [🆓][http://c.newstop.uk](http://c.newstop.uk) - 2023-07-12
 - [🔒💪🧰][https://jntm.opengpt88.com/](https://jntm.opengpt88.com/) - 2023-07-12
+- [🔒🧰][https://gptplus.io/](https://gptplus.io/) - 2023-07-13
+- [🆓][https://chatc.free2gpt.xyz/](https://chatc.free2gpt.xyz/) - 2023-07-13
 <!-- normal-end -->
 
 <details>
