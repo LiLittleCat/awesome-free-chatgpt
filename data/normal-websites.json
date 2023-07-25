@@ -2321,7 +2321,7 @@
 	},
 	{
 		"addedDate":"2023-06-17",
-		"customDescription":null,
+		"customDescription":"<details>\n<summary>内容过长，点击展开</summary>\n在聊天室使用时，请在提问的问题前面加上 @ChatGPT，否则 GPT 不搭理。  \n</details>",
 		"customDescriptionEnglish":null,
 		"description":null,
 		"extraInfo":null,

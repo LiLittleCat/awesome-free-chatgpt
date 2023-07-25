@@ -1161,7 +1161,10 @@
                         💪
             </td>
             <td>2023-06-17</td>
-            <td></td>
+            <td><details>
+<summary>内容过长，点击展开</summary>
+在聊天室使用时，请在提问的问题前面加上 @ChatGPT，否则 GPT 不搭理。  
+</details></td>
         </tr>
         <tr>
             <td>105</td>
