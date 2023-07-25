@@ -147,7 +147,6 @@
 - [ 🔒🧰 ] [http://zhiziera.com/](http://zhiziera.com/) - 2023-06-23
 - [ 🔒💪🧰 ] [https://chattoai.cc/](https://chattoai.cc/) - 2023-06-23
 - [🆓][https://c1ns.cn/chat/](https://c1ns.cn/chat/) - 2023-06-26
-- [ 🆓 ] [https://macqv.com](https://macqv.com) - 2023-06-26 
 - [ 🔒💪🧰 ] [https://www.aibvs.net/chat](https://www.aibvs.net/chat) - 2023-06-26 
 - [ 🔒 ] [https://jqk.ai](https://jqk.ai) - 2023-06-27
 - [ 🔒💪 ] [https://zhuo.mkzero.top:17777/](https://zhuo.mkzero.top:17777/) - 2023-06-27 
@@ -181,6 +180,7 @@
 - [🔒💪🧰][https://jntm.opengpt88.com/](https://jntm.opengpt88.com/) - 2023-07-12
 - [🔒🧰][https://gptplus.io/](https://gptplus.io/) - 2023-07-13
 - [🆓][https://chatc.free2gpt.xyz/](https://chatc.free2gpt.xyz/) - 2023-07-13
+- [🆓][https://macio.cc](https://macio.cc) - 2023-07-18
 <!-- normal-end -->
 
 <details>
@@ -189,6 +189,7 @@
 
 <!-- abnormal-begin -->
 
+- ~~[https://macqv.com](https://macqv.com)~~ - 2023-07-18
 - ~~[https://chatgpt-free.pro](https://chatgpt-free.pro)~~ - 2023-06-27
 - ~~[https://www.aibvs.com/chat](https://www.aibvs.com/chat)~~ - 2023-06-26
 - ~~[https://macll.cn/](https://macll.cn/)~~ - 2023-06-26

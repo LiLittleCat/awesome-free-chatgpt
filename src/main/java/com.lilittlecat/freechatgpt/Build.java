@@ -27,13 +27,13 @@ public class Build {
     public static void main(String[] args) throws TemplateException, IOException {
         Build build = new Build();
 
-//        build.initNormal();
-//        build.initAbnormal();
-//        build.updateReadme();
+        build.initNormal();
+        build.initAbnormal();
+        build.updateReadme();
 
 //        System.out.println(extractLabels(Feature.allLabelString()));
 
-        build.newAdd();
+//        build.newAdd();
 
     }
 
