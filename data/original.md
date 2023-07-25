@@ -160,14 +160,12 @@
 - [🔑][https://chat.wudi11.shop/](https://chat.wudi11.shop/) - 2023-06-29 
 - [🔓🧰][https://deepai.org/](https://deepai.org/) - 2023-06-29 
 - [🔓][https://99.opao.xyz/](https://99.opao.xyz/) - 2023-07-02 
-- [🆓][https://xiaor.eu.org/](https://xiaor.eu.org/) - 2023-07-04
 - [🔒🔑💪][https://chat.wudi11.shop](https://chat.wudi11.shop) - 2023-07-05
 - [🔒🔑💪][https://gpt4.ezchat.top](https://gpt4.ezchat.top) - 2023-07-05 
 - [ 🔒🧰 ] [https://ai-connect.cn/chat](https://ai-connect.cn/chat) - 2023-07-06 
 - [ 🔒💪🧰 ] [https://www.sreaigc.com/](https://www.sreaigc.com/) - 2023-07-06  
 - [ 🆓💪 ] [https://doai.c1ns.cn](https://doai.c1ns.cn) - 2023-07-07 
 - [ 🆓💪 ] [https://gptleg.zeabur.app/](https://gptleg.zeabur.app/) - 2023-07-07  
-- [ 🆓 ] [https://xiaoc.eu.org/](https://xiaoc.eu.org/) - 2023-07-08 - 访问码:754685. - Enter access password: 754685. 
 - [🔒💪][https://aassdd.opao.xyz](https://aassdd.opao.xyz) - 2023-07-09 
 - [🆓][https://ai.azstudio.top/](https://ai.azstudio.top/) - 2023-07-10
 - [🆓][https://ai.zenglingkun.cn/](https://ai.zenglingkun.cn/) - 2023-07-10 
@@ -181,6 +179,9 @@
 - [🔒🧰][https://gptplus.io/](https://gptplus.io/) - 2023-07-13
 - [🆓][https://chatc.free2gpt.xyz/](https://chatc.free2gpt.xyz/) - 2023-07-13
 - [🆓][https://macio.cc](https://macio.cc) - 2023-07-18
+- [🆓][https://chat.aifree.site/](https://chat.aifree.site/) - 2023-07-20
+- [🆓][https://free.freet.top](https://free.freet.top) - 2023-07-20
+- [🔓🧰][https://chatgpt.hklan.top/](https://chatgpt.hklan.top/) - 2023-07-21
 <!-- normal-end -->
 
 <details>
@@ -189,6 +190,8 @@
 
 <!-- abnormal-begin -->
 
+- ~~[https://xiaor.eu.org/](https://xiaor.eu.org/)~~ - 2023-07-20
+- ~~[https://xiaoc.eu.org/](https://xiaoc.eu.org/)~~ - 2023-07-20
 - ~~[https://macqv.com](https://macqv.com)~~ - 2023-07-18
 - ~~[https://chatgpt-free.pro](https://chatgpt-free.pro)~~ - 2023-06-27
 - ~~[https://www.aibvs.com/chat](https://www.aibvs.com/chat)~~ - 2023-06-26
