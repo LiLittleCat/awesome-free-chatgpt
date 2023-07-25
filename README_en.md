@@ -139,6 +139,17 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
         </tr>
         <tr>
             <td>8</td>
+            <td> <a href="https://macio.cc" target="_blank">https://macio.cc</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+            </td>
+            <td>2023-07-18</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9</td>
             <td> <a href="https://chatc.free2gpt.xyz/" target="_blank">https://chatc.free2gpt.xyz/</a>
                 <br> </td>
             <td></td>
@@ -149,7 +160,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td> <a href="http://c.newstop.uk" target="_blank">http://c.newstop.uk</a>
                 <br> </td>
             <td></td>
@@ -160,7 +171,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td> <a href="https://openai.aifree.site/" target="_blank">https://openai.aifree.site/</a>
                 <br> </td>
             <td></td>
@@ -171,7 +182,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td> <a href="https://ai.azstudio.top/" target="_blank">https://ai.azstudio.top/</a>
                 <br> </td>
             <td></td>
@@ -182,7 +193,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>12</td>
+            <td>13</td>
             <td> <a href="https://ai.zenglingkun.cn/" target="_blank">https://ai.zenglingkun.cn/</a>
                 <br> </td>
             <td></td>
@@ -193,7 +204,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>13</td>
+            <td>14</td>
             <td> <a href="https://chatgpt.kiask.xyz/" target="_blank">https://chatgpt.kiask.xyz/</a>
                 <br> </td>
             <td></td>
@@ -204,7 +215,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>14</td>
+            <td>15</td>
             <td> <a href="https://xiaoc.eu.org/" target="_blank">https://xiaoc.eu.org/</a>
                 <br> </td>
             <td></td>
@@ -218,7 +229,7 @@ Enter access password: 754685.
 </details></td>
         </tr>
         <tr>
-            <td>15</td>
+            <td>16</td>
             <td> <a href="https://xiaor.eu.org/" target="_blank">https://xiaor.eu.org/</a>
                 <br> </td>
             <td></td>
@@ -229,7 +240,7 @@ Enter access password: 754685.
             <td></td>
         </tr>
         <tr>
-            <td>16</td>
+            <td>17</td>
             <td> <a href="https://chat.acytoo.com/" target="_blank">https://chat.acytoo.com/</a>
                 <br> </td>
             <td></td>
@@ -240,7 +251,7 @@ Enter access password: 754685.
             <td></td>
         </tr>
         <tr>
-            <td>17</td>
+            <td>18</td>
             <td> <a href="https://chat.dfehub.com" target="_blank">https://chat.dfehub.com</a>
                 <br> </td>
             <td></td>
@@ -251,7 +262,7 @@ Enter access password: 754685.
             <td></td>
         </tr>
         <tr>
-            <td>18</td>
+            <td>19</td>
             <td> <a href="http://g01.plitun.com/" target="_blank">http://g01.plitun.com/</a>
                 <br> </td>
             <td></td>
@@ -262,7 +273,7 @@ Enter access password: 754685.
             <td></td>
         </tr>
         <tr>
-            <td>19</td>
+            <td>20</td>
             <td> <a href="https://gpt4.ezchat.top/" target="_blank">https://gpt4.ezchat.top/</a>
                 <br> </td>
             <td></td>
@@ -273,19 +284,8 @@ Enter access password: 754685.
             <td></td>
         </tr>
         <tr>
-            <td>20</td>
-            <td> <a href="https://c1ns.cn/chat/" target="_blank">https://c1ns.cn/chat/</a>
-                <br> </td>
-            <td></td>
-            <td>
-                        🆓
-            </td>
-            <td>2023-06-26</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>21</td>
-            <td> <a href="https://macqv.com" target="_blank">https://macqv.com</a>
+            <td> <a href="https://c1ns.cn/chat/" target="_blank">https://c1ns.cn/chat/</a>
                 <br> </td>
             <td></td>
             <td>
