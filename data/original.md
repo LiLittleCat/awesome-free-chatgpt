@@ -164,7 +164,7 @@
 - [🔒🔑💪][https://gpt4.ezchat.top](https://gpt4.ezchat.top) - 2023-07-05 
 - [ 🔒🧰 ] [https://ai-connect.cn/chat](https://ai-connect.cn/chat) - 2023-07-06 
 - [ 🔒💪🧰 ] [https://www.sreaigc.com/](https://www.sreaigc.com/) - 2023-07-06  
-- [ 🆓💪 ] [https://doai.c1ns.cn](https://doai.c1ns.cn) - 2023-07-07 
+- [ 🔓💪 ] [https://doai.c1ns.cn](https://doai.c1ns.cn) - 2023-07-07 
 - [ 🆓💪 ] [https://gptleg.zeabur.app/](https://gptleg.zeabur.app/) - 2023-07-07  
 - [🔒💪][https://aassdd.opao.xyz](https://aassdd.opao.xyz) - 2023-07-09 
 - [🆓][https://ai.azstudio.top/](https://ai.azstudio.top/) - 2023-07-10
@@ -184,7 +184,9 @@
 - [🔓🧰][https://chatgpt.hklan.top/](https://chatgpt.hklan.top/) - 2023-07-21
 - [🆓][https://v.chatfree.cc/](https://v.chatfree.cc/) - 2023-07-25
 - [🔓🧰][https://unifyai.cn/](https://unifyai.cn/) - 2023-07-25 
-- [🔒💪🧰][https://coffeecat.ai/](https://coffeecat.ai/) - 2023-07-25  
+- [🔒💪🧰][https://coffeecat.ai/](https://coffeecat.ai/) - 2023-07-25
+- [🆓][https://freegpt.dingtoucake.xyz/](https://freegpt.dingtoucake.xyz/) - 2023-07-26 - 设置中输入访问密码 2023 - Enter access password 2023 in settings.
+- [👀🧰][https://dzyai.com/chat](https://dzyai.com/chat) - 2023-07-26
 <!-- normal-end -->
 
 <details>
