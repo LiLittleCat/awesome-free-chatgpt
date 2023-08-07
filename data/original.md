@@ -151,13 +151,11 @@
 - [ 🔒 ] [https://jqk.ai](https://jqk.ai) - 2023-06-27
 - [ 🔒💪 ] [https://zhuo.mkzero.top:17777/](https://zhuo.mkzero.top:17777/) - 2023-06-27 
 - [ 🔒💪 ] [https://ai.mkzero.top:44444/](https://ai.mkzero.top:44444/) - 2023-06-27 
-- [ 🆓 ] [https://gpt4.ezchat.top/](https://gpt4.ezchat.top/) - 2023-06-28
 - [🔒🧰][https://zhiziera.com/](https://zhiziera.com/) - 2023-06-28
 - [🔒][https://dashuye.top](https://dashuye.top) - 2023-06-29
 - [🆓][http://g01.plitun.com/](http://g01.plitun.com/) - 2023-06-29
 - [🆓][https://chat.dfehub.com](https://chat.dfehub.com) - 2023-06-30
 - [🆓][https://chat.acytoo.com/](https://chat.acytoo.com/) - 2023-07-01
-- [🔑][https://chat.wudi11.shop/](https://chat.wudi11.shop/) - 2023-06-29 
 - [🔓🧰][https://deepai.org/](https://deepai.org/) - 2023-06-29 
 - [🔓][https://99.opao.xyz/](https://99.opao.xyz/) - 2023-07-02 
 - [🔒🔑💪][https://chat.wudi11.shop](https://chat.wudi11.shop) - 2023-07-05
@@ -187,6 +185,8 @@
 - [👀🧰][https://dzyai.com/chat](https://dzyai.com/chat) - 2023-07-26
 - [🔒💪🧰][https://visionarybrush.com/](https://visionarybrush.com/) - 2023-07-29
 - [🆓][https://gpt.freet.top](https://gpt.freet.top) - 2023-07-29
+- [🆓][https://newpc.icoding.ink/](https://newpc.icoding.ink/) - 2023-07-31
+- [🆓][https://ai.qidianym.net/](https://ai.qidianym.net/) - 2023-07-31
 <!-- normal-end -->
 
 <details>
@@ -195,6 +195,8 @@
 
 <!-- abnormal-begin -->
 
+- ~~[https://chat.wudi11.shop/](https://chat.wudi11.shop/)~~ - 2023-07-31
+- ~~[https://gpt4.ezchat.top/](https://gpt4.ezchat.top/)~~ - 2023-07-31
 - ~~[https://free.freet.top](https://free.freet.top)~~ - 2023-07-29
 - ~~[https://doai.c1ns.cn](https://doai.c1ns.cn)~~ - 2023-07-27
 - ~~[https://xiaor.eu.org/](https://xiaor.eu.org/)~~ - 2023-07-20
