@@ -152,6 +152,17 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
         </tr>
         <tr>
             <td>9</td>
+            <td> <a href="https://gpt.freet.top" target="_blank">https://gpt.freet.top</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+            </td>
+            <td>2023-07-29</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10</td>
             <td> <a href="https://freegpt.dingtoucake.xyz/" target="_blank">https://freegpt.dingtoucake.xyz/</a>
                 <br> </td>
             <td></td>
@@ -165,7 +176,7 @@ Enter access password 2023 in settings.
 </details></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td> <a href="https://v.chatfree.cc/" target="_blank">https://v.chatfree.cc/</a>
                 <br> </td>
             <td></td>
@@ -176,19 +187,8 @@ Enter access password 2023 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
-            <td> <a href="https://chat.aifree.site/" target="_blank">https://chat.aifree.site/</a>
-                <br> </td>
-            <td></td>
-            <td>
-                        🆓
-            </td>
-            <td>2023-07-20</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>12</td>
-            <td> <a href="https://free.freet.top" target="_blank">https://free.freet.top</a>
+            <td> <a href="https://chat.aifree.site/" target="_blank">https://chat.aifree.site/</a>
                 <br> </td>
             <td></td>
             <td>

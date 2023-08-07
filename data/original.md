@@ -179,13 +179,14 @@
 - [🆓][https://chatc.free2gpt.xyz/](https://chatc.free2gpt.xyz/) - 2023-07-13
 - [🆓][https://macio.cc](https://macio.cc) - 2023-07-18
 - [🆓][https://chat.aifree.site/](https://chat.aifree.site/) - 2023-07-20
-- [🆓][https://free.freet.top](https://free.freet.top) - 2023-07-20
 - [🔓🧰][https://chatgpt.hklan.top/](https://chatgpt.hklan.top/) - 2023-07-21
 - [🆓][https://v.chatfree.cc/](https://v.chatfree.cc/) - 2023-07-25
 - [🔓🧰][https://unifyai.cn/](https://unifyai.cn/) - 2023-07-25 
 - [🔒💪🧰][https://coffeecat.ai/](https://coffeecat.ai/) - 2023-07-25
 - [🆓][https://freegpt.dingtoucake.xyz/](https://freegpt.dingtoucake.xyz/) - 2023-07-26 - 设置中输入访问密码 2023 - Enter access password 2023 in settings.
 - [👀🧰][https://dzyai.com/chat](https://dzyai.com/chat) - 2023-07-26
+- [🔒💪🧰][https://visionarybrush.com/](https://visionarybrush.com/) - 2023-07-29
+- [🆓][https://gpt.freet.top](https://gpt.freet.top) - 2023-07-29
 <!-- normal-end -->
 
 <details>
@@ -194,6 +195,7 @@
 
 <!-- abnormal-begin -->
 
+- ~~[https://free.freet.top](https://free.freet.top)~~ - 2023-07-29
 - ~~[https://doai.c1ns.cn](https://doai.c1ns.cn)~~ - 2023-07-27
 - ~~[https://xiaor.eu.org/](https://xiaor.eu.org/)~~ - 2023-07-20
 - ~~[https://xiaoc.eu.org/](https://xiaoc.eu.org/)~~ - 2023-07-20
