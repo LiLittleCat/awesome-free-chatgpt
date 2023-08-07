@@ -164,7 +164,6 @@
 - [🔒🔑💪][https://gpt4.ezchat.top](https://gpt4.ezchat.top) - 2023-07-05 
 - [ 🔒🧰 ] [https://ai-connect.cn/chat](https://ai-connect.cn/chat) - 2023-07-06 
 - [ 🔒💪🧰 ] [https://www.sreaigc.com/](https://www.sreaigc.com/) - 2023-07-06  
-- [ 🔓💪 ] [https://doai.c1ns.cn](https://doai.c1ns.cn) - 2023-07-07 
 - [ 🆓💪 ] [https://gptleg.zeabur.app/](https://gptleg.zeabur.app/) - 2023-07-07  
 - [🔒💪][https://aassdd.opao.xyz](https://aassdd.opao.xyz) - 2023-07-09 
 - [🆓][https://ai.azstudio.top/](https://ai.azstudio.top/) - 2023-07-10
@@ -195,6 +194,7 @@
 
 <!-- abnormal-begin -->
 
+- ~~[https://doai.c1ns.cn](https://doai.c1ns.cn)~~ - 2023-07-27
 - ~~[https://xiaor.eu.org/](https://xiaor.eu.org/)~~ - 2023-07-20
 - ~~[https://xiaoc.eu.org/](https://xiaoc.eu.org/)~~ - 2023-07-20
 - ~~[https://macqv.com](https://macqv.com)~~ - 2023-07-18
