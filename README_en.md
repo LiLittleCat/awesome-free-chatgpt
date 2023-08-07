@@ -80,18 +80,6 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
         </tr>
         <tr>
             <td>3</td>
-            <td> <a href="https://gptleg.zeabur.app/" target="_blank">https://gptleg.zeabur.app/</a>
-                <br> </td>
-            <td></td>
-            <td>
-                        🆓
-                        💪
-            </td>
-            <td>2023-07-07</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>4</td>
             <td> <a href="https://py.c1ns.cn" target="_blank">https://py.c1ns.cn</a>
                 <br> </td>
             <td></td>
@@ -103,7 +91,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>5</td>
+            <td>4</td>
             <td> <a href="http://chat3.aiyunos.top" target="_blank">http://chat3.aiyunos.top</a>
                 <br> </td>
             <td></td>
@@ -115,7 +103,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>6</td>
+            <td>5</td>
             <td> <a href="https://www.promptboom.com/" target="_blank">https://www.promptboom.com/</a>
                 <br> </td>
             <td></td>
@@ -127,7 +115,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>7</td>
+            <td>6</td>
             <td> <a href="https://chat.waixingyun.cn/" target="_blank">https://chat.waixingyun.cn/</a>
                 <br> </td>
             <td></td>
@@ -139,7 +127,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>7</td>
             <td> <a href="https://greengpt.app/" target="_blank">https://greengpt.app/</a>
                 <br> </td>
             <td></td>
@@ -148,6 +136,17 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🧰
             </td>
             <td>2023-04-01</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td> <a href="https://f.aifree.site/" target="_blank">https://f.aifree.site/</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+            </td>
+            <td>2023-08-01</td>
             <td></td>
         </tr>
         <tr>

@@ -162,7 +162,6 @@
 - [🔒🔑💪][https://gpt4.ezchat.top](https://gpt4.ezchat.top) - 2023-07-05 
 - [ 🔒🧰 ] [https://ai-connect.cn/chat](https://ai-connect.cn/chat) - 2023-07-06 
 - [ 🔒💪🧰 ] [https://www.sreaigc.com/](https://www.sreaigc.com/) - 2023-07-06  
-- [ 🆓💪 ] [https://gptleg.zeabur.app/](https://gptleg.zeabur.app/) - 2023-07-07  
 - [🔒💪][https://aassdd.opao.xyz](https://aassdd.opao.xyz) - 2023-07-09 
 - [🆓][https://ai.azstudio.top/](https://ai.azstudio.top/) - 2023-07-10
 - [🆓][https://ai.zenglingkun.cn/](https://ai.zenglingkun.cn/) - 2023-07-10 
@@ -187,6 +186,8 @@
 - [🆓][https://gpt.freet.top](https://gpt.freet.top) - 2023-07-29
 - [🆓][https://newpc.icoding.ink/](https://newpc.icoding.ink/) - 2023-07-31
 - [🆓][https://ai.qidianym.net/](https://ai.qidianym.net/) - 2023-07-31
+- [🆓][https://f.aifree.site/](https://f.aifree.site/) - 2023-08-01
+- [🔒💪🌎][https://chat.gpt.bz/](https://chat.gpt.bz/) - 2023-08-01
 <!-- normal-end -->
 
 <details>
@@ -195,6 +196,7 @@
 
 <!-- abnormal-begin -->
 
+- ~~[https://gptleg.zeabur.app/](https://gptleg.zeabur.app/)~~ - 2023-08-01
 - ~~[https://chat.wudi11.shop/](https://chat.wudi11.shop/)~~ - 2023-07-31
 - ~~[https://gpt4.ezchat.top/](https://gpt4.ezchat.top/)~~ - 2023-07-31
 - ~~[https://free.freet.top](https://free.freet.top)~~ - 2023-07-29
