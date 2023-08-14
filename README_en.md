@@ -239,7 +239,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
         </tr>
         <tr>
             <td>17</td>
-            <td> <a href="https://v.chatfree.cc/" target="_blank">https://v.chatfree.cc/</a>
+            <td> <a href="https://www.chatfree.cc/" target="_blank">https://www.chatfree.cc/</a>
                 <br> </td>
             <td></td>
             <td>
