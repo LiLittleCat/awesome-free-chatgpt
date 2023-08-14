@@ -188,6 +188,7 @@
 - [🆓][https://ai.qidianym.net/](https://ai.qidianym.net/) - 2023-07-31
 - [🆓][https://f.aifree.site/](https://f.aifree.site/) - 2023-08-01
 - [🔒💪🌎][https://chat.gpt.bz/](https://chat.gpt.bz/) - 2023-08-01
+- [🆓][https://coffeecat.ai](https://coffeecat.ai) - 2023-08-03
 <!-- normal-end -->
 
 <details>
