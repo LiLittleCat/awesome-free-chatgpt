@@ -147,7 +147,6 @@
 - [ 🔒🧰 ] [http://zhiziera.com/](http://zhiziera.com/) - 2023-06-23
 - [ 🔒💪🧰 ] [https://chattoai.cc/](https://chattoai.cc/) - 2023-06-23
 - [🆓][https://c1ns.cn/chat/](https://c1ns.cn/chat/) - 2023-06-26
-- [ 🔒💪🧰 ] [https://www.aibvs.net/chat](https://www.aibvs.net/chat) - 2023-06-26 
 - [ 🔒 ] [https://jqk.ai](https://jqk.ai) - 2023-06-27
 - [ 🔒💪 ] [https://zhuo.mkzero.top:17777/](https://zhuo.mkzero.top:17777/) - 2023-06-27 
 - [ 🔒💪 ] [https://ai.mkzero.top:44444/](https://ai.mkzero.top:44444/) - 2023-06-27 
@@ -180,7 +179,7 @@
 - [🆓][https://v.chatfree.cc/](https://v.chatfree.cc/) - 2023-07-25
 - [🔓🧰][https://unifyai.cn/](https://unifyai.cn/) - 2023-07-25 
 - [🔒💪🧰][https://coffeecat.ai/](https://coffeecat.ai/) - 2023-07-25
-- [🆓][https://freegpt.dingtoucake.xyz/](https://freegpt.dingtoucake.xyz/) - 2023-07-26 - 设置中输入访问密码 2023 - Enter access password 2023 in settings.
+- [🔑[https://freegpt.dingtoucake.xyz/](https://freegpt.dingtoucake.xyz/) - 2023-07-26
 - [👀🧰][https://dzyai.com/chat](https://dzyai.com/chat) - 2023-07-26
 - [🔒💪🧰][https://visionarybrush.com/](https://visionarybrush.com/) - 2023-07-29
 - [🆓][https://gpt.freet.top](https://gpt.freet.top) - 2023-07-29
@@ -189,6 +188,10 @@
 - [🆓][https://f.aifree.site/](https://f.aifree.site/) - 2023-08-01
 - [🔒💪🌎][https://chat.gpt.bz/](https://chat.gpt.bz/) - 2023-08-01
 - [🆓][https://coffeecat.ai](https://coffeecat.ai) - 2023-08-03
+- [🆓][https://aiin.cc/](https://aiin.cc/) - 2023-08-04
+- [🔒💪🧰][https://i.aibusx.com](https://i.aibusx.com) - 2023-08-04
+- [🔒][https://freechat.xiaopao.link](https://freechat.xiaopao.link) - 2023-08-04
+- [🔓🧰][http://www.airight.fun/](http://www.airight.fun/) - 2023-08-04
 <!-- normal-end -->
 
 <details>
@@ -197,6 +200,7 @@
 
 <!-- abnormal-begin -->
 
+- ~~[https://www.aibvs.net/chat](https://www.aibvs.net/chat)~~ - 2023-08-04
 - ~~[https://gptleg.zeabur.app/](https://gptleg.zeabur.app/)~~ - 2023-08-01
 - ~~[https://chat.wudi11.shop/](https://chat.wudi11.shop/)~~ - 2023-07-31
 - ~~[https://gpt4.ezchat.top/](https://gpt4.ezchat.top/)~~ - 2023-07-31
