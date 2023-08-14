@@ -216,7 +216,7 @@
         </tr>
         <tr>
             <td>15</td>
-            <td> <a href="https://v.chatfree.cc/" target="_blank">https://v.chatfree.cc/</a>
+            <td> <a href="https://www.chatfree.cc/" target="_blank">https://www.chatfree.cc/</a>
                 <br> </td>
             <td>
                         🆓
