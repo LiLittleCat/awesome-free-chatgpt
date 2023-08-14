@@ -153,12 +153,10 @@
 - [🔒🧰][https://zhiziera.com/](https://zhiziera.com/) - 2023-06-28
 - [🔒][https://dashuye.top](https://dashuye.top) - 2023-06-29
 - [🆓][http://g01.plitun.com/](http://g01.plitun.com/) - 2023-06-29
-- [🆓][https://chat.dfehub.com](https://chat.dfehub.com) - 2023-06-30
 - [🆓][https://chat.acytoo.com/](https://chat.acytoo.com/) - 2023-07-01
 - [🔓🧰][https://deepai.org/](https://deepai.org/) - 2023-06-29 
 - [🔓][https://99.opao.xyz/](https://99.opao.xyz/) - 2023-07-02 
 - [🔒🔑💪][https://chat.wudi11.shop](https://chat.wudi11.shop) - 2023-07-05
-- [🔒🔑💪][https://gpt4.ezchat.top](https://gpt4.ezchat.top) - 2023-07-05 
 - [ 🔒🧰 ] [https://ai-connect.cn/chat](https://ai-connect.cn/chat) - 2023-07-06 
 - [ 🔒💪🧰 ] [https://www.sreaigc.com/](https://www.sreaigc.com/) - 2023-07-06  
 - [🔒💪][https://aassdd.opao.xyz](https://aassdd.opao.xyz) - 2023-07-09 
@@ -172,7 +170,7 @@
 - [🆓][http://c.newstop.uk](http://c.newstop.uk) - 2023-07-12
 - [🔒💪🧰][https://jntm.opengpt88.com/](https://jntm.opengpt88.com/) - 2023-07-12
 - [🔒🧰][https://gptplus.io/](https://gptplus.io/) - 2023-07-13
-- [🆓][https://chatc.free2gpt.xyz/](https://chatc.free2gpt.xyz/) - 2023-07-13
+- [🆓][https://chatz.free2gpt.xyz/](https://chatc.free2gpt.xyz/) - 2023-07-13
 - [🆓][https://macio.cc](https://macio.cc) - 2023-07-18
 - [🆓][https://chat.aifree.site/](https://chat.aifree.site/) - 2023-07-20
 - [🔓🧰][https://chatgpt.hklan.top/](https://chatgpt.hklan.top/) - 2023-07-21
@@ -194,6 +192,8 @@
 - [🔓🧰][http://www.airight.fun/](http://www.airight.fun/) - 2023-08-04
 - [🔒💪🧰][https://www.tomchat.work](https://www.tomchat.work) - 2023-08-05
 - [🆓][https://powerchat.top/](https://powerchat.top/) - 2023-08-06
+- [🆓][https://ai.skybyte.me](https://ai.skybyte.me) - 2023-08-07
+- [🆓][http://gptgo.ai/](http://gptgo.ai/) - 2023-08-07
 <!-- normal-end -->
 
 <details>
@@ -202,6 +202,7 @@
 
 <!-- abnormal-begin -->
 
+- ~~[https://chat.dfehub.com](https://chat.dfehub.com)~~ - 2023-08-07
 - ~~[https://www.aibvs.net/chat](https://www.aibvs.net/chat)~~ - 2023-08-04
 - ~~[https://gptleg.zeabur.app/](https://gptleg.zeabur.app/)~~ - 2023-08-01
 - ~~[https://chat.wudi11.shop/](https://chat.wudi11.shop/)~~ - 2023-07-31
