@@ -193,6 +193,7 @@
 - [🔒][https://freechat.xiaopao.link](https://freechat.xiaopao.link) - 2023-08-04
 - [🔓🧰][http://www.airight.fun/](http://www.airight.fun/) - 2023-08-04
 - [🔒💪🧰][https://www.tomchat.work](https://www.tomchat.work) - 2023-08-05
+- [🆓][https://powerchat.top/](https://powerchat.top/) - 2023-08-06
 <!-- normal-end -->
 
 <details>
