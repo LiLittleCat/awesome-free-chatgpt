@@ -1,6 +1,6 @@
 # Awesome Free ChatGPT
 
-![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![中文](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/chinese.svg)](README.md) ![website count](https://img.shields.io/badge/websites-94-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
+![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![中文](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/chinese.svg)](README.md) ![website count](https://img.shields.io/badge/websites-96-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
 
 
 🚀 List of free ChatGPT(<https://chat.openai.com/>) mirror sites and more free resources, continuously updated.
@@ -128,6 +128,17 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
         </tr>
         <tr>
             <td>7</td>
+            <td> <a href="https://chat.geekgpt.org/" target="_blank">https://chat.geekgpt.org/</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+            </td>
+            <td>2023-08-16</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>8</td>
             <td> <a href="http://chatgpt.bybyte.cn/" target="_blank">http://chatgpt.bybyte.cn/</a>
                 <br> </td>
             <td></td>
@@ -138,7 +149,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td> <a href="https://chat.tinycms.xyz:3002" target="_blank">https://chat.tinycms.xyz:3002</a>
                 <br> </td>
             <td></td>
@@ -149,7 +160,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td> <a href="https://chat.leadscloud.xyz/" target="_blank">https://chat.leadscloud.xyz/</a>
                 <br> </td>
             <td></td>
@@ -160,7 +171,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td> <a href="https://ai.skybyte.me" target="_blank">https://ai.skybyte.me</a>
                 <br> </td>
             <td></td>
@@ -171,7 +182,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td> <a href="http://gptgo.ai/" target="_blank">http://gptgo.ai/</a>
                 <br> </td>
             <td></td>
@@ -182,7 +193,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>12</td>
+            <td>13</td>
             <td> <a href="https://powerchat.top/" target="_blank">https://powerchat.top/</a>
                 <br> </td>
             <td></td>
@@ -193,7 +204,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>13</td>
+            <td>14</td>
             <td> <a href="https://aiin.cc/" target="_blank">https://aiin.cc/</a>
                 <br> </td>
             <td></td>
@@ -204,7 +215,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>14</td>
+            <td>15</td>
             <td> <a href="https://coffeecat.ai" target="_blank">https://coffeecat.ai</a>
                 <br> </td>
             <td></td>
@@ -215,7 +226,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>15</td>
+            <td>16</td>
             <td> <a href="https://f.aifree.site/" target="_blank">https://f.aifree.site/</a>
                 <br> </td>
             <td></td>
@@ -226,7 +237,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>16</td>
+            <td>17</td>
             <td> <a href="https://newpc.icoding.ink/" target="_blank">https://newpc.icoding.ink/</a>
                 <br> </td>
             <td></td>
@@ -237,7 +248,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>17</td>
+            <td>18</td>
             <td> <a href="https://ai.qidianym.net/" target="_blank">https://ai.qidianym.net/</a>
                 <br> </td>
             <td></td>
@@ -248,7 +259,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>18</td>
+            <td>19</td>
             <td> <a href="https://gpt.freet.top" target="_blank">https://gpt.freet.top</a>
                 <br> </td>
             <td></td>
@@ -259,7 +270,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>19</td>
+            <td>20</td>
             <td> <a href="https://www.chatfree.cc/" target="_blank">https://www.chatfree.cc/</a>
                 <br> </td>
             <td></td>
@@ -270,7 +281,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>20</td>
+            <td>21</td>
             <td> <a href="https://chat.aifree.site/" target="_blank">https://chat.aifree.site/</a>
                 <br> </td>
             <td></td>
@@ -278,17 +289,6 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🆓
             </td>
             <td>2023-07-20</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>21</td>
-            <td> <a href="https://macio.cc" target="_blank">https://macio.cc</a>
-                <br> </td>
-            <td></td>
-            <td>
-                        🆓
-            </td>
-            <td>2023-07-18</td>
             <td></td>
         </tr>
         <tr>
@@ -1039,6 +1039,30 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
         </tr>
         <tr>
             <td>88</td>
+            <td> <a href="https://caffcat.com" target="_blank">https://caffcat.com</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🔑
+                        💪
+            </td>
+            <td>2023-08-15</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>89</td>
+            <td> <a href="https://www.jinwangyile.xyz" target="_blank">https://www.jinwangyile.xyz</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🔑
+                        💪
+            </td>
+            <td>2023-08-15</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>90</td>
             <td> <a href="https://freegpt.cc/" target="_blank">https://freegpt.cc/</a>
                 <br> </td>
             <td></td>
@@ -1050,7 +1074,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>89</td>
+            <td>91</td>
             <td> <a href="https://freegpt.dingtoucake.xyz/" target="_blank">https://freegpt.dingtoucake.xyz/</a>
                 <br> </td>
             <td></td>
@@ -1061,7 +1085,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>90</td>
+            <td>92</td>
             <td> <a href="https://gpt4.gravityengine.cc/" target="_blank">https://gpt4.gravityengine.cc/</a>
                 <br> </td>
             <td></td>
@@ -1072,7 +1096,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>91</td>
+            <td>93</td>
             <td> <a href="https://chat.iwoso.co/" target="_blank">https://chat.iwoso.co/</a>
                 <br> </td>
             <td></td>
@@ -1083,7 +1107,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>92</td>
+            <td>94</td>
             <td> <a href="https://freechatgpt.chat/" target="_blank">https://freechatgpt.chat/</a>
                 <br> </td>
             <td></td>
@@ -1094,7 +1118,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>93</td>
+            <td>95</td>
             <td> <a href="https://www.chatbotui.com/" target="_blank">https://www.chatbotui.com/</a>
                 <br> </td>
             <td></td>
@@ -1105,7 +1129,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>94</td>
+            <td>96</td>
             <td> <a href="https://94gpt.com/" target="_blank">https://94gpt.com/</a>
                 <br> </td>
             <td></td>

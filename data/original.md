@@ -170,7 +170,6 @@
 - [🔒💪🧰][https://jntm.opengpt88.com/](https://jntm.opengpt88.com/) - 2023-07-12
 - [🔒🧰][https://gptplus.io/](https://gptplus.io/) - 2023-07-13
 - [🆓][https://chatz.free2gpt.xyz/](https://chatc.free2gpt.xyz/) - 2023-07-13
-- [🆓][https://macio.cc](https://macio.cc) - 2023-07-18
 - [🆓][https://chat.aifree.site/](https://chat.aifree.site/) - 2023-07-20
 - [🔓🧰][https://chatgpt.hklan.top/](https://chatgpt.hklan.top/) - 2023-07-21
 - [🆓][https://www.chatfree.cc/](https://v.chatfree.cc/) - 2023-07-25
@@ -196,6 +195,9 @@
 - [🆓][http://chatgpt.bybyte.cn/](http://chatgpt.bybyte.cn/) - 2023-08-14
 - [🆓][https://chat.tinycms.xyz:3002](https://chat.tinycms.xyz:3002) - 2023-08-14
 - [🆓][https://chat.leadscloud.xyz/](https://chat.leadscloud.xyz/) - 2023-08-14
+- [🔑💪][https://caffcat.com](https://caffcat.com) - 2023-08-15
+- [🔑💪][https://www.jinwangyile.xyz](https://www.jinwangyile.xyz) - 2023-08-15
+- [🆓][https://chat.geekgpt.org/](https://chat.geekgpt.org/) - 2023-08-16
 <!-- normal-end -->
 
 <details>
@@ -204,6 +206,7 @@
 
 <!-- abnormal-begin -->
 
+- ~~[https://macio.cc](https://macio.cc)~~ - 2023-08-15
 - ~~[https://chat.waixingyun.cn/](https://chat.waixingyun.cn)~~ - 2023-08-11
 - ~~[https://chat.dfehub.com](https://chat.dfehub.com)~~ - 2023-08-07
 - ~~[https://www.aibvs.net/chat](https://www.aibvs.net/chat)~~ - 2023-08-04
