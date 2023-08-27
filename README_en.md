@@ -1,6 +1,6 @@
 # Awesome Free ChatGPT
 
-![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![中文](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/chinese.svg)](README.md) ![website count](https://img.shields.io/badge/websites-91-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
+![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![中文](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/chinese.svg)](README.md) ![website count](https://img.shields.io/badge/websites-94-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
 
 
 🚀 List of free ChatGPT(<https://chat.openai.com/>) mirror sites and more free resources, continuously updated.
@@ -128,6 +128,39 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
         </tr>
         <tr>
             <td>7</td>
+            <td> <a href="http://chatgpt.bybyte.cn/" target="_blank">http://chatgpt.bybyte.cn/</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+            </td>
+            <td>2023-08-14</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td> <a href="https://chat.tinycms.xyz:3002" target="_blank">https://chat.tinycms.xyz:3002</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+            </td>
+            <td>2023-08-14</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td> <a href="https://chat.leadscloud.xyz/" target="_blank">https://chat.leadscloud.xyz/</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+            </td>
+            <td>2023-08-14</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10</td>
             <td> <a href="https://ai.skybyte.me" target="_blank">https://ai.skybyte.me</a>
                 <br> </td>
             <td></td>
@@ -138,7 +171,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>11</td>
             <td> <a href="http://gptgo.ai/" target="_blank">http://gptgo.ai/</a>
                 <br> </td>
             <td></td>
@@ -149,7 +182,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>12</td>
             <td> <a href="https://powerchat.top/" target="_blank">https://powerchat.top/</a>
                 <br> </td>
             <td></td>
@@ -160,7 +193,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>13</td>
             <td> <a href="https://aiin.cc/" target="_blank">https://aiin.cc/</a>
                 <br> </td>
             <td></td>
@@ -171,7 +204,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>14</td>
             <td> <a href="https://coffeecat.ai" target="_blank">https://coffeecat.ai</a>
                 <br> </td>
             <td></td>
@@ -182,7 +215,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>12</td>
+            <td>15</td>
             <td> <a href="https://f.aifree.site/" target="_blank">https://f.aifree.site/</a>
                 <br> </td>
             <td></td>
@@ -193,7 +226,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>13</td>
+            <td>16</td>
             <td> <a href="https://newpc.icoding.ink/" target="_blank">https://newpc.icoding.ink/</a>
                 <br> </td>
             <td></td>
@@ -204,7 +237,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>14</td>
+            <td>17</td>
             <td> <a href="https://ai.qidianym.net/" target="_blank">https://ai.qidianym.net/</a>
                 <br> </td>
             <td></td>
@@ -215,7 +248,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>15</td>
+            <td>18</td>
             <td> <a href="https://gpt.freet.top" target="_blank">https://gpt.freet.top</a>
                 <br> </td>
             <td></td>
@@ -226,7 +259,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>16</td>
+            <td>19</td>
             <td> <a href="https://www.chatfree.cc/" target="_blank">https://www.chatfree.cc/</a>
                 <br> </td>
             <td></td>
@@ -237,7 +270,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>17</td>
+            <td>20</td>
             <td> <a href="https://chat.aifree.site/" target="_blank">https://chat.aifree.site/</a>
                 <br> </td>
             <td></td>
@@ -248,7 +281,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>18</td>
+            <td>21</td>
             <td> <a href="https://macio.cc" target="_blank">https://macio.cc</a>
                 <br> </td>
             <td></td>
@@ -259,7 +292,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>19</td>
+            <td>22</td>
             <td> <a href="https://chatz.free2gpt.xyz/" target="_blank">https://chatz.free2gpt.xyz/</a>
                 <br> </td>
             <td></td>
@@ -270,7 +303,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>20</td>
+            <td>23</td>
             <td> <a href="http://c.newstop.uk" target="_blank">http://c.newstop.uk</a>
                 <br> </td>
             <td></td>
@@ -281,7 +314,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>21</td>
+            <td>24</td>
             <td> <a href="https://openai.aifree.site/" target="_blank">https://openai.aifree.site/</a>
                 <br> </td>
             <td></td>
@@ -292,7 +325,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>22</td>
+            <td>25</td>
             <td> <a href="https://ai.azstudio.top/" target="_blank">https://ai.azstudio.top/</a>
                 <br> </td>
             <td></td>
@@ -303,7 +336,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>23</td>
+            <td>26</td>
             <td> <a href="https://ai.zenglingkun.cn/" target="_blank">https://ai.zenglingkun.cn/</a>
                 <br> </td>
             <td></td>
@@ -314,7 +347,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>24</td>
+            <td>27</td>
             <td> <a href="https://chatgpt.kiask.xyz/" target="_blank">https://chatgpt.kiask.xyz/</a>
                 <br> </td>
             <td></td>
@@ -325,7 +358,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>25</td>
+            <td>28</td>
             <td> <a href="https://chat.acytoo.com/" target="_blank">https://chat.acytoo.com/</a>
                 <br> </td>
             <td></td>
@@ -336,7 +369,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>26</td>
+            <td>29</td>
             <td> <a href="http://g01.plitun.com/" target="_blank">http://g01.plitun.com/</a>
                 <br> </td>
             <td></td>
@@ -347,7 +380,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>27</td>
+            <td>30</td>
             <td> <a href="https://c1ns.cn/chat/" target="_blank">https://c1ns.cn/chat/</a>
                 <br> </td>
             <td></td>
@@ -358,7 +391,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>28</td>
+            <td>31</td>
             <td> <a href="https://newstop.c1ns.cn/" target="_blank">https://newstop.c1ns.cn/</a>
                 <br> </td>
             <td></td>
@@ -369,7 +402,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>29</td>
+            <td>32</td>
             <td> <a href="https://gpt.aifree.site/" target="_blank">https://gpt.aifree.site/</a>
                 <br> </td>
             <td></td>
@@ -380,7 +413,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>30</td>
+            <td>33</td>
             <td> <a href="https://hteyun.com/" target="_blank">https://hteyun.com/</a>
                 <br> </td>
             <td></td>
@@ -391,7 +424,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>31</td>
+            <td>34</td>
             <td> <a href="https://chat.weuseing.com/" target="_blank">https://chat.weuseing.com/</a>
                 <br> </td>
             <td></td>
@@ -402,7 +435,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>32</td>
+            <td>35</td>
             <td> <a href="https://zyq-chatgpt.github.io" target="_blank">https://zyq-chatgpt.github.io</a>
                 <br> </td>
             <td></td>
@@ -413,7 +446,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>33</td>
+            <td>36</td>
             <td> <a href="http://chat.aisoftworks.com" target="_blank">http://chat.aisoftworks.com</a>
                 <br> </td>
             <td></td>
@@ -424,7 +457,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>34</td>
+            <td>37</td>
             <td> <a href="https://gptdidi.com/" target="_blank">https://gptdidi.com/</a>
                 <br> </td>
             <td></td>
@@ -435,7 +468,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>35</td>
+            <td>38</td>
             <td> <a href="http://chat.darkflow.top/" target="_blank">http://chat.darkflow.top/</a>
                 <br> </td>
             <td></td>
@@ -446,7 +479,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>36</td>
+            <td>39</td>
             <td> <a href="http://chat5.aiyunos.top" target="_blank">http://chat5.aiyunos.top</a>
                 <br> </td>
             <td></td>
@@ -457,7 +490,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>37</td>
+            <td>40</td>
             <td> <a href="https://chat.flares.ai/" target="_blank">https://chat.flares.ai/</a>
                 <br> </td>
             <td></td>
@@ -468,7 +501,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>38</td>
+            <td>41</td>
             <td> <a href="https://devgpt.com/" target="_blank">https://devgpt.com/</a>
                 <br> </td>
             <td></td>
@@ -479,7 +512,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>39</td>
+            <td>42</td>
             <td> <a href="https://chat.newstop.asia/" target="_blank">https://chat.newstop.asia/</a>
                 <br> </td>
             <td></td>
@@ -490,7 +523,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>40</td>
+            <td>43</td>
             <td> <a href="https://chatcat.zhaoyoung.me" target="_blank">https://chatcat.zhaoyoung.me</a>
                 <br> </td>
             <td></td>
@@ -504,7 +537,7 @@ Enter access password chatcat in settings.
 </details></td>
         </tr>
         <tr>
-            <td>41</td>
+            <td>44</td>
             <td> <a href="https://nb8.c1ns.cn/" target="_blank">https://nb8.c1ns.cn/</a>
                 <br> </td>
             <td></td>
@@ -515,7 +548,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>42</td>
+            <td>45</td>
             <td> <a href="https://chatyou.lovebaby.today/" target="_blank">https://chatyou.lovebaby.today/</a>
                 <br> </td>
             <td></td>
@@ -526,7 +559,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>43</td>
+            <td>46</td>
             <td> <a href="https://www.magicaibot.com/talk" target="_blank">https://www.magicaibot.com/talk</a>
                 <br> </td>
             <td></td>
@@ -537,7 +570,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>44</td>
+            <td>47</td>
             <td> <a href="https://521.zeabur.app/" target="_blank">https://521.zeabur.app/</a>
                 <br> </td>
             <td></td>
@@ -548,7 +581,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>45</td>
+            <td>48</td>
             <td> <a href="https://chat.kunshanyuxin.com/" target="_blank">https://chat.kunshanyuxin.com/</a>
                 <br> </td>
             <td></td>
@@ -559,7 +592,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>46</td>
+            <td>49</td>
             <td> <a href="https://chat.jubianxingqiu.com/" target="_blank">https://chat.jubianxingqiu.com/</a>
                 <br> </td>
             <td></td>
@@ -570,7 +603,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>47</td>
+            <td>50</td>
             <td> <a href="https://ai.mcbbs.gq/" target="_blank">https://ai.mcbbs.gq/</a>
                 <br> </td>
             <td></td>
@@ -581,7 +614,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>48</td>
+            <td>51</td>
             <td> <a href="https://a.aiask.me/" target="_blank">https://a.aiask.me/</a>
                 <br> </td>
             <td></td>
@@ -592,7 +625,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>49</td>
+            <td>52</td>
             <td> <a href="https://ai.gptforlove.com/" target="_blank">https://ai.gptforlove.com/</a>
                 <br> </td>
             <td></td>
@@ -603,7 +636,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>50</td>
+            <td>53</td>
             <td> <a href="https://ai.gogpt.site/" target="_blank">https://ai.gogpt.site/</a>
                 <br> </td>
             <td></td>
@@ -614,7 +647,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>51</td>
+            <td>54</td>
             <td> <a href="https://aichat.gogpt.site/" target="_blank">https://aichat.gogpt.site/</a>
                 <br> </td>
             <td></td>
@@ -625,7 +658,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>52</td>
+            <td>55</td>
             <td> <a href="https://as1.betai55.uk/" target="_blank">https://as1.betai55.uk/</a>
                 <br> </td>
             <td></td>
@@ -639,7 +672,7 @@ Enter access password 586-482-535B in settings.
 </details></td>
         </tr>
         <tr>
-            <td>53</td>
+            <td>56</td>
             <td> <a href="https://vvanglro.eu.org/" target="_blank">https://vvanglro.eu.org/</a>
                 <br> </td>
             <td></td>
@@ -650,7 +683,7 @@ Enter access password 586-482-535B in settings.
             <td></td>
         </tr>
         <tr>
-            <td>54</td>
+            <td>57</td>
             <td> <a href="https://chat.pinkfong.cn/" target="_blank">https://chat.pinkfong.cn/</a>
                 <br> </td>
             <td></td>
@@ -661,7 +694,7 @@ Enter access password 586-482-535B in settings.
             <td></td>
         </tr>
         <tr>
-            <td>55</td>
+            <td>58</td>
             <td> <a href="http://chat1.manongzyg.one/" target="_blank">http://chat1.manongzyg.one/</a>
                 <br> </td>
             <td></td>
@@ -675,7 +708,7 @@ Enter access password 857857 in settings.
 </details></td>
         </tr>
         <tr>
-            <td>56</td>
+            <td>59</td>
             <td> <a href="https://ai.heptax.com/" target="_blank">https://ai.heptax.com/</a>
                 <br> </td>
             <td></td>
@@ -686,7 +719,7 @@ Enter access password 857857 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>57</td>
+            <td>60</td>
             <td> <a href="https://index.chat.bnu120.space/" target="_blank">https://index.chat.bnu120.space/</a>
                 <br> </td>
             <td></td>
@@ -697,7 +730,7 @@ Enter access password 857857 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>58</td>
+            <td>61</td>
             <td> <a href="https://f12.xjai.cc/" target="_blank">https://f12.xjai.cc/</a>
                 <br> </td>
             <td></td>
@@ -708,7 +741,7 @@ Enter access password 857857 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>59</td>
+            <td>62</td>
             <td> <a href="https://pro.ai.ls/" target="_blank">https://pro.ai.ls/</a>
                 <br> </td>
             <td></td>
@@ -719,7 +752,7 @@ Enter access password 857857 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>60</td>
+            <td>63</td>
             <td> <a href="https://freegpt.one/" target="_blank">https://freegpt.one/</a>
                 <br> </td>
             <td></td>
@@ -730,7 +763,7 @@ Enter access password 857857 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>61</td>
+            <td>64</td>
             <td> <a href="https://chatbot.theb.ai/" target="_blank">https://chatbot.theb.ai/</a>
                 <br> </td>
             <td></td>
@@ -741,7 +774,7 @@ Enter access password 857857 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>62</td>
+            <td>65</td>
             <td> <a href="https://www.aitianhu.com/" target="_blank">https://www.aitianhu.com/</a>
                 <br> </td>
             <td></td>
@@ -752,7 +785,7 @@ Enter access password 857857 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>63</td>
+            <td>66</td>
             <td> <a href="https://nav4ai.net/chatgptweb" target="_blank">https://nav4ai.net/chatgptweb</a>
                 <br> </td>
             <td></td>
@@ -763,7 +796,7 @@ Enter access password 857857 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>64</td>
+            <td>67</td>
             <td> <a href="https://mirrorchat.extkj.cn/" target="_blank">https://mirrorchat.extkj.cn/</a>
                 <br> </td>
             <td></td>
@@ -774,7 +807,7 @@ Enter access password 857857 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>65</td>
+            <td>68</td>
             <td> <a href="https://chat13.xeasy.me/" target="_blank">https://chat13.xeasy.me/</a>
                 <br> </td>
             <td></td>
@@ -785,7 +818,7 @@ Enter access password 857857 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>66</td>
+            <td>69</td>
             <td> <a href="https://www.chatgptunli.com/chatgpt/" target="_blank">https://www.chatgptunli.com/chatgpt/</a>
                 <br> </td>
             <td></td>
@@ -796,7 +829,7 @@ Enter access password 857857 in settings.
             <td></td>
         </tr>
         <tr>
-            <td>67</td>
+            <td>70</td>
             <td> <a href="https://chatcat.pages.dev/" target="_blank">https://chatcat.pages.dev/</a>
                 <br> </td>
             <td></td>
@@ -810,7 +843,7 @@ Enter access password chatcat in settings.
 </details></td>
         </tr>
         <tr>
-            <td>68</td>
+            <td>71</td>
             <td> <a href="https://chat2.geekr.dev/" target="_blank">https://chat2.geekr.dev/</a>
                 <br> </td>
             <td></td>
@@ -821,7 +854,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>69</td>
+            <td>72</td>
             <td> <a href="https://chat.gpt.bz/" target="_blank">https://chat.gpt.bz/</a>
                 <br> </td>
             <td></td>
@@ -832,7 +865,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>70</td>
+            <td>73</td>
             <td> <a href="https://ailink.icu/" target="_blank">https://ailink.icu/</a>
                 <br> </td>
             <td></td>
@@ -843,7 +876,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>71</td>
+            <td>74</td>
             <td> <a href="https://dev.yqcloud.top/" target="_blank">https://dev.yqcloud.top/</a>
                 <br> </td>
             <td></td>
@@ -854,7 +887,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>72</td>
+            <td>75</td>
             <td> <a href="https://desk.im/" target="_blank">https://desk.im/</a>
                 <br> </td>
             <td></td>
@@ -865,7 +898,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>73</td>
+            <td>76</td>
             <td> <a href="https://ai.ls/" target="_blank">https://ai.ls/</a>
                 <br> </td>
             <td></td>
@@ -876,7 +909,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>74</td>
+            <td>77</td>
             <td> <a href="https://ai.ci/" target="_blank">https://ai.ci/</a>
                 <br> </td>
             <td></td>
@@ -887,7 +920,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>75</td>
+            <td>78</td>
             <td> <a href="https://chat2.xeasy.me/" target="_blank">https://chat2.xeasy.me/</a>
                 <br> </td>
             <td></td>
@@ -898,7 +931,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>76</td>
+            <td>79</td>
             <td> <a href="https://gpt.xeasy.me/" target="_blank">https://gpt.xeasy.me/</a>
                 <br> </td>
             <td></td>
@@ -909,7 +942,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>77</td>
+            <td>80</td>
             <td> <a href="https://gpt.getshare.net/" target="_blank">https://gpt.getshare.net/</a>
                 <br> </td>
             <td></td>
@@ -920,7 +953,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>78</td>
+            <td>81</td>
             <td> <a href="http://chatai.fyi/" target="_blank">http://chatai.fyi/</a>
                 <br> </td>
             <td></td>
@@ -931,7 +964,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>79</td>
+            <td>82</td>
             <td> <a href="https://chat.51buygpt.com/" target="_blank">https://chat.51buygpt.com/</a>
                 <br> </td>
             <td></td>
@@ -942,7 +975,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>80</td>
+            <td>83</td>
             <td> <a href="https://trychatgp.com/" target="_blank">https://trychatgp.com/</a>
                 <br> </td>
             <td></td>
@@ -953,7 +986,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>81</td>
+            <td>84</td>
             <td> <a href="https://chat12.xeasy.me/" target="_blank">https://chat12.xeasy.me/</a>
                 <br> </td>
             <td></td>
@@ -964,7 +997,7 @@ Enter access password chatcat in settings.
             <td></td>
         </tr>
         <tr>
-            <td>82</td>
+            <td>85</td>
             <td> <a href="https://bettergpt.chat/" target="_blank">https://bettergpt.chat/</a>
                 <br> </td>
             <td></td>
@@ -979,7 +1012,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 </details></td>
         </tr>
         <tr>
-            <td>83</td>
+            <td>86</td>
             <td> <a href="https://chatplus.buzz" target="_blank">https://chatplus.buzz</a>
                 <br> </td>
             <td></td>
@@ -992,7 +1025,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>84</td>
+            <td>87</td>
             <td> <a href="https://www.typingmind.com/" target="_blank">https://www.typingmind.com/</a>
                 <br> </td>
             <td></td>
@@ -1005,7 +1038,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>85</td>
+            <td>88</td>
             <td> <a href="https://freegpt.cc/" target="_blank">https://freegpt.cc/</a>
                 <br> </td>
             <td></td>
@@ -1017,7 +1050,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>86</td>
+            <td>89</td>
             <td> <a href="https://freegpt.dingtoucake.xyz/" target="_blank">https://freegpt.dingtoucake.xyz/</a>
                 <br> </td>
             <td></td>
@@ -1028,7 +1061,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>87</td>
+            <td>90</td>
             <td> <a href="https://gpt4.gravityengine.cc/" target="_blank">https://gpt4.gravityengine.cc/</a>
                 <br> </td>
             <td></td>
@@ -1039,7 +1072,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>88</td>
+            <td>91</td>
             <td> <a href="https://chat.iwoso.co/" target="_blank">https://chat.iwoso.co/</a>
                 <br> </td>
             <td></td>
@@ -1050,7 +1083,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>89</td>
+            <td>92</td>
             <td> <a href="https://freechatgpt.chat/" target="_blank">https://freechatgpt.chat/</a>
                 <br> </td>
             <td></td>
@@ -1061,7 +1094,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>90</td>
+            <td>93</td>
             <td> <a href="https://www.chatbotui.com/" target="_blank">https://www.chatbotui.com/</a>
                 <br> </td>
             <td></td>
@@ -1072,7 +1105,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td></td>
         </tr>
         <tr>
-            <td>91</td>
+            <td>94</td>
             <td> <a href="https://94gpt.com/" target="_blank">https://94gpt.com/</a>
                 <br> </td>
             <td></td>
