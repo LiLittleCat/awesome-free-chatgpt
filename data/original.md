@@ -193,6 +193,9 @@
 - [🆓][https://powerchat.top/](https://powerchat.top/) - 2023-08-06
 - [🆓][https://ai.skybyte.me](https://ai.skybyte.me) - 2023-08-07
 - [🆓][http://gptgo.ai/](http://gptgo.ai/) - 2023-08-07
+- [🆓][http://chatgpt.bybyte.cn/](http://chatgpt.bybyte.cn/) - 2023-08-14
+- [🆓][https://chat.tinycms.xyz:3002](https://chat.tinycms.xyz:3002) - 2023-08-14
+- [🆓][https://chat.leadscloud.xyz/](https://chat.leadscloud.xyz/) - 2023-08-14
 <!-- normal-end -->
 
 <details>
