@@ -29,7 +29,6 @@
 - [ 🆓🌎 ] [https://ai.gogpt.site/](https://ai.gogpt.site/) - 2023-05-26
 - [ 🆓🌎 ] [https://aichat.gogpt.site/](https://aichat.gogpt.site/) - 2023-05-26
 - [ 🆓 ] [https://nav4ai.net/chatgptweb](https://nav4ai.net/chatgptweb) - 2023-04-19
-- [ 🆓🌎 ][https://freegpt.one/](https://freegpt.one) - 2023-04-23
 - [ 👀 ][https://chat.wobcw.com/](https://chat.wobcw.com/) - 2023-04-24
 - [ 🆓🌎🧰 ][https://www.promptboom.com/](https://www.promptboom.com/) - 2023-04-24
 - [ 🆓 ][https://as1.betai55.uk/](https://as1.betai55.uk/) - 2023-05-25 - 设置中输入访问密码 586-482-535B - Enter access password 586-482-535B in settings.
@@ -167,7 +166,7 @@
 - [ 🔒💪🧰 ] [https://aigptx.top/](https://aigptx.top/) - 2023-07-11 
 - [ 🆓 ] [https://chatgpt.kiask.xyz/](https://chatgpt.kiask.xyz/) - 2023-07-09
 - [🆓][http://c.newstop.uk](http://c.newstop.uk) - 2023-07-12
-- [🔒💪🧰][https://jntm.opengpt88.com/](https://jntm.opengpt88.com/) - 2023-07-12
+- [🔒💪🧰][https://to.opengpt88.com/](https://to.opengpt88.com/) - 2023-07-12
 - [🔒🧰][https://gptplus.io/](https://gptplus.io/) - 2023-07-13
 - [🆓][https://chatz.free2gpt.xyz/](https://chatc.free2gpt.xyz/) - 2023-07-13
 - [🆓][https://chat.aifree.site/](https://chat.aifree.site/) - 2023-07-20
@@ -198,6 +197,8 @@
 - [🔑💪][https://caffcat.com](https://caffcat.com) - 2023-08-15
 - [🔑💪][https://www.jinwangyile.xyz](https://www.jinwangyile.xyz) - 2023-08-15
 - [🆓][https://chat.geekgpt.org/](https://chat.geekgpt.org/) - 2023-08-16
+- [🔒][http://chat.tensorbytes.com](http://chat.tensorbytes.com) - 2023-08-22
+- [🆓][https://chatp.free2gpt.xyz/](https://chatp.free2gpt.xyz/) - 2023-08-24
 <!-- normal-end -->
 
 <details>
