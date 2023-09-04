@@ -197,8 +197,10 @@
 - [🔑💪][https://caffcat.com](https://caffcat.com) - 2023-08-15
 - [🔑💪][https://www.jinwangyile.xyz](https://www.jinwangyile.xyz) - 2023-08-15
 - [🆓][https://chat.geekgpt.org/](https://chat.geekgpt.org/) - 2023-08-16
+- [🆓][https://chat.aigc101.net/](https://chat.aigc101.net/) - 2023-08-17
 - [🔒][http://chat.tensorbytes.com](http://chat.tensorbytes.com) - 2023-08-22
 - [🆓][https://chatp.free2gpt.xyz/](https://chatp.free2gpt.xyz/) - 2023-08-24
+- [🆓][https://chatgptduo.com/](https://chatgptduo.com/) - 2023-08-25
 <!-- normal-end -->
 
 <details>
