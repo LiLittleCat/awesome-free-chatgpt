@@ -1138,6 +1138,16 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             </td>
             <td>2023-03-22</td>
             <td></td>
+         <td>92</td>
+            <td> <a href="https://chat.aigc101.net" target="_blank">https://chat.aigc101.net/</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🔑
+            </td>
+            <td>2023-03-22</td>
+            <td></td>
+ </tr>
         </tr>
     </tbody>
 </table>
