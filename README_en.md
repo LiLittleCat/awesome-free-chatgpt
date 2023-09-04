@@ -1156,8 +1156,10 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [Pi, your personal AI](https://heypi.com/talk) - Hi, I'm Pi. I'm your personal AI, designed to be supportive, smart, and there for you anytime. Ask me for advice, for answers, or let's talk about whatever's on your mind.
 - [TruthGPT Chat](https://talk.truthgpt.one/) - Hey, I’m TruthGPT! The beacon of truth in a world of unknown. We can either have a conversation or you may ask me complex questions!
 - [ERNIE Bot](https://yiyan.baidu.com)
-- [Tongyi Qianwen](https://tongyi.aliyun.com/)
+- [Tongyi Qianwen](https://tongyi.aliyun.com/) - Alibaba Big Model unified brand, covering fields such as language, hearing, and multimodality; Committed to achieving universal intelligence that is close to human intelligence, allowing AI to transition from a "single sensory" to a "fully open facial feature"
 - [iFLYTEK Spark](https://xinghuo.xfyun.cn/) - The iFLYTEK StarFire Cognitive Large Model is a large language model launched by iFLYTEK that can intelligently respond through natural language understanding.
+- [Tiangong](https://tiangong.kunlun.com/) - Tiangong is the first dual billion level language model in China to benchmark ChatGPT, and is also a conversational AI assistant.
+- [Doubao](https://www.doubao.com/) - Doubao is your intelligent assistant, which can answer questions, provide inspiration, assist in creation, and chat with you on any topic that interests you.
 
 ## 📚 More...
 
