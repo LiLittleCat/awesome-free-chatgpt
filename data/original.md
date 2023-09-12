@@ -200,6 +200,7 @@
 - [🆓][https://chat.aigc101.net/](https://chat.aigc101.net/) - 2023-08-17
 - [🔒][http://chat.tensorbytes.com](http://chat.tensorbytes.com) - 2023-08-22
 - [🆓][https://chatp.free2gpt.xyz/](https://chatp.free2gpt.xyz/) - 2023-08-24
+- [🔒🔑][https://caffcat.co/](https://caffcat.co/) - 2023-08-24
 - [🆓][https://chatgptduo.com/](https://chatgptduo.com/) - 2023-08-25
 <!-- normal-end -->
 

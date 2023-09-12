@@ -4347,5 +4347,28 @@
 		"title":null,
 		"updatedDate":null,
 		"url":"https://gpt.ltopx.com"
+	},
+	{
+		"addedDate":"2023-08-24",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"LOGIN_REQUIRED",
+			"API_KEY_REQUIRED"
+		],
+		"id":193,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":-8.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://caffcat.co/"
 	}
 ]
