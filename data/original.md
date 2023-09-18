@@ -202,6 +202,8 @@
 - [🆓][https://chatp.free2gpt.xyz/](https://chatp.free2gpt.xyz/) - 2023-08-24
 - [🔒🔑][https://caffcat.co/](https://caffcat.co/) - 2023-08-24
 - [🆓][https://chatgptduo.com/](https://chatgptduo.com/) - 2023-08-25
+- [🔒💪🧰][https://www.tomchat.uk](https://www.tomchat.uk) - 2023-08-25
+- [🔓💪][https://feel-gpt.top](https://feel-gpt.top) - 2023-08-25
 <!-- normal-end -->
 
 <details>
