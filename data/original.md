@@ -204,6 +204,8 @@
 - [🆓][https://chatgptduo.com/](https://chatgptduo.com/) - 2023-08-25
 - [🔒💪🧰][https://www.tomchat.uk](https://www.tomchat.uk) - 2023-08-25
 - [🔓💪][https://feel-gpt.top](https://feel-gpt.top) - 2023-08-25
+- [🔓💪🌎][https://www.perplexity.ai/](https://www.perplexity.ai/) - 2023-08-27
+- [🔒💪][https://chat8.com/](https://chat8.com/) - 2023-08-28
 <!-- normal-end -->
 
 <details>
