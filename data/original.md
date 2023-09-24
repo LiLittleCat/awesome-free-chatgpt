@@ -207,6 +207,9 @@
 - [🔒💪][https://chat8.com/](https://chat8.com/) - 2023-08-28
 - [🆓][http://decentrealizedweb.xyz/chat/bot](http://decentrealizedweb.xyz/chat/bot) - 2023-08-29
 - [🆓][https://aibn.cc/](https://aibn.cc/) - 2023-08-29
+- [🔒💪🧰][https://chat.sb-chat.com/index.php](https://chat.sb-chat.com/index.php) - 2023-08-30
+- [🔒🧰][https://ai.imiphp.com/](https://ai.imiphp.com/) - 2023-09-01
+- [🔒💪][https://free.netfly.top/](https://free.netfly.top/) - 2023-09-02
 <!-- normal-end -->
 
 <details>
@@ -215,6 +218,8 @@
 
 <!-- abnormal-begin -->
 
+- ~~[https://coffeecat.info/](https://coffeecat.info/)~~ - 2023-08-31
+- ~~[https://chat.gptx.im/](https://chat.gptx.im/)~~ - 2023-08-30
 - ~~[https://aiin.cc/](https://aiin.cc/)~~ - 2023-08-29
 - ~~[https://macio.cc](https://macio.cc)~~ - 2023-08-15
 - ~~[https://chat.waixingyun.cn/](https://chat.waixingyun.cn)~~ - 2023-08-11
