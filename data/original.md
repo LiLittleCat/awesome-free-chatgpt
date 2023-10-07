@@ -210,6 +210,7 @@
 - [🔒💪🧰][https://chat.sb-chat.com/index.php](https://chat.sb-chat.com/index.php) - 2023-08-30
 - [🔒🧰][https://ai.imiphp.com/](https://ai.imiphp.com/) - 2023-09-01
 - [🔒💪][https://free.netfly.top/](https://free.netfly.top/) - 2023-09-02
+- [🔑][https://nb.aitom.cc](https://nb.aitom.cc) - 2023-09-03
 <!-- normal-end -->
 
 <details>
