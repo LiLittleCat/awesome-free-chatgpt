@@ -211,6 +211,8 @@
 - [🔒🧰][https://ai.imiphp.com/](https://ai.imiphp.com/) - 2023-09-01
 - [🔒💪][https://free.netfly.top/](https://free.netfly.top/) - 2023-09-02
 - [🔑][https://nb.aitom.cc](https://nb.aitom.cc) - 2023-09-03
+- [🔒🔑][https://chat.zhile.io/](https://chat.zhile.io/) - 2023-08-21
+- [🆓][https://chat-shared2.zhile.io/](https://chat-shared2.zhile.io/) - 2023-08-21
 <!-- normal-end -->
 
 <details>
