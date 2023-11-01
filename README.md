@@ -24,17 +24,17 @@
 
 ## 目录
 <!-- TOC -->
-- [Awesome Free ChatGPT](#awesome-free-chatgpt)
-  - [目录](#目录)
-  - [💬 ChatGPT 镜像列表](#-chatgpt-镜像列表)
-  - [🗨️ ChatGPT 替代方案](#️-chatgpt-替代方案)
-  - [📚 更多...](#-更多)
-    - [💿 构建你自己的 ChatGPT 镜像](#-构建你自己的-chatgpt-镜像)
-    - [💡 提示词（Prompt）](#-提示词prompt)
-    - [📝 自建内容库](#-自建内容库)
-    - [💻 开发者工具](#-开发者工具)
-    - [🌟 Star History](#-star-history)
-    - [💞 Contributors](#-contributors)
+* [Awesome Free ChatGPT](#awesome-free-chatgpt)
+  * [目录](#目录)
+  * [💬 ChatGPT 镜像列表](#-chatgpt-镜像列表)
+  * [🗨️ ChatGPT 替代方案](#-chatgpt-替代方案)
+  * [📚 更多...](#-更多)
+    * [💿 构建你自己的 ChatGPT 镜像](#-构建你自己的-chatgpt-镜像)
+    * [💡 提示词（Prompt）](#-提示词prompt)
+    * [📝 自建内容库](#-自建内容库)
+    * [💻 开发者工具](#-开发者工具)
+    * [🌟 Star History](#-star-history)
+    * [💞 Contributors](#-contributors)
 <!-- TOC -->
 
 ## 💬 ChatGPT 镜像列表
