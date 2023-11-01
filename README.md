@@ -1669,7 +1669,8 @@
                         💪
             </td>
             <td>2023-05-17</td>
-            <td>GPT4 的兑换码：TRYGPT4</td>
+            <td>GPT4 的兑换码：TRYGPT4
+</td>
         </tr>
         <tr>
             <td>149</td>
@@ -3156,6 +3157,7 @@
 - [TruthGPT Chat](https://talk.truthgpt.one/) - Hey, I’m TruthGPT! The beacon of truth in a world of unknown. We can either have a conversation or you may ask me complex questions!
 - [昆仑万维天工大模型](https://tiangong.kunlun.com/) - 「天工」是国内首个对标 ChatGPT 的双千亿级大语言模型，也是一个对话式AI助手。
 - [抖音旗下豆包小助手](https://www.doubao.com/) - 豆包是你的智能小助手，可以为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - ChatGPT Plus功能（数据分析，插件，上网）开源复刻项目
 
 ## 📚 更多...
 
