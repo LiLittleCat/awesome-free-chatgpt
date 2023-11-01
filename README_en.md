@@ -17,17 +17,17 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
 
 ## Table of Content
 <!-- TOC -->
-* [Awesome Free ChatGPT](#awesome-free-chatgpt)
-  * [Table of Content](#table-of-content)
-  * [💬 ChatGPT Mirrors](#-chatgpt-mirrors)
-  * [🗨️ ChatGPT Alternative](#-chatgpt-alternative)
-  * [📚 More...](#-more)
-    * [💿 Want to build your own ChatGPT mirror?](#-want-to-build-your-own-chatgpt-mirror)
-    * [💡 Prompt](#-prompt)
-    * [📝 Chat with your content](#-chat-with-your-content)
-    * [💻 Developer Tools](#-developer-tools)
-    * [🌟 Star History](#-star-history)
-    * [💞 Contributors](#-contributors)
+- [Awesome Free ChatGPT](#awesome-free-chatgpt)
+  - [Table of Content](#table-of-content)
+  - [💬 ChatGPT Mirrors](#-chatgpt-mirrors)
+  - [🗨️ ChatGPT Alternative](#️-chatgpt-alternative)
+  - [📚 More...](#-more)
+    - [💿 Want to build your own ChatGPT mirror?](#-want-to-build-your-own-chatgpt-mirror)
+    - [💡 Prompt](#-prompt)
+    - [📝 Chat with your content](#-chat-with-your-content)
+    - [💻 Developer Tools](#-developer-tools)
+    - [🌟 Star History](#-star-history)
+    - [💞 Contributors](#-contributors)
 <!-- TOC -->
 
 ## 💬 ChatGPT Mirrors
@@ -1232,6 +1232,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [iFLYTEK Spark](https://xinghuo.xfyun.cn/) - The iFLYTEK StarFire Cognitive Large Model is a large language model launched by iFLYTEK that can intelligently respond through natural language understanding.
 - [Tiangong](https://tiangong.kunlun.com/) - Tiangong is the first dual billion level language model in China to benchmark ChatGPT, and is also a conversational AI assistant.
 - [Doubao](https://www.doubao.com/) - Doubao is your intelligent assistant, which can answer questions, provide inspiration, assist in creation, and chat with you on any topic that interests you.
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing
 
 ## 📚 More...
 
