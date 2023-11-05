@@ -195,7 +195,7 @@
 - [🔒🔑][https://caffcat.co/](https://caffcat.co/) - 2023-08-24
 - [🆓][https://chatgptduo.com/](https://chatgptduo.com/) - 2023-08-25
 - [🔒💪🧰][https://www.tomchat.uk](https://www.tomchat.uk) - 2023-08-25
-- [🆓💪][https://feel-gpt.top](https://feel-gpt.top) - 2023-08-25
+- [🆓🔒💪][https://feel-gpt.top](https://feel-gpt.top) - 2023-08-25
 - [🔓💪🌎][https://www.perplexity.ai/](https://www.perplexity.ai/) - 2023-08-27
 - [🔒💪][https://chat8.com/](https://chat8.com/) - 2023-08-28
 - [🆓][http://decentrealizedweb.xyz/chat/bot](http://decentrealizedweb.xyz/chat/bot) - 2023-08-29
@@ -224,6 +224,8 @@
 - [🆓][https://chat.aiearth.dev/](https://chat.aiearth.dev/) - 2023-10-11 - 设置中输入访问密码 freegpt3 - Enter access password freegpt3 in settings.
 - [🆓][https://academic.aiearth.dev/](https://academic.aiearth.dev/) - 2023-10-11
 - [🔒💪🧰][https://ai.haydenstudio.hk/](https://ai.haydenstudio.hk/) - 2023-10-16
+- [🆓][https://zz.aifree.site/](https://zz.aifree.site/) - 2023-10-17
+- [🆓][https://hai.dongstop.link/](https://hai.dongstop.link/) - 2023-10-19
 
 <!-- normal-end -->
 
