@@ -130,7 +130,7 @@
 - [🆓][https://chat.weuseing.com/](https://chat.weuseing.com/) - 2023-06-17
 - [🔒🧰][https://xdu.cn/](https://xdu.cn/) - 2023-06-17 
 - [🔒💪🧰][https://chat.icoding.ink/](https://chat.icoding.ink/) - 2023-06-17 - 在聊天室使用时，请在提问的问题前面加上 @ChatGPT，否则 GPT 不搭理。  
-- [🆓💪🧰][https://free.easychat.work](https://free.easychat.work) - 2023-06-18 - 备用链接: https://www.easygpt.work
+- [🔒💪🧰][https://free.easychat.work](https://free.easychat.work) - 2023-06-18 - 备用链接: https://www.easygpt.work
 - [🔒][http://ai.mkzero.top:44444/](http://ai.mkzero.top:44444/) - 2023-06-18 
 - [🔒💪][https://firstai.opao.xyz/](https://firstai.opao.xyz/) - 2023-06-20
 - [🔓💪🧰][https://t1.c1ns.cn/](https://t1.c1ns.cn/) - 2023-06-20 
@@ -195,7 +195,7 @@
 - [🔒🔑][https://caffcat.co/](https://caffcat.co/) - 2023-08-24
 - [🆓][https://chatgptduo.com/](https://chatgptduo.com/) - 2023-08-25
 - [🔒💪🧰][https://www.tomchat.uk](https://www.tomchat.uk) - 2023-08-25
-- [🆓🔒💪][https://feel-gpt.top](https://feel-gpt.top) - 2023-08-25
+- [🔒💪][https://feel-gpt.top](https://feel-gpt.top) - 2023-08-25
 - [🔓💪🌎][https://www.perplexity.ai/](https://www.perplexity.ai/) - 2023-08-27
 - [🔒💪][https://chat8.com/](https://chat8.com/) - 2023-08-28
 - [🆓][http://decentrealizedweb.xyz/chat/bot](http://decentrealizedweb.xyz/chat/bot) - 2023-08-29
@@ -226,6 +226,8 @@
 - [🔒💪🧰][https://ai.haydenstudio.hk/](https://ai.haydenstudio.hk/) - 2023-10-16
 - [🆓][https://zz.aifree.site/](https://zz.aifree.site/) - 2023-10-17
 - [🆓][https://hai.dongstop.link/](https://hai.dongstop.link/) - 2023-10-19
+- [🆓🧰][https://ai.ai365.ink](https://ai.ai365.ink) - 2023-10-18
+- [🔒][https://api.xn--7gqr4f.com/](https://api.xn--7gqr4f.com/) - 2023-10-22
 
 <!-- normal-end -->
 
@@ -234,7 +236,7 @@
 <summary>🚫 已失效</summary>
 
 <!-- abnormal-begin -->
-
+- ~~[http://a.x-code.fun/](http://a.x-code.fun/)~~ - 2023-11-15
 - ~~[http://chat3.aiyunos.top](http://chat3.aiyunos.top)~~ - 2023-10-10
 - ~~[https://ai.skybyte.me](https://ai.skybyte.me)~~ - 2023-10-09
 - ~~[https://chat.aigc101.net/](https://chat.aigc101.net/)~~ - 2023-10-01

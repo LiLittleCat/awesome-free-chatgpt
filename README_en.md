@@ -68,19 +68,6 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
         </tr>
         <tr>
             <td>2</td>
-            <td> <a href="https://free.easychat.work" target="_blank">https://free.easychat.work</a>
-                <br> </td>
-            <td></td>
-            <td>
-                        🆓
-                        💪
-                        🧰
-            </td>
-            <td>2023-06-18</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>3</td>
             <td> <a href="https://free.netfly.top" target="_blank">https://free.netfly.top</a>
                 <br> </td>
             <td></td>
@@ -93,6 +80,18 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
 <summary>Content is too long, click to expand.</summary>
 Enter access password gpt2023 in settings.
 </details></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td> <a href="https://ai.ai365.ink" target="_blank">https://ai.ai365.ink</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+                        🧰
+            </td>
+            <td>2023-10-18</td>
+            <td></td>
         </tr>
         <tr>
             <td>4</td>
