@@ -117,7 +117,7 @@
 - [🔒💪🧰][https://ai.hxkj.vip/](https://ai.hxkj.vip/) - 2023-06-12 - 未登录用户三天免费额度，登录用户无限制，支持AI绘图（Stable Diffusion 和 Midjourney）
 - [🔒💪🧰][https://wrtn.ai/](https://wrtn.ai/) - 2023-06-13 
 - [🆓][http://chat.darkflow.top/](http://chat.darkflow.top/) - 2023-06-13
-- [🆓][http://chat5.aiyunos.top](http://chat5.aiyunos.top) - 2023-06-13 
+- [🆓💪🧰][http://chat5.aiyunos.top](http://chat5.aiyunos.top) - 2023-11-15 - 多模型，支持 GPT4 文件 
 - [🆓][https://gptdidi.com/](https://gptdidi.com/) - 2023-06-14
 - [🔒][http://chat.moyifeng.top/](http://chat.moyifeng.top/) - 2023-06-14
 - [🔒][https://varmsg.com/](https://varmsg.com/login) - 2023-06-05

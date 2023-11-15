@@ -1,5 +1,29 @@
 [
 	{
+		"addedDate":"2023-11-15",
+		"customDescription":"多模型，支持 GPT4 文件 \r",
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"GPT4_SUPPORTED",
+			"MORE_THAN_CHAT"
+		],
+		"id":1,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":3.5,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"http://chat5.aiyunos.top"
+	},
+	{
 		"addedDate":"2023-06-18",
 		"customDescription":"<details>\n<summary>内容过长，点击展开</summary>\n备用链接: https://www.easygpt.work\r\n</details>",
 		"customDescriptionEnglish":null,
@@ -10,7 +34,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":1,
+		"id":2,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -33,7 +57,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":2,
+		"id":3,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -56,7 +80,7 @@
 			"FREE",
 			"MORE_THAN_CHAT"
 		],
-		"id":3,
+		"id":4,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -78,7 +102,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":4,
+		"id":5,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -100,7 +124,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":5,
+		"id":6,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -122,7 +146,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":6,
+		"id":7,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -144,7 +168,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":7,
+		"id":8,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -166,7 +190,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":8,
+		"id":9,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -188,7 +212,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":9,
+		"id":10,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -210,7 +234,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":10,
+		"id":11,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -232,7 +256,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":11,
+		"id":12,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -254,7 +278,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":12,
+		"id":13,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -276,7 +300,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":13,
+		"id":14,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -298,7 +322,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":14,
+		"id":15,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -320,7 +344,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":15,
+		"id":16,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -342,7 +366,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":16,
+		"id":17,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -364,7 +388,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":17,
+		"id":18,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -386,7 +410,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":18,
+		"id":19,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -408,7 +432,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":19,
+		"id":20,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -430,7 +454,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":20,
+		"id":21,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -452,7 +476,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":21,
+		"id":22,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -474,7 +498,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":22,
+		"id":23,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -496,7 +520,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":23,
+		"id":24,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -518,7 +542,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":24,
+		"id":25,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -540,7 +564,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":25,
+		"id":26,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -562,7 +586,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":26,
+		"id":27,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -584,7 +608,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":27,
+		"id":28,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -606,7 +630,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":28,
+		"id":29,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -628,7 +652,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":29,
+		"id":30,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -650,7 +674,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":30,
+		"id":31,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -672,7 +696,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":31,
+		"id":32,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -694,7 +718,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":32,
+		"id":33,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -716,7 +740,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":33,
+		"id":34,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -738,7 +762,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":34,
+		"id":35,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -760,7 +784,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":35,
+		"id":36,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -782,7 +806,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":36,
+		"id":37,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -804,7 +828,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":37,
+		"id":38,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -826,7 +850,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":38,
+		"id":39,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -848,7 +872,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":39,
+		"id":40,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -870,7 +894,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":40,
+		"id":41,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -892,7 +916,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":41,
+		"id":42,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -914,7 +938,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":42,
+		"id":43,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -936,7 +960,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":43,
+		"id":44,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -958,28 +982,6 @@
 		"features":[
 			"FREE"
 		],
-		"id":44,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":2.0,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"http://chat.darkflow.top/"
-	},
-	{
-		"addedDate":"2023-06-13",
-		"customDescription":null,
-		"customDescriptionEnglish":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE"
-		],
 		"id":45,
 		"labels":null,
 		"lang":null,
@@ -991,7 +993,7 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"http://chat5.aiyunos.top"
+		"url":"http://chat.darkflow.top/"
 	},
 	{
 		"addedDate":"2023-06-08",
