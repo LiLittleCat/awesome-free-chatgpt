@@ -229,7 +229,7 @@
 - [🆓🧰][https://ai.ai365.ink](https://ai.ai365.ink) - 2023-10-18
 - [🔒][https://api.xn--7gqr4f.com/](https://api.xn--7gqr4f.com/) - 2023-10-22
 - [🔒💪][https://ai.haydenstudio.hk](https://ai.haydenstudio.hk) - 2023-10-31
-- [🔑🌎][https://www.ealxc.com/](https://www.ealxc.com/) - 2023-10-31
+- [🔒🌎][https://www.ealxc.com/](https://www.ealxc.com/) - 2023-10-31
 - [🔓👀💪][https://aivesa.cn/](https://aivesa.cn/) - 2023-11-02
 - [🔓🧰][https://likeyouto.cloudns.biz/](https://likeyouto.cloudns.biz/) - 2023-11-08
 
