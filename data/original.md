@@ -130,7 +130,7 @@
 - [🆓][https://chat.weuseing.com/](https://chat.weuseing.com/) - 2023-06-17
 - [🔒🧰][https://xdu.cn/](https://xdu.cn/) - 2023-06-17 
 - [🔒💪🧰][https://chat.icoding.ink/](https://chat.icoding.ink/) - 2023-06-17 - 在聊天室使用时，请在提问的问题前面加上 @ChatGPT，否则 GPT 不搭理。  
-- [🔒💪🧰][https://free.easychat.work](https://free.easychat.work) - 2023-06-18 - 备用链接: https://www.easygpt.work
+- [🔓💪🧰][https://free.easychat.work](https://free.easychat.work) - 2023-06-18 - 备用链接: https://www.easygpt.work
 - [🔒][http://ai.mkzero.top:44444/](http://ai.mkzero.top:44444/) - 2023-06-18 
 - [🔒💪][https://firstai.opao.xyz/](https://firstai.opao.xyz/) - 2023-06-20
 - [🔓💪🧰][https://t1.c1ns.cn/](https://t1.c1ns.cn/) - 2023-06-20 
@@ -232,6 +232,11 @@
 - [🔒🌎][https://www.ealxc.com/](https://www.ealxc.com/) - 2023-10-31
 - [🔓👀💪][https://aivesa.cn/](https://aivesa.cn/) - 2023-11-02
 - [🔓🧰][https://likeyouto.cloudns.biz/](https://likeyouto.cloudns.biz/) - 2023-11-08
+- [🔒💪🧰][https://www.ealxc.cn](https://www.ealxc.cn) - 2023-11-08
+- [🆓][https://chat.leapgpt.top/](https://chat.leapgpt.top/) - 2023-11-09 - 登录码 leap@gpt+ - Login code leap@gpt+
+- [🔑💰💪🧰][https://chat4.leapgpt.top/](https://chat4.leapgpt.top/) - 2023-11-09
+- [🔒][https://ai.aichat.vin](https://ai.aichat.vin) - 2023-11-15
+
 
 <!-- normal-end -->
 
