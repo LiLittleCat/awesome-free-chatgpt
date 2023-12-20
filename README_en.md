@@ -170,7 +170,8 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🆓
             </td>
             <td>2023-11-21</td>
-            <td>Password duxiangzu</td>
+            <td>Password duxiangzu
+</td>
         </tr>
         <tr>
             <td>11</td>
@@ -181,7 +182,8 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🆓
             </td>
             <td>2023-11-09</td>
-            <td>Login code leap@gpt+</td>
+            <td>Login code leap@gpt+
+</td>
         </tr>
         <tr>
             <td>12</td>
@@ -1265,6 +1267,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [Tiangong](https://tiangong.kunlun.com/) - Tiangong is the first dual billion level language model in China to benchmark ChatGPT, and is also a conversational AI assistant.
 - [Doubao](https://www.doubao.com/) - Doubao is your intelligent assistant, which can answer questions, provide inspiration, assist in creation, and chat with you on any topic that interests you.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing.
+- [ChatGLM](https://www.chatglm.cn/) - A new generation of pre-trained dialogue models jointly released by Zhipu AI and Tsinghua KEG.
 
 ## 📚 More...
 

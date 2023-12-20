@@ -3464,13 +3464,14 @@
 - [Anthropic Claude 2](https://claude.ai/) - See more detail on <https://www.anthropic.com/index/claude-2>
 - [百度 文心一言](https://yiyan.baidu.com/)
 - [Open Assistant](https://open-assistant.io/) - 面向所有人的对话式 AI, 这是一个由 LAION 和全球贡献者共同开发的 GPT LLM 项目.
-- [阿里 通义大模型](https://tongyi.aliyun.com/) - 阿里大模型统一品牌，覆盖语言、听觉、多模态等领域；致力于实现接近人类智慧的通用智能，让AI从“单一感官”到“五官全开”
+- [阿里 通义大模型](https://tongyi.aliyun.com/) - 阿里大模型统一品牌，覆盖语言、听觉、多模态等领域；致力于实现接近人类智慧的通用智能，让 AI 从“单一感官”到“五官全开”
 - [讯飞星火认知大模型](https://xinghuo.xfyun.cn/) - 讯飞星火认知大模型，是由科大讯飞推出的大语言模型，能够通过自然语言理解，完成智能对答。
 - [Pi, your personal AI](https://heypi.com/talk) - Hi, I'm Pi. I'm your personal AI, designed to be supportive, smart, and there for you anytime. Ask me for advice, for answers, or let's talk about whatever's on your mind.
 - [TruthGPT Chat](https://talk.truthgpt.one/) - Hey, I’m TruthGPT! The beacon of truth in a world of unknown. We can either have a conversation or you may ask me complex questions!
-- [昆仑万维天工大模型](https://tiangong.kunlun.com/) - 「天工」是国内首个对标 ChatGPT 的双千亿级大语言模型，也是一个对话式AI助手。
+- [昆仑万维天工大模型](https://tiangong.kunlun.com/) - 「天工」是国内首个对标 ChatGPT 的双千亿级大语言模型，也是一个对话式 AI 助手。
 - [抖音旗下豆包小助手](https://www.doubao.com/) - 豆包是你的智能小助手，可以为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。
-- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - ChatGPT Plus功能（数据分析，插件，上网）开源复刻项目
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - ChatGPT Plus 功能（数据分析，插件，上网）开源复刻项目。
+- [智谱清言](https://www.chatglm.cn/) - 智谱 AI 和清华大学 KEG 实验室联合发布的新一代对话预训练模型，基于 ChatGLM2 模型开发，支持多轮对话，具备内容创作、信息归纳总结等能力。
 
 ## 📚 更多...
 
