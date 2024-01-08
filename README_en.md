@@ -55,19 +55,6 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
     <tbody>
         <tr>
             <td>1</td>
-            <td> <a href="https://newpc.icoding.ink/?debug=true" target="_blank">https://newpc.icoding.ink/?debug=true</a>
-                <br> </td>
-            <td></td>
-            <td>
-                        🆓
-                        💪
-                        🧰
-            </td>
-            <td>2023-12-18</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>2</td>
             <td> <a href="http://chat5.aiyunos.top" target="_blank">http://chat5.aiyunos.top</a>
                 <br> </td>
             <td></td>
@@ -80,7 +67,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>2</td>
             <td> <a href="https://chat.tinycms.xyz:3002" target="_blank">https://chat.tinycms.xyz:3002</a>
                 <br> </td>
             <td></td>
@@ -92,7 +79,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>3</td>
             <td> <a href="https://wu.ci/" target="_blank">https://wu.ci/</a>
                 <br> </td>
             <td></td>
@@ -104,7 +91,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>5</td>
+            <td>4</td>
             <td> <a href="https://ai.maijigc.com/nav/" target="_blank">https://ai.maijigc.com/nav/</a>
                 <br> </td>
             <td></td>
@@ -116,7 +103,31 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
+            <td>5</td>
+            <td> <a href="https://ai.ai365.ink" target="_blank">https://ai.ai365.ink</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+                        🧰
+            </td>
+            <td>2023-10-18</td>
+            <td></td>
+        </tr>
+        <tr>
             <td>6</td>
+            <td> <a href="https://newpc.icoding.ink/" target="_blank">https://newpc.icoding.ink/</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+                        🧰
+            </td>
+            <td>2023-09-08</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>7</td>
             <td> <a href="https://www.promptboom.com/" target="_blank">https://www.promptboom.com/</a>
                 <br> </td>
             <td></td>
@@ -128,7 +139,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>7</td>
+            <td>8</td>
             <td> <a href="https://greengpt.app/" target="_blank">https://greengpt.app/</a>
                 <br> </td>
             <td></td>
@@ -137,17 +148,6 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🧰
             </td>
             <td>2023-04-01</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td> <a href="https://www.aitool.ink/" target="_blank">https://www.aitool.ink/</a>
-                <br> </td>
-            <td></td>
-            <td>
-                        🆓
-            </td>
-            <td>2023-12-24</td>
             <td></td>
         </tr>
         <tr>
@@ -170,7 +170,8 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🆓
             </td>
             <td>2023-11-21</td>
-            <td>Password duxiangzu</td>
+            <td>Password duxiangzu
+</td>
         </tr>
         <tr>
             <td>11</td>
@@ -181,7 +182,8 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🆓
             </td>
             <td>2023-11-09</td>
-            <td>Login code leap@gpt+</td>
+            <td>Login code leap@gpt+
+</td>
         </tr>
         <tr>
             <td>12</td>
@@ -1265,6 +1267,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [Tiangong](https://tiangong.kunlun.com/) - Tiangong is the first dual billion level language model in China to benchmark ChatGPT, and is also a conversational AI assistant.
 - [Doubao](https://www.doubao.com/) - Doubao is your intelligent assistant, which can answer questions, provide inspiration, assist in creation, and chat with you on any topic that interests you.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing.
+- [ChatGLM](https://www.chatglm.cn/) - A new generation of pre-trained dialogue models jointly released by Zhipu AI and Tsinghua KEG.
 
 ## 📚 More...
 
