@@ -55,6 +55,19 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
     <tbody>
         <tr>
             <td>1</td>
+            <td> <a href="https://newpc.icoding.ink/?debug=true" target="_blank">https://newpc.icoding.ink/?debug=true</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+                        💪
+                        🧰
+            </td>
+            <td>2023-12-18</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
             <td> <a href="http://chat5.aiyunos.top" target="_blank">http://chat5.aiyunos.top</a>
                 <br> </td>
             <td></td>
@@ -67,7 +80,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>2</td>
+            <td>3</td>
             <td> <a href="https://chat.tinycms.xyz:3002" target="_blank">https://chat.tinycms.xyz:3002</a>
                 <br> </td>
             <td></td>
@@ -79,7 +92,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>4</td>
             <td> <a href="https://wu.ci/" target="_blank">https://wu.ci/</a>
                 <br> </td>
             <td></td>
@@ -91,7 +104,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>5</td>
             <td> <a href="https://ai.maijigc.com/nav/" target="_blank">https://ai.maijigc.com/nav/</a>
                 <br> </td>
             <td></td>
@@ -103,31 +116,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>5</td>
-            <td> <a href="https://ai.ai365.ink" target="_blank">https://ai.ai365.ink</a>
-                <br> </td>
-            <td></td>
-            <td>
-                        🆓
-                        🧰
-            </td>
-            <td>2023-10-18</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>6</td>
-            <td> <a href="https://newpc.icoding.ink/" target="_blank">https://newpc.icoding.ink/</a>
-                <br> </td>
-            <td></td>
-            <td>
-                        🆓
-                        🧰
-            </td>
-            <td>2023-09-08</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>7</td>
             <td> <a href="https://www.promptboom.com/" target="_blank">https://www.promptboom.com/</a>
                 <br> </td>
             <td></td>
@@ -139,7 +128,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>7</td>
             <td> <a href="https://greengpt.app/" target="_blank">https://greengpt.app/</a>
                 <br> </td>
             <td></td>
@@ -148,6 +137,17 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🧰
             </td>
             <td>2023-04-01</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td> <a href="https://www.aitool.ink/" target="_blank">https://www.aitool.ink/</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+            </td>
+            <td>2023-12-24</td>
             <td></td>
         </tr>
         <tr>
