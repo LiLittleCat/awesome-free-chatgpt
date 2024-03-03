@@ -166,7 +166,6 @@
 - [🔓🧰][https://chatgpt.hklan.top/](https://chatgpt.hklan.top/) - 2023-07-21
 - [🆓][https://www.chatfree.cc/](https://v.chatfree.cc/) - 2023-07-25
 - [🔓🧰][https://unifyai.cn/](https://unifyai.cn/) - 2023-07-25 
-- [🔒💪🧰][https://coffeecat.ai/](https://coffeecat.ai/) - 2023-07-25
 - [🔑[https://freegpt.dingtoucake.xyz/](https://freegpt.dingtoucake.xyz/) - 2023-07-26
 - [👀🧰][https://dzyai.com/chat](https://dzyai.com/chat) - 2023-07-26
 - [🔒💪🧰][https://visionarybrush.com/](https://visionarybrush.com/) - 2023-07-29
@@ -175,7 +174,7 @@
 - [🆓][https://ai.qidianym.net/](https://ai.qidianym.net/) - 2023-07-31
 - [🆓][https://f.aifree.site/](https://f.aifree.site/) - 2023-08-01
 - [🔒💪🌎][https://chat.gpt.bz/](https://chat.gpt.bz/) - 2023-08-01
-- [🆓][https://coffeecat.ai](https://coffeecat.ai) - 2023-08-03
+- [🔑][https://coffeecat.ai](https://coffeecat.ai) - 2023-08-03
 - [🔒💪🧰][https://i.aibusx.com](https://i.aibusx.com) - 2023-08-04
 - [🔒][https://freechat.xiaopao.link](https://freechat.xiaopao.link) - 2023-08-04
 - [🔓🧰][http://www.airight.fun/](http://www.airight.fun/) - 2023-08-04
@@ -188,7 +187,6 @@
 - [🆓][https://chat.leadscloud.xyz/](https://chat.leadscloud.xyz/) - 2023-08-14
 - [🔑💪][https://caffcat.com](https://caffcat.com) - 2023-08-15
 - [🔑💪][https://www.jinwangyile.xyz](https://www.jinwangyile.xyz) - 2023-08-15
-- [🆓][https://chat.geekgpt.org/](https://chat.geekgpt.org/) - 2023-08-16
 - [🔒][http://chat.tensorbytes.com](http://chat.tensorbytes.com) - 2023-08-22
 - [🆓][https://chatp.free2gpt.xyz/](https://chatp.free2gpt.xyz/) - 2023-08-24
 - [🔒🔑][https://caffcat.co/](https://caffcat.co/) - 2023-08-24
@@ -202,12 +200,10 @@
 - [🔒💪🧰][https://chat.sb-chat.com/index.php](https://chat.sb-chat.com/index.php) - 2023-08-30
 - [🔒🧰][https://ai.imiphp.com/](https://ai.imiphp.com/) - 2023-09-01
 - [🔑][https://nb.aitom.cc](https://nb.aitom.cc) - 2023-09-03
-- [🔒🔑][https://chat.zhile.io/](https://chat.zhile.io/) - 2023-08-21
-- [🆓][https://chat-shared2.zhile.io/](https://chat-shared2.zhile.io/) - 2023-08-21
 - [🔓💪][https://webai.gpt-666.com](https://webai.gpt-666.com) - 2023-09-05
 - [🔒💪🧰][https://chat.bltcy.top/](https://chat.bltcy.top/) - 2023-09-05
 - [🌎🔒🧰][https://beta.bushiai.com/](https://beta.bushiai.com/) - 2023-09-07
-- [🆓][https://free.aitom.cc/](https://free.aitom.cc/) - 2023-09-12
+- [🔑][https://free.aitom.cc/](https://free.aitom.cc/) - 2023-09-12
 - [🔒💪🧰][https://chat.gptwecan.com/chat](https://chat.gptwecan.com/chat) - 2023-09-19
 - [👀][https://chat.xiaomingyan.com](https://chat.xiaomingyan.com) - 2023-09-21
 - [🔒💪][http://www.znzs.me/](http://www.znzs.me/) - 2023-09-23
@@ -232,10 +228,10 @@
 - [🔑💰💪🧰][https://chat4.leapgpt.top/](https://chat4.leapgpt.top/) - 2023-11-09
 - [🔒][https://ai.aichat.vin](https://ai.aichat.vin) - 2023-11-15
 - [💪🔒][https://imyai.top/](https://imyai.top/) - 2023-11-19
-- [🆓][https://beta.aicatgirl.com/](https://beta.aicatgirl.com/) - 2023-11-21 - 密码 duxiangzu - Password duxiangzu
+- [🔑][https://beta.aicatgirl.com/](https://beta.aicatgirl.com/) - 2023-11-21
 - [💪🔒][ht🧰tps://aappt.opao.xyz](https://aappt.opao.xyz) - 2023-11-24
 - [💪🔒][https://dacongming.cc](https://dacongming.cc) - 2023-11-26
-- [🆓][https://ct10.xiami.monster/](https://ct10.xiami.monster/) - 2023-11-26 - 发布页 https://fby.xiamis.xyz/
+- [🔒][https://ct10.xiami.monster/](https://ct10.xiami.monster/) - 2023-11-26 - 发布页 https://fby.xiamis.xyz/
 - [🔒💪🧰][https://shaopchat.com](https://shaopchat.com) - 2023-11-27
 - [🔒💪🧰][https://shaopchat.com](https://shaopchat.com) - 2023-12-03
 - [🔒💪🧰][http://nmwaicg.top/](http://nmwaicg.top/) - 2023-12-05
@@ -244,7 +240,6 @@
 - [🔒💪][https://feel-gpt.fun](https://feel-gpt.fun) - 2023-12-07
 - [🔓💪🧰][https://newchat.hklan.top/](https://newchat.hklan.top/) - 2023-12-09
 - [🔓💰💪🧰][https://smallai.sellhigh.asia](https://smallai.sellhigh.asia) - 2023-12-10
-- [🆓🔓💪][https://chat.aiptl.com](https://chat.aiptl.com) - 2023-12-17
 - [🆓🔓💪][https://free.netfly.top/](https://free.netfly.top/) - 2023-12-19 - 访问密码 3.5isfree - Access password 3.5isfree
 - [🆓🔓💪][https://chat.ai365vip.com/](https://chat.ai365vip.com/) - 2023-12-24
 - [🆓][https://www.aitool.ink/](https://www.aitool.ink/) - 2023-12-24
@@ -252,14 +247,12 @@
 - [🆓][https://ss.sbai.free.hr/](https://ss.sbai.free.hr/) - 2023-12-30
 - [🆓][https://chat.meizi.me](https://chat.meizi.me) - 2023-12-30
 - [🔒💪][https://www.gnomic.cn/agentCenter/index](https://www.gnomic.cn/agentCenter/index) - 2023-12-30
-- [🆓][https://chat.meizi.me](https://chat.meizi.me) - 2023-12-30
 - [🔒][https://gpt.100ai.fun](https://gpt.100ai.fun) - 2023-12-30
 - [🆓][https://promptboom.com/PowerChat/PowerChatTalk](https://promptboom.com/PowerChat/PowerChatTalk) - 2024-01-01
 - [🔒💪][https://yewu.bcwhkj.cn](https://yewu.bcwhkj.cn) - 2024-01-04
 - [🔒💪][https://aibusx.com/](https://aibusx.com/) - 2024-01-04
 - [🆓][https://chat.gptchatai.life/](https://chat.gptchatai.life/) - 2024-01-04
 - [🔒💪🧰][https://www.atalk-ai.com/](https://www.atalk-ai.com/) - 2024-01-10
-- [🆓][https://chat.atmoses.uk/](https://chat.atmoses.uk/) - 2024-01-12
 - [🔒][https://chat.fengzhengx.cn/](https://chat.fengzhengx.cn/) - 2024-01-15
 - [🔒💪🧰][https://chat.anchongai.com](https://chat.anchongai.com) - 2024-01-16
 - [🔒💪🧰][https://www.tomchat.fun](https://www.tomchat.fun) - 2024-01-16
@@ -275,6 +268,11 @@
 <summary>🚫 已失效</summary>
 
 <!-- abnormal-begin -->
+- ~~[🆓🔓💪][https://chat.aiptl.com](https://chat.aiptl.com) - 2023-12-17~~ - 2024-01-31
+- ~~[🔒🔑][https://chat.zhile.io/](https://chat.zhile.io/) - 2023-08-21~~ - 2024-01-31
+- ~~[🆓][https://chat.geekgpt.org/](https://chat.geekgpt.org/) - 2023-08-16~~ - 2024-01-31
+- ~~[🆓][https://chat-shared2.zhile.io/](https://chat-shared2.zhile.io/) - 2023-08-21~~ - 2024-01-31
+- ~~[🆓][https://chat.atmoses.uk/](https://chat.atmoses.uk/) - 2024-01-12~~ - 2024-01-23
 - ~~[🆓🧰][https://wu.ci/](https://wu.ci/) - 2023-12-16~~ - 2024-01-22
 - ~~[🆓💪🧰][http://newpc.i-coding.top](http://newpc.i-coding.top) - 2024-01-10~~ - 2024-01-22
 - ~~[🆓][https://chat.zonas.wang](https://chat.zonas.wang) - 2024-01-08~~ - 2024-01-22
