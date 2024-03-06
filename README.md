@@ -18,7 +18,7 @@
 
 |                                               🏆 赞助商 🏆                                                |
   |:------------------------------------------------------------------------------------------------------:|
-| 👉 [WeexAI](https://a.weexai.site/) 支持 GPT4、Claude2、GPT-3.5-turbo（免费无限制）、Gemini Pro（免费无限制）、助手/绘画、语音合成。 |
+| 👉 [WeexAI](https://a.weexai.site/) 支持 GPT4、Claude3、GPT-3.5-turbo（免费无限制）、Gemini Pro（免费无限制）、助手/绘画、语音合成。 |
 
 ---
 
@@ -75,7 +75,8 @@
                         🧰
             </td>
             <td>2023-11-15</td>
-            <td>多模型，支持 GPT4 文件 </td>
+            <td>多模型，支持 GPT4 文件 
+</td>
         </tr>
         <tr>
             <td>2</td>
@@ -1952,7 +1953,8 @@
                         💪
             </td>
             <td>2023-05-17</td>
-            <td>GPT4 的兑换码：TRYGPT4</td>
+            <td>GPT4 的兑换码：TRYGPT4
+</td>
         </tr>
         <tr>
             <td>174</td>
@@ -2219,7 +2221,8 @@
                         🔒
             </td>
             <td>2023-11-26</td>
-            <td>发布页 https://fby.xiamis.xyz/</td>
+            <td>发布页 https://fby.xiamis.xyz/
+</td>
         </tr>
         <tr>
             <td>198</td>
