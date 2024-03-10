@@ -258,6 +258,10 @@
 - [🔒💪🧰][https://www.tomchat.fun](https://www.tomchat.fun) - 2024-01-16
 - [🔒💪][https://chat001.7x24h.online/](https://chat001.7x24h.online/) - 2024-01-18
 - [🔒💪][https://www.chaindesk.ai/](https://www.chaindesk.ai/) - 2024-01-19
+- [🌎🔒💪🧰][https://wielded.com/](https://wielded.com/) - 2024-01-25
+- [🔒💪🧰][https://vip.talktoai.club/chat](https://vip.talktoai.club/chat) - 2024-01-26
+- [🆓🔓💪🧰][http://nmwaicg.top/](http://nmwaicg.top/) - 2024-01-27
+- [🆓🔓💪🧰][https://www.ichat2019.com/](https://www.ichat2019.com/) - 2024-02-01
 
 
 
