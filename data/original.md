@@ -262,6 +262,8 @@
 - [🔒💪🧰][https://vip.talktoai.club/chat](https://vip.talktoai.club/chat) - 2024-01-26
 - [🆓🔓💪🧰][http://nmwaicg.top/](http://nmwaicg.top/) - 2024-01-27
 - [🆓🔓💪🧰][https://www.ichat2019.com/](https://www.ichat2019.com/) - 2024-02-01
+- [🆓💪🧰][https://share.wendabao.net](https://share.wendabao.net) - 2024-02-04
+- [🆓][https://ai.wendabao.net](https://ai.wendabao.net) - 2024-02-04
 
 
 
