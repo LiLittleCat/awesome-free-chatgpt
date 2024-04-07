@@ -2,6 +2,8 @@
 
 ![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![English](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/english.svg)](README_en.md) ![website count](https://img.shields.io/badge/websites-254-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
 
+> 4 月 1 日，OpenAI 宣布可以不登录即可使用 ChatGPT 3.5，参阅 [Start using ChatGPT instantly](https://openai.com/blog/start-using-chatgpt-instantly)。
+
 🎁 免费的 ChatGPT (<https://chat.openai.com/>) 镜像网站列表，以及更多免费资源，持续更新。
 
 此处列出的网站均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
@@ -87,7 +89,8 @@
                         🧰
             </td>
             <td>2023-11-15</td>
-            <td>多模型，支持 GPT4 文件 </td>
+            <td>多模型，支持 GPT4 文件 
+</td>
         </tr>
         <tr>
             <td>3</td>
@@ -2012,7 +2015,8 @@
                         💪
             </td>
             <td>2023-05-17</td>
-            <td>GPT4 的兑换码：TRYGPT4</td>
+            <td>GPT4 的兑换码：TRYGPT4
+</td>
         </tr>
         <tr>
             <td>179</td>
@@ -2292,7 +2296,8 @@
                         🔒
             </td>
             <td>2023-11-26</td>
-            <td>发布页 https://fby.xiamis.xyz/</td>
+            <td>发布页 https://fby.xiamis.xyz/
+</td>
         </tr>
         <tr>
             <td>204</td>
