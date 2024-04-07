@@ -2,6 +2,7 @@
 
 ![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![中文](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/chinese.svg)](README.md) ![website count](https://img.shields.io/badge/websites-107-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
 
+> On April 1st, OpenAI announced that ChatGPT 3.5 can be used without logging in, see [Start using ChatGPT instantly](https://openai.com/blog/start-using-chatgpt-instantly).
 
 🚀 List of free ChatGPT(<https://chat.openai.com/>) mirror sites and more free resources, continuously updated.
 
@@ -214,7 +215,8 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🆓
             </td>
             <td>2023-11-09</td>
-            <td>Login code leap@gpt+</td>
+            <td>Login code leap@gpt+
+</td>
         </tr>
         <tr>
             <td>15</td>
