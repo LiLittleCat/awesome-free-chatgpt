@@ -264,6 +264,9 @@
 - [🆓🔓💪🧰][https://www.ichat2019.com/](https://www.ichat2019.com/) - 2024-02-01
 - [🆓💪🧰][https://share.wendabao.net](https://share.wendabao.net) - 2024-02-04
 - [🆓][https://ai.wendabao.net](https://ai.wendabao.net) - 2024-02-04
+- [🆓][https://chat.freeuse.top/](https://chat.freeuse.top/) - 2024-04-30
+- [🔒][https://chat.weijiajin.com](https://chat.weijiajin.com) - 2024-02-05
+- [🔒][https://aibox365.com](https://aibox365.com) - 2024-02-05
 
 
 
@@ -274,6 +277,7 @@
 <summary>🚫 已失效</summary>
 
 <!-- abnormal-begin -->
+- ~~[🆓🔓💪][https://talkai.info/](https://talkai.info/) - 2024-02-04~~ - 2024-02-04
 - ~~[🆓🔓💪][https://chat.aiptl.com](https://chat.aiptl.com) - 2023-12-17~~ - 2024-01-31
 - ~~[🔒🔑][https://chat.zhile.io/](https://chat.zhile.io/) - 2023-08-21~~ - 2024-01-31
 - ~~[🆓][https://chat.geekgpt.org/](https://chat.geekgpt.org/) - 2023-08-16~~ - 2024-01-31
