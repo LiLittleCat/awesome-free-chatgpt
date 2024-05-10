@@ -89,7 +89,8 @@
                         🧰
             </td>
             <td>2023-11-15</td>
-            <td>多模型，支持 GPT4 文件 </td>
+            <td>多模型，支持 GPT4 文件 
+</td>
         </tr>
         <tr>
             <td>3</td>
@@ -2024,7 +2025,8 @@
                         💪
             </td>
             <td>2023-05-17</td>
-            <td>GPT4 的兑换码：TRYGPT4</td>
+            <td>GPT4 的兑换码：TRYGPT4
+</td>
         </tr>
         <tr>
             <td>180</td>
@@ -2324,7 +2326,8 @@
                         🔒
             </td>
             <td>2023-11-26</td>
-            <td>发布页 https://fby.xiamis.xyz/</td>
+            <td>发布页 https://fby.xiamis.xyz/
+</td>
         </tr>
         <tr>
             <td>207</td>
@@ -3752,6 +3755,7 @@
 - [ChatDOC - Chat with your documents](https://chatdoc.com/) - ChatDOC is a ChatGPT-based file-reading assistant that can quickly extract, locate and summarize information from documents, able to understand texts, tables and images.
 - [Humata - GPT for your files](https://www.humata.ai/) - Humata is like GPT for your files. Ask AI anything about your data. Ask questions about your data and get answers powered by AI instantly. Learn, summarize, synthesize, and extract valuable data from your files 100X faster.
 - [Chatbase | ChatGPT for your website](https://www.chatbase.co/) - Build an AI chatbot from your knowledge base and add it to your website.
+- [SiteGPT | ChatGPT for your products](https://sitegpt.ai/?via=theankurtyagi) - Make AI your expert customer support agent.
 
 
 ### 💻 开发者工具
@@ -3760,6 +3764,8 @@
 - [Cursor | Build Fast](https://www.cursor.so/) - The AI-first code editor. Build software faster in an editor designed for pair-programming with AI
 - [Bito AI - Become a 10X Dev with Bito AI - Bito](https://bito.ai/)
 - [Meaningful Code Tests for Busy Devs | CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push.
+- [Which AI Tool Is Right For You? ChatGPT vs. Tabnine vs. GitHub Copilot
+](https://theankurtyagi.com/which-ai-tool-is-right-for-you-chatgpt-vs-tabnine-vs-github-copilot/) - Do these AI tools (ChatGPT, Tabnine, and GitHub Copilot ) make a developer more efficient?.
 
 ---
 
