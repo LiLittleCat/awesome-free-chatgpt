@@ -173,6 +173,7 @@ public class Build {
                 continue;
             }
             features.remove(VPN_REQUIRED);
+            features.remove(SPONSORS);
             normalWebsitesEnglish.add(normalWebsite);
         }
         // sort

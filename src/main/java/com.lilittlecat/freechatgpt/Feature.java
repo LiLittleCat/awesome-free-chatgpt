@@ -21,7 +21,8 @@ public enum Feature {
     API_KEY_REQUIRED("api_key_required", "🔑", -3f),
     FOLLOW_ON_WECHAT_REQUIRED("follow_on_wechat_required", "👀", -5f),
     CHARGE_REQUIRED("charge_required", "💰", -5f),
-    COMMUNITY_RECOMMENDATION("community_recommendation", "🌟", 0.5f);
+    COMMUNITY_RECOMMENDATION("community_recommendation", "🌟", 0.5f),
+    SPONSORS("sponsors", "🏆", 10f);
     private final String value;
     private final String label;
     private final Float score;
