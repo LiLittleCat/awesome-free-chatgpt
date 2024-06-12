@@ -190,14 +190,13 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
         </tr>
         <tr>
             <td>12</td>
-            <td> <a href="https://greengpt.app/" target="_blank">https://greengpt.app/</a>
+            <td> <a href="https://tudouai.chat/chat" target="_blank">https://tudouai.chat/chat</a>
                 <br> </td>
             <td></td>
             <td>
                         🆓
-                        🧰
             </td>
-            <td>2023-04-01</td>
+            <td>2024-05-28</td>
             <td></td>
         </tr>
         <tr>
