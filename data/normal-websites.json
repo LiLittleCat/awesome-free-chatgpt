@@ -283,7 +283,7 @@
 		"url":"https://newpc.icoding.ink/?debug=true"
 	},
 	{
-		"addedDate":"2024-05-11",
+		"addedDate":"2024-05-28",
 		"customDescription":null,
 		"customDescriptionEnglish":null,
 		"description":null,
@@ -302,7 +302,7 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat.mynanian.top/"
+		"url":"https://tudouai.chat/chat"
 	},
 	{
 		"addedDate":"2024-05-11",
@@ -324,6 +324,28 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
+		"url":"https://chat.mynanian.top/"
+	},
+	{
+		"addedDate":"2024-05-11",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE"
+		],
+		"id":15,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":2.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
 		"url":"https://free.icoding.ink/index2.html"
 	},
 	{
@@ -335,7 +357,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":15,
+		"id":16,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -357,7 +379,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":16,
+		"id":17,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -379,7 +401,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":17,
+		"id":18,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -401,7 +423,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":18,
+		"id":19,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -423,7 +445,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":19,
+		"id":20,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -445,7 +467,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":20,
+		"id":21,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -467,7 +489,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":21,
+		"id":22,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -489,7 +511,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":22,
+		"id":23,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -511,7 +533,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":23,
+		"id":24,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -533,7 +555,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":24,
+		"id":25,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -557,7 +579,7 @@
 			"FREE_QUOTA",
 			"GPT4_SUPPORTED"
 		],
-		"id":25,
+		"id":26,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -579,7 +601,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":26,
+		"id":27,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -601,7 +623,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":27,
+		"id":28,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -623,7 +645,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":28,
+		"id":29,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -645,7 +667,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":29,
+		"id":30,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -667,7 +689,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":30,
+		"id":31,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -689,7 +711,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":31,
+		"id":32,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -711,7 +733,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":32,
+		"id":33,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -733,7 +755,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":33,
+		"id":34,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -755,7 +777,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":34,
+		"id":35,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -777,7 +799,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":35,
+		"id":36,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -799,7 +821,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":36,
+		"id":37,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -821,7 +843,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":37,
+		"id":38,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -843,7 +865,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":38,
+		"id":39,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -865,7 +887,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":39,
+		"id":40,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -887,7 +909,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":40,
+		"id":41,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -909,7 +931,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":41,
+		"id":42,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -931,7 +953,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":42,
+		"id":43,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -953,7 +975,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":43,
+		"id":44,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -975,7 +997,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":44,
+		"id":45,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -997,7 +1019,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":45,
+		"id":46,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1019,7 +1041,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":46,
+		"id":47,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1041,7 +1063,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":47,
+		"id":48,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1063,7 +1085,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":48,
+		"id":49,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1085,7 +1107,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":49,
+		"id":50,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1107,7 +1129,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":50,
+		"id":51,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1129,7 +1151,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":51,
+		"id":52,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1151,7 +1173,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":52,
+		"id":53,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1173,7 +1195,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":53,
+		"id":54,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1195,7 +1217,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":54,
+		"id":55,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1217,7 +1239,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":55,
+		"id":56,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1239,7 +1261,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":56,
+		"id":57,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1261,7 +1283,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":57,
+		"id":58,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1283,7 +1305,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":58,
+		"id":59,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1305,7 +1327,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":59,
+		"id":60,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1327,7 +1349,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":60,
+		"id":61,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1349,7 +1371,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":61,
+		"id":62,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1371,7 +1393,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":62,
+		"id":63,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1393,7 +1415,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":63,
+		"id":64,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1415,7 +1437,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":64,
+		"id":65,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1437,7 +1459,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":65,
+		"id":66,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1459,7 +1481,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":66,
+		"id":67,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1481,7 +1503,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":67,
+		"id":68,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1503,7 +1525,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":68,
+		"id":69,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1525,7 +1547,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":69,
+		"id":70,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1547,7 +1569,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":70,
+		"id":71,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1569,7 +1591,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":71,
+		"id":72,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1591,7 +1613,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":72,
+		"id":73,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1613,7 +1635,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":73,
+		"id":74,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1635,7 +1657,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":74,
+		"id":75,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1657,7 +1679,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":75,
+		"id":76,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1679,7 +1701,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":76,
+		"id":77,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1701,7 +1723,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":77,
+		"id":78,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1723,7 +1745,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":78,
+		"id":79,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1745,7 +1767,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":79,
+		"id":80,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1767,7 +1789,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":80,
+		"id":81,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1789,7 +1811,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":81,
+		"id":82,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -1813,30 +1835,6 @@
 			"VPN_REQUIRED",
 			"MORE_THAN_CHAT"
 		],
-		"id":82,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":1.5,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://www.promptboom.com/"
-	},
-	{
-		"addedDate":"2023-04-01",
-		"customDescription":null,
-		"customDescriptionEnglish":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
-			"VPN_REQUIRED",
-			"MORE_THAN_CHAT"
-		],
 		"id":83,
 		"labels":null,
 		"lang":null,
@@ -1848,7 +1846,7 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://greengpt.app/"
+		"url":"https://www.promptboom.com/"
 	},
 	{
 		"addedDate":"2023-06-04",
@@ -2334,7 +2332,7 @@
 		"url":"https://chat12.xeasy.me/"
 	},
 	{
-		"addedDate":"2023-12-09",
+		"addedDate":"2024-06-07",
 		"customDescription":null,
 		"customDescriptionEnglish":null,
 		"description":null,
@@ -2345,6 +2343,30 @@
 			"MORE_THAN_CHAT"
 		],
 		"id":105,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":0.5,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://site.eqing.tech/"
+	},
+	{
+		"addedDate":"2023-12-09",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE_QUOTA",
+			"GPT4_SUPPORTED",
+			"MORE_THAN_CHAT"
+		],
+		"id":106,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -2368,30 +2390,6 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":106,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":0.5,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://t1.c1ns.cn/"
-	},
-	{
-		"addedDate":"2023-06-18",
-		"customDescription":"<details>\n<summary>内容过长，点击展开</summary>\n备用链接: https://www.easygpt.work\r\n</details>",
-		"customDescriptionEnglish":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE_QUOTA",
-			"GPT4_SUPPORTED",
-			"MORE_THAN_CHAT"
-		],
 		"id":107,
 		"labels":null,
 		"lang":null,
@@ -2403,7 +2401,7 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://free.easychat.work"
+		"url":"https://t1.c1ns.cn/"
 	},
 	{
 		"addedDate":"2023-09-05",

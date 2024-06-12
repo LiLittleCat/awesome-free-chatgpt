@@ -57,7 +57,6 @@
 - [ 🔓 ] [https://chat.zhulei.xyz/](https://chat.zhulei.xyz/) - 2023-04-21
 - [ 🆓 ] [https://ai.heptax.com/](https://ai.heptax.com/) - 2023-04-30
 - [ 🆓🌎 ] [https://ailink.icu/](https://ailink.icu/) - 2023-04-03
-- [ 🆓🌎🧰 ] [https://greengpt.app/](https://greengpt.app/) - 2023-04-01
 - [ 🔒💪 ] [https://nat.dev/](https://nat.dev/) - 2023-04-07
 - [ 🆓🌎 ] [https://chat2.geekr.dev/](https://chat2.geekr.dev/) - 2023-04-04
 - [ 🆓🌎 ] [https://gpt.getshare.net/](https://gpt.getshare.net/) - 2023-03-22
@@ -122,7 +121,7 @@
 - [🆓][https://chat.weuseing.com/](https://chat.weuseing.com/) - 2023-06-17
 - [🔒🧰][https://xdu.cn/](https://xdu.cn/) - 2023-06-17 
 - [🔒💪🧰][https://chat.icoding.ink/](https://chat.icoding.ink/) - 2023-06-17 - 在聊天室使用时，请在提问的问题前面加上 @ChatGPT，否则 GPT 不搭理。  
-- [🔓💪🧰][https://free.easychat.work](https://free.easychat.work) - 2023-06-18 - 备用链接: https://www.easygpt.work
+- [🔓💪🧰][https://site.eqing.tech/](https://site.eqing.tech/) - 2024-06-07
 - [🔒][http://ai.mkzero.top:44444/](http://ai.mkzero.top:44444/) - 2023-06-18 
 - [🔒💪][https://firstai.opao.xyz/](https://firstai.opao.xyz/) - 2023-06-20
 - [🔓💪🧰][https://t1.c1ns.cn/](https://t1.c1ns.cn/) - 2023-06-20 
@@ -280,6 +279,7 @@
 - [🆓💪][https://sharedchat.cn/shared.html](https://sharedchat.cn/shared.html) - 2024-02-21
 - [🔒🧰][https://chat.0oai.com](https://chat.0oai.com) - 2024-02-16
 - [🆓💪][https://chat.icoding.ink/pc-chat/#/questions](https://chat.icoding.ink/pc-chat/#/questions) - 2024-02-06
+- [🆓][https://tudouai.chat/chat](https://tudouai.chat/chat) - 2024-05-28
 
 
 
@@ -291,6 +291,7 @@
 
 <!-- abnormal-begin -->
 
+- ~~[ 🆓🌎🧰 ] [https://greengpt.app/](https://greengpt.app/) - 2023-04-01~~ - 2024-06-02
 - ~~[🆓][https://www.aitool.ink/](https://www.aitool.ink/) - 2023-12-24~~ - 2024-03-24
 - ~~[🆓][https://ck-ai.co](https://ck-ai.co) - 2024-02-20~~ - 2024-05-21
 - ~~[🆓][www.lovechat.ink](www.lovechat.ink) - 2023-12-24~~ - 2024-05-21
