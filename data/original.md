@@ -253,7 +253,7 @@
 - [🆓🔓💪🧰][https://www.ichat2019.com/](https://www.ichat2019.com/) - 2024-02-01
 - [🆓💪🧰][https://share.wendabao.net](https://share.wendabao.net) - 2024-02-04
 - [🆓][https://ai.wendabao.net](https://ai.wendabao.net) - 2024-02-04
-- [🆓][https://chat.freeuse.top/](https://chat.freeuse.top/) - 2024-04-30
+- [🆓💪][https://chat.freeuse.top/](https://chat.freeuse.top/) - 2024-04-30
 - [🔒][https://chat.weijiajin.com](https://chat.weijiajin.com) - 2024-02-05
 - [🔒][https://aibox365.com](https://aibox365.com) - 2024-02-05
 - [🆓🧰][https://chatnio.liujiarong.top/](https://chatnio.liujiarong.top/) - 2024-05-20
@@ -280,6 +280,20 @@
 - [🔒🧰][https://chat.0oai.com](https://chat.0oai.com) - 2024-02-16
 - [🆓💪][https://chat.icoding.ink/pc-chat/#/questions](https://chat.icoding.ink/pc-chat/#/questions) - 2024-02-06
 - [🆓][https://tudouai.chat/chat](https://tudouai.chat/chat) - 2024-05-28
+- [🔒💪🧰][https://zhijianai.com.cn/chat](https://zhijianai.com.cn/chat) - 2024-06-22
+- [🆓][https://robot.liujiarong.top](https://robot.liujiarong.top) - 2024-05-18
+- [🆓][https://robot.liujiarong.me](https://robot.liujiarong.me) - 2024-05-27
+- [🆓][https://www.51supergpt.com/](https://www.51supergpt.com/) - 2024-05-30  - GPT3.5 授权码 51supergpt.com - GPT3.5 access code 51supergpt.com
+- [🧰][https://free2.nbmj.xyz/](https://free2.nbmj.xyz/) - 2024-05-24 - Midjourney
+- [🆓][https://chatgptplus.cn/](https://chatgptplus.cn/) - 2024-06-01
+- [🆓💪🧰][https://ai.myym.fun](https://ai.myym.fun) - 2024-06-06
+- [🆓💪🧰][https://chat.baimoqilin.top/](https://chat.baimoqilin.top/) - 2024-06-09
+- [🔒💪🧰][https://assistant.old-eight.top/#/chat/1002](https://assistant.old-eight.top/#/chat/1002) - 2024-06-09
+- [🆓][https://chatgpt4online.org/chatgpt-free-online/#chat](https://chatgpt4online.org/chatgpt-free-online/#chat) - 2024-06-13
+- [🆓🔓💪🧰][https://www.zxf7460.cn/](https://www.zxf7460.cn/) - 2024-06-13
+- [🆓🌎][https://chatgptfree.ai/](https://chatgptfree.ai/) - 2024-06-13
+- [🆓💪][https://www.yeschat.ai/zh-CN/gpt-4o](https://www.yeschat.ai/zh-CN/gpt-4o) - 2024-06-13
+
 
 
 
