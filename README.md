@@ -2162,7 +2162,8 @@
                         💪
             </td>
             <td>2023-05-17</td>
-            <td>GPT4 的兑换码：TRYGPT4</td>
+            <td>GPT4 的兑换码：TRYGPT4
+</td>
         </tr>
         <tr>
             <td>193</td>
@@ -2535,7 +2536,8 @@
                         🔒
             </td>
             <td>2023-11-26</td>
-            <td>发布页 https://fby.xiamis.xyz/</td>
+            <td>发布页 https://fby.xiamis.xyz/
+</td>
         </tr>
         <tr>
             <td>227</td>
@@ -2989,6 +2991,19 @@
         <tr>
             <td>270</td>
             <td> <a href="https://ai.01rj.cn/" target="_blank">https://ai.01rj.cn/</a>
+                <br> </td>
+            <td>
+                        🔒
+                        💰
+                        💪
+                        🧰
+            </td>
+            <td>2023-09-23</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>271</td>
+            <td> <a href="https://zhijianai.com.cn/chat" target="_blank">https://zhijianai.com.cn/chat</a>
                 <br> </td>
             <td>
                         🔒
