@@ -286,7 +286,7 @@
 - [🆓][https://www.51supergpt.com/](https://www.51supergpt.com/) - 2024-05-30  - GPT3.5 授权码 51supergpt.com - GPT3.5 access code 51supergpt.com
 - [🧰][https://free2.nbmj.xyz/](https://free2.nbmj.xyz/) - 2024-05-24 - Midjourney
 - [🆓][https://chatgptplus.cn/](https://chatgptplus.cn/) - 2024-06-01
-- [🆓💪🧰][https://ai.myym.fun](https://ai.myym.fun) - 2024-06-06
+- [🆓💪🧰🌎][https://ai.myym.fun](https://ai.myym.fun) - 2024-06-06
 - [🆓💪🧰][https://chat.baimoqilin.top/](https://chat.baimoqilin.top/) - 2024-06-09
 - [🔒💪🧰][https://assistant.old-eight.top/#/chat/1002](https://assistant.old-eight.top/#/chat/1002) - 2024-06-09
 - [🆓][https://chatgpt4online.org/chatgpt-free-online/#chat](https://chatgpt4online.org/chatgpt-free-online/#chat) - 2024-06-13

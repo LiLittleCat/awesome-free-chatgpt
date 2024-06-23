@@ -49,30 +49,6 @@
 		"url":"https://chat.baimoqilin.top/"
 	},
 	{
-		"addedDate":"2024-06-06",
-		"customDescription":null,
-		"customDescriptionEnglish":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
-			"GPT4_SUPPORTED",
-			"MORE_THAN_CHAT"
-		],
-		"id":3,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":3.5,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://ai.myym.fun"
-	},
-	{
 		"addedDate":"2024-02-04",
 		"customDescription":null,
 		"customDescriptionEnglish":null,
@@ -83,7 +59,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":4,
+		"id":3,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -106,7 +82,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":5,
+		"id":4,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -129,7 +105,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":6,
+		"id":5,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -152,7 +128,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":7,
+		"id":6,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -175,7 +151,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":8,
+		"id":7,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -198,7 +174,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":9,
+		"id":8,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -221,7 +197,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":10,
+		"id":9,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -244,7 +220,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":11,
+		"id":10,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -267,7 +243,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":12,
+		"id":11,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -292,7 +268,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":13,
+		"id":12,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -304,6 +280,31 @@
 		"title":null,
 		"updatedDate":null,
 		"url":"https://www.zxf7460.cn/"
+	},
+	{
+		"addedDate":"2024-06-06",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"GPT4_SUPPORTED",
+			"MORE_THAN_CHAT",
+			"VPN_REQUIRED"
+		],
+		"id":13,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":2.5,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://ai.myym.fun"
 	},
 	{
 		"addedDate":"2024-05-20",
