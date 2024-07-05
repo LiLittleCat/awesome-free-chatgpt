@@ -448,7 +448,7 @@ GPT3.5 access code 51supergpt.com
                         🆓
             </td>
             <td>2023-11-09</td>
-            <td>Login code leap@gpt+</td>
+            <td>Login code leap@gpt+</td>
         </tr>
         <tr>
             <td>35</td>
