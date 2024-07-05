@@ -25,6 +25,30 @@
 		"url":"https://chat5.aiyunos.top"
 	},
 	{
+		"addedDate":"2023-08-14",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"SPONSORS",
+			"FREE",
+			"GPT4_SUPPORTED"
+		],
+		"id":2,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":13.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://chat.tinycms.xyz:3002"
+	},
+	{
 		"addedDate":"2024-06-09",
 		"customDescription":null,
 		"customDescriptionEnglish":null,
@@ -35,7 +59,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":2,
+		"id":3,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -59,7 +83,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":3,
+		"id":4,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -82,7 +106,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":4,
+		"id":5,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -105,7 +129,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":5,
+		"id":6,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -128,7 +152,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":6,
+		"id":7,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -151,7 +175,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":7,
+		"id":8,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -174,7 +198,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":8,
+		"id":9,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -197,7 +221,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":9,
+		"id":10,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -220,29 +244,6 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":10,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":3.0,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://chat.icoding.ink/pc-chat/#/questions"
-	},
-	{
-		"addedDate":"2023-08-14",
-		"customDescription":null,
-		"customDescriptionEnglish":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
-			"GPT4_SUPPORTED"
-		],
 		"id":11,
 		"labels":null,
 		"lang":null,
@@ -254,7 +255,7 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://chat.tinycms.xyz:3002"
+		"url":"https://chat.icoding.ink/pc-chat/#/questions"
 	},
 	{
 		"addedDate":"2024-06-13",
@@ -449,7 +450,7 @@
 	{
 		"addedDate":"2024-05-30",
 		"customDescription":"GPT3.5 授权码 51supergpt.com",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nGPT3.5 access code 51supergpt.com\r\n</details>",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nGPT3.5 access code 51supergpt.com\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -779,7 +780,7 @@
 	{
 		"addedDate":"2023-12-19",
 		"customDescription":"访问密码 3.5isfree",
-		"customDescriptionEnglish":"Access password 3.5isfree\r",
+		"customDescriptionEnglish":"Access password 3.5isfree",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -803,7 +804,7 @@
 	{
 		"addedDate":"2023-11-09",
 		"customDescription":"登录码 leap@gpt+",
-		"customDescriptionEnglish":"Login code leap@gpt+\r",
+		"customDescriptionEnglish":"Login code leap@gpt+",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -869,7 +870,7 @@
 	{
 		"addedDate":"2023-10-11",
 		"customDescription":"设置中输入访问密码 freegpt3",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password freegpt3 in settings.\r\n</details>",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password freegpt3 in settings.\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -1837,7 +1838,7 @@
 	{
 		"addedDate":"2023-05-25",
 		"customDescription":"设置中输入访问密码 586-482-535B",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password 586-482-535B in settings.\r\n</details>",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password 586-482-535B in settings.\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -2082,7 +2083,7 @@
 	{
 		"addedDate":"2023-06-04",
 		"customDescription":"设置中输入访问密码 chatcat",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password chatcat in settings.\r\n</details>",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password chatcat in settings.\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -2197,7 +2198,7 @@
 	{
 		"addedDate":"2023-05-17",
 		"customDescription":"设置中输入访问密码 857857",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password 857857 in settings.\r\n</details>",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password 857857 in settings.\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -2266,7 +2267,7 @@
 	{
 		"addedDate":"2023-04-11",
 		"customDescription":"设置中输入访问密码 chatcat",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password chatcat in settings.\r\n</details>",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nEnter access password chatcat in settings.\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -2588,7 +2589,7 @@
 	},
 	{
 		"addedDate":"2024-05-24",
-		"customDescription":"Midjourney\r",
+		"customDescription":"Midjourney",
 		"customDescriptionEnglish":null,
 		"description":null,
 		"extraInfo":null,
@@ -3004,7 +3005,7 @@
 	{
 		"addedDate":"2023-05-26",
 		"customDescription":"<details>\n<summary>内容过长，点击展开</summary>\n免费操作步骤：转到 API 设置并选择“使用自定义 API 端点”。然后，输入 https://free.churchless.tech/v1/chat/completions 作为端点，并将 API 密钥字段留空。\n</details>",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nFree operation steps: Go to API settings and select 'Use custom API endpoint'. Then, enter https://free.churchless.tech/v1/chat/completions as the endpoint and leave the API key field blank.\r\n</details>",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nFree operation steps: Go to API settings and select 'Use custom API endpoint'. Then, enter https://free.churchless.tech/v1/chat/completions as the endpoint and leave the API key field blank.\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -3279,7 +3280,7 @@
 	{
 		"addedDate":"2024-05-21",
 		"customDescription":"免费共享账户：maomi 密码：maomimaomi",
-		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nFree shared account: maomi password: maomimaomi\r\n</details>",
+		"customDescriptionEnglish":"<details>\n<summary>Content is too long, click to expand.</summary>\nFree shared account: maomi password: maomimaomi\n</details>",
 		"description":null,
 		"extraInfo":null,
 		"features":[
@@ -3998,7 +3999,7 @@
 	},
 	{
 		"addedDate":"2023-06-17",
-		"customDescription":"<details>\n<summary>内容过长，点击展开</summary>\n在聊天室使用时，请在提问的问题前面加上 @ChatGPT，否则 GPT 不搭理。  \r\n</details>",
+		"customDescription":"<details>\n<summary>内容过长，点击展开</summary>\n在聊天室使用时，请在提问的问题前面加上 @ChatGPT，否则 GPT 不搭理。  \n</details>",
 		"customDescriptionEnglish":null,
 		"description":null,
 		"extraInfo":null,
@@ -4046,7 +4047,7 @@
 	},
 	{
 		"addedDate":"2023-06-12",
-		"customDescription":"<details>\n<summary>内容过长，点击展开</summary>\n未登录用户三天免费额度，登录用户无限制，支持AI绘图（Stable Diffusion 和 Midjourney）\r\n</details>",
+		"customDescription":"<details>\n<summary>内容过长，点击展开</summary>\n未登录用户三天免费额度，登录用户无限制，支持AI绘图（Stable Diffusion 和 Midjourney）\n</details>",
 		"customDescriptionEnglish":null,
 		"description":null,
 		"extraInfo":null,
@@ -4670,7 +4671,7 @@
 	},
 	{
 		"addedDate":"2023-05-17",
-		"customDescription":"GPT4 的兑换码：TRYGPT4\r",
+		"customDescription":"GPT4 的兑换码：TRYGPT4",
 		"customDescriptionEnglish":null,
 		"description":null,
 		"extraInfo":null,
@@ -5452,7 +5453,7 @@
 	},
 	{
 		"addedDate":"2023-11-26",
-		"customDescription":"发布页 https://fby.xiamis.xyz/\r",
+		"customDescription":"发布页 https://fby.xiamis.xyz/",
 		"customDescriptionEnglish":null,
 		"description":null,
 		"extraInfo":null,
@@ -5764,7 +5765,7 @@
 	},
 	{
 		"addedDate":"2023-06-08",
-		"customDescription":"<details>\n<summary>内容过长，点击展开</summary>\n以提示词创建的指令应用 GPT 平台，目前已经有 200+ 应用\r\n</details>",
+		"customDescription":"<details>\n<summary>内容过长，点击展开</summary>\n以提示词创建的指令应用 GPT 平台，目前已经有 200+ 应用\n</details>",
 		"customDescriptionEnglish":null,
 		"description":null,
 		"extraInfo":null,
