@@ -69,6 +69,19 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
         </tr>
         <tr>
             <td>2</td>
+            <td> <a href="https://myai.asia/" target="_blank">https://myai.asia/</a>
+                <br> </td>
+            <td></td>
+            <td>
+                        🆓
+                        💪
+                        🧰
+            </td>
+            <td>2024-06-23</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
             <td> <a href="https://ai.myym.fun" target="_blank">https://ai.myym.fun</a>
                 <br> </td>
             <td></td>
@@ -81,7 +94,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>4</td>
             <td> <a href="https://share.wendabao.net" target="_blank">https://share.wendabao.net</a>
                 <br> </td>
             <td></td>
@@ -94,7 +107,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>5</td>
             <td> <a href="https://chat5.aiyunos.top" target="_blank">https://chat5.aiyunos.top</a>
                 <br> </td>
             <td></td>
@@ -107,7 +120,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td></td>
         </tr>
         <tr>
-            <td>5</td>
+            <td>6</td>
             <td> <a href="https://claude.free2gpt.xyz" target="_blank">https://claude.free2gpt.xyz</a>
                 <br> </td>
             <td></td>
@@ -122,7 +135,7 @@ Free Claude 3.5 Sonnet, limited to 120 times/day
 </details></td>
         </tr>
         <tr>
-            <td>6</td>
+            <td>7</td>
             <td> <a href="https://origin.eqing.tech/" target="_blank">https://origin.eqing.tech/</a>
                 <br> </td>
             <td></td>
@@ -131,18 +144,6 @@ Free Claude 3.5 Sonnet, limited to 120 times/day
                         💪
             </td>
             <td>2024-06-27</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td> <a href="https://myai.asia/" target="_blank">https://myai.asia/</a>
-                <br> </td>
-            <td></td>
-            <td>
-                        🆓
-                        💪
-            </td>
-            <td>2024-06-23</td>
             <td></td>
         </tr>
         <tr>
