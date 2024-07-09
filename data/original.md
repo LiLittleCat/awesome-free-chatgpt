@@ -233,7 +233,7 @@
 - [🔓💪🧰][https://newchat.hklan.top/](https://newchat.hklan.top/) - 2023-12-09
 - [🔓💰💪🧰][https://smallai.sellhigh.asia](https://smallai.sellhigh.asia) - 2023-12-10
 - [🆓🔓💪][https://free.netfly.top/](https://free.netfly.top/) - 2023-12-19 - 访问密码 3.5isfree - Access password 3.5isfree
-- [🆓][https://chat.ai365vip.com/](https://chat.ai365vip.com/) - 2023-12-24
+- [🆓💪🧰][https://chat.ai365vip.com/](https://chat.ai365vip.com/) - 2024-07-01
 - [🆓][https://1.bixin123.com](https://1.bixin123.com) - 2023-12-28
 - [🔒💪][https://www.gnomic.cn/agentCenter/index](https://www.gnomic.cn/agentCenter/index) - 2023-12-30
 - [🔒][https://gpt.100ai.fun](https://gpt.100ai.fun) - 2023-12-30
@@ -259,7 +259,6 @@
 - [🆓🧰][https://chatnio.liujiarong.top/](https://chatnio.liujiarong.top/) - 2024-05-20
 - [🔒💪🧰][https://3am.com.hk](https://3am.com.hk) - 2024-05-19
 - [🔒💪🧰][https://web.sydney-ai.com](https://web.sydney-ai.com) - 2024-05-21 - 免费共享账户：maomi 密码：maomimaomi - Free shared account: maomi password: maomimaomi
-- [🆓💪][https://chat.swt-ai.com/](https://chat.swt-ai.com/) - 2024-05-16
 - [🆓💪][https://share.swt-ai.com/list](https://share.swt-ai.com/list) - 2024-05-16
 - [🔒💪🧰][http://ai.omegaxyz.cn/](http://ai.omegaxyz.cn/) - 2024-05-16
 - [🔒💪][https://chat.mossaigpt.com/c/new](https://chat.mossaigpt.com/c/new) - 2024-05-11
@@ -287,12 +286,19 @@
 - [🧰][https://free2.nbmj.xyz/](https://free2.nbmj.xyz/) - 2024-05-24 - Midjourney
 - [🆓][https://chatgptplus.cn/](https://chatgptplus.cn/) - 2024-06-01
 - [🆓💪🧰🌎][https://ai.myym.fun](https://ai.myym.fun) - 2024-06-06
-- [🆓💪🧰][https://chat.baimoqilin.top/](https://chat.baimoqilin.top/) - 2024-06-09
 - [🔒💪🧰][https://assistant.old-eight.top/#/chat/1002](https://assistant.old-eight.top/#/chat/1002) - 2024-06-09
 - [🆓][https://chatgpt4online.org/chatgpt-free-online/#chat](https://chatgpt4online.org/chatgpt-free-online/#chat) - 2024-06-13
 - [🆓🔓💪🧰][https://www.zxf7460.cn/](https://www.zxf7460.cn/) - 2024-06-13
 - [🆓🌎][https://chatgptfree.ai/](https://chatgptfree.ai/) - 2024-06-13
 - [🆓💪][https://www.yeschat.ai/zh-CN/gpt-4o](https://www.yeschat.ai/zh-CN/gpt-4o) - 2024-06-13
+- [🆓💪][https://myai.asia/](https://myai.asia/) - 2024-06-23
+- [🆓💪][https://origin.eqing.tech/](https://origin.eqing.tech/) - 2024-06-27
+- [🆓][https://www.opkfc.com/](https://www.opkfc.com/) - 2024-06-29
+- [🔒💪🧰][https://all.xjai.top](https://all.xjai.top) - 2024-07-01
+- [🔓💪🧰][https://chatgpt.dairoot.cn/](https://chatgpt.dairoot.cn/) - 2024-07-02
+- [🔒💪][https://gptcat.top/](https://gptcat.top/) - 2024-07-05
+- [🔒💪🧰][https://www.bfbke.com/chatgpt](https://www.bfbke.com/chatgpt) - 2024-07-04
+- [🆓💪][https://claude.free2gpt.xyz](https://claude.free2gpt.xyz) - 2024-07-05 - 免费 Claude 3.5 Sonnet，限 120 次/天 - Free Claude 3.5 Sonnet, limited to 120 times/day
 
 
 
@@ -305,6 +311,8 @@
 
 <!-- abnormal-begin -->
 
+- ~~[🆓💪][https://chat.swt-ai.com/](https://chat.swt-ai.com/) - 2024-05-16~~ - 2024-06-26
+- ~~[🆓💪🧰][https://chat.baimoqilin.top/](https://chat.baimoqilin.top/) - 2024-06-09~~ - 2024-06-26
 - ~~[ 🆓🌎🧰 ] [https://greengpt.app/](https://greengpt.app/) - 2023-04-01~~ - 2024-06-02
 - ~~[🆓][https://www.aitool.ink/](https://www.aitool.ink/) - 2023-12-24~~ - 2024-03-24
 - ~~[🆓][https://ck-ai.co](https://ck-ai.co) - 2024-02-20~~ - 2024-05-21
