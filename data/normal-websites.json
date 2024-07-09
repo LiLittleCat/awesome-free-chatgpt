@@ -73,7 +73,7 @@
 		"url":"https://chat.ai365vip.com/"
 	},
 	{
-		"addedDate":"2024-02-04",
+		"addedDate":"2024-06-23",
 		"customDescription":null,
 		"customDescriptionEnglish":null,
 		"description":null,
@@ -84,6 +84,30 @@
 			"MORE_THAN_CHAT"
 		],
 		"id":4,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":3.5,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://myai.asia/"
+	},
+	{
+		"addedDate":"2024-02-04",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"FREE",
+			"GPT4_SUPPORTED",
+			"MORE_THAN_CHAT"
+		],
+		"id":5,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -106,7 +130,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":5,
+		"id":6,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -129,29 +153,6 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":6,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":3.0,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://origin.eqing.tech/"
-	},
-	{
-		"addedDate":"2024-06-23",
-		"customDescription":null,
-		"customDescriptionEnglish":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE",
-			"GPT4_SUPPORTED"
-		],
 		"id":7,
 		"labels":null,
 		"lang":null,
@@ -163,7 +164,7 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://myai.asia/"
+		"url":"https://origin.eqing.tech/"
 	},
 	{
 		"addedDate":"2024-06-13",
