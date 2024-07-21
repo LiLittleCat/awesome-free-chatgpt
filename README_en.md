@@ -160,7 +160,7 @@ Free Claude 3.5 Sonnet, limited to 120 times/day
         </tr>
         <tr>
             <td>9</td>
-            <td> <a href="https://share.swt-ai.com/list" target="_blank">https://share.swt-ai.com/list</a>
+            <td> <a href="https://chat.gptoai.cc/list" target="_blank">https://chat.gptoai.cc/list</a>
                 <br> </td>
             <td></td>
             <td>
