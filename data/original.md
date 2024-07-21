@@ -259,7 +259,7 @@
 - [🆓🧰][https://chatnio.liujiarong.top/](https://chatnio.liujiarong.top/) - 2024-05-20
 - [🔒💪🧰][https://3am.com.hk](https://3am.com.hk) - 2024-05-19
 - [🔒💪🧰][https://web.sydney-ai.com](https://web.sydney-ai.com) - 2024-05-21 - 免费共享账户：maomi 密码：maomimaomi - Free shared account: maomi password: maomimaomi
-- [🆓💪][https://share.swt-ai.com/list](https://share.swt-ai.com/list) - 2024-05-16
+- [🆓💪][https://chat.gptoai.cc/list](https://chat.gptoai.cc/list) - 2024-05-16
 - [🔒💪🧰][http://ai.omegaxyz.cn/](http://ai.omegaxyz.cn/) - 2024-05-16
 - [🔒💪][https://chat.mossaigpt.com/c/new](https://chat.mossaigpt.com/c/new) - 2024-05-11
 - [🆓][https://chat.mynanian.top/](https://chat.mynanian.top/) - 2024-05-11
