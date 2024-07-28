@@ -232,7 +232,7 @@
 - [🔒💪][https://feel-gpt.fun](https://feel-gpt.fun) - 2023-12-07
 - [🔓💪🧰][https://newchat.hklan.top/](https://newchat.hklan.top/) - 2023-12-09
 - [🔓💰💪🧰][https://smallai.sellhigh.asia](https://smallai.sellhigh.asia) - 2023-12-10
-- [🆓🔓💪][https://free.netfly.top/](https://free.netfly.top/) - 2023-12-19 - 访问密码 3.5isfree - Access password 3.5isfree
+- [🆓💪][https://free.netfly.top/](https://free.netfly.top/) - 2024-07-21
 - [🆓💪🧰][https://chat.ai365vip.com/](https://chat.ai365vip.com/) - 2024-07-01
 - [🆓][https://1.bixin123.com](https://1.bixin123.com) - 2023-12-28
 - [🔒💪][https://www.gnomic.cn/agentCenter/index](https://www.gnomic.cn/agentCenter/index) - 2023-12-30
@@ -299,6 +299,12 @@
 - [🔒💪][https://gptcat.top/](https://gptcat.top/) - 2024-07-05
 - [🔒💪🧰][https://www.bfbke.com/chatgpt](https://www.bfbke.com/chatgpt) - 2024-07-04
 - [🆓💪][https://claude.free2gpt.xyz](https://claude.free2gpt.xyz) - 2024-07-05 - 免费 Claude 3.5 Sonnet，限 120 次/天 - Free Claude 3.5 Sonnet, limited to 120 times/day
+- [🔒💪🧰][https://www.allyfy.chat/](https://www.allyfy.chat/) - 2025-05-31
+- [🔒🧰][https://wang.gptnb.xyz/](https://wang.gptnb.xyz/) - 2025-06-10
+- [🔒💪🧰][https://usergpt.top](https://usergpt.top) - 2025-07-15
+- [🔒💪🧰][https://www.aicnn.cn/oaifree](https://www.aicnn.cn/oaifree) - 2025-07-18
+- [🔒💪🧰][https://search.100ai.fun](https://search.100ai.fun) - 2025-07-19
+- [🆓💪🧰][https://lite.icoding.ink/](https://lite.icoding.ink/) - 2025-07-23
 
 
 
