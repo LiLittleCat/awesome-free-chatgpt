@@ -4269,6 +4269,7 @@
 
 ## 🗨️ ChatGPT 替代方案
 
+- [Ninjachat.ai](https://ninjachat.ai) - Ninjachat.ai is an AI-powered chatbot platform that allows you to use all top AI models Poe ChatGPT 4o Claude 3.5 Sonnet Stable DIffusion Flux AI and more.
 - 👍 [Poe - Fast, Helpful AI Chat](https://poe.com) - 在 Poe 上可与 ChatGPT、GPT-4o、Claude-3-Opus、DALLE 3 等数百万机器人交谈。
 - [HuggingChat](https://huggingface.co/chat) - 让社区最好的 AI 聊天模型对所有人可用。
 - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1) - 向 DuckDuckGo AI Chat 打个招呼！ 匿名使用热门人工智能模型，包括 GPT-3.5、Claude 3 以及开源 Llama 3 和 Mixtral。
