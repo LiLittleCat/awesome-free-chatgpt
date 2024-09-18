@@ -307,6 +307,7 @@
 - [🆓💪🧰][https://lite.icoding.ink/](https://lite.icoding.ink/) - 2024-07-23
 - [🔒💪🧰][https://www.llmchathub.fun/](https://www.llmchathub.fun/) - 2024-08-04
 - [🔒💪🧰][https://robotai.liujiarong.top](https://robotai.liujiarong.top) - 2024-08-14
+- [🆓🧰][https://kelaode.ai/](https://kelaode.ai/) - 2024-08-22 - Claude 镜像站，有 pro 账号 - Claude mirror site, with pro account
 
 
 
