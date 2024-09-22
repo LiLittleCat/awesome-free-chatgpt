@@ -20,7 +20,7 @@
 
 |                                            🏆 赞助商 🏆                                             |
   |:------------------------------------------------------------------------------------------------:|
-| 👉 [WikeAI](https://wike.ai/) 支持 GPT4、Claude3、GPT-3.5-turbo（免费无限制）、Gemini Pro（免费无限制）、助手/绘画、语音合成。 |
+| 👉 [WikeAI](https://wike.ai/) 支持 OpenAI 全系模型（GPT 3.5 Trubo、GPT 4o Mini、o1 Mini免费），支持Claude3.5，Gemini 1.5（Gemini 1.0 免费），Llama 3，Qwen（免费）等模型。 |
 |      👉 [RawChat 公益站点](https://chatgptplus.cn) RawChat 公益站点，免费 GPT4，免费 Claude3.5，无需登录，打开即用。      |
 
 
