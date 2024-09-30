@@ -20,7 +20,7 @@
 
 |                                            🏆 赞助商 🏆                                             |
   |:------------------------------------------------------------------------------------------------:|
-| 👉 [WikeAI](https://wike.ai/) 支持 OpenAI 全系模型（GPT 3.5 Trubo、GPT 4o Mini、o1 Mini 免费），支持 Claude3.5，Gemini 1.5（Gemini 1.0 免费），Llama 3，Qwen（免费）等模型。 |
+| 👉 [WikeAI](https://wike.ai/) 支持 GPT4、Claude3、GPT-3.5-turbo（免费无限制）、Gemini Pro（免费无限制）、助手/绘画、语音合成。 |
 |      👉 [RawChat 公益站点](https://chatgptplus.cn) RawChat 公益站点，免费 GPT4，免费 Claude3.5，无需登录，打开即用。      |
 
 
@@ -85,6 +85,18 @@
         </tr>
         <tr>
             <td>2</td>
+            <td> <a href="https://ai.wendabao.net" target="_blank">https://ai.wendabao.net</a>
+                <br> </td>
+            <td>
+                        🏆
+                        🆓
+                        💪
+            </td>
+            <td>2024-02-04</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
             <td> <a href="https://chat.tinycms.xyz:3002" target="_blank">https://chat.tinycms.xyz:3002</a>
                 <br> </td>
             <td>
@@ -96,7 +108,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>4</td>
             <td> <a href="https://lite.icoding.ink/" target="_blank">https://lite.icoding.ink/</a>
                 <br> </td>
             <td>
@@ -108,7 +120,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>5</td>
             <td> <a href="https://chat.ai365vip.com/" target="_blank">https://chat.ai365vip.com/</a>
                 <br> </td>
             <td>
@@ -120,7 +132,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>5</td>
+            <td>6</td>
             <td> <a href="https://myai.asia/" target="_blank">https://myai.asia/</a>
                 <br> </td>
             <td>
@@ -132,7 +144,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>6</td>
+            <td>7</td>
             <td> <a href="https://free.netfly.top/" target="_blank">https://free.netfly.top/</a>
                 <br> </td>
             <td>
@@ -143,7 +155,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>7</td>
+            <td>8</td>
             <td> <a href="https://claude.free2gpt.xyz" target="_blank">https://claude.free2gpt.xyz</a>
                 <br> </td>
             <td>
@@ -154,7 +166,7 @@
             <td>免费 Claude 3.5 Sonnet，限 120 次/天</td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td> <a href="https://origin.eqing.tech/" target="_blank">https://origin.eqing.tech/</a>
                 <br> </td>
             <td>
@@ -165,7 +177,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td> <a href="https://www.yeschat.ai/zh-CN/gpt-4o" target="_blank">https://www.yeschat.ai/zh-CN/gpt-4o</a>
                 <br> </td>
             <td>
@@ -176,7 +188,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td> <a href="https://chat.freeuse.top/" target="_blank">https://chat.freeuse.top/</a>
                 <br> </td>
             <td>
@@ -187,7 +199,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td> <a href="https://aitopk.com/" target="_blank">https://aitopk.com/</a>
                 <br> </td>
             <td>
@@ -198,7 +210,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>12</td>
+            <td>13</td>
             <td> <a href="https://sharedchat.cn/shared.html" target="_blank">https://sharedchat.cn/shared.html</a>
                 <br> </td>
             <td>
@@ -209,7 +221,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>13</td>
+            <td>14</td>
             <td> <a href="https://chat.icoding.ink/pc-chat/#/questions" target="_blank">https://chat.icoding.ink/pc-chat/#/questions</a>
                 <br> </td>
             <td>
@@ -220,7 +232,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>14</td>
+            <td>15</td>
             <td> <a href="https://kelaode.ai/" target="_blank">https://kelaode.ai/</a>
                 <br> </td>
             <td>
@@ -231,7 +243,7 @@
             <td>Claude 镜像站，有 pro 账号</td>
         </tr>
         <tr>
-            <td>15</td>
+            <td>16</td>
             <td> <a href="https://www.zxf7460.cn/" target="_blank">https://www.zxf7460.cn/</a>
                 <br> </td>
             <td>
@@ -244,7 +256,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>16</td>
+            <td>17</td>
             <td> <a href="https://ai.myym.fun" target="_blank">https://ai.myym.fun</a>
                 <br> </td>
             <td>
@@ -257,7 +269,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>17</td>
+            <td>18</td>
             <td> <a href="https://chatnio.liujiarong.top/" target="_blank">https://chatnio.liujiarong.top/</a>
                 <br> </td>
             <td>
@@ -268,7 +280,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>18</td>
+            <td>19</td>
             <td> <a href="https://www.ichat2019.com/" target="_blank">https://www.ichat2019.com/</a>
                 <br> </td>
             <td>
@@ -281,7 +293,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>19</td>
+            <td>20</td>
             <td> <a href="http://nmwaicg.top/" target="_blank">http://nmwaicg.top/</a>
                 <br> </td>
             <td>
@@ -294,7 +306,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>20</td>
+            <td>21</td>
             <td> <a href="https://newpc.icoding.ink/?debug=true" target="_blank">https://newpc.icoding.ink/?debug=true</a>
                 <br> </td>
             <td>
@@ -305,7 +317,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>21</td>
+            <td>22</td>
             <td> <a href="https://www.opkfc.com/" target="_blank">https://www.opkfc.com/</a>
                 <br> </td>
             <td>
@@ -315,7 +327,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>22</td>
+            <td>23</td>
             <td> <a href="https://chatgpt4online.org/chatgpt-free-online/#chat" target="_blank">https://chatgpt4online.org/chatgpt-free-online/#chat</a>
                 <br> </td>
             <td>
@@ -325,7 +337,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>23</td>
+            <td>24</td>
             <td> <a href="https://chatgptplus.cn/" target="_blank">https://chatgptplus.cn/</a>
                 <br> </td>
             <td>
@@ -335,7 +347,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>24</td>
+            <td>25</td>
             <td> <a href="https://www.51supergpt.com/" target="_blank">https://www.51supergpt.com/</a>
                 <br> </td>
             <td>
@@ -345,7 +357,7 @@
             <td>GPT3.5 授权码 51supergpt.com</td>
         </tr>
         <tr>
-            <td>25</td>
+            <td>26</td>
             <td> <a href="https://tudouai.chat/chat" target="_blank">https://tudouai.chat/chat</a>
                 <br> </td>
             <td>
@@ -355,7 +367,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>26</td>
+            <td>27</td>
             <td> <a href="https://robot.liujiarong.me" target="_blank">https://robot.liujiarong.me</a>
                 <br> </td>
             <td>
@@ -365,7 +377,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>27</td>
+            <td>28</td>
             <td> <a href="https://robot.liujiarong.top" target="_blank">https://robot.liujiarong.top</a>
                 <br> </td>
             <td>
@@ -375,7 +387,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>28</td>
+            <td>29</td>
             <td> <a href="https://chat.mynanian.top/" target="_blank">https://chat.mynanian.top/</a>
                 <br> </td>
             <td>
@@ -385,7 +397,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>29</td>
+            <td>30</td>
             <td> <a href="https://free.icoding.ink/index2.html" target="_blank">https://free.icoding.ink/index2.html</a>
                 <br> </td>
             <td>
@@ -395,7 +407,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>30</td>
+            <td>31</td>
             <td> <a href="https://chat.programapps.top/" target="_blank">https://chat.programapps.top/</a>
                 <br> </td>
             <td>
@@ -405,7 +417,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>31</td>
+            <td>32</td>
             <td> <a href="https://chat.1-ai.sbs/" target="_blank">https://chat.1-ai.sbs/</a>
                 <br> </td>
             <td>
@@ -415,7 +427,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>32</td>
+            <td>33</td>
             <td> <a href="https://ichuang.top" target="_blank">https://ichuang.top</a>
                 <br> </td>
             <td>
@@ -425,23 +437,13 @@
             <td></td>
         </tr>
         <tr>
-            <td>33</td>
+            <td>34</td>
             <td> <a href="https://ai.daladada.xyz/" target="_blank">https://ai.daladada.xyz/</a>
                 <br> </td>
             <td>
                         🆓
             </td>
             <td>2024-03-01</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>34</td>
-            <td> <a href="https://ai.wendabao.net" target="_blank">https://ai.wendabao.net</a>
-                <br> </td>
-            <td>
-                        🆓
-            </td>
-            <td>2024-02-04</td>
             <td></td>
         </tr>
         <tr>
