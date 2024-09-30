@@ -25,7 +25,7 @@
 		"url":"https://chat5.aiyunos.top"
 	},
 	{
-		"addedDate":"2023-08-14",
+		"addedDate":"2024-02-04",
 		"customDescription":null,
 		"customDescriptionEnglish":null,
 		"description":null,
@@ -36,6 +36,30 @@
 			"GPT4_SUPPORTED"
 		],
 		"id":2,
+		"labels":null,
+		"lang":null,
+		"previewUrl":null,
+		"reportedInvalidDate":null,
+		"reportedInvalidReason":null,
+		"score":13.0,
+		"sourceInfo":null,
+		"status":null,
+		"title":null,
+		"updatedDate":null,
+		"url":"https://ai.wendabao.net"
+	},
+	{
+		"addedDate":"2023-08-14",
+		"customDescription":null,
+		"customDescriptionEnglish":null,
+		"description":null,
+		"extraInfo":null,
+		"features":[
+			"SPONSORS",
+			"FREE",
+			"GPT4_SUPPORTED"
+		],
+		"id":3,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -59,7 +83,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":3,
+		"id":4,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -83,7 +107,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":4,
+		"id":5,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -107,7 +131,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":5,
+		"id":6,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -130,7 +154,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":6,
+		"id":7,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -153,7 +177,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":7,
+		"id":8,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -176,7 +200,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":8,
+		"id":9,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -199,7 +223,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":9,
+		"id":10,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -222,7 +246,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":10,
+		"id":11,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -245,7 +269,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":11,
+		"id":12,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -268,7 +292,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":12,
+		"id":13,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -291,7 +315,7 @@
 			"FREE",
 			"GPT4_SUPPORTED"
 		],
-		"id":13,
+		"id":14,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -314,7 +338,7 @@
 			"FREE",
 			"MORE_THAN_CHAT"
 		],
-		"id":14,
+		"id":15,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -339,7 +363,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":15,
+		"id":16,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -364,7 +388,7 @@
 			"MORE_THAN_CHAT",
 			"VPN_REQUIRED"
 		],
-		"id":16,
+		"id":17,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -387,7 +411,7 @@
 			"FREE",
 			"MORE_THAN_CHAT"
 		],
-		"id":17,
+		"id":18,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -412,7 +436,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":18,
+		"id":19,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -437,7 +461,7 @@
 			"GPT4_SUPPORTED",
 			"MORE_THAN_CHAT"
 		],
-		"id":19,
+		"id":20,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -460,7 +484,7 @@
 			"FREE",
 			"MORE_THAN_CHAT"
 		],
-		"id":20,
+		"id":21,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -482,7 +506,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":21,
+		"id":22,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -504,7 +528,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":22,
+		"id":23,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -526,7 +550,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":23,
+		"id":24,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -548,7 +572,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":24,
+		"id":25,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -570,7 +594,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":25,
+		"id":26,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -592,7 +616,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":26,
+		"id":27,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -614,7 +638,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":27,
+		"id":28,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -636,7 +660,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":28,
+		"id":29,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -658,7 +682,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":29,
+		"id":30,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -680,7 +704,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":30,
+		"id":31,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -702,7 +726,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":31,
+		"id":32,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -724,7 +748,7 @@
 		"features":[
 			"FREE"
 		],
-		"id":32,
+		"id":33,
 		"labels":null,
 		"lang":null,
 		"previewUrl":null,
@@ -746,28 +770,6 @@
 		"features":[
 			"FREE"
 		],
-		"id":33,
-		"labels":null,
-		"lang":null,
-		"previewUrl":null,
-		"reportedInvalidDate":null,
-		"reportedInvalidReason":null,
-		"score":2.0,
-		"sourceInfo":null,
-		"status":null,
-		"title":null,
-		"updatedDate":null,
-		"url":"https://ai.daladada.xyz/"
-	},
-	{
-		"addedDate":"2024-02-04",
-		"customDescription":null,
-		"customDescriptionEnglish":null,
-		"description":null,
-		"extraInfo":null,
-		"features":[
-			"FREE"
-		],
 		"id":34,
 		"labels":null,
 		"lang":null,
@@ -779,7 +781,7 @@
 		"status":null,
 		"title":null,
 		"updatedDate":null,
-		"url":"https://ai.wendabao.net"
+		"url":"https://ai.daladada.xyz/"
 	},
 	{
 		"addedDate":"2024-01-04",
