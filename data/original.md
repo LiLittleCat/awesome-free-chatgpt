@@ -120,7 +120,7 @@
 - [🆓][https://zyq-chatgpt.github.io](https://zyq-chatgpt.github.io) - 2023-06-16 
 - [🆓][https://chat.weuseing.com/](https://chat.weuseing.com/) - 2023-06-17
 - [🔒🧰][https://xdu.cn/](https://xdu.cn/) - 2023-06-17 
-- [🔒💪🧰][https://chat.icoding.ink/](https://chat.icoding.ink/) - 2023-06-17 - 在聊天室使用时，请在提问的问题前面加上 @ChatGPT，否则 GPT 不搭理。  
+- [🔒💪🧰][http://linkchat.fuckicoding.com/](http://linkchat.fuckicoding.com/) - 2023-06-17 
 - [🔓💪🧰][https://site.eqing.tech/](https://site.eqing.tech/) - 2024-06-07
 - [🔒][http://ai.mkzero.top:44444/](http://ai.mkzero.top:44444/) - 2023-06-18 
 - [🔒💪][https://firstai.opao.xyz/](https://firstai.opao.xyz/) - 2023-06-20
@@ -175,7 +175,7 @@
 - [🆓][https://cgs.skybyte.me/](https://cgs.skybyte.me/) - 2023-10-09
 - [🆓][http://gptgo.ai/](http://gptgo.ai/) - 2023-08-07
 - [🆓][http://chatgpt.bybyte.cn/](http://chatgpt.bybyte.cn/) - 2023-08-14
-- [🏆🆓💪][https://chat.tinycms.xyz:3002](https://chat.tinycms.xyz:3002) - 2023-08-14
+- [🏆🆓💪][https://freegpt.tech](https://freegpt.tech) - 2024-10-11
 - [🆓][https://chat.leadscloud.xyz/](https://chat.leadscloud.xyz/) - 2023-08-14
 - [🔑💪][https://caffcat.com](https://caffcat.com) - 2023-08-15
 - [🔑💪][https://www.jinwangyile.xyz](https://www.jinwangyile.xyz) - 2023-08-15
@@ -252,10 +252,10 @@
 - [🆓🔓💪🧰][http://nmwaicg.top/](http://nmwaicg.top/) - 2024-01-27
 - [🆓🔓💪🧰][https://www.ichat2019.com/](https://www.ichat2019.com/) - 2024-02-01
 - [🏆🆓💪][https://ai.wendabao.net](https://ai.wendabao.net) - 2024-02-04
-- [🆓💪][https://chat.freeuse.top/](https://chat.freeuse.top/) - 2024-04-30
+- [🔒💪🧰][https://chat.freeuse.top/](https://chat.freeuse.top/) - 2024-04-30
 - [🔒][https://chat.weijiajin.com](https://chat.weijiajin.com) - 2024-02-05
 - [🔒][https://aibox365.com](https://aibox365.com) - 2024-02-05
-- [🆓🧰][https://chatnio.liujiarong.top/](https://chatnio.liujiarong.top/) - 2024-05-20
+- [🔒💪🧰][https://chatnio.liujiarong.top/](https://chatnio.liujiarong.top/) - 2024-05-20 - 部分国产模型免费
 - [🔒💪🧰][https://3am.com.hk](https://3am.com.hk) - 2024-05-19
 - [🔒💪🧰][https://web.sydney-ai.com](https://web.sydney-ai.com) - 2024-05-21 - 免费共享账户：maomi 密码：maomimaomi - Free shared account: maomi password: maomimaomi
 - [🔒💪🧰][http://ai.omegaxyz.cn/](http://ai.omegaxyz.cn/) - 2024-05-16
@@ -275,11 +275,10 @@
 - [🔒][https://agi.aiearth.dev/](https://agi.aiearth.dev/) - 2024-02-21
 - [🆓💪][https://sharedchat.cn/shared.html](https://sharedchat.cn/shared.html) - 2024-02-21
 - [🔒🧰][https://chat.0oai.com](https://chat.0oai.com) - 2024-02-16
-- [🆓💪][https://chat.icoding.ink/pc-chat/#/questions](https://chat.icoding.ink/pc-chat/#/questions) - 2024-02-06
 - [🆓][https://tudouai.chat/chat](https://tudouai.chat/chat) - 2024-05-28
 - [🔒💪🧰][https://zhijianai.com.cn/chat](https://zhijianai.com.cn/chat) - 2024-06-22
-- [🆓][https://robot.liujiarong.top](https://robot.liujiarong.top) - 2024-05-18
-- [🆓][https://robot.liujiarong.me](https://robot.liujiarong.me) - 2024-05-27
+- [🔒💪🧰][https://robot.liujiarong.top](https://robot.liujiarong.top) - 2024-05-18
+- [🔒💪🧰][https://robot.liujiarong.me](https://robot.liujiarong.me) - 2024-05-27
 - [🆓][https://www.51supergpt.com/](https://www.51supergpt.com/) - 2024-05-30  - GPT3.5 授权码 51supergpt.com - GPT3.5 access code 51supergpt.com
 - [🧰][https://free2.nbmj.xyz/](https://free2.nbmj.xyz/) - 2024-05-24 - Midjourney
 - [🆓][https://chatgptplus.cn/](https://chatgptplus.cn/) - 2024-06-01
@@ -304,10 +303,18 @@
 - [🔒💪🧰][https://search.100ai.fun](https://search.100ai.fun) - 2024-07-19
 - [🔒💪🧰][https://chatof.ai](https://chatof.ai) - 2024-07-23
 - [🔒💪🧰][https://ssgpt.chat/](https://ssgpt.chat/) - 2024-08-01
-- [🆓💪🧰][https://lite.icoding.ink/](https://lite.icoding.ink/) - 2024-07-23
 - [🔒💪🧰][https://www.llmchathub.fun/](https://www.llmchathub.fun/) - 2024-08-04
 - [🔒💪🧰][https://robotai.liujiarong.top](https://robotai.liujiarong.top) - 2024-08-14
 - [🆓🧰][https://kelaode.ai/](https://kelaode.ai/) - 2024-08-22 - Claude 镜像站，有 pro 账号 - Claude mirror site, with pro account
+- [🆓🔒💪🧰][http://link.fuckicoding.com/](http://link.fuckicoding.com/) - 2024-07-23
+- [🆓👀💪🧰][https://ai1.yjie.fun/](https://ai1.yjie.fun/) - 2024-10-08
+- [🆓💪][https://chatgptgratis.eu/](https://chatgptgratis.eu) - 2024-09-27
+- [🔒💪🧰][https://aicnn.cn](https://aicnn.cn) - 2024-09-21
+- [🔒][https://tjtmsoft.com/aigpt](https://tjtmsoft.com/aigpt) - 2024-09-13
+- [🆓][https://gy.44vl.cc/](https://gy.44vl.cc/) - 2024-09-06
+- [🔒💪🧰][https://free-gpt.soruxgpt.com](https://free-gpt.soruxgpt.com) - 2024-09-02
+- [🆓💪][https://easychat.fun/](https://easychat.fun/) - 2024-09-04
+- [🔒][https://www.yanbiai.com/?ly=afc](https://www.yanbiai.com/?ly=afc) - 2024-09-04
 
 
 
@@ -320,6 +327,7 @@
 
 <!-- abnormal-begin -->
 
+- ~~[🆓💪][https://chat.icoding.ink/pc-chat/#/questions](https://chat.icoding.ink/pc-chat/#/questions) - 2024-02-06~~ - 2024-10-07
 - ~~[🆓💪🧰][https://share.wendabao.net](https://share.wendabao.net) - 2024-02-04~~ - 2024-08-10
 - ~~[🆓💪][https://chat.gptoai.cc/list](https://chat.gptoai.cc/list) - 2024-05-16~~ - 2024-07-30
 - ~~[🆓💪][https://chat.swt-ai.com/](https://chat.swt-ai.com/) - 2024-05-16~~ - 2024-06-26
