@@ -233,7 +233,7 @@
 - [🔓💪🧰][https://newchat.hklan.top/](https://newchat.hklan.top/) - 2023-12-09
 - [🔓💰💪🧰][https://smallai.sellhigh.asia](https://smallai.sellhigh.asia) - 2023-12-10
 - [🆓💪][https://free.netfly.top/](https://free.netfly.top/) - 2024-07-21
-- [🆓💪🧰][https://chat.ai365vip.com/](https://chat.ai365vip.com/) - 2024-07-01
+- [🆓🧰][https://chat.ai365vip.com/](https://chat.ai365vip.com/) - 2024-07-01
 - [🆓][https://1.bixin123.com](https://1.bixin123.com) - 2023-12-28
 - [🔒💪][https://www.gnomic.cn/agentCenter/index](https://www.gnomic.cn/agentCenter/index) - 2023-12-30
 - [🔒][https://gpt.100ai.fun](https://gpt.100ai.fun) - 2023-12-30
@@ -306,7 +306,7 @@
 - [🔒💪🧰][https://www.llmchathub.fun/](https://www.llmchathub.fun/) - 2024-08-04
 - [🔒💪🧰][https://robotai.liujiarong.top](https://robotai.liujiarong.top) - 2024-08-14
 - [🆓🧰][https://kelaode.ai/](https://kelaode.ai/) - 2024-08-22 - Claude 镜像站，有 pro 账号 - Claude mirror site, with pro account
-- [🆓🔒💪🧰][http://link.fuckicoding.com/](http://link.fuckicoding.com/) - 2024-07-23
+- [🆓💪🧰][https://link.fuckicoding.com/](https://link.fuckicoding.com/) - 2024-07-23
 - [🆓👀💪🧰][https://ai1.yjie.fun/](https://ai1.yjie.fun/) - 2024-10-08
 - [🆓💪][https://chatgptgratis.eu/](https://chatgptgratis.eu) - 2024-09-27
 - [🔒💪🧰][https://aicnn.cn](https://aicnn.cn) - 2024-09-21
@@ -315,6 +315,9 @@
 - [🔒💪🧰][https://free-gpt.soruxgpt.com](https://free-gpt.soruxgpt.com) - 2024-09-02
 - [🆓💪][https://easychat.fun/](https://easychat.fun/) - 2024-09-04
 - [🔒][https://www.yanbiai.com/?ly=afc](https://www.yanbiai.com/?ly=afc) - 2024-09-04
+- [🔒💪🧰 ][https://chattools.top](https://chattools.top) - 2024-11-02
+- [👀💪][https://free.ai99.asia](https://free.ai99.asia) - 2024-10-27
+- 
 
 
 
