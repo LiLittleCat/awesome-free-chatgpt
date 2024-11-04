@@ -4439,7 +4439,7 @@
 - [ChatDOC - Chat with your documents](https://chatdoc.com/) - ChatDOC is a ChatGPT-based file-reading assistant that can quickly extract, locate and summarize information from documents, able to understand texts, tables and images.
 - [Humata - GPT for your files](https://www.humata.ai/) - Humata is like GPT for your files. Ask AI anything about your data. Ask questions about your data and get answers powered by AI instantly. Learn, summarize, synthesize, and extract valuable data from your files 100X faster.
 - [Chatbase | ChatGPT for your website](https://www.chatbase.co/) - Build an AI chatbot from your knowledge base and add it to your website.
-
+- [Chatsimple | ChatGPT for Your Business](https://www.chatsimple.ai) - Transform static website interactions into dynamic, AI-driven conversations that boost lead quality and streamline customer engagement.
 
 ### 💻 开发者工具
 
