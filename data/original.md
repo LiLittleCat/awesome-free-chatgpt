@@ -317,6 +317,9 @@
 - [🔒][https://www.yanbiai.com/?ly=afc](https://www.yanbiai.com/?ly=afc) - 2024-09-04
 - [🔒💪🧰 ][https://chattools.top](https://chattools.top) - 2024-11-02
 - [👀💪][https://free.ai99.asia](https://free.ai99.asia) - 2024-10-27
+- [🆓][https://44ai.cc/](https://44ai.cc/) - 2024-11-11
+- [🔓💪🧰][https://gpthi.cn/](https://gpthi.cn/) - 2024-11-12
+- [🆓][https://grok.free2gpt.com](https://grok.free2gpt.com) - 2024-11-08 - Grok-beta 模型 - Grok-beta model
 - 
 
 
