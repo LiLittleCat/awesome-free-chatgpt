@@ -320,6 +320,7 @@
 - [🆓][https://44ai.cc/](https://44ai.cc/) - 2024-11-11
 - [🔓💪🧰][https://gpthi.cn/](https://gpthi.cn/) - 2024-11-12
 - [🆓][https://grok.free2gpt.com](https://grok.free2gpt.com) - 2024-11-08 - Grok-beta 模型 - Grok-beta model
+- [🆓][https://chat.lemonchat.xyz](https://chat.lemonchat.xyz) - 2024-12-21
 - 
 
 
