@@ -321,7 +321,7 @@
 - [🔓💪🧰][https://gpthi.cn/](https://gpthi.cn/) - 2024-11-12
 - [🆓][https://grok.free2gpt.com](https://grok.free2gpt.com) - 2024-11-08 - Grok-beta 模型 - Grok-beta model
 - [🆓][https://chat.lemonchat.xyz](https://chat.lemonchat.xyz) - 2024-12-21
-- 
+- [🏆🆓💪🧰][https://heck.ai](https://heck.ai) - 2024-12-21 - 完全免费无登录，不限量支持 GPT-4o，DeepSeek V3，支持联网问答，上传图片，深度思考。[Unlimited Free ChatGPT](https://heck.ai)
 
 
 
