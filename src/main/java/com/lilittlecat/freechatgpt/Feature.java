@@ -5,8 +5,9 @@ import lombok.Getter;
 import java.util.List;
 
 /**
- * @author <a href="https://github.com/LiLittleCat">LiLittleCat</a>
- * @since 2023/5/7
+ * Tag class representing a feature tag
+ * @author Yi Liu
+ * @since 2025/2/17
  */
 @Getter
 public enum Feature {
@@ -22,15 +23,21 @@ public enum Feature {
     FOLLOW_ON_WECHAT_REQUIRED("follow_on_wechat_required", "👀", -5f),
     CHARGE_REQUIRED("charge_required", "💰", -5f),
     COMMUNITY_RECOMMENDATION("community_recommendation", "🌟", 0.5f),
-    SPONSORS("sponsors", "🏆", 10f);
+    SPONSORS("sponsors", "🏆", 10f, new Badge(Badge.COLOR_GREEN, Badge.STYLE_FLAT, Badge.LOGO_GITHUB_SPONSORS)),;
+
+    LOGIN_NOT_REQUIRED("login_not_required", "🔓", 5f),
+
     private final String value;
     private final String label;
     private final Float score;
+    private final Badge badge;
+    private final Badge badgeEnglish;
 
-    Feature(String value, String label, Float score) {
+    Feature(String value, String label, Float score, Badge badge) {
         this.value = value;
         this.label = label;
         this.score = score;
+        this.badge = badge;
     }
 
     public static double score(List<Feature> featureList) {

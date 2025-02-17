@@ -16,6 +16,7 @@ public class Website {
     private String description;
     private String lang;
     private List<Feature> features;
+    private List<Badge> badges;
     private Double score;
     private String addedDate;
     private String updatedDate;
@@ -29,6 +30,6 @@ public class Website {
     /**
      * 0: normal 1: abnormal
      */
-    private Integer status;
+    private Badge status;
     private Object extraInfo;
 }

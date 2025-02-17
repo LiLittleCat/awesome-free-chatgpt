@@ -1,0 +1,273 @@
+package com.lilittlecat.freechatgpt;
+
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
+import lombok.experimental.Accessors;
+import lombok.extern.slf4j.Slf4j;
+
+/**
+ * Badge class representing a Shields.io badge
+ *
+ * @author Yi Liu
+ * @since 2025/2/17
+ */
+@Getter
+@Setter
+@ToString
+@Accessors(chain = true)
+@Slf4j
+public class Badge {
+
+    /**
+     * The colors of the badge
+     * <p>
+     * green 54A857
+     * blue 359FF4
+     * yellow E8BA36
+     * pink F9848C
+     * black 0D0D0D
+     * white FFFFFF
+     * </p>
+     */
+    public static final String COLOR_GREEN = "54A857";
+    public static final String COLOR_BLUE = "359FF4";
+    public static final String COLOR_YELLOW = "E8BA36";
+    public static final String COLOR_PINK = "F9848C";
+    public static final String COLOR_BLACK = "0D0D0D";
+    public static final String COLOR_WHITE = "FFFFFF";
+
+    /**
+     * The styles of the badge
+     */
+    public static final String STYLE_FLAT = "flat";
+    public static final String STYLE_FLAT_SQUARE = "flat-square";
+    public static final String STYLE_PLASTIC = "plastic";
+    public static final String STYLE_FOR_THE_BADGE = "for-the-badge";
+    public static final String STYLE_SOCIAL = "social";
+
+    /**
+     * The logo names
+     */
+    public static final String LOGO_OPENAI = "openai";
+    public static final String LOGO_CLAUDE = "claude";
+    public static final String LOGO_GITHUB_SPONSORS = "GitHub-Sponsors";
+    public static final String LOGO_SIMPLE_LOGIN = "simplelogin";
+    /**
+     * The prefix for the base64 encoded logo
+     */
+    public static final String LOGO_BASE64_PREFIX = "data:image/svg+xml;base64,";
+
+    /**
+     * The label text shown on the left side of the badge
+     */
+    private String label;
+
+    /**
+     * The message text shown on the right side of the badge
+     */
+    private String message;
+
+    /**
+     * The color of the badge (right side)
+     */
+    private String color;
+
+    /**
+     * The style of the badge (plastic, flat, flat-square, for-the-badge, social)
+     */
+    private String style = STYLE_FLAT_SQUARE;
+
+    /**
+     * The logo to be displayed in the badge
+     */
+    private String logo;
+
+    /**
+     * The base64 encoded logo(svg) to be displayed in the badge
+     */
+    private String logoBase64;
+
+    /**
+     * Whether the logo is base64 encoded
+     */
+    private Boolean isLogoBase64 = false;
+
+    /**
+     * The color of the logo
+     */
+    private String logoColor = COLOR_WHITE;
+
+    /**
+     * The label color (left side)
+     */
+    private String labelColor = COLOR_BLACK;
+
+    public Badge(String label, String message, String color) {
+        this.label = label;
+        this.message = message;
+        this.color = color;
+    }
+
+    public Badge(String label, String message, String color, String style) {
+        this(label, message, color);
+        this.style = style;
+    }
+
+    public Badge(String label, String message, String color, String style, String logo) {
+        this(label, message, color, style);
+        this.logo = logo;
+    }
+
+    public Badge(String label, String message, String color, String style, String logo, String logoColor) {
+        this(label, message, color, style, logo);
+        this.logoColor = logoColor;
+    }
+
+    public Badge(String label, String message, String color, String style, String logo, String logoColor,
+            String labelColor) {
+        this(label, message, color, style, logo, logoColor);
+        this.labelColor = labelColor;
+    }
+
+    public Badge(String label, String message, String color, String style, String logo, String logoColor,
+            String labelColor, String logoBase64) {
+        this(label, message, color, style, logo, logoColor, labelColor);
+        this.logoBase64 = logoBase64;
+        this.isLogoBase64 = true;
+    }
+
+    /**
+     * Generate the base URL for the badge
+     *
+     * @return Shields.io URL
+     */
+    public String generateUrl() {
+        StringBuilder url = new StringBuilder("https://img.shields.io/badge/");
+
+        // URL encode the label and message
+        String encodedLabel = label.replace(" ", "%20").replace("-", "--");
+        String encodedMessage = message.replace(" ", "%20").replace("-", "--");
+
+        url.append(encodedLabel).append("-").append(encodedMessage).append("-").append(color);
+
+        // Add optional parameters
+        if (style != null && !style.equals(STYLE_FLAT)) {
+            url.append("?style=").append(style);
+        }
+
+        if (logo != null) {
+            url.append(url.indexOf("?") == -1 ? "?" : "&")
+                    .append("logo=").append(logo);
+        }
+
+        if (logoColor != null) {
+            url.append("&logoColor=").append(logoColor);
+        }
+
+        if (labelColor != null) {
+            url.append("&labelColor=").append(labelColor);
+        }
+
+        return url.toString();
+    }
+
+    /**
+     * Generate a Markdown formatted badge
+     *
+     * @return Markdown formatted badge
+     */
+    public String toMarkdown() {
+        return String.format("![%s](%s)", label, generateUrl());
+    }
+
+    /**
+     * Generate a Markdown formatted badge with a link
+     *
+     * @param link The URL to link to when the badge is clicked
+     * @return Markdown formatted badge with a link
+     */
+    public String toMarkdown(String link) {
+        return String.format("[![%s](%s)](%s)", label, generateUrl(), link);
+    }
+
+    /**
+     * Generate an HTML formatted badge
+     *
+     * @return HTML formatted badge
+     */
+    public String toHtml() {
+        return String.format("<img alt=\"%s\" src=\"%s\">", label, generateUrl());
+    }
+
+    /**
+     * Generate an HTML formatted badge with a link
+     *
+     * @param link The URL to link to when the badge is clicked
+     * @return HTML formatted badge with a link
+     */
+    public String toHtml(String link) {
+        return String.format("<a href=\"%s\"><img alt=\"%s\" src=\"%s\"></a>",
+                link, label, generateUrl());
+    }
+
+    /**
+     * Generate a BBCode formatted badge
+     *
+     * @return BBCode formatted badge
+     */
+    public String toBBCode() {
+        return String.format("[img alt=%s]%s[/img]", label, generateUrl());
+    }
+
+    /**
+     * Generate a BBCode formatted badge with a link
+     *
+     * @param link The URL to link to when the badge is clicked
+     * @return BBCode formatted badge with a link
+     */
+    public String toBBCode(String link) {
+        return String.format("[url=%s][img alt=%s]%s[/img][/url]",
+                link, label, generateUrl());
+    }
+
+    /**
+     * Generate a reStructuredText formatted badge
+     *
+     * @return reStructuredText formatted badge
+     */
+    public String toRst() {
+        return String.format(".. image:: %s\n   :alt: %s", generateUrl(), label);
+    }
+
+    /**
+     * Generate a reStructuredText formatted badge with a link
+     *
+     * @param link The URL to link to when the badge is clicked
+     * @return reStructuredText formatted badge with a link
+     */
+    public String toRst(String link) {
+        return String.format(".. image:: %s\n   :alt: %s\n   :target: %s",
+                generateUrl(), label, link);
+    }
+
+    /**
+     * Generate an AsciiDoc formatted badge
+     *
+     * @return AsciiDoc formatted badge
+     */
+    public String toAsciiDoc() {
+        return String.format("image:%s[\"%s\"]", generateUrl(), label);
+    }
+
+    /**
+     * Generate an AsciiDoc formatted badge with a link
+     *
+     * @param link The URL to link to when the badge is clicked
+     * @return AsciiDoc formatted badge with a link
+     */
+    public String toAsciiDoc(String link) {
+        return String.format("image:%s[\"%s\",link=\"%s\"]",
+                generateUrl(), label, link);
+    }
+}

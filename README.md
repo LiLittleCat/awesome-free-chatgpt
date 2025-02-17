@@ -4515,3 +4515,10 @@
 ### 💞 Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
+
+### 💖 Credits
+
+- https://github.com/badges/shields
+- https://github.com/paomedia/small-n-flat
+- https://github.com/lusaxweb/iconsax
+- https://github.com/simple-icons/simple-icons
