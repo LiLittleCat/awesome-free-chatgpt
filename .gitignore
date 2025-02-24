@@ -1,3 +1,7 @@
 .idea
 target
 .vscode
+src/.DS_Store
+.DS_Store
+.env
+.env.local

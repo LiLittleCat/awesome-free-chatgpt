@@ -125,3 +125,4 @@ https://fluent.thinkstu.com/config/translation-engines.html
 https://github.com/JonathanChavezTamales/LLMStats/tree/main/models
 
 
+![新添加](https://img.shields.io/badge/新添加-438440?style=flat-square&labelColor=000000)
