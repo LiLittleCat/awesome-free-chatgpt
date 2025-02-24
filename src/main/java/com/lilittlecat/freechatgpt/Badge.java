@@ -4,7 +4,6 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 import lombok.experimental.Accessors;
-import lombok.extern.slf4j.Slf4j;
 
 /**
  * Badge class representing a Shields.io badge
@@ -16,7 +15,6 @@ import lombok.extern.slf4j.Slf4j;
 @Setter
 @ToString
 @Accessors(chain = true)
-@Slf4j
 public class Badge {
 
     /**
@@ -28,6 +26,12 @@ public class Badge {
      * pink F9848C
      * black 0D0D0D
      * white FFFFFF
+     * </p>
+     * format:
+     * https://img.shields.io/badge/{label}-{message}-{color}?logo={logo}&labelColor={labelColor}
+     * example:
+     * <p>
+     * ![Sponsors](https://img.shields.io/badge/Sponsors-F9848C?logo=GitHub-Sponsors&logoColor=white&style=flat-square)
      * </p>
      */
     public static final String COLOR_GREEN = "54A857";
@@ -101,41 +105,7 @@ public class Badge {
     /**
      * The label color (left side)
      */
-    private String labelColor = COLOR_BLACK;
-
-    public Badge(String label, String message, String color) {
-        this.label = label;
-        this.message = message;
-        this.color = color;
-    }
-
-    public Badge(String label, String message, String color, String style) {
-        this(label, message, color);
-        this.style = style;
-    }
-
-    public Badge(String label, String message, String color, String style, String logo) {
-        this(label, message, color, style);
-        this.logo = logo;
-    }
-
-    public Badge(String label, String message, String color, String style, String logo, String logoColor) {
-        this(label, message, color, style, logo);
-        this.logoColor = logoColor;
-    }
-
-    public Badge(String label, String message, String color, String style, String logo, String logoColor,
-            String labelColor) {
-        this(label, message, color, style, logo, logoColor);
-        this.labelColor = labelColor;
-    }
-
-    public Badge(String label, String message, String color, String style, String logo, String logoColor,
-            String labelColor, String logoBase64) {
-        this(label, message, color, style, logo, logoColor, labelColor);
-        this.logoBase64 = logoBase64;
-        this.isLogoBase64 = true;
-    }
+    private String labelColor;
 
     /**
      * Generate the base URL for the badge
@@ -146,10 +116,22 @@ public class Badge {
         StringBuilder url = new StringBuilder("https://img.shields.io/badge/");
 
         // URL encode the label and message
-        String encodedLabel = label.replace(" ", "%20").replace("-", "--");
-        String encodedMessage = message.replace(" ", "%20").replace("-", "--");
-
-        url.append(encodedLabel).append("-").append(encodedMessage).append("-").append(color);
+        String encodedLabel = null;
+        String encodedMessage = null;
+        
+        if (label != null && !label.isEmpty()) {
+            encodedLabel = label.replace(" ", "%20").replace("-", "--");
+            url.append(encodedLabel);
+        }
+        
+        if (message != null && !message.isEmpty()) {
+            encodedMessage = message.replace(" ", "%20").replace("-", "--");
+            url.append("-").append(encodedMessage);
+        }
+        
+        if (color != null && !color.isEmpty()) {
+            url.append("-").append(color);
+        }
 
         // Add optional parameters
         if (style != null && !style.equals(STYLE_FLAT)) {

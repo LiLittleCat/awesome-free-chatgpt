@@ -4,7 +4,6 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 import lombok.experimental.Accessors;
-import lombok.extern.slf4j.Slf4j;
 
 /**
  * BadgeLogoBase64 class representing a base64 encoded logo for a badge
@@ -16,7 +15,6 @@ import lombok.extern.slf4j.Slf4j;
 @Setter
 @ToString
 @Accessors(chain = true)
-@Slf4j
 public class BadgeLogoBase64 {
     /**
      * web access
