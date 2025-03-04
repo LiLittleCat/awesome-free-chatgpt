@@ -18,7 +18,7 @@ Given that the current ranking scoring rules are relatively rough, and the exist
     | Company   | Advanced Models                                                              |
     |-----------|------------------------------------------------------------------------------|
     | OpenAI    | GPT-4o<br>o1-mini<br>o1-preview<br>o1<br>o3-mini<br>o3-mini-high<br>o3       |
-    | Anthropic | Claude-3.5-Sonnet<br>Claude-3-Opus                                           |
+    | Anthropic | Claude-3.5-Sonnet<br>Claude-3-Opus<br>Claude-3.7-Sonnet                                     |
     | Google    | Gemini-2.0-Flash-Thinking-Experimental<br>Gemini-2.0-Flash<br>Gemini-1.5-Pro |
     | DeepSeek  | DeepSeek-R1<br>DeepSeek-V3<br>DeepSeek-V2.5                                  |
     | xAI       | Grok-3                                                                       |

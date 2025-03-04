@@ -11,15 +11,15 @@
 
 3. 模型支持（由于当前模型较多，只将支持高级模型作为加分项，其他模型不加分。）
     - 高级模型支持，每支持一个高级模型 +10
-    
+       
     #### 高级模型列表
     > 参考: [Chatbot Arena LLM Leaderboard](https://lmarena.ai/?leaderboard)
 
     | 公司        | 高级模型                                                                         |
     |-----------|------------------------------------------------------------------------------|
     | OpenAI    | GPT-4o<br>o1-mini<br>o1-preview<br>o1<br>o3-mini<br>o3-mini-high<br>o3       |
-    | Anthropic | Claude-3.5-Sonnet<br>Claude-3-Opus                                           |
-    | Google    | Gemini-2.0-Flash-Thinking-Experimental<br>Gemini-2.0-Flash<br>Gemini-1.5-Pro |
+    | Anthropic | Claude-3.5-Sonnet<br>Claude-3.7-Sonnet                                       |
+   | Google    | Gemini-2.0-Flash-Thinking-Experimental<br>Gemini-2.0-Flash<br>Gemini-1.5-Pro |
     | DeepSeek  | DeepSeek-R1<br>DeepSeek-V3<br>DeepSeek-V2.5                                  |
     | xAI       | Grok-3                                                                       |
     | Alibaba   | Qwen2.5-Max<br>Qwen2.5-Plus                                                  |

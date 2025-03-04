@@ -5,6 +5,8 @@ import lombok.Setter;
 import lombok.ToString;
 import lombok.experimental.Accessors;
 
+import java.awt.Color;
+
 /**
  * Badge class representing a Shields.io badge
  *
@@ -19,14 +21,6 @@ public class Badge {
 
     /**
      * The colors of the badge
-     * <p>
-     * green 54A857
-     * blue 359FF4
-     * yellow E8BA36
-     * pink F9848C
-     * black 0D0D0D
-     * white FFFFFF
-     * </p>
      * format:
      * https://img.shields.io/badge/{label}-{message}-{color}?logo={logo}&labelColor={labelColor}
      * example:
@@ -34,8 +28,12 @@ public class Badge {
      * ![Sponsors](https://img.shields.io/badge/Sponsors-F9848C?logo=GitHub-Sponsors&logoColor=white&style=flat-square)
      * </p>
      */
-    public static final String COLOR_GREEN = "54A857";
-    public static final String COLOR_BLUE = "359FF4";
+    public static final Color COLOR_GREEN1 = new Color(0x438440);
+    public static final Color COLOR_BLUE1 = new Color(0x2479be);
+    public static final Color COLOR_YELLOW1= new Color(0xE8BA36);
+
+    public static final String COLOR_GREEN = "438440";
+    public static final String COLOR_BLUE = "2479be";
     public static final String COLOR_YELLOW = "E8BA36";
     public static final String COLOR_PINK = "F9848C";
     public static final String COLOR_BLACK = "0D0D0D";

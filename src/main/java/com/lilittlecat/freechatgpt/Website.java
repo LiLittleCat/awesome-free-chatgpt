@@ -1,5 +1,8 @@
 package com.lilittlecat.freechatgpt;
 
+import com.lilittlecat.freechatgpt.feature.Feature;
+import com.lilittlecat.freechatgpt.feature.Model;
+
 import lombok.Data;
 
 import java.util.List;
@@ -16,6 +19,7 @@ public class Website {
     private String description;
     private String lang;
     private List<Feature> features;
+    private List<Model> models;
     private List<Badge> badges;
     private Double score;
     private String addedDate;

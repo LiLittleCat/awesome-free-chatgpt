@@ -20,8 +20,8 @@
 ![GPT-4o 免费](https://img.shields.io/badge/GPT--4o-免费-438440?logo=openai&style=flat-square&labelColor=000000)
 ![GPT-4o Free](https://img.shields.io/badge/GPT--4o-Free-438440?logo=openai&style=flat-square&labelColor=000000)
 
-![GPT-4o 额度](https://img.shields.io/badge/GPT--4o-额度-359FF4?logo=openai&style=flat-square&labelColor=000000)
-![GPT-4o Limited](https://img.shields.io/badge/GPT--4o-Limited-359FF4?logo=openai&style=flat-square&labelColor=000000)
+![GPT-4o 额度](https://img.shields.io/badge/GPT--4o-额度-2479be?logo=openai&style=flat-square&labelColor=000000)
+![GPT-4o Limited](https://img.shields.io/badge/GPT--4o-Limited-2A7BBA?logo=openai&style=flat-square&labelColor=000000)
 
 ![GPT-4o 付费](https://img.shields.io/badge/GPT--4o-付费-E8BA36?logo=openai&style=flat-square&labelColor=000000)
 ![GPT-4o Paid](https://img.shields.io/badge/GPT--4o-Paid-E8BA36?logo=openai&style=flat-square&labelColor=000000)
