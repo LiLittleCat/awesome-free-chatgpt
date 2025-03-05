@@ -1577,7 +1577,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [Google Gemini](https://gemini.google.com/) - Supercharge your creativity and productivity
 - [HuggingChat](https://huggingface.co/chat) - Making the community's best AI chat models available to everyone.
 - [Anthropic Claude](https://claude.ai/) - Claude is a next generation AI assistant built for work and trained to be safe, accurate, and secure.
-- [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1) - Say hello to DuckDuckGo AI Chat! Anonymous access to popular AI models, including GPT-3.5, Claude 3, and open-source Llama 3 and Mixtral.
+- [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1) - Say hello to DuckDuckGo AI Chat! Anonymous access to popular AI models, including GPT-4o mini, Claude 3, and open-source Llama 3 and Mixtral.
 - [Chat with Open Large Language Models](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat> - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [Open Assistant](https://open-assistant.io/) - Conversational AI for everyone. An open source project to create a chat enabled GPT LLM run by LAION and contributors around the world.
 - [Pi, your personal AI](https://heypi.com/talk) - Hi, I'm Pi. I'm your personal AI, designed to be supportive, smart, and there for you anytime. Ask me for advice, for answers, or let's talk about whatever's on your mind.

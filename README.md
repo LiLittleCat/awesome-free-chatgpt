@@ -4456,7 +4456,7 @@ gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemin
 
 - 👍 [Poe - Fast, Helpful AI Chat](https://poe.com) - 在 Poe 上可与 ChatGPT、GPT-4o、Claude-3-Opus、DALLE 3 等数百万机器人交谈。
 - [HuggingChat](https://huggingface.co/chat) - 让社区最好的 AI 聊天模型对所有人可用。
-- [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1) - 向 DuckDuckGo AI Chat 打个招呼！ 匿名使用热门人工智能模型，包括 GPT-3.5、Claude 3 以及开源 Llama 3 和 Mixtral。
+- [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1) - 向 DuckDuckGo AI Chat 打个招呼！ 匿名使用热门人工智能模型，包括 GPT-4o mini、Claude 3 以及开源 Llama 3 和 Mixtral。
 - [Chat with Open Large Language Models](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat> - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [Microsoft Copilot](https://copilot.microsoft.com/) - 你的日常 AI 助手。
 - [Meta AI](https://www.meta.ai/) - 使用 Meta AI 助手，免费生成图像，并回答任何问题。
