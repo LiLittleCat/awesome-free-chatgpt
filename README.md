@@ -87,6 +87,21 @@
         </tr>
         <tr>
             <td>2</td>
+            <td> <a href="https://freegpt.tech" target="_blank">https://freegpt.tech</a>
+                <br> </td>
+            <td>
+                        🏆
+                        🆓
+                        💪
+                        🧰
+            </td>
+            <td>2024-10-11</td>
+            <td>免费ChatGPT，支持免费画图和上传文件，无需登录。
+模型支持：
+gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemini、grok、deepseek 等。</td>
+        </tr>
+        <tr>
+            <td>3</td>
             <td> <a href="https://chat5.aiyunos.top" target="_blank">https://chat5.aiyunos.top</a>
                 <br> </td>
             <td>
@@ -97,20 +112,6 @@
             </td>
             <td>2023-11-15</td>
             <td></td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td> <a href="https://freegpt.tech" target="_blank">https://freegpt.tech</a>
-                <br> </td>
-            <td>
-                        🏆
-                        🆓
-                        💪
-            </td>
-            <td>2024-10-11</td>
-            <td>免费ChatGPT，支持免费画图和上传文件，无需登录。
-模型支持：
-gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemini、grok、deepseek 等。</td>
         </tr>
         <tr>
             <td>4</td>
