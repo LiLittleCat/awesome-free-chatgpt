@@ -1,7 +1,6 @@
 package com.lilittlecat.freechatgpt.feature;
 
 import com.lilittlecat.freechatgpt.Badge;
-
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
@@ -42,9 +41,9 @@ public class Login implements Feature {
 
     @Getter
     public enum Requirement {
-        NotRequired("Not Required", "不需要", 10, Badge.COLOR_GREEN),
+        NotRequired("Not Required", "不需要", 100, Badge.COLOR_GREEN),
         Optional("Optional", "可选", 0, Badge.COLOR_BLUE),
-        Required("Required", "需要", -10, Badge.COLOR_YELLOW),
+        Required("Required", "需要", -50, Badge.COLOR_YELLOW),
 
         ;
         private final String message;

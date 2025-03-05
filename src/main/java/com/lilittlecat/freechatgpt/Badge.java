@@ -19,6 +19,24 @@ import java.awt.Color;
 @Accessors(chain = true)
 public class Badge {
 
+    public static final Badge STATUS_WARNING = new Badge()
+            .setLabel("Status")
+            .setMessage("Warning")
+            .setColor("F1C40F")
+            .setLogo(BadgeLogoBase64.STATUS_WARNING);
+
+    public static final Badge STATUS_OK = new Badge()
+            .setLabel("Status")
+            .setMessage("OK")
+            .setColor("2ECC71")
+            .setLogo(BadgeLogoBase64.STATUS_OK);
+
+    public static final Badge STATUS_ERROR = new Badge()
+            .setLabel("Status")
+            .setMessage("Error")
+            .setColor("E74C3C")
+            .setLogo(BadgeLogoBase64.STATUS_ERROR);
+
     /**
      * The colors of the badge
      * format:
@@ -55,10 +73,6 @@ public class Badge {
     public static final String LOGO_CLAUDE = "claude";
     public static final String LOGO_GITHUB_SPONSORS = "GitHub-Sponsors";
     public static final String LOGO_SIMPLE_LOGIN = "simplelogin";
-    /**
-     * The prefix for the base64 encoded logo
-     */
-    public static final String LOGO_BASE64_PREFIX = "data:image/svg+xml;base64,";
 
     /**
      * The label text shown on the left side of the badge
@@ -84,16 +98,6 @@ public class Badge {
      * The logo to be displayed in the badge
      */
     private String logo;
-
-    /**
-     * The base64 encoded logo(svg) to be displayed in the badge
-     */
-    private String logoBase64;
-
-    /**
-     * Whether the logo is base64 encoded
-     */
-    private Boolean isLogoBase64 = false;
 
     /**
      * The color of the logo

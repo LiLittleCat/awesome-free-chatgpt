@@ -4452,7 +4452,29 @@
 
 ## 🗨️ ChatGPT 替代方案
 
-- 👍 [Poe - Fast, Helpful AI Chat](https://poe.com) - 在 Poe 上可与 ChatGPT、GPT-4o、Claude-3-Opus、DALLE 3 等数百万机器人交谈。
+### 自有模型
+
+- https://claude.ai
+
+### 模型整合
+
+- https://poe.com
+- https://huggingface.co/chat
+- 
+
+## 📚 更多...
+
+### 自己搭建
+
+#### Web
+
+#### Client
+
+### API provider
+
+### 💡 提示词（Prompt）
+
+- [Poe - Fast, Helpful AI Chat](https://poe.com) - 在 Poe 上可与 ChatGPT、GPT-4o、Claude-3-Opus、DALLE 3 等数百万机器人交谈。
 - [HuggingChat](https://huggingface.co/chat) - 让社区最好的 AI 聊天模型对所有人可用。
 - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1) - 向 DuckDuckGo AI Chat 打个招呼！ 匿名使用热门人工智能模型，包括 GPT-3.5、Claude 3 以及开源 Llama 3 和 Mixtral。
 - [Chat with Open Large Language Models](https://chat.lmsys.org/) from <https://github.com/lm-sys/FastChat> - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
@@ -4484,6 +4506,7 @@
 - https://github.com/869413421/chatgpt-web - 基于 ChatGPT3.5 API 实现的私有化 web 程序
 - https://github.com/ztjhz/BetterChatGPT - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - https://github.com/ourongxing/chatgpt-vercel - Elegant and Powerful. Powered by OpenAI and Vercel.
+
 
 ### 💡 提示词（Prompt）
 

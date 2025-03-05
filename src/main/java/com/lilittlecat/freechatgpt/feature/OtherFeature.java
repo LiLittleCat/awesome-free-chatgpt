@@ -2,7 +2,6 @@ package com.lilittlecat.freechatgpt.feature;
 
 import com.lilittlecat.freechatgpt.Badge;
 import com.lilittlecat.freechatgpt.BadgeLogoBase64;
-
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
@@ -31,7 +30,7 @@ public class OtherFeature implements Feature {
             .setLabelCN("联网")
             .setMessage("Supported")
             .setMessageCN("支持")
-            .setLogo(Badge.LOGO_BASE64_PREFIX + BadgeLogoBase64.WEB_ACCESS)
+            .setLogo(BadgeLogoBase64.WEB_ACCESS)
             .setLogoColor(Badge.COLOR_WHITE)
             .setLabelColor(Badge.COLOR_BLACK)
             .setScore(10.0);
@@ -41,7 +40,7 @@ public class OtherFeature implements Feature {
             .setLabelCN("存活时间")
             .setMessage("x days")
             .setMessageCN("x 天")
-            .setLogo(Badge.LOGO_BASE64_PREFIX + BadgeLogoBase64.UPTIME)
+            .setLogo(BadgeLogoBase64.UPTIME)
             .setLogoColor(Badge.COLOR_WHITE)
             .setLabelColor(Badge.COLOR_BLACK)
             .setScore(0.0);
