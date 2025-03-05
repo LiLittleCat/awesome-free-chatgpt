@@ -3488,6 +3488,45 @@ gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemin
             <td>2023-09-23</td>
             <td></td>
         </tr>
+        <tr>
+            <td>311</td>
+            <td> <a href="https://ftac.vercel.app/" target="_blank">https://ftac.vercel.app/</a>
+                <br> </td>
+            <td>
+                        🔒
+                        💰
+                        💪
+                        🧰
+            </td>
+            <td>2024-12-20</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>312</td>
+            <td> <a href="https://finebot.xyz/" target="_blank">https://finebot.xyz/</a>
+                <br> </td>
+            <td>
+                        🔒
+                        💰
+                        💪
+                        🧰
+            </td>
+            <td>2024-12-20</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>313</td>
+            <td> <a href="https://yagc.tahriver.online/" target="_blank">https://yagc.tahriver.online/</a>
+                <br> </td>
+            <td>
+                        🔒
+                        💰
+                        💪
+                        🧰
+            </td>
+            <td>2024-12-20</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 <!-- normal-end -->
