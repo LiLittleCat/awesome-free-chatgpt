@@ -1625,6 +1625,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [Cursor | Build Fast](https://www.cursor.so/) - The AI-first code editor. Build software faster in an editor designed for pair-programming with AI
 - [Bito AI - Become a 10X Dev with Bito AI - Bito](https://bito.ai/)
 - [Meaningful Code Tests for Busy Devs | CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push.
+- [Fynix - Code Smarter, Ship Faster](https://www.fynix.ai/) Fynix combines real-time AI coding assistance with agent-powered code reviews. Write smarter, faster, and cleaner code
 
 ---
 
