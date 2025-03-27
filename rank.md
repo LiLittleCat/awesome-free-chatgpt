@@ -14,6 +14,7 @@
        
     #### 高级模型列表
     > 参考: [Chatbot Arena LLM Leaderboard](https://lmarena.ai/?leaderboard)
+   >  [Chatbot Arena Leaderboard - a Hugging Face Space by lmarena-ai](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard)
 
     | 公司        | 高级模型                                                                         |
     |-----------|------------------------------------------------------------------------------|

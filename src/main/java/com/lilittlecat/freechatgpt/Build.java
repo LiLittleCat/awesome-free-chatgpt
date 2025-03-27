@@ -1,20 +1,50 @@
 package com.lilittlecat.freechatgpt;
 
+import freemarker.cache.FileTemplateLoader;
 import kong.unirest.Unirest;
 import kong.unirest.HttpResponse;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
+import cn.hutool.core.util.StrUtil;
+
+import java.io.IOException;
+
+import cn.hutool.core.collection.CollUtil;
+import cn.hutool.core.io.FileUtil;
+import cn.hutool.core.util.StrUtil;
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.serializer.SerializerFeature;
+import com.lilittlecat.freechatgpt.feature.Feature;
+import freemarker.cache.FileTemplateLoader;
+import freemarker.template.Configuration;
+import freemarker.template.Template;
+import freemarker.template.TemplateException;
+
+import java.io.File;
+import java.io.IOException;
+import java.io.StringWriter;
+import java.nio.charset.StandardCharsets;
+import java.time.LocalDate;
+import java.util.*;
+import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+
 public class Build {
 
     public static void main(String[] args) {
         String[] websites = {
-                "https://www.google.com",
-                "https://heck.ai",
-                "https://this-is-invalid-domain.com",
-                "https://github.com/vuejs/vue-next",
-                "https://tongyi.aliyun.com/"
+                // "https://www.google.com",
+                // "https://heck.ai",
+                // "https://this-is-invalid-domain.com",
+                // "https://github.com/vuejs/vue-next",
+                // "https://tongyi.aliyun.com/"
+//                "https://leetcode.cn/problems/count-the-number-of-beautiful-subarrays/description/?envType=daily-question&envId=2025-03-06"
+
+                "https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard"
         };
 
         for (String website : websites) {
@@ -35,10 +65,57 @@ public class Build {
                 System.out.println("-------------------");
             }
         }
+        // update
+        new Build().update();
+    }
+
+    public void update() {
+        String basePath = System.getProperty("user.dir");
+
+    }
+
+    public void updateReadme() throws IOException, TemplateException {
+        String basePath = System.getProperty("user.dir");
+        Configuration cfg = new Configuration(Configuration.VERSION_2_3_32);
+        FileTemplateLoader templateLoader = new FileTemplateLoader(new File(basePath + File.separator + "src" + File.separator + "main" + File.separator + "resources"));
+        cfg.setTemplateLoader(templateLoader);
+        cfg.setDefaultEncoding("UTF-8");
+
     }
 
     /**
-     * Get website metadata including title, description, Open Graph tags, and status
+     * Wrap sentence
+     *
+     * @param text
+     * @param language en|zh
+     * @return
+     */
+    public static String wrapSentence(String text, String language) {
+        if (StrUtil.isBlank(text)) {
+            return null;
+        }
+        String template = null;
+        if (language.equals("en")) {
+            template = "<details>\n" +
+                    "<summary>Content is too long, click to expand.</summary>\n" +
+                    "{text}\n" +
+                    "</details>";
+        } else {
+            template = "<details>\n" +
+                    "<summary>内容过长，点击展开</summary>\n" +
+                    "{text}\n" +
+                    "</details>";
+        }
+        if (text.length() > 30) {
+            return template.replace("{text}", text);
+        } else {
+            return text;
+        }
+    }
+
+    /**
+     * Get website metadata including title, description, Open Graph tags, and
+     * status
      *
      * @param url Website URL to analyze
      * @return WebsiteMetadata object containing all extracted information
@@ -46,11 +123,12 @@ public class Build {
     public static WebsiteMetadata getWebsiteMetadata(String url) {
         WebsiteMetadata metadata = new WebsiteMetadata();
         metadata.setUrl(url);
-        
+
         try {
             // Send HTTP GET request with desktop User-Agent
             HttpResponse<String> response = Unirest.get(url)
-                    .header("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
+                    .header("User-Agent",
+                            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
                     .asString();
 
             // Set status badge
@@ -107,23 +185,27 @@ public class Build {
      *
      * @param url Website URL to check
      * @return Status badge object
-     *<p>
-     *    <ul>
-     *        <li>
-            <b>STATUS_OK</b>: Status code 200-299, indicates website is normal</li>
-     *        <li>
-            <b>STATUS_WARNING</b>: Status code 300-499, indicates redirect or client error</li>
-     *        <li>
-            <b>STATUS_ERROR</b>: Status code 500+ or request exception, indicates server error</li>
-     * 
-    </ul>
+     * <p>
+     * <ul>
+     * <li>
+     * <b>STATUS_OK</b>: Status code 200-299, indicates website is
+     * normal</li>
+     * <li>
+     * <b>STATUS_WARNING</b>: Status code 300-499, indicates redirect or
+     * client error</li>
+     * <li>
+     * <b>STATUS_ERROR</b>: Status code 500+ or request exception, indicates
+     * server error</li>
+     *
+     * </ul>
      */
     public static Badge checkWebsiteStatus(String url) {
         try {
             // Send HTTP GET request
             HttpResponse<String> response = Unirest.get(url)
                     // Set User-Agent to avoid being blocked
-                    .header("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
+                    .header("User-Agent",
+                            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
                     .asString();
 
             // Get response status code

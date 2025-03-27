@@ -37,13 +37,24 @@ public class OtherFeature implements Feature {
 
     public static final OtherFeature UPTIME = new OtherFeature()
             .setLabel("Uptime")
-            .setLabelCN("存活时间")
-            .setMessage("x days")
+            .setLabelCN("添加后存活时间")
+            .setMessage("x days since added")
             .setMessageCN("x 天")
             .setLogo(BadgeLogoBase64.UPTIME)
             .setLogoColor(Badge.COLOR_WHITE)
             .setLabelColor(Badge.COLOR_BLACK)
             .setScore(0.0);
+
+    // 支持绘图
+    public static final OtherFeature DRAWING = new OtherFeature()
+            .setLabel("Drawing")
+            .setLabelCN("绘图")
+            .setMessage("Supported")
+            .setMessageCN("支持")
+            .setLogo(BadgeLogoBase64.DRAWING)
+            .setLogoColor(Badge.COLOR_WHITE)
+            .setLabelColor(Badge.COLOR_BLACK)
+            .setScore(10.0);
 
     private String label;
     private String labelCN;
