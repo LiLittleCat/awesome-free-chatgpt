@@ -26,6 +26,11 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
+
+import j2html.tags.DomContent;
+
+import static j2html.TagCreator.*;
 
 
 public class Build {
@@ -175,7 +180,46 @@ public class Build {
         cfg.setDefaultEncoding("UTF-8");
 
 
+    }
 
+
+    public String generateHtmlTable(List<Website> websites) {
+        return table().withClass("websites-table")
+                .with(
+                        thead(
+                                tr(
+                                        th("No."),
+                                        th("Website"),
+                                        th("Language"),
+                                        th("Tags"),
+                                        th("Add Date"),
+                                        th("Description")
+                                )
+                        ),
+                        tbody(
+                                each(websites, website ->
+                                        tr(
+                                                td(String.valueOf(websites.indexOf(website) + 1)),
+                                                td(
+                                                        text(website.getTitle() != null ? website.getTitle() : ""),
+                                                        a().withHref(website.getUrl()).withTarget("_blank").withText(website.getUrl()),
+                                                        br(),
+                                                        text(website.getDescription() != null ? website.getDescription() : "")
+                                                ),
+                                                td(website.getLang() != null ? website.getLang() : ""),
+                                                td(
+                                                        website.getFeatures() != null
+                                                                ? join(website.getFeatures().stream()
+                                                                .map(feature -> feature.getBadge().toHtml())
+                                                                .collect(Collectors.toList()))
+                                                                : ""
+                                                ),
+                                                td(website.getAddedDate() != null ? website.getAddedDate() : ""),
+                                                td(website.getCustomDescriptionEnglish() != null ? website.getCustomDescriptionEnglish() : "")
+                                        )
+                                )
+                        )
+                ).render();
     }
 
     /**

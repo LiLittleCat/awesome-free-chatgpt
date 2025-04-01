@@ -74,6 +74,11 @@
             <artifactId>unirest-java</artifactId>
             <version>3.14.1</version>
         </dependency>
+        <dependency>
+    <groupId>com.j2html</groupId>
+    <artifactId>j2html</artifactId>
+    <version>1.6.0</version>
+</dependency>
     </dependencies>
     <build>
         <plugins>
