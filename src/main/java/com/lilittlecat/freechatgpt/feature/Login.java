@@ -1,10 +1,13 @@
 package com.lilittlecat.freechatgpt.feature;
 
-import com.lilittlecat.freechatgpt.Badge;
+import com.lilittlecat.freechatgpt.Score;
+import com.lilittlecat.freechatgpt.badge.Badge;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 import lombok.experimental.Accessors;
+
+import java.util.Map;
 
 /**
  * Login
@@ -15,20 +18,34 @@ import lombok.experimental.Accessors;
 @Accessors(chain = true)
 public class Login implements Feature {
 
-    public static final Login NOT_REQUIRED = new Login()
+    public static Login LOGIN_NOT_REQUIRED = new Login()
             .setLabel("Login")
             .setLabelCN("登录")
-            .setRequirement(Requirement.NotRequired);
+            .setRequirement(Requirement.NOT_REQUIRED);
 
-    public static final Login REQUIRED = new Login()
+    public static Login LOGIN_REQUIRED = new Login()
             .setLabel("Login")
             .setLabelCN("登录")
-            .setRequirement(Requirement.Required);
+            .setRequirement(Requirement.REQUIRED);
 
-    public static final Login OPTIONAL = new Login()
+    public static Login LOGIN_OPTIONAL = new Login()
             .setLabel("Login")
             .setLabelCN("登录")
-            .setRequirement(Requirement.Optional);
+            .setRequirement(Requirement.OPTIONAL);
+
+    public static Map<String, Login> MAP;
+
+    static {
+        java.util.HashMap<String, Login> map = new java.util.HashMap<>();
+        map.put("LOGIN_NOT_REQUIRED", LOGIN_NOT_REQUIRED);
+        map.put("LOGIN_REQUIRED", LOGIN_REQUIRED);
+        map.put("LOGIN_OPTIONAL", LOGIN_OPTIONAL);
+        MAP = java.util.Collections.unmodifiableMap(map);
+    }
+
+    public static Login getByName(String name) {
+        return MAP.get(name);
+    }
 
     private String label;
     private String labelCN;
@@ -41,9 +58,9 @@ public class Login implements Feature {
 
     @Getter
     public enum Requirement {
-        NotRequired("Not Required", "不需要", 100, Badge.COLOR_GREEN),
-        Optional("Optional", "可选", 0, Badge.COLOR_BLUE),
-        Required("Required", "需要", -50, Badge.COLOR_YELLOW),
+        NOT_REQUIRED("Not Required", "不需要", Score.LOGIN_NOT_REQUIRED.getScore(), Badge.COLOR_GREEN),
+        OPTIONAL("Optional", "可选", Score.LOGIN_OPTIONAL.getScore(), Badge.COLOR_BLUE),
+        REQUIRED("Required", "需要", Score.LOGIN_REQUIRED.getScore(), Badge.COLOR_YELLOW),
 
         ;
         private final String message;
@@ -83,7 +100,7 @@ public class Login implements Feature {
     }
 
     @Override
-    public Double getTotalScore() {
+    public Double getScore() {
         return requirement.getScore();
     }
 }

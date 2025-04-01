@@ -1,6 +1,6 @@
 package com.lilittlecat.freechatgpt.feature;
 
-import com.lilittlecat.freechatgpt.Badge;
+import com.lilittlecat.freechatgpt.badge.Badge;
 
 /**
  * Feature
@@ -26,6 +26,6 @@ public interface Feature {
      *
      * @return the score
      */
-    Double getTotalScore();
+    Double getScore();
 
 }

@@ -1,6 +1,7 @@
 package com.lilittlecat.freechatgpt.feature;
 
-import com.lilittlecat.freechatgpt.Badge;
+import com.lilittlecat.freechatgpt.Score;
+import com.lilittlecat.freechatgpt.badge.Badge;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
@@ -32,6 +33,11 @@ public class Model implements Feature {
     private Double score;
 
     /**
+     * is pro model
+     */
+    private Boolean pro;
+
+    /**
      * Price
      */
     private Price price;
@@ -53,9 +59,9 @@ public class Model implements Feature {
 
     @Getter
     public enum Price {
-        FREE("Free", "免费", 10.0, Badge.COLOR_GREEN),
-        LIMITED("Limited", "额度", 5.0, Badge.COLOR_BLUE),
-        PAID("Paid", "付费", 2.0, Badge.COLOR_YELLOW),
+        FREE("Free", "免费", Score.MODEL_FREE.getScore(), Badge.COLOR_GREEN),
+        LIMITED("Limited", "额度", Score.MODEL_LIMITED.getScore(), Badge.COLOR_BLUE),
+        PAID("Paid", "付费", Score.MODEL_PAID.getScore(), Badge.COLOR_YELLOW),
         ;
 
         private final String message;
@@ -96,7 +102,7 @@ public class Model implements Feature {
     }
 
     @Override
-    public Double getTotalScore() {
+    public Double getScore() {
         return score * price.getScoreRatio();
     }
 }

@@ -1,36 +1,31 @@
 package com.lilittlecat.freechatgpt;
 
+import cn.hutool.core.io.FileUtil;
+import cn.hutool.core.util.StrUtil;
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson.serializer.SerializerFeature;
+import com.lilittlecat.freechatgpt.badge.Badge;
+import com.lilittlecat.freechatgpt.feature.Feature;
+import com.lilittlecat.freechatgpt.feature.Login;
+import com.lilittlecat.freechatgpt.feature.Model;
+import com.lilittlecat.freechatgpt.feature.OtherFeature;
+import com.lilittlecat.freechatgpt.website.Website;
+import com.lilittlecat.freechatgpt.website.WebsiteMetadata;
 import freemarker.cache.FileTemplateLoader;
-import kong.unirest.Unirest;
+import freemarker.template.Configuration;
+import freemarker.template.TemplateException;
 import kong.unirest.HttpResponse;
+import kong.unirest.Unirest;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
-import cn.hutool.core.util.StrUtil;
-
-import java.io.IOException;
-
-import cn.hutool.core.collection.CollUtil;
-import cn.hutool.core.io.FileUtil;
-import cn.hutool.core.util.StrUtil;
-import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.serializer.SerializerFeature;
-import com.lilittlecat.freechatgpt.feature.Feature;
-import freemarker.cache.FileTemplateLoader;
-import freemarker.template.Configuration;
-import freemarker.template.Template;
-import freemarker.template.TemplateException;
-
 import java.io.File;
 import java.io.IOException;
-import java.io.StringWriter;
 import java.nio.charset.StandardCharsets;
-import java.time.LocalDate;
-import java.util.*;
+import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 
 public class Build {
@@ -47,31 +42,129 @@ public class Build {
                 "https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard"
         };
 
-        for (String website : websites) {
-            try {
-                WebsiteMetadata metadata = getWebsiteMetadata(website);
-                System.out.println("Website: " + website);
-                System.out.println("Title: " + metadata.getTitle());
-                System.out.println("Description: " + metadata.getDescription());
-                System.out.println("OG Title: " + metadata.getOgTitle());
-                System.out.println("OG Description: " + metadata.getOgDescription());
-                System.out.println("OG Image: " + metadata.getOgImage());
-                System.out.println("Status Badge URL: " + metadata.getStatus().generateUrl());
-                System.out.println("Favicon: " + metadata.getFavicon());
-                System.out.println("-------------------");
-            } catch (Exception e) {
-                System.out.println("Error processing website: " + website);
-                System.out.println("Error: " + e.getMessage());
-                System.out.println("-------------------");
-            }
-        }
+//        for (String website : websites) {
+//            try {
+//                WebsiteMetadata metadata = getWebsiteMetadata(website);
+//                System.out.println("Website: " + website);
+//                System.out.println("Title: " + metadata.getTitle());
+//                System.out.println("Description: " + metadata.getDescription());
+//                System.out.println("OG Title: " + metadata.getOgTitle());
+//                System.out.println("OG Description: " + metadata.getOgDescription());
+//                System.out.println("OG Image: " + metadata.getOgImage());
+//                System.out.println("Status Badge URL: " + metadata.getStatus().generateUrl());
+//                System.out.println("Favicon: " + metadata.getFavicon());
+//                System.out.println("-------------------");
+//            } catch (Exception e) {
+//                System.out.println("Error processing website: " + website);
+//                System.out.println("Error: " + e.getMessage());
+//                System.out.println("-------------------");
+//            }
+//        }
         // update
         new Build().update();
     }
 
     public void update() {
         String basePath = System.getProperty("user.dir");
+        File originalJSON = new File(String.join(File.separator, basePath, "data", "v2", "original.json"));
+        JSONObject originalJSONObject = JSON.parseObject(FileUtil.readString(originalJSON, StandardCharsets.UTF_8));
+        List<Website> originalWebsites = originalJSONObject.getJSONArray("websites").toJavaList(Website.class);
+        List<Website> result = new ArrayList<>();
+        originalWebsites.parallelStream().forEach(
+                website -> {
+                    String url = website.getUrl();
+                    if (StrUtil.isEmpty(url)) {
+                        return;
+                    }
+                    // get info
+                    try {
+                        WebsiteMetadata metadata = getWebsiteMetadata(url);
+                        website.setTitle(metadata.getTitle());
+                        website.setDescription(metadata.getDescription());
+                        website.setFavicon(metadata.getFavicon());
+                        website.setStatus(metadata.getStatus());
 
+                    } catch (Exception e) {
+                        System.out.println("Error processing website: " + url);
+                        System.out.println("Error: " + e.getMessage());
+                        System.out.println("-------------------");
+                    }
+                    List<String> featureStrings = website.getFeatureStrings();
+                    List<Feature> features = website.getFeatures() == null ? new ArrayList<>() : website.getFeatures();
+                    for (String featureString : featureStrings) {
+                        if (StrUtil.isNotEmpty(featureString)) {
+                            OtherFeature otherFeature = OtherFeature.getByName(featureString);
+                            if (otherFeature != null) {
+                                features.add(otherFeature);
+                            }
+                            Login login = Login.getByName(featureString);
+                            if (login != null) {
+                                features.add(login);
+                            }
+                        }
+                    }
+                    // calculate score
+                    double score = 0.0;
+                    for (Feature feature : features) {
+                        score += feature.getScore();
+                        website.getFeatureBadges().add(feature.getBadge());
+                    }
+                    // model
+                    if (website.getModels() != null) {
+                        for (Model model : website.getModels()) {
+                            if (model.getPro()) {
+                                model.setScore(Score.PRO_MODEL.getScore());
+                            } else {
+                                model.setScore(Score.NORMAL_MODEL.getScore());
+                            }
+                            score += model.getScore();
+                            // badge
+                            website.getModelBadges().add(model.getBadge());
+                        }
+                    }
+                    // uptime
+                    if (website.getAddedDate() != null) {
+                        // 计算从添加日期到现在的天数
+                        try {
+                            java.time.LocalDate addedDate = java.time.LocalDate.parse(website.getAddedDate());
+                            java.time.LocalDate now = java.time.LocalDate.now();
+                            long daysSurvived = java.time.temporal.ChronoUnit.DAYS.between(addedDate, now);
+                            // 每天存活时间 +0.1
+                            score += daysSurvived * Score.DAYS_SURVIVED.getScore();
+                            // badge
+                            OtherFeature.UPTIME.setMessage(OtherFeature.UPTIME.getMessage().replace("{daysSurvived}", String.valueOf(daysSurvived)));
+                            OtherFeature.UPTIME.setMessageCN(OtherFeature.UPTIME.getMessageCN().replace("{daysSurvived}", String.valueOf(daysSurvived)));
+                            website.getFeatureBadges().add(OtherFeature.UPTIME.getBadge());
+                        } catch (Exception e) {
+                            // 日期解析错误，忽略这部分分数
+                            System.out.println("Error parsing date: " + website.getAddedDate() + " for website: " + website.getUrl());
+                        }
+                    }
+                    website.setScore(score);
+                    result.add(website);
+                }
+        );
+        // 根据分数倒序
+        result.sort((o1, o2) -> {
+            if (o1.getScore() == null && o2.getScore() == null) {
+                return 0;
+            } else if (o1.getScore() == null) {
+                return 1;
+            } else if (o2.getScore() == null) {
+                return -1;
+            } else {
+                return Double.compare(o2.getScore(), o1.getScore());
+            }
+        });
+        // set id
+        int id = 1;
+        for (Website website : result) {
+            website.setId(id++);
+        }
+        System.out.println(result);
+        String normalWebsitesJSONString = JSON.toJSONString(result, SerializerFeature.WriteMapNullValue, SerializerFeature.PrettyFormat, SerializerFeature.SortField);
+        File normalWebsitesJSON = new File(String.join(File.separator, basePath, "data", "v2", "websites.json"));
+        FileUtil.writeString(normalWebsitesJSONString, normalWebsitesJSON, StandardCharsets.UTF_8);
     }
 
     public void updateReadme() throws IOException, TemplateException {
@@ -81,33 +174,27 @@ public class Build {
         cfg.setTemplateLoader(templateLoader);
         cfg.setDefaultEncoding("UTF-8");
 
+
+
     }
 
     /**
      * Wrap sentence
      *
      * @param text
-     * @param language en|zh
      * @return
      */
-    public static String wrapSentence(String text, String language) {
+    public static String wrapSentence(String text) {
         if (StrUtil.isBlank(text)) {
             return null;
         }
-        String template = null;
-        if (language.equals("en")) {
-            template = "<details>\n" +
-                    "<summary>Content is too long, click to expand.</summary>\n" +
-                    "{text}\n" +
-                    "</details>";
-        } else {
-            template = "<details>\n" +
-                    "<summary>内容过长，点击展开</summary>\n" +
-                    "{text}\n" +
-                    "</details>";
-        }
+        String template;
+        template = "<details>\n" +
+                "<summary>{summary}</summary>\n" +
+                "{text}\n" +
+                "</details>";
         if (text.length() > 30) {
-            return template.replace("{text}", text);
+            return template.replace("{summary}", text.substring(0, 30) + "...").replace("{text}", text);
         } else {
             return text;
         }

@@ -1,11 +1,14 @@
 package com.lilittlecat.freechatgpt.feature;
 
-import com.lilittlecat.freechatgpt.Badge;
-import com.lilittlecat.freechatgpt.BadgeLogoBase64;
+import com.lilittlecat.freechatgpt.Score;
+import com.lilittlecat.freechatgpt.badge.Badge;
+import com.lilittlecat.freechatgpt.badge.BadgeLogoBase64;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 import lombok.experimental.Accessors;
+
+import java.util.Map;
 
 /**
  * OtherFeature
@@ -16,7 +19,7 @@ import lombok.experimental.Accessors;
 @Accessors(chain = true)
 public class OtherFeature implements Feature {
 
-    public static final OtherFeature SPONSORS = new OtherFeature()
+    public static OtherFeature SPONSORS = new OtherFeature()
             .setLabel("Sponsors")
             .setLabelCN("赞助商")
             .setMessage(null)
@@ -24,8 +27,8 @@ public class OtherFeature implements Feature {
             .setLogo(Badge.LOGO_GITHUB_SPONSORS)
             .setLogoColor(Badge.COLOR_WHITE)
             .setColor(Badge.COLOR_PINK)
-            .setScore(10.0);
-    public static final OtherFeature WEB_ACCESS = new OtherFeature()
+            .setScore(Score.SPONSORS.getScore());
+    public static OtherFeature WEB_ACCESS = new OtherFeature()
             .setLabel("Web Access")
             .setLabelCN("联网")
             .setMessage("Supported")
@@ -33,20 +36,19 @@ public class OtherFeature implements Feature {
             .setLogo(BadgeLogoBase64.WEB_ACCESS)
             .setLogoColor(Badge.COLOR_WHITE)
             .setLabelColor(Badge.COLOR_BLACK)
-            .setScore(10.0);
+            .setScore(Score.WEB_ACCESS.getScore());
 
-    public static final OtherFeature UPTIME = new OtherFeature()
+    public static OtherFeature UPTIME = new OtherFeature()
             .setLabel("Uptime")
             .setLabelCN("添加后存活时间")
-            .setMessage("x days since added")
-            .setMessageCN("x 天")
+            .setMessage("{daysSurvived} days since added")
+            .setMessageCN("{daysSurvived} 天")
             .setLogo(BadgeLogoBase64.UPTIME)
             .setLogoColor(Badge.COLOR_WHITE)
             .setLabelColor(Badge.COLOR_BLACK)
-            .setScore(0.0);
+            .setScore(null);
 
-    // 支持绘图
-    public static final OtherFeature DRAWING = new OtherFeature()
+    public static OtherFeature DRAWING = new OtherFeature()
             .setLabel("Drawing")
             .setLabelCN("绘图")
             .setMessage("Supported")
@@ -54,7 +56,22 @@ public class OtherFeature implements Feature {
             .setLogo(BadgeLogoBase64.DRAWING)
             .setLogoColor(Badge.COLOR_WHITE)
             .setLabelColor(Badge.COLOR_BLACK)
-            .setScore(10.0);
+            .setScore(Score.DRAWING.getScore());
+
+    public static Map<String, OtherFeature> MAP;
+
+    static {
+        java.util.HashMap<String, OtherFeature> map = new java.util.HashMap<>();
+        map.put("SPONSORS", SPONSORS);
+        map.put("WEB_ACCESS", WEB_ACCESS);
+        map.put("UPTIME", UPTIME);
+        map.put("DRAWING", DRAWING);
+        MAP = java.util.Collections.unmodifiableMap(map);
+    }
+
+    public static OtherFeature getByName(String name) {
+        return MAP.get(name);
+    }
 
     private String label;
     private String labelCN;
@@ -89,7 +106,7 @@ public class OtherFeature implements Feature {
     }
 
     @Override
-    public Double getTotalScore() {
+    public Double getScore() {
         return score;
     }
 }

@@ -1,5 +1,6 @@
-package com.lilittlecat.freechatgpt;
+package com.lilittlecat.freechatgpt.website;
 
+import com.lilittlecat.freechatgpt.badge.Badge;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
@@ -35,4 +36,16 @@ public class WebsiteMetadata {
     // Additional meta information
     private String favicon;
     private Badge status;
+
+    public String getTitle() {
+        return title != null ? title :
+               ogTitle != null ? ogTitle :
+               twitterTitle != null ? twitterTitle : "";
+    }
+
+    public String getDescription() {
+        return description != null ? description : 
+               ogDescription != null ? ogDescription : 
+               twitterDescription != null ? twitterDescription : "";
+    }
 } 

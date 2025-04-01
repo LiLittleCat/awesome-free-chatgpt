@@ -1,4 +1,4 @@
-package com.lilittlecat.freechatgpt;
+package com.lilittlecat.freechatgpt.badge;
 
 /**
  * BadgeLogoBase64 class representing a base64 encoded logo for a badge

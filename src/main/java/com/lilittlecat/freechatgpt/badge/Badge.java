@@ -1,4 +1,4 @@
-package com.lilittlecat.freechatgpt;
+package com.lilittlecat.freechatgpt.badge;
 
 import lombok.Getter;
 import lombok.Setter;

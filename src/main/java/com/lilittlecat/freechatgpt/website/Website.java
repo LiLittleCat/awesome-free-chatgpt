@@ -1,10 +1,12 @@
-package com.lilittlecat.freechatgpt;
+package com.lilittlecat.freechatgpt.website;
 
+import com.lilittlecat.freechatgpt.badge.Badge;
 import com.lilittlecat.freechatgpt.feature.Feature;
 import com.lilittlecat.freechatgpt.feature.Model;
 
 import lombok.Data;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -33,10 +35,12 @@ public class Website {
      * Language of the website
      */
     private String lang;
+    private String favicon;
     /**
      * List of features available on the website
      */
     private List<Feature> features;
+    private List<String> featureStrings;
     /**
      * List of models associated with the website
      */
@@ -44,7 +48,8 @@ public class Website {
     /**
      * List of badges awarded to the website
      */
-    private List<Badge> badges;
+    private List<Badge> featureBadges = new ArrayList<>();
+    private List<Badge> modelBadges = new ArrayList<>();
     /**
      * Score of the website
      */
@@ -89,6 +94,7 @@ public class Website {
      * 0: normal 1: abnormal
      */
     private Badge status;
+    private Badge newAdded;
     /**
      * Additional information about the website
      */

@@ -1,39 +1,37 @@
 {
   "project": "awesome-free-chatgpt",
   "features": [
+    "SPONSORS",
+    "WEB_ACCESS",
+    "DRAWING",
+    "LOGIN_NOT_REQUIRED",
+    "LOGIN_REQUIRED",
+    "LOGIN_OPTIONAL"
   ],
   "websites": [
     {
-      "url": "https://freechatgpt.chat/",
-      "features": [
+      "url": "https://github.com",
+      "featureStrings": [
         "SPONSORS",
-        "FREE",
-        "GPT4_SUPPORTED",
-        "MORE_THAN_CHAT"
+        "WEB_ACCESS",
+        "DRAWING",
+        "LOGIN_NOT_REQUIRED"
+      ],
+      "models": [
+        {
+          "provider": "OpenAI",
+          "name": "GPT-4o",
+          "nameCN": "GPT-4o",
+          "price": "Free",
+          "pro": true,
+          "logo": "openai",
+          "logoColor": "000000",
+          "labelColor": "FFFFFF"
+        }
       ],
       "addedDate": "2024-12-21",
       "customDescription": "完全免费无登录，不限量支持 GPT-4o，DeepSeek V3，支持联网问答，上传图片，深度思考。[Unlimited Free ChatGPT](https://heck.ai)",
-      "customDescriptionEnglish": null,
-      "description": null,
-      "extraInfo": null,
-      "features": [
-        "SPONSORS",
-        "FREE",
-        "GPT4_SUPPORTED",
-        "MORE_THAN_CHAT"
-      ],
-      "id": 1,
-      "labels": null,
-      "lang": null,
-      "previewUrl": null,
-      "reportedInvalidDate": null,
-      "reportedInvalidReason": null,
-      "score": 13.5,
-      "sourceInfo": null,
-      "status": null,
-      "title": null,
-      "updatedDate": null,
-      "url": "https://heck.ai"
+      "customDescriptionEnglish": null
     }
   ]
 }
