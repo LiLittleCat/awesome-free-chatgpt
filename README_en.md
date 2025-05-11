@@ -1625,6 +1625,8 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [Cursor | Build Fast](https://www.cursor.so/) - The AI-first code editor. Build software faster in an editor designed for pair-programming with AI
 - [Bito AI - Become a 10X Dev with Bito AI - Bito](https://bito.ai/)
 - [Meaningful Code Tests for Busy Devs | CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push.
+- [Keploy - Opensource, Low code, testing platform](https://keploy.io/) -  Keploy creates backend API tests with built-in mocks or stubs by recording your application's network calls, making your testing process faster and more efficient, without writing any code.
+- [Vertical AI, built just for testing | KeployAI](https://keploy.io/) - Keploy provides an AI-powered Unit Testing Agent that generates stable, useful unit tests directly in your GitHub PRs and in your VSCode, covering what matters.
 
 ---
 
