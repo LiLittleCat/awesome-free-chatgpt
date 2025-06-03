@@ -1565,6 +1565,32 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td>2023-03-22</td>
             <td></td>
         </tr>
+        <tr>
+            <td>131</td>
+            <td> <a href="https://yagc.tahriver.online/" target="_blank">https://yagc.tahriver.online/</a>
+                <br> </td>
+            <td>
+                        🔒
+                        💰
+                        💪
+                        🧰
+            </td>
+            <td>2024-12-20</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>132</td>
+            <td> <a href="https://ftac.vercel.app/" target="_blank">https://ftac.vercel.app/</a>
+                <br> </td>
+            <td>
+                        🔒
+                        💰
+                        💪
+                        🧰
+            </td>
+            <td>2024-12-20</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 <!-- normal-end -->
