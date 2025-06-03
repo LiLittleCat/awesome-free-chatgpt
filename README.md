@@ -21,7 +21,6 @@
 |                                                                                        🏆 赞助商 🏆                                                                                         |
   |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                  👉 [RawChat 公益站点](https://chatgptplus.cn) RawChat 公益站点，免费 GPT4，免费 Claude3.5，无需登录，打开即用。                                                  |
-| 👉 [LemonChat 综合镜像站](https://chat.lemonchat.xyz/)  LemonChat 综合镜像站 支持 ChatGPT, Claude, DeepSeek, Grok 等当下最新模型, （GPT 4 免费，GPT 4o mini 免费、GPT 4o 免费）。无需登录，打开即用。客服群 523135583。 |
 |     👉 [heck.ai](https://heck.ai) 是完全免费的 ChatGPT AI 搜索。支持 Claude 3.7 Sonnet & GPT 4.5，支持不限量免费 GPT-4o，DeepSeek v3。支持联网问答，上传图片，深度思考。不需要登陆。点击 [heck.ai](https://heck.ai) 立刻尝试 [Ulimited Free ChatGPT](https://heck.ai) 。    |
 
 ---
