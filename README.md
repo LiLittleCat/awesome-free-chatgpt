@@ -87,7 +87,7 @@
         </tr>
         <tr>
             <td>2</td>
-            <td> <a href="https://freegpt.tech" target="_blank">https://freegpt.tech</a>
+            <td> <a href="https://freegpt.es" target="_blank">https://freegpt.es</a>
                 <br> </td>
             <td>
                         🏆
