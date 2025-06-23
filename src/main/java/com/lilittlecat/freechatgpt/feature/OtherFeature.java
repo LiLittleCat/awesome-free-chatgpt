@@ -42,7 +42,7 @@ public class OtherFeature implements Feature {
             .setLabel("Uptime")
             .setLabelCN("添加后存活时间")
             .setMessage("{daysSurvived} days since added")
-            .setMessageCN("{daysSurvived} 天")
+            .setMessageCN("已添加 {daysSurvived} 天")
             .setLogo(BadgeLogoBase64.UPTIME)
             .setLogoColor(Badge.COLOR_WHITE)
             .setLabelColor(Badge.COLOR_BLACK)

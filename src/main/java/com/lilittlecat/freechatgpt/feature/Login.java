@@ -7,6 +7,8 @@ import lombok.Setter;
 import lombok.ToString;
 import lombok.experimental.Accessors;
 
+import java.util.Collections;
+import java.util.HashMap;
 import java.util.Map;
 
 /**
@@ -36,11 +38,11 @@ public class Login implements Feature {
     public static Map<String, Login> MAP;
 
     static {
-        java.util.HashMap<String, Login> map = new java.util.HashMap<>();
+        HashMap<String, Login> map = new HashMap<>();
         map.put("LOGIN_NOT_REQUIRED", LOGIN_NOT_REQUIRED);
         map.put("LOGIN_REQUIRED", LOGIN_REQUIRED);
         map.put("LOGIN_OPTIONAL", LOGIN_OPTIONAL);
-        MAP = java.util.Collections.unmodifiableMap(map);
+        MAP = Collections.unmodifiableMap(map);
     }
 
     public static Login getByName(String name) {
