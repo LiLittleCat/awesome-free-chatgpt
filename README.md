@@ -3487,6 +3487,19 @@ gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemin
             <td>2023-09-23</td>
             <td></td>
         </tr>
+      <tr>
+            <td>313</td>
+            <td> <a href="https://aichatstudio.codestorez.com/" target="_blank">https://aichatstudio.codestorez.com/</a>
+                <br> </td>
+            <td>
+                        🔒
+                        💰
+                        💪
+                        🧰
+            </td>
+            <td>2026-01-02</td>
+            <td>Experience AI Chat Studio v2.0, the blessed app where you chat with AI, level up like a game, and earn halal income with barakah. Use the smartest AI brains like Gemini and ChatGPT to grow your digital halal wallet through ad rewards and referrals.  Join the squad, track your earnings securely, and turn your daily conversations into a successful, faith-based business. </td>
+        </tr>
     </tbody>
 </table>
 <!-- normal-end -->
