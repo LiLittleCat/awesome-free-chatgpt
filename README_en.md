@@ -1565,6 +1565,19 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
             <td>2023-03-22</td>
             <td></td>
         </tr>
+     <tr>
+            <td>133</td>
+            <td> <a href="https://aichatstudio.codestorez.com/" target="_blank">https://aichatstudio.codestorez.com/</a>
+                <br> </td>
+            <td>
+                        🔒
+                        💰
+                        💪
+                        🧰
+            </td>
+            <td>2026-01-02</td>
+            <td>Experience AI Chat Studio v2.0, the blessed app where you chat with AI, level up like a game, and earn halal income with barakah. Use the smartest AI brains like Gemini and ChatGPT to grow your digital halal wallet through ad rewards and referrals.  Join the squad, track your earnings securely, and turn your daily conversations into a successful, faith-based business. </td>
+        </tr>
     </tbody>
 </table>
 <!-- normal-end -->
