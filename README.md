@@ -4506,7 +4506,8 @@ gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemin
 - [Cursor | Build Fast](https://www.cursor.so/) - The AI-first code editor. Build software faster in an editor designed for pair-programming with AI
 - [Bito AI - Become a 10X Dev with Bito AI - Bito](https://bito.ai/)
 - [Meaningful Code Tests for Busy Devs | CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push.
-
+- [OpenRelay](https://github.com/romgX/openrelay) - 本地 AI 代理，自动提取 Claude Desktop、Windsurf、Kiro
+等 IDE 的认证信息，统一暴露为 OpenAI/Anthropic 兼容接口，支持 29 个 Provider。
 ---
 
 ### 🌟 Star History
