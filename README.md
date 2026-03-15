@@ -4472,6 +4472,7 @@ gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemin
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - ChatGPT Plus 功能（数据分析，插件，上网）开源复刻项目。
 - [智谱清言](https://www.chatglm.cn/) - 智谱 AI 和清华大学 KEG 实验室联合发布的新一代对话预训练模型，基于 ChatGLM2 模型开发，支持多轮对话，具备内容创作、信息归纳总结等能力。
 - [深度求索](https://www.deepseek.com/) - 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。和 DeepSeek AI 对话，轻松接入 API。
+- [MiniMax 海螺AI](https://hailuoai.com/) - MiniMax 推出的免费 AI 助手，基于自研大语言模型，支持多轮对话、文本创作、代码编写等，具备超长上下文能力。
 
 ## 📚 更多...
 
