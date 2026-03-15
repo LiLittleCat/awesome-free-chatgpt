@@ -1590,6 +1590,7 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing.
 - [ChatGLM](https://www.chatglm.cn/) - A new generation of pre-trained dialogue models jointly released by Zhipu AI and Tsinghua KEG.
 - [DeepSeek](https://www.deepseek.com/en) - DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.
+- [MiniMax Hailuo AI](https://hailuoai.com/) - A free AI assistant by MiniMax, powered by their proprietary large language model, supporting multi-turn conversations, content creation, code writing, with ultra-long context capability.
 
 ## 📚 More...
 
