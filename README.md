@@ -12,6 +12,7 @@
 
 - [添加镜像站点](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?assignees=LiLittleCat&labels=&projects=&template=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9.md&title=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9)
 - [反馈站点失效](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?assignees=LiLittleCat&labels=&projects=&template=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88.md&title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for ChatGPT workflow orchestration, automated prompt management, and multi-agent coordination. MIT licensed.
 - 更多(todo)
 
 如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力。
