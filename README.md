@@ -25,6 +25,7 @@
 
 ---
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=LiLittleCat_awesome-free-chatgpt) - Follow GitHub developers, see their activity feed, and discover trending repos in your stack.
 ## 目录
 <!-- TOC -->
 * [Awesome Free ChatGPT](#awesome-free-chatgpt)
