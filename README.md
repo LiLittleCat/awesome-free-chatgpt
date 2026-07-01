@@ -4489,6 +4489,7 @@ gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemin
 ### 💡 提示词（Prompt）
 
 - [GPT 最佳实践 - OpenAI API](https://platform.openai.com/docs/guides/gpt-best-practices)
+- [AI Token Hub](https://aitoken-hub.github.io/aitoken-hub/) - Access 200+ AI models through a single API key, including DeepSeek, Qwen, Llama. OpenAI-compatible format with pay-as-you-go pricing.
 - [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - https://github.com/datawhalechina/prompt-engineering-for-developers - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版
 - https://github.com/f/awesome-chatgpt-prompts - The repo includes ChatGPT prompt curation to use ChatGPT better.
