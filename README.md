@@ -3487,6 +3487,17 @@ gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemin
             <td>2023-09-23</td>
             <td></td>
         </tr>
+        <tr>
+            <td>313</td>
+            <td> <a href="https://zalt.me/tools/free-ai-chat-online" target="_blank">https://zalt.me/tools/free-ai-chat-online</a>
+                <br> </td>
+            <td>
+                        🆓
+                        🧰
+            </td>
+            <td>2026-07-12</td>
+            <td>完全免费，无需登录，在浏览器本地运行开源大模型（Llama 3、Qwen、Phi 等），对话数据不离开设备。</td>
+        </tr>
     </tbody>
 </table>
 <!-- normal-end -->
