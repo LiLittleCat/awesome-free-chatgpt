@@ -4472,6 +4472,7 @@ gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemin
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - ChatGPT Plus 功能（数据分析，插件，上网）开源复刻项目。
 - [智谱清言](https://www.chatglm.cn/) - 智谱 AI 和清华大学 KEG 实验室联合发布的新一代对话预训练模型，基于 ChatGLM2 模型开发，支持多轮对话，具备内容创作、信息归纳总结等能力。
 - [深度求索](https://www.deepseek.com/) - 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。和 DeepSeek AI 对话，轻松接入 API。
+- [Gracestack Chat — 免费 Qwen3-32B](https://tools.gracestack.se/chat.html) - 免费 ChatGPT 替代方案，运行 Qwen3-32B 于 A100 GPU。无需登录，每天 10 条免费消息。还提供免费 OCR 解析器和 AI 时尚设计工具。
 
 ## 📚 更多...
 
