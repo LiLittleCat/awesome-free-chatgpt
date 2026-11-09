@@ -4504,6 +4504,7 @@ gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemin
 
 - 👍 [Codeium · Free AI Code Completion & Chat](https://codeium.com/) - Codeium offers best in class AI code completion & search — all for free. It supports over 70+ languages and integrates with your favorite IDEs, with lightning fast speeds and state-of-the-art suggestion quality.
 - [Cursor | Build Fast](https://www.cursor.so/) - The AI-first code editor. Build software faster in an editor designed for pair-programming with AI
+- [Exody | Autonomous Coding & Design Agent for Mac](https://www.exody.ai/) - Local-first autonomous AI coding agent, canvas-first Design Studio, and per-task BYOK multi-model router (Claude, GPT, Gemini, Grok, Ollama) for macOS at zero markup.
 - [Bito AI - Become a 10X Dev with Bito AI - Bito](https://bito.ai/)
 - [Meaningful Code Tests for Busy Devs | CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push.
 
